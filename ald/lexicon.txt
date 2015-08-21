@@ -8633,7 +8633,7 @@ tide	ta:Id
 tidy	`ta:Idi:
 tie	ta:I
 tier	`tI@
-tiger snake	`ta:Ig@ snEIk
+tiger	`ta:Ig@
 tight	ta:It
 tights	ta:Its
 tile	ta:Il
