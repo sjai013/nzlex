@@ -45,48 +45,64 @@ unique_words = list(set(ald.keys()) ^ set(alveo.keys()))
 # Modified SAMPA --> SAMPA rules)
 common_words = list(set(ald.keys()) & set(alveo.keys()))
 
+unique_alveo = list(set(alveo.keys()) - set(common_words))
+
+
+
 #####################################################################
 ########### (2) Find words with differing pronunciations ############
 #####################################################################
 
 # Perform replace in the ALD dictionary so they match the SAMPA phones in the MAUS dictionary
-replacePhone(ald,"a:","6:")
-replacePhone(ald,"A","{")
-replacePhone(ald,"EI","{I")
-replacePhone(ald,"V","6")
-replacePhone(ald,"r","r\\")
-replacePhone(ald,"u:","}:")
-replacePhone(ald,"E","e")
-replacePhone(ald,"@U","@}")
-replacePhone(ald,"6:U","{O")
-replacePhone(ald,"6:I","Ae")
-
-#Not sure about these
-#replacePhone(ald,"@:","3:")
-#replacePhone(ald,"3:","o:")
-
-
-replacePhone(ald,"`","")
-replacePhone(ald," ","")
-
-
-replacePhone(alveo,"`","")
+replacePhone(ald, "A", "{")
+replacePhone(ald, "EI", "{I")
+replacePhone(ald, "a:U", "{O")
+replacePhone(ald, "a:I", "Ae")
+replacePhone(ald, "a:", "6:")
+replacePhone(ald, "V", "6")
+replacePhone(ald, "r", "r\\")
+replacePhone(ald, "u:", "}:")
+replacePhone(ald, "E", "e")
+replacePhone(ald, "@U", "@}")
 
 
 
-# Print some random words common to both, so we can compare the symbols
-random.seed()
 
-f = open("common_words.txt", mode="w")
 
-for i in range(1,100):
-    word = random.choice(common_words)
-    f.write(word + '\t' + ald[word] + '\t' + alveo[word]+'\n')
 
-f.close()
+# Print words common to both, but with differing pronunciations, to a file, so we can compare the symbols
 
 f = open("differences.txt", mode="w")
 
 for word in common_words:
-    if (ald[word] != alveo[word]):
+    if ald[word] != alveo[word]:
         f.write(word + '\t' + ald[word] + '\t' + alveo[word] + '\n')
+
+
+# Print final dictionary - merge ALD into MAUS
+
+
+# ALD has two-word entries, so see which of the single words are not in the alveo dictionary
+unique_ald_temp = list(set(ald.keys()) - set(common_words))
+unique_ald = dict()
+for words in unique_ald_temp:
+    split_words = words.split(" ");
+    for i in range(0,len(split_words)):
+        if split_words[i] not in alveo:
+            unique_ald[split_words[i]] = ald[words].split(" ")[i]
+
+
+
+f = open("complete.txt", mode="w")
+all_word_list = sorted(list(alveo.keys() + unique_ald.keys()))
+
+for word in all_word_list:
+    if word in alveo:
+        f.write(word.lower() + '\t' + alveo[word] + "\tMAUS" + '\n')
+    else:
+        f.write(word.lower() + '\t' + unique_ald[word] + "\tALD" + '\n')
+
+
+f.close()
+
+
