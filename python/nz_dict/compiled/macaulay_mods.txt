@@ -1,0 +1,2674 @@
+("acetylcholine"	nil	(((@) 0) ((s ii) 1) ((t l!) 0) ((k o) 1) ((l ii n) 0)))	;;oul
+("acidex"	nil	(((a) 1) ((s i) 0) ((d e k s) 2))) 	;;drug
+("ae"	nil	(((ai) 1) ((ei) 0))) 	;;maori
+("aeolian"	nil	(((ii) 0) ((o) 1) ((l ii @ n) 0)))	;;oul
+("age-old"	nil	((( ei jh) 0) ((o l d) 1)))	;;oul
+("ahi"	nil	(((aa) 1) ((h ii) 0))) 	;;maori
+("ahold"	nil	(((@) 0) ((h o l d) 1)))	;;oul
+("ahuriri"	nil	(((aa) 1) ((h u) 0) ((r i) 0) ((r ii) 2))) 	;;maori
+("ahuru"	nil	(((aa) 1) ((h u) 0) ((r uu) 0))) 	;;maori
+("ahuruhuru"	nil	(((aa) 0) ((h u) 1) ((r uu) 0) ((h u) 0) ((r uu) 0))) 	;;maori
+("airhole"	nil	(((e @) 1) ((h o l) 0)))	;;beer-bear,oul
+("airholes"	nil	(((e @) 1) ((h o l z) 0)))	;;beer-bear,oul
+("aka"	nil	(((aa) 1) ((k @) 0))) 	;;maori
+("akakiore"	nil	(((aa) 0) ((k aa) 0) ((k ii) 1) ((oo) 0) ((r ii) 0))) 	;;maori
+("akakura"	nil	(((aa) 0) ((k @) 0) ((k u) 1) ((r @) 0))) 	;;maori
+("akarana"	nil	(((aa) 1) ((k @) 0) ((r a) 1) ((n @) 0))) 	;;maori
+("akatea"	nil	(((aa) 1) ((k @) 0) ((t e) 2) ((@) 0))) 	;;maori
+("ake"	nil	(((aa) 1) ((k ei) 0))) 	;;maori
+("akeake"	nil	(((aa) 1) ((k ei) 0) ((aa) 0) ((k ei) 0))) 	;;maori
+("akepiro"	nil	(((aa) 0) ((k e) 0) ((p ii) 1) ((r ou) 0))) 	;;maori
+("alendronate"	nil	(((@) 0) ((l e n) 1) ((d r @) 0) ((n ei t) 2))) 	;;drug
+("alveolar"	nil	(((a l) 1) ((v ii) 0) ((o) 1) ((l @) 0)))	;;oul
+("alveolars"	nil	(((a l) 1) ((v ii) 0) ((o) 1) ((l @ z) 0)))	;;oul
+("alveoli"	nil	(((a l) 1) ((v ii) 0) ((o) 1) ((l ai) 0)))	;;oul
+("alveolus"	nil	(((a l) 1) ((v ii) 0) ((o) 1) ((l @ s) 0)))	;;oul
+("ama"	nil	(((aa) 1) ((m @) 0))) 	;;maori
+("amlodipine"	nil	(((a m) 0) ((l o) 1) ((d @) 0) ((p ii n) 2))) 	;;drug
+("amokura"	nil	(((aa) 1) ((m oo) 0) ((k uu) 0) ((r @) 0))) 	;;maori
+("amphibole"	nil	(((a m) 1) ((f i) 0) ((b o l) 0)))	;;oul
+("ana"	nil	(((aa) 1) ((n @) 0))) 	;;maori
+("anatolia"	nil	(((a) 1) ((n @) 0) ((t o) 1) ((l ii @) 0)))	;;oul
+("anatoly"	nil	(((a) 1) ((n @) 0) ((t o) 1) ((l ii) 0)))	;;oul
+("angiangi"	nil	(((uh ng) 1) ((ii) 0) ((uh ng) 0) ((ii) 0))) 	;;maori
+("angola"	nil	(((a ng) 0) ((g o) 1) ((l @) 0)))	;;oul
+("angolan"	nil	(((a ng) 0) ((g o) 1) ((l @ n) 0)))	;;oul
+("angolans"	nil	(((a ng) 0) ((g o) 1) ((l @ n z) 0)))	;;oul
+("angolas"	nil	(((a ng) 0) ((g o) 1) ((l @ z) 0)))	;;oul
+("ano"	nil	(((a) 1) ((n ou) 0))) 	;;maori
+("antisolar"	nil	(((a n) 1) ((t ii) 0) ((s o) 1) ((l @) 0)))	;;oul
+("ao"	nil	(((ow) 1))) 	;;maori
+("aotearoa"	nil	(((ow) 0) ((t e @) 2) ((r ou) 1) ((@) 0))) 	;;maori
+("apiha"	nil	(((aa) 1) ((p ii) 0) ((h aa) 0))) 	;;maori
+("apo"	nil	(((a) 1) ((p ou) 0))) 	;;drug
+("araara"	nil	(((aa) 0) ((r aa) 1) ((r @) 0))) 	;;maori
+("archfool"	nil	(((aa ch) 0) ((f u l) 1)))	;;uul
+("aren't"	nil	(((aa n t) 1)))	;;contraction
+("ariki"	nil	(((aa) 1) ((r ii) 0) ((k ii) 0))) 	;;maori
+("armhole"	nil	(((aa m) 1) ((h o l) 0)))	;;oul
+("armholes"	nil	(((aa m) 1) ((h o l z) 0)))	;;oul
+("aroha"	nil	(((aa) 1) ((r ou) 0) ((h aa) 0))) 	;;maori
+("arohanui"	nil	(((aa) 1) ((r ou) 0) ((h a) 0) ((n uu) 1) ((ii) 0))) 	;;maori
+("arsehole"	nil	(((aa s) 1) ((h o l) 0)))	;;oul
+("arseholes"	nil	(((aa s) 1) ((h o l z) 0)))	;;oul
+("arteriole"	nil	(((aa) 0) ((t ir) 1) ((r ii) 0) ((o l) 0)))	;;oul
+("aruhe"	nil	(((aa) 1) ((r uu) 0) ((h ei) 0))) 	;;maori
+("asacol"	nil	(((a) 1) ((s @) 0) ((k o l) 2))) 	;;drug
+("ashmolean"	nil	(((a sh) 0) ((m o) 1) ((l ii @ n) 0)))	;;oul
+("asshole"	nil	(((aa s) 1) ((h o l) 0)))	;;oul
+("assholes"	nil	(((aa s) 1) ((h o l z) 0)))	;;oul
+("ataata"	nil	(((aa) 0) ((t aa) 1) ((t^ @) 0))) 	;;maori
+("atacand"	nil	(((a) 1) ((t^ @) 0) ((k a n d) 2))) 	;;drug
+("atea"	nil	(((aa) 1) ((t e) 0) ((@) 0))) 	;;maori
+("atua"	nil	(((aa) 1) ((t uu) 0) ((@) 0))) 	;;maori
+("aua"	nil	(((ow) 1) ((@) 0))) 	;;maori
+("audiotool"	nil	(((oo) 1) ((d ii) 0) ((ou) 0) ((t u l) 1)))	;;uul
+("audiotools"	nil	(((oo) 1) ((d ii) 0) ((ou) 0) ((t u l z) 1)))	;;uul
+("aue"	nil	(((ow) 0) ((ei) 1))) 	;;maori
+("aukati"	nil	(((ow) 1) ((k aa) 0) ((t ii) 0))) 	;;maori
+("aureole"	nil	(((oo) 1) ((r ii) 0) ((o l) 0)))	;;oul
+("aute"	nil	(((ow) 1) ((t ei) 0))) 	;;maori
+("autoload"	nil	(((oo) 1) ((t^ o) 0) ((l ou d) 1)))	;;oul
+("autoloaded"	nil	(((oo) 1) ((t^ o) 0) ((l ou d) 1) ((@ d) 0)))	;;oul
+("autoloader"	nil	(((oo) 1) ((t^ o) 0) ((l ou d) 1) ((@) 0)))	;;oul
+("autoloaders"	nil	(((oo) 1) ((t^ o) 0) ((l ou d) 1) ((@ z) 0)))	;;oul
+("autoloading"	nil	(((oo) 1) ((t^ o) 0) ((l ou d) 1) ((i ng) 0)))	;;oul
+("autoloadings"	nil	(((oo) 1) ((t^ o) 0) ((l ou d) 1) ((i ng z) 0)))	;;oul
+("autoloads"	nil	(((oo) 1) ((t^ o) 0) ((l ou d z) 1)))	;;oul
+("awa"	nil	(((aa) 1) ((w @) 0))) 	;;maori
+("awakairangi"	nil	(((aa) 0) ((w aa) 0) ((k ai) 0) ((r uh ng) 0) ((ii) 0))) 	;;maori
+("awhato"	nil	(((@) 0) ((f aa) 1) ((t ou) 0))) 	;;maori
+("awhi"	nil	(((aa) 1) ((f ii) 0))) 	;;maori
+("awhina"	nil	(((aa) 1) ((f ii) 0) ((n @) 0))) 	;;maori
+("azathiprine"	nil	(((@) 0) ((z a) 1) ((th @) 0) ((p r ii n) 2))) 	;;drug
+("bagholders"	nil	(((b a g) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("bankroll"	nil	(((b a ng k) 1) ((r o l) 0)))	;;oul
+("bankrolled"	nil	(((b a ng k) 1) ((r o l d) 0)))	;;oul
+("bankrolling"	nil	(((b a ng k) 1) ((r o l) 1) ((i ng) 0)))	;;oul
+("bankrolls"	nil	(((b a ng k) 1) ((r o l z) 0)))	;;oul
+("bargepole"	nil	(((b aa jh) 1) ((p o l) 0)))	;;oul
+("bargepoles"	nil	(((b aa jh) 1) ((p o l z) 0)))	;;oul
+("beanpole"	nil	(((b ii n) 1) ((p o l) 0)))	;;oul
+("beanpoles"	nil	(((b ii n) 1) ((p o l z) 0)))	;;oul
+("behold"	nil	(((b i) 0) ((h o l d) 1)))	;;oul
+("beholden"	nil	(((b i) 0) ((h o l d) 1) ((n!) 0)))	;;oul
+("beholder"	nil	(((b i) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("beholders"	nil	(((b i) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("beholding"	nil	(((b i) 0) ((h o l d) 1) ((i ng) 0)))	;;oul
+("beholds"	nil	(((b i) 0) ((h o l d z) 1)))	;;oul
+("bendrofluazide"	nil	(((b e n) 2) ((d r @) 0) ((f l uu) 1) ((r @) 0) ((z ai d) 2))) 	;;drug
+("besylate"	nil	(((b e) 1) ((s i) 0) ((l ei t) 2))) 	;;drug
+("betaloc"	nil	(((b e) 1) ((t^ @) 0) ((l o k) 2))) 	;;drug
+("billfold"	nil	(((b i l) 1) ((f o l d) 0)))	;;oul
+("billfolds"	nil	(((b i l) 1) ((f o l d z) 0)))	;;oul
+("biofuels"	nil	(((b ai) 1) ((ou) 0) ((f y u l z) 1)))	;;uul
+("bioluminescence"	nil	(((b ai) 1) ((o) 0) ((l uu) 1) ((m @) 0) ((n e s) 1) ((n! s) 0)))	;;oul
+("bipolar"	nil	(((b ai) 0) ((p o l) 1) ((@) 0)))	;;oul
+("bipolarism"	nil	(((b ai) 0) ((p o l) 1) ((@ r) 0) ((i) 1) ((z m!) 0)))	;;oul
+("bipolarity"	nil	(((b ai) 1) ((p o l) 0) ((a r) 1) ((@) 0) ((t^ ii) 0)))	;;oul
+("bipolarize"	nil	(((b ai) 0) ((p o l) 1) ((@ r) 0) ((ai z) 0)))	;;oul
+("bipolarized"	nil	(((b ai) 0) ((p o l) 1) ((@ r) 0) ((ai z d) 0)))	;;oul
+("bipolarizes"	nil	(((b ai) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("birth-control"	nil	(((b @@r th) 1) ((k @ n) 0) ((t r o l) 1)))	;;oul
+("birth-controls"	nil	(((b @@r th) 1) ((k @ n) 0) ((t r o l z) 1)))	;;oul
+("blackpool"	nil	(((b l a k) 1) ((p u l) 0)))	;;uul
+("blackpools"	nil	(((b l a k) 1) ((p u l z) 0)))	;;uul
+("blindfold"	nil	(((b l ai n d) 1) ((f o l d) 0)))	;;oul
+("blindfolded"	nil	(((b l ai n d) 1) ((f o l d) 1) ((@ d) 0)))	;;oul
+("blindfolding"	nil	(((b l ai n d) 1) ((f o l d) 1) ((i ng) 0)))	;;oul
+("blindfolds"	nil	(((b l ai n d) 1) ((f o l d z) 0)))	;;oul
+("blowhole"	nil	(((b l ou) 1) ((h o l) 0)))	;;oul
+("blowholes"	nil	(((b l ou) 1) ((h o l z) 0)))	;;oul
+("boarding-school"	nil	(((b oo d) 1) ((i ng) 0) ((s k u l) 1)))	;;uul
+("boarding-schools"	nil	(((b oo d) 1) ((i ng) 0) ((s k u l z) 1)))	;;uul
+("bolan"	nil	(((b o) 1) ((l @ n) 0)))	;;oul
+("boland"	nil	(((b o) 1) ((l @ n d) 0)))	;;oul
+("bold"	nil	(((b o l d) 1)))	;;oul
+("bold-faced"	nil	(((b o l d) 1) ((f ei s t) 0)))	;;oul
+("bolder"	nil	(((b o l d) 1) ((@) 0)))	;;oul
+("boldest"	nil	(((b o l d) 1) ((@ s t) 0)))	;;oul
+("boldface"	nil	(((b o l d) 1) ((f ei s) 0)))	;;oul
+("boldfaced"	nil	(((b o l d) 1) ((f ei s t) 0)))	;;oul
+("boldfaces"	nil	(((b o l d) 1) ((f ei s) 1) ((@ z) 0)))	;;oul
+("boldly"	nil	(((b o l d) 1) ((l ii) 0)))	;;oul
+("boldness"	nil	(((b o l d) 1) ((n @ s) 0)))	;;oul
+("bole"	nil	(((b o l) 1)))	;;oul
+("boll"	nil	(((b o l) 1)))	;;oul
+("bolling"	nil	(((b o l) 1) ((i ng) 0)))	;;oul
+("bolo"	nil	(((b o) 1) ((l ou) 0)))	;;oul
+("bolometer"	nil	(((b o) 0) ((l o) 1) ((m @) 0) ((t^ @) 0)))	;;oul
+("bolster"	nil	(((b o l) 1) ((s t @) 0)))	;;oul
+("bolstered"	nil	(((b o l) 1) ((s t @ d) 0)))	;;oul
+("bolsterer"	nil	(((b o l) 1) ((s t @ r) 0) ((@) 0)))	;;oul
+("bolsterers"	nil	(((b o l) 1) ((s t @ r) 0) ((@ z) 0)))	;;oul
+("bolstering"	nil	(((b o l) 1) ((s t @ r) 0) ((i ng) 0)))	;;oul
+("bolsters"	nil	(((b o l) 1) ((s t @ z) 0)))	;;oul
+("bolt"	nil	(((b o l t) 1)))	;;oul
+("boltcutter"	nil	(((b o l t) 1) ((k uh t^) 1) ((@) 0)))	;;oul
+("boltcutters"	nil	(((b o l t) 1) ((k uh t^) 1) ((@ z) 0)))	;;oul
+("bolted"	nil	(((b o l t) 1) ((@ d) 0)))	;;oul
+("bolter"	nil	(((b o l t) 1) ((@) 0)))	;;oul
+("bolters"	nil	(((b o l t) 1) ((@ z) 0)))	;;oul
+("bolthead"	nil	(((b o l t) 1) ((h e d) 0)))	;;oul
+("boltheads"	nil	(((b o l t) 1) ((h e d z) 0)))	;;oul
+("bolthole"	nil	(((b o l t) 1) ((h o l) 0)))	;;oul
+("boltholes"	nil	(((b o l t) 1) ((h o l z) 0)))	;;oul
+("bolting"	nil	(((b o l t) 1) ((i ng) 0)))	;;oul
+("bolton"	nil	(((b o l) 1) ((t n!) 0)))	;;oul
+("boltongate"	nil	(((b o l) 1) ((t n!) 0) ((g ei t) 1)))	;;oul
+("bolts"	nil	(((b o l t s) 1)))	;;oul
+("bondholder"	nil	(((b o n d) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("bondholders"	nil	(((b o n d) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("boolean"	nil	(((b @) 1) ((l ii @ n) 0)))	;;uul
+("borehole"	nil	(((b oo) 1) ((h o l) 0)))	;;oul
+("boreholes"	nil	(((b oo) 1) ((h o l z) 0)))	;;oul
+("boulder"	nil	(((b o l) 1) ((d @) 0)))	;;oul
+("boulders"	nil	(((b o l) 1) ((d @ z) 0)))	;;oul
+("bronchiolar"	nil	(((b r o ng) 1) ((k ii) 0) ((o l) 1) ((@) 0)))	;;oul
+("bronchiole"	nil	(((b r o ng) 1) ((k ii) 0) ((o l) 0)))	;;oul
+("bronchioles"	nil	(((b r o ng) 1) ((k ii) 0) ((o l z) 0)))	;;oul
+("brool"	nil	(((b r u l) 1)))	;;uul
+("brusquely"	nil	(((b r uu s k) 1) ((l ii) 0)))	;;uul
+("budesonide"	nil	(((b y uu) 0) ((d e) 1) ((s @) 0) ((n ai d) 2))) 	;;drug
+("bung-hole"	nil	(((b uh ng) 1) ((h o l) 0)))	;;oul
+("bung-holes"	nil	(((b uh ng) 1) ((h o l z) 0)))	;;oul
+("butthole"	nil	(((b uh t) 1) ((h o l) 0)))	;;oul
+("buttholes"	nil	(((b uh t) 1) ((h o l z) 0)))	;;oul
+("button-hole"	nil	(((b uh) 1) ((t n!) 0) ((h o l) 1)))	;;oul
+("button-holes"	nil	(((b uh) 1) ((t n!) 0) ((h o l z) 1)))	;;oul
+("buttonhole"	nil	(((b uh) 1) ((t n!) 0) ((h o l) 0)))	;;oul
+("buttonholed"	nil	(((b uh) 1) ((t n!) 0) ((h o l d) 0)))	;;oul
+("buttonholes"	nil	(((b uh) 1) ((t n!) 0) ((h o l z) 0)))	;;oul
+("buttonholing"	nil	(((b uh) 1) ((t n!) 0) ((h o l) 1) ((i ng) 0)))	;;oul
+("cajole"	nil	(((k @) 0) ((jh o l) 1)))	;;oul
+("cajoled"	nil	(((k @) 0) ((jh o l d) 1)))	;;oul
+("cajolement"	nil	(((k @) 0) ((jh o l) 1) ((m @ n t) 0)))	;;oul
+("cajolery"	nil	(((k @) 0) ((jh o l) 1) ((@) 0) ((r ii) 0)))	;;oul
+("cajoles"	nil	(((k @) 0) ((jh o l z) 1)))	;;oul
+("cajoling"	nil	(((k @) 0) ((jh o l) 1) ((i ng) 0)))	;;oul
+("calciferol"	nil	(((k a l) 0) ((s i) 1) ((f @) 0) ((r o l) 2))) 	;;drug
+("camisole"	nil	(((k a) 1) ((m i) 0) ((s o l) 0)))	;;oul
+("camisoles"	nil	(((k a) 1) ((m i) 0) ((s o l z) 0)))	;;oul
+("can't"	nil	(((k aa n t) 1))) 	;;contraction
+("candle-holder"	nil	(((k a n) 1) ((d l!) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("candle-holders"	nil	(((k a n) 1) ((d l!) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("card-holder"	nil	(((k aa d) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("card-holders"	nil	(((k aa d) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("cardholder"	nil	(((k aa d) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("cardholders"	nil	(((k aa d) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("cargoless"	nil	(((k aa) 1) ((g o) 0) ((l @ s) 0)))	;;oul
+("carpooling"	nil	(((k aa) 1) ((p u l) 1) ((i ng) 0)))	;;uul
+("casserole"	nil	(((k a) 1) ((s @) 0) ((r o l) 0)))	;;oul
+("casseroles"	nil	(((k a) 1) ((s @) 0) ((r o l z) 0)))	;;oul
+("catchpole"	nil	(((k a ch) 1) ((p o l) 0)))	;;oul
+("catchpoles"	nil	(((k a ch) 1) ((p o l z) 0)))	;;oul
+("catchpoll"	nil	(((k a ch) 1) ((p o l) 0)))	;;oul
+("catchpolls"	nil	(((k a ch) 1) ((p o l z) 0)))	;;oul
+("catopril"	nil	(((k a) 1) ((t @) 0) ((p r i l) 2))) 	;;drug
+("centerfold"	nil	(((s e n) 1) ((t @) 0) ((f o l d) 1)))	;;oul
+("centerfolds"	nil	(((s e n) 1) ((t @) 0) ((f o l d z) 1)))	;;oul
+("centrefold"	nil	(((s e n) 1) ((t @) 0) ((f o l d) 1)))	;;oul
+("centrefolds"	nil	(((s e n) 1) ((t @) 0) ((f o l d z) 1)))	;;oul
+("cesspool"	nil	(((s e s) 1) ((p u l) 0)))	;;uul
+("cesspools"	nil	(((s e s) 1) ((p u l z) 0)))	;;uul
+("chairholder"	nil	(((ch e @) 1) ((h o l d) 1) ((@) 0)))	;;beer-bear,oul
+("charcoal"	nil	(((ch aa) 1) ((k o l) 0)))	;;oul
+("charcoals"	nil	(((ch aa) 1) ((k o l z) 0)))	;;oul
+("cholinesterase"	nil	(((k o) 1) ((l i) 0) ((n e) 1) ((s t @) 0) ((r ei z) 0)))	;;oul
+("chromolithograph"	nil	(((k r ou) 1) ((m o) 0) ((l i) 1) ((th @) 0) ((g r aa f) 1)))	;;oul
+("chromolithography"	nil	(((k r ou) 1) ((m o) 0) ((l i) 0) ((th o) 1) ((g r @) 0) ((f ii) 0)))	;;oul
+("cilazapril"	nil	(((s i) 0) ((l a) 1) ((z @) 0) ((p r i l) 2))) 	;;drug
+("cilexetil"	nil	(((s i) 0) ((l e k) 1) ((s @) 0) ((t i l) 2))) 	;;drug
+("circumpolar"	nil	(((s @@r) 1) ((k @ m) 0) ((p o l) 1) ((@) 0)))	;;oul
+("circumsolar"	nil	(((s @@r) 1) ((k @ m) 0) ((s o) 1) ((l @) 0)))	;;oul
+("coal"	nil	(((k o l) 1)))	;;oul
+("coal-black"	nil	(((k o l) 0) ((b l a k) 1)))	;;oul
+("coal-blacks"	nil	(((k o l) 0) ((b l a k s) 1)))	;;oul
+("coal-bunker"	nil	(((k o l) 1) ((b uh ng k) 1) ((@) 0)))	;;oul
+("coal-bunkers"	nil	(((k o l) 1) ((b uh ng k) 1) ((@ z) 0)))	;;oul
+("coal-burner"	nil	(((k o l) 1) ((b @@r n) 1) ((@) 0)))	;;oul
+("coal-cellar"	nil	(((k o l) 1) ((s a) 1) ((l @) 0)))	;;oul
+("coal-cellars"	nil	(((k o l) 1) ((s a) 1) ((l @ z) 0)))	;;oul
+("coal-dust"	nil	(((k o l) 1) ((d uh s t) 0)))	;;oul
+("coal-dusts"	nil	(((k o l) 1) ((d uh s t s) 0)))	;;oul
+("coal-face"	nil	(((k o l) 1) ((f ei s) 0)))	;;oul
+("coal-faces"	nil	(((k o l) 1) ((f ei s) 1) ((@ z) 0)))	;;oul
+("coal-fired"	nil	(((k o l) 1) ((f ai @ d) 0)))	;;oul
+("coal-hole"	nil	(((k o l) 1) ((h o l) 0)))	;;oul
+("coal-holes"	nil	(((k o l) 1) ((h o l z) 0)))	;;oul
+("coal-merchant"	nil	(((k o l) 1) ((m @@r) 1) ((ch @ n t) 0)))	;;oul
+("coal-merchants"	nil	(((k o l) 1) ((m @@r) 1) ((ch @ n t s) 0)))	;;oul
+("coal-mine"	nil	(((k o l) 1) ((m ai n) 0)))	;;oul
+("coal-mines"	nil	(((k o l) 1) ((m ai n z) 0)))	;;oul
+("coal-porter"	nil	(((k o l) 1) ((p oo t^) 1) ((@) 0)))	;;oul
+("coal-scuttles"	nil	(((k o l) 1) ((s k uh) 1) ((t l! z) 0)))	;;oul
+("coal-shed"	nil	(((k o l) 1) ((sh e d) 0)))	;;oul
+("coal-sheds"	nil	(((k o l) 1) ((sh e d z) 0)))	;;oul
+("coalface"	nil	(((k o l) 1) ((f ei s) 0)))	;;oul
+("coalfaces"	nil	(((k o l) 1) ((f ei s) 1) ((@ z) 0)))	;;oul
+("coalfield"	nil	(((k o l) 1) ((f ii l d) 0)))	;;oul
+("coalfields"	nil	(((k o l) 1) ((f ii l d z) 0)))	;;oul
+("coaling"	nil	(((k o l) 1) ((i ng) 0)))	;;oul
+("coalman"	nil	(((k o l) 1) ((m @ n) 0)))	;;oul
+("coalmine"	nil	(((k o l) 1) ((m ai n) 0)))	;;oul
+("coalmined"	nil	(((k o l) 1) ((m ai n d) 0)))	;;oul
+("coalmines"	nil	(((k o l) 1) ((m ai n z) 0)))	;;oul
+("coalmining"	nil	(((k o l) 1) ((m ai ng) 1) ((i ng) 0)))	;;oul
+("coalpit"	nil	(((k o l) 1) ((p i t) 0)))	;;oul
+("coalpits"	nil	(((k o l) 1) ((p i t s) 0)))	;;oul
+("coals"	nil	(((k o l z) 1)))	;;oul
+("coca-cola"	nil	(((k ou) 1) ((k @) 0) ((k o) 1) ((l @) 0)))	;;oul
+("cola"	nil	(((k o) 1) ((l @) 0)))	;;oul
+("colas"	nil	(((k o) 1) ((l @ z) 0)))	;;oul
+("colatitude"	nil	(((k o) 0) ((l a) 1) ((t^ @) 0) ((ch uu d) 0)))	;;oul
+("colchester"	nil	(((k o l) 1) ((ch i) 0) ((s t @) 0)))	;;oul
+("cold"	nil	(((k o l d) 1)))	;;oul
+("cold-blooded"	nil	(((k o l d) 1) ((b l uh d) 1) ((@ d) 0)))	;;oul
+("cold-bloodedly"	nil	(((k o l d) 1) ((b l uh d) 1) ((@ d) 0) ((l ii) 0)))	;;oul
+("cold-bloodedness"	nil	(((k o l d) 1) ((b l uh d) 1) ((@ d) 0) ((n @ s) 0)))	;;oul
+("cold-hearted"	nil	(((k o l d) 1) ((h aa t^) 1) ((@ d) 0)))	;;oul
+("colder"	nil	(((k o l d) 1) ((@) 0)))	;;oul
+("coldest"	nil	(((k o l d) 1) ((@ s t) 0)))	;;oul
+("coldfield"	nil	(((k o l d) 1) ((f ii l d) 0)))	;;oul
+("coldish"	nil	(((k o l d) 1) ((i sh) 0)))	;;oul
+("colditz"	nil	(((k o l) 1) ((d i t s) 0)))	;;oul
+("coldly"	nil	(((k o l d) 1) ((l ii) 0)))	;;oul
+("coldness"	nil	(((k o l d) 1) ((n @ s) 0)))	;;oul
+("colds"	nil	(((k o l d z) 1)))	;;oul
+("coldstarted"	nil	(((k o l d) 1) ((s t aa t^) 1) ((@ d) 0)))	;;oul
+("coldwater"	nil	(((k o l d) 1) ((w oo) 1) ((t^ @) 0)))	;;oul
+("coldwell"	nil	(((k o l d) 1) ((w a l) 0)))	;;oul
+("coldwells"	nil	(((k o l d) 1) ((w a l z) 0)))	;;oul
+("cole"	nil	(((k o l) 1)))	;;oul
+("colecalciferol"	nil	(((k o l) 2) ((k a l) 0) ((s i) 1) ((f @) 0) ((r o l) 0))) 	;;drug,oul
+("coleman"	nil	(((k o l) 1) ((m @ n) 0)))	;;oul
+("colemans"	nil	(((k o l) 1) ((m @ n z) 0)))	;;oul
+("coleridge"	nil	(((k o) 1) ((l @) 0) ((r i jh) 0)))	;;oul
+("coles"	nil	(((k o l z) 1)))	;;oul
+("coleslaw"	nil	(((k o l) 1) ((s l oo) 0)))	;;oul
+("coleslaws"	nil	(((k o l) 1) ((s l oo z) 0)))	;;oul
+("coleus"	nil	(((k o) 1) ((l ii @ s) 0)))	;;oul
+("coliform"	nil	(((k o) 1) ((l i) 0) ((f oo m) 0)))	;;oul
+("colinear"	nil	(((k o) 0) ((l i) 1) ((n ii @) 0)))	;;oul
+("colitis"	nil	(((k o) 0) ((l ai) 1) ((t^ @ s) 0)))	;;oul
+("collinear"	nil	(((k o) 0) ((l i) 1) ((n ii @) 0)))	;;oul
+("collinearly"	nil	(((k o) 0) ((l i) 1) ((n ii @) 0) ((l ii) 0)))	;;oul
+("colman"	nil	(((k o l) 1) ((m @ n) 0)))	;;oul
+("colon"	nil	(((k o) 1) ((l @ n) 0)))	;;oul
+("colonic"	nil	(((k o) 0) ((l o n) 1) ((i k) 0)))	;;oul
+("colons"	nil	(((k o) 1) ((l @ n z) 0)))	;;oul
+("colson"	nil	(((k o l) 1) ((s n!) 0)))	;;oul
+("colston"	nil	(((k o l) 1) ((s t @ n) 0)))	;;oul
+("colt"	nil	(((k o l t) 1)))	;;oul
+("coltheart"	nil	(((k o l t) 1) ((h aa t) 0)))	;;oul
+("coltish"	nil	(((k o l t) 1) ((i sh) 0)))	;;oul
+("colts"	nil	(((k o l t s) 1)))	;;oul
+("coltsfoot"	nil	(((k o l t s) 1) ((f u t) 0)))	;;oul
+("comptroller"	nil	(((k @ n) 0) ((t r o) 1) ((l @) 0)))	;;oul
+("condole"	nil	(((k @ n) 0) ((d o l) 1)))	;;oul
+("condolement"	nil	(((k @ n) 0) ((d o l) 1) ((m @ n t) 0)))	;;oul
+("condolence"	nil	(((k @ n) 0) ((d o l) 1) ((@ n s) 0)))	;;oul
+("condolences"	nil	(((k @ n) 0) ((d o l) 1) ((@ n s) 0) ((@ z) 0)))	;;oul
+("condoles"	nil	(((k @ n) 0) ((d o l z) 1)))	;;oul
+("condoling"	nil	(((k @ ng) 0) ((d o l) 1) ((i ng) 0)))	;;oul
+("consolable"	nil	(((k @ n) 0) ((s o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("console"	nil	(((k @ n) 0) ((s o l) 1)))	;;oul
+("consoled"	nil	(((k @ n) 0) ((s o l d) 1)))	;;oul
+("consoler"	nil	(((k @ n) 0) ((s o l) 1) ((@) 0)))	;;oul
+("consoles"	nil	(((k o n) 1) ((s o l z) 0)))	;;oul
+("consoling"	nil	(((k @ ng) 0) ((s o l) 1) ((i ng) 0)))	;;oul
+("consolingly"	nil	(((k @ ng) 0) ((s o l) 1) ((i ng) 0) ((l ii) 0)))	;;oul
+("control"	nil	(((k @ n) 0) ((t r o l) 1)))	;;oul
+("controlhandle"	nil	(((k @ n) 0) ((t r o l) 1) ((h a n) 1) ((d l!) 0)))	;;oul
+("controlhandles"	nil	(((k @ n) 0) ((t r o l) 1) ((h a n) 1) ((d l! z) 0)))	;;oul
+("controllability"	nil	(((k @ n) 0) ((t r o l) 1) ((@) 0) ((b i l) 1) ((@) 0) ((t^ ii) 0)))	;;oul
+("controllable"	nil	(((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("controllably"	nil	(((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l ii) 0)))	;;oul
+("controlled"	nil	(((k @ n) 0) ((t r o l d) 1)))	;;oul
+("controller"	nil	(((k @ n) 0) ((t r o l) 1) ((@) 0)))	;;oul
+("controllers"	nil	(((k @ n) 0) ((t r o l) 1) ((@ z) 0)))	;;oul
+("controllership"	nil	(((k @ n) 0) ((t r o l) 1) ((@) 0) ((sh i p) 1)))	;;oul
+("controlling"	nil	(((k @ ng) 0) ((t r o l) 1) ((i ng) 0)))	;;oul
+("controllingly"	nil	(((k @ ng) 0) ((t r o l) 1) ((i ng) 0) ((l ii) 0)))	;;oul
+("controlmechanism"	nil	(((k @ n) 0) ((t r o l) 1) ((m e) 1) ((k @) 0) ((n i) 1) ((z m!) 0)))	;;oul
+("controlmechanisms"	nil	(((k @ n) 0) ((t r o l) 1) ((m e) 1) ((k @) 0) ((n i) 1) ((z m! z) 0)))	;;oul
+("controlment"	nil	(((k @ n) 0) ((t r o l) 1) ((m @ n t) 0)))	;;oul
+("controls"	nil	(((k @ n) 0) ((t r o l z) 1)))	;;oul
+("cool"	nil	(((k u l) 1)))	;;uul
+("cool-headed"	nil	(((k u l) 1) ((h e d) 1) ((@ d) 0)))	;;uul
+("coolant"	nil	(((k u l) 1) ((@ n t) 0)))	;;uul
+("coolants"	nil	(((k u l) 1) ((@ n t s) 0)))	;;uul
+("cooled"	nil	(((k u l d) 1)))	;;uul
+("cooler"	nil	(((k u l) 1) ((@) 0)))	;;uul
+("coolers"	nil	(((k u l) 1) ((@ z) 0)))	;;uul
+("coolest"	nil	(((k u l) 1) ((@ s t) 0)))	;;uul
+("coolheaded"	nil	(((k u l) 1) ((h e d) 1) ((@ d) 0)))	;;uul
+("coolidge"	nil	(((k @) 1) ((l i jh) 0)))	;;uul
+("coolidges"	nil	(((k @) 1) ((l i jh) 0) ((@ z) 0)))	;;uul
+("coolie"	nil	(((k @) 1) ((l ii) 0)))	;;uul
+("coolies"	nil	(((k @) 1) ((l ii z) 0)))	;;uul
+("cooling"	nil	(((k u l) 1) ((i ng) 0)))	;;uul
+("coolish"	nil	(((k u l) 1) ((i sh) 0)))	;;uul
+("coolly"	nil	(((k u l) 1) ((l ii) 0)))	;;uul
+("coolness"	nil	(((k u l) 1) ((n @ s) 0)))	;;uul
+("coolnesses"	nil	(((k u l) 1) ((n @ s) 0) ((@ z) 0)))	;;uul
+("coolnesss"	nil	(((k u l) 1) ((n @ s) 0) ((@ z) 0)))	;;uul
+("cools"	nil	(((k u l z) 1)))	;;uul
+("copyhold"	nil	(((k o) 1) ((p ii) 0) ((h o l d) 1)))	;;oul
+("copyholder"	nil	(((k o) 1) ((p ii) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("copyholders"	nil	(((k o) 1) ((p ii) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("copyholding"	nil	(((k o) 1) ((p ii) 0) ((h o l d) 1) ((i ng) 0)))	;;oul
+("copyholds"	nil	(((k o) 1) ((p ii) 0) ((h o l d z) 1)))	;;oul
+("cotswold"	nil	(((k o t s) 1) ((w o l d) 0)))	;;oul
+("cotswolds"	nil	(((k o t s) 1) ((w o l d z) 0)))	;;oul
+("cotton-wool"	nil	(((k o) 1) ((t n!) 0) ((w u l) 1)))	;;uul
+("cotton-wools"	nil	(((k o) 1) ((t n!) 0) ((w u l z) 1)))	;;uul
+("could've"	nil	(((k u d) 1) ((@ v) 0)))	;;contraction
+("couldn't"	nil	(((k u d) 1) ((n! t) 0)))	;;contraction
+("coumadin"	nil	(((k ou) 1) ((m @) 0) ((d i n) 2))) 	;;drug
+("crayola"	nil	(((k r ei) 0) ((o) 1) ((l @) 0)))	;;oul
+("creole"	nil	(((k r ii) 1) ((o l) 0)))	;;oul
+("creoles"	nil	(((k r ii) 1) ((o l z) 0)))	;;oul
+("cruel"	nil	(((k r u l) 1)))	;;uul
+("cruelest"	nil	(((k r u l) 1) ((@ s t) 0)))	;;uul
+("crueller"	nil	(((k r u l) 1) ((@) 0)))	;;uul
+("cruellest"	nil	(((k r u l) 1) ((@ s t) 0)))	;;uul
+("cruelly"	nil	(((k r u l) 1) ((ii) 0)))	;;uul
+("cruelness"	nil	(((k r u l) 1) ((n @ s) 0)))	;;uul
+("cruelties"	nil	(((k r u l) 1) ((t ii z) 0)))	;;uul
+("cruelty"	nil	(((k r u l) 1) ((t ii) 0)))	;;uul
+("crueltys"	nil	(((k r u l) 1) ((t ii z) 0)))	;;uul
+("cubbyhole"	nil	(((k uh) 1) ((b ii) 0) ((h o l) 1)))	;;oul
+("cubbyholes"	nil	(((k uh) 1) ((b ii) 0) ((h o l z) 1)))	;;oul
+("cuckold"	nil	(((k uh) 1) ((k o l d) 0)))	;;oul
+("cuckolded"	nil	(((k uh) 1) ((k o l d) 0) ((@ d) 0)))	;;oul
+("cuckolding"	nil	(((k uh) 1) ((k o l d) 0) ((i ng) 0)))	;;oul
+("cuckoldise"	nil	(((k uh) 1) ((k o l d) 0) ((ai z) 0)))	;;oul
+("cuckoldize"	nil	(((k uh) 1) ((k o l d) 0) ((ai z) 0)))	;;oul
+("cuckolds"	nil	(((k uh) 1) ((k o l d z) 0)))	;;oul
+("deadbolt"	nil	(((d e d) 1) ((b o l t) 0)))	;;oul
+("deadbolted"	nil	(((d e d) 1) ((b o l t) 1) ((@ d) 0)))	;;oul
+("deadbolting"	nil	(((d e d) 1) ((b o l t) 1) ((i ng) 0)))	;;oul
+("deadbolts"	nil	(((d e d) 1) ((b o l t s) 0)))	;;oul
+("debolt"	nil	(((d ii) 0) ((b o l t) 1)))	;;oul
+("debolts"	nil	(((d ii) 0) ((b o l t s) 1)))	;;oul
+("decontrol"	nil	(((d ii) 1) ((k @ n) 0) ((t r o l) 1)))	;;oul
+("decontrolled"	nil	(((d ii) 1) ((k @ n) 0) ((t r o l d) 1)))	;;oul
+("decontrolling"	nil	(((d ii) 1) ((k @ ng) 0) ((t r o l) 1) ((i ng) 0)))	;;oul
+("defoliant"	nil	(((d i) 0) ((f o) 1) ((l ii @ n t) 0)))	;;oul
+("defoliate"	nil	(((d i) 0) ((f o) 1) ((l ii) 0) ((ei t) 0)))	;;oul
+("defoliated"	nil	(((d i) 0) ((f o) 1) ((l ii) 0) ((ei t^) 1) ((@ d) 0)))	;;oul
+("defoliates"	nil	(((d i) 0) ((f o) 1) ((l ii) 0) ((ei t s) 0)))	;;oul
+("defoliation"	nil	(((d i) 0) ((f o) 1) ((l ii) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("defoliator"	nil	(((d i) 0) ((f o) 1) ((l ii) 0) ((ei t^) 1) ((@) 0)))	;;oul
+("defoliators"	nil	(((d i) 0) ((f o) 1) ((l ii) 0) ((ei t^) 1) ((@ z) 0)))	;;oul
+("depolarisation"	nil	(((d ii) 1) ((p o l) 0) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("depolarisations"	nil	(((d ii) 1) ((p o l) 0) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n! z) 0)))	;;oul
+("depolarise"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 0)))	;;oul
+("depolariser"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0)))	;;oul
+("depolarisers"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("depolarises"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("depolarization"	nil	(((d ii) 1) ((p o l) 0) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("depolarizations"	nil	(((d ii) 1) ((p o l) 0) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n! z) 0)))	;;oul
+("depolarize"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 0)))	;;oul
+("depolarized"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z d) 0)))	;;oul
+("depolarizer"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0)))	;;oul
+("depolarizers"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("depolarizes"	nil	(((d ii) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("despoliation"	nil	(((d i) 0) ((s p o l) 1) ((ii) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("dextran"	nil	(((d e k s) 1) ((t r a n) 0))) 	;;drug
+("didn't"	nil	(((d i d) 1) ((n! t) 0)))	;;contraction
+("dipolar"	nil	(((d ai) 0) ((p o l) 1) ((@) 0)))	;;oul
+("dipole"	nil	(((d ai) 1) ((p o l) 0)))	;;oul
+("dipoles"	nil	(((d ai) 1) ((p o l z) 0)))	;;oul
+("doesn't"	nil	(((d uh z) 1) ((n! t) 0))) 	;;contraction
+("dolan"	nil	(((d o) 1) ((l @ n) 0)))	;;oul
+("dole"	nil	(((d o l) 1)))	;;oul
+("doled"	nil	(((d o l d) 1)))	;;oul
+("doleful"	nil	(((d o l) 1) ((f u l) 0)))	;;oul
+("dolefully"	nil	(((d o l) 1) ((f l!) 0) ((ii) 0)))	;;oul
+("dolefulness"	nil	(((d o l) 1) ((f u l) 0) ((n @ s) 0)))	;;oul
+("doles"	nil	(((d o l z) 1)))	;;oul
+("doling"	nil	(((d o l) 1) ((i ng) 0)))	;;oul
+("dolt"	nil	(((d o l t) 1)))	;;oul
+("doltish"	nil	(((d o l t) 1) ((i sh) 0)))	;;oul
+("doltishly"	nil	(((d o l t) 1) ((i sh) 0) ((l ii) 0)))	;;oul
+("doltishness"	nil	(((d o l t) 1) ((i sh) 0) ((n @ s) 0)))	;;oul
+("dolts"	nil	(((d o l t s) 1)))	;;oul
+("don't"	nil	(((d ou n t) 1)))	;;contraction
+("dooley"	nil	(((d @) 1) ((l ii) 0)))	;;uul
+("doolittle"	nil	(((d @) 1) ((l i) 0) ((t l!) 0)))	;;uul
+("droll"	nil	(((d r o l) 1)))	;;oul
+("droller"	nil	(((d r o l) 1) ((@) 0)))	;;oul
+("drollery"	nil	(((d r o l) 1) ((@) 0) ((r ii) 0)))	;;oul
+("drollest"	nil	(((d r o l) 1) ((@ s t) 0)))	;;oul
+("drolling"	nil	(((d r o l) 1) ((i ng) 0)))	;;oul
+("drollness"	nil	(((d r o l) 1) ((n @ s) 0)))	;;oul
+("drolly"	nil	(((d r o l) 1) ((l ii) 0)))	;;oul
+("drool"	nil	(((d r u l) 1)))	;;uul
+("drooled"	nil	(((d r u l d) 1)))	;;uul
+("drooling"	nil	(((d r u l) 1) ((i ng) 0)))	;;uul
+("droolingly"	nil	(((d r u l) 1) ((i ng) 0) ((l ii) 0)))	;;uul
+("drools"	nil	(((d r u l z) 1)))	;;uul
+("duel"	nil	(((d y u l) 1)))	;;uul
+("dueled"	nil	(((d y u l d) 1)))	;;uul
+("dueling"	nil	(((d y u l) 1) ((i ng) 0)))	;;uul
+("duelist"	nil	(((d y u l) 1) ((i s t) 0)))	;;uul
+("duelists"	nil	(((d y u l) 1) ((i s t s) 0)))	;;uul
+("dueller"	nil	(((d y u l) 1) ((@) 0)))	;;uul
+("duelling"	nil	(((d y u l) 1) ((i ng) 0)))	;;uul
+("duellist"	nil	(((d y u l) 1) ((i s t) 0)))	;;uul
+("duellists"	nil	(((d y u l) 1) ((i s t s) 0)))	;;uul
+("duels"	nil	(((d y u l z) 1)))	;;uul
+("dyed-in-the-wool"	nil	(((d ai d) 1) ((i n) 0) ((dh @) 0) ((w u l) 1)))	;;uul
+("ebola"	nil	(((ii) 0) ((b o) 1) ((l @) 0)))	;;oul
+("echoless"	nil	(((e) 1) ((k o) 0) ((l @ s) 0)))	;;oul
+("ecole"	nil	(((ei) 0) ((k o l) 1)))	;;oul
+("ecoles"	nil	(((ei) 0) ((k o l) 1)))	;;oul
+("egoless"	nil	(((ii) 1) ((g o) 0) ((l @ s) 0)))	;;oul
+("ehoa"	nil	(((e) 1) ((h oo) 0) ((@) 0))) 	;;maori
+("eightfold"	nil	(((ei t) 1) ((f o l d) 0)))	;;oul
+("eketahuna"	nil	(((e) 0) ((k @) 0) ((t^ @) 0) ((h uu) 1) ((n @) 0))) 	;;maori
+("electrolaryngography"	nil	(((i) 0) ((l e k) 1) ((t r o) 0) ((l a) 1) ((r i ng) 0) ((g o) 1) ((g r @) 0) ((f ii) 0)))	;;oul
+("electroluminescence"	nil	(((i) 0) ((l e k) 1) ((t r o) 0) ((l uu) 1) ((m @) 0) ((n e s) 1) ((n! s) 0)))	;;oul
+("eltroxin"	nil	(((e l) 2) ((t r o k) 1) ((s i n) 0))) 	;;drug
+("embolden"	nil	(((@ m) 0) ((b o l d) 1) ((n!) 0)))	;;oul
+("emboldened"	nil	(((@ m) 0) ((b o l d) 1) ((n! d) 0)))	;;oul
+("emboldening"	nil	(((@ m) 0) ((b o l d) 1) ((n!) 0) ((i ng) 0)))	;;oul
+("emboldens"	nil	(((@ m) 0) ((b o l d) 1) ((n! z) 0)))	;;oul
+("enfold"	nil	(((@ n) 0) ((f o l d) 1)))	;;oul
+("enfolded"	nil	(((@ n) 0) ((f o l d) 1) ((@ d) 0)))	;;oul
+("enfolding"	nil	(((@ ng) 0) ((f o l d) 1) ((i ng) 0)))	;;oul
+("enfoldment"	nil	(((@ n) 0) ((f o l d) 1) ((m @ n t) 0)))	;;oul
+("enfolds"	nil	(((@ n) 0) ((f o l d z) 1)))	;;oul
+("enrol"	nil	(((@ n) 0) ((r o l) 1)))	;;oul
+("enroll"	nil	(((@ n) 0) ((r o l) 1)))	;;oul
+("enrolled"	nil	(((@ n) 0) ((r o l d) 1)))	;;oul
+("enrollee"	nil	(((e n) 0) ((r o l) 1) ((ii) 1)))	;;oul
+("enroller"	nil	(((@ n) 0) ((r o l) 1) ((@) 0)))	;;oul
+("enrolling"	nil	(((@ ng) 0) ((r o l) 1) ((i ng) 0)))	;;oul
+("enrollment"	nil	(((@ n) 0) ((r o l) 1) ((m @ n t) 0)))	;;oul
+("enrollments"	nil	(((@ n) 0) ((r o l) 1) ((m @ n t s) 0)))	;;oul
+("enrolls"	nil	(((@ n) 0) ((r o l z) 1)))	;;oul
+("enrolment"	nil	(((@ n) 0) ((r o l) 1) ((m @ n t) 0)))	;;oul
+("enrolments"	nil	(((@ n) 0) ((r o l) 1) ((m @ n t s) 0)))	;;oul
+("enscroll"	nil	(((@ n) 0) ((s k r o l) 1)))	;;oul
+("enscrolled"	nil	(((@ n) 0) ((s k r o l d) 1)))	;;oul
+("enscrolls"	nil	(((@ n) 0) ((s k r o l z) 1)))	;;oul
+("exfoliate"	nil	(((e k s) 0) ((f o) 1) ((l ii) 0) ((ei t) 0)))	;;oul
+("exfoliated"	nil	(((e k s) 0) ((f o) 1) ((l ii) 0) ((ei t^) 1) ((@ d) 0)))	;;oul
+("exfoliates"	nil	(((e k s) 0) ((f o) 1) ((l ii) 0) ((ei t s) 0)))	;;oul
+("exfoliating"	nil	(((e k s) 0) ((f o) 1) ((l ii) 0) ((ei t^) 1) ((i ng) 0)))	;;oul
+("exfoliation"	nil	(((e k s) 0) ((f o) 1) ((l ii) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("exfoliative"	nil	(((e k s) 0) ((f o) 1) ((l ii @ t^) 0) ((i v) 0)))	;;oul
+("exfoliator"	nil	(((e k s) 0) ((f o) 1) ((l ii) 0) ((ei t^) 1) ((@) 0)))	;;oul
+("extol"	nil	(((@ k) 0) ((s t o l) 1)))	;;oul
+("extolled"	nil	(((@ k) 0) ((s t o l d) 1)))	;;oul
+("extoller"	nil	(((@ k) 0) ((s t o l) 1) ((@) 0)))	;;oul
+("extolling"	nil	(((@ k) 0) ((s t o l) 1) ((i ng) 0)))	;;oul
+("extolment"	nil	(((@ k) 0) ((s t o l) 1) ((m @ n t) 0)))	;;oul
+("extols"	nil	(((@ k) 0) ((s t o l z) 1)))	;;oul
+("extrasolar"	nil	(((e k) 1) ((s t r @) 0) ((s o) 1) ((l @) 0)))	;;oul
+("eye-holes"	nil	(((ai) 1) ((h o l z) 0)))	;;oul
+("felodipine"	nil	(((f @) 0) ((l o) 1) ((d @) 0) ((p ii n) 2))) 	;;drug
+("ferro"	nil	(((f e) 1) ((r ou) 0))) 	;;drug
+("fiftyfold"	nil	(((f i f) 1) ((t ii) 0) ((f o l d) 1)))	;;oul
+("fire-control"	nil	(((f ai @) 1) ((k @ n) 0) ((t r o l) 1)))	;;oul
+("fire-controls"	nil	(((f ai @) 1) ((k @ n) 0) ((t r o l z) 1)))	;;oul
+("five-year-old"	nil	(((f ai v) 1) ((y ir r) 0) ((o l d) 1)))	;;oul
+("five-year-olds"	nil	(((f ai v) 1) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("fivefold"	nil	(((f ai v) 1) ((f o l d) 0)))	;;oul
+("flagpole"	nil	(((f l a g) 1) ((p o l) 0)))	;;oul
+("flagpoles"	nil	(((f l a g) 1) ((p o l z) 0)))	;;oul
+("flucloxacillin"	nil	(((f l uu) 0) ((k l o k) 1) ((s @) 0) ((s i) 2) ((l i n) 0))) 	;;drug
+("foal"	nil	(((f o l) 1)))	;;oul
+("foaled"	nil	(((f o l d) 1)))	;;oul
+("foaling"	nil	(((f o l) 1) ((i ng) 0)))	;;oul
+("foals"	nil	(((f o l z) 1)))	;;oul
+("fold"	nil	(((f o l d) 1)))	;;oul
+("fold-out"	nil	(((f o l d) 1) (( ow t) 0)))	;;oul
+("fold-outs"	nil	(((f o l d) 1) (( ow t s) 0)))	;;oul
+("foldable"	nil	(((f o l d) 1) ((@) 0) ((b l!) 0)))	;;oul
+("foldaway"	nil	(((f o l d) 1) ((@) 0) ((w ei) 1)))	;;oul
+("folded"	nil	(((f o l d) 1) ((@ d) 0)))	;;oul
+("folder"	nil	(((f o l d) 1) ((@) 0)))	;;oul
+("folders"	nil	(((f o l d) 1) ((@ z) 0)))	;;oul
+("folding"	nil	(((f o l d) 1) ((i ng) 0)))	;;oul
+("foldings"	nil	(((f o l d) 1) ((i ng z) 0)))	;;oul
+("foldout"	nil	(((f o l d) 1) (( ow t) 0)))	;;oul
+("foldouts"	nil	(((f o l d) 1) (( ow t s) 0)))	;;oul
+("folds"	nil	(((f o l d z) 1)))	;;oul
+("foley"	nil	(((f o) 1) ((l ii) 0)))	;;oul
+("foleys"	nil	(((f o) 1) ((l ii z) 0)))	;;oul
+("foliage"	nil	(((f o) 1) ((l ii) 0) ((i jh) 0)))	;;oul
+("foliaged"	nil	(((f o) 1) ((l ii) 0) ((i jh d) 0)))	;;oul
+("foliages"	nil	(((f o) 1) ((l ii) 0) ((i jh) 0) ((@ z) 0)))	;;oul
+("foliate"	nil	(((f o) 1) ((l ii) 0) ((ei t) 0)))	;;oul
+("foliated"	nil	(((f o) 1) ((l ii) 0) ((ei t^) 1) ((@ d) 0)))	;;oul
+("foliates"	nil	(((f o) 1) ((l ii) 0) ((ei t s) 0)))	;;oul
+("foliating"	nil	(((f o) 1) ((l ii) 0) ((ei t^) 1) ((i ng) 0)))	;;oul
+("foliation"	nil	(((f o) 1) ((l ii) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("foliations"	nil	(((f o) 1) ((l ii) 0) ((ei) 1) ((sh n! z) 0)))	;;oul
+("folio"	nil	(((f o) 1) ((l ii) 0) ((ou) 0)))	;;oul
+("folioed"	nil	(((f o) 1) ((l ii) 0) ((ou d) 0)))	;;oul
+("foliolate"	nil	(((f o) 1) ((l ii @) 0) ((l ei t) 0)))	;;oul
+("folios"	nil	(((f o) 1) ((l ii) 0) ((ou z) 0)))	;;oul
+("fool"	nil	(((f u l) 1)))	;;uul
+("fooled"	nil	(((f u l d) 1)))	;;uul
+("fooleries"	nil	(((f u l) 1) ((@) 0) ((r ii z) 0)))	;;uul
+("foolery"	nil	(((f u l) 1) ((@) 0) ((r ii) 0)))	;;uul
+("foolhardiness"	nil	(((f u l) 1) ((h aa d) 1) ((ii) 0) ((n @ s) 0)))	;;uul
+("foolhardy"	nil	(((f u l) 1) ((h aa d) 1) ((ii) 0)))	;;uul
+("fooling"	nil	(((f u l) 1) ((i ng) 0)))	;;uul
+("foolish"	nil	(((f u l) 1) ((i sh) 0)))	;;uul
+("foolisher"	nil	(((f u l) 1) ((i sh) 0) ((@) 0)))	;;uul
+("foolishest"	nil	(((f u l) 1) ((i sh) 0) ((@ s t) 0)))	;;uul
+("foolishly"	nil	(((f u l) 1) ((i sh) 0) ((l ii) 0)))	;;uul
+("foolishness"	nil	(((f u l) 1) ((i sh) 0) ((n @ s) 0)))	;;uul
+("foolproof"	nil	(((f u l) 1) ((p r uu f) 0)))	;;uul
+("fools"	nil	(((f u l z) 1)))	;;uul
+("foolscap"	nil	(((f u l) 1) ((s k a p) 0)))	;;uul
+("foot-stool"	nil	(((f u t) 1) ((s t u l) 0)))	;;uul
+("foot-stools"	nil	(((f u t) 1) ((s t u l z) 0)))	;;uul
+("foothold"	nil	(((f u t) 1) ((h o l d) 0)))	;;oul
+("footholds"	nil	(((f u t) 1) ((h o l d z) 0)))	;;oul
+("footstool"	nil	(((f u t) 1) ((s t u l) 0)))	;;uul
+("footstools"	nil	(((f u t) 1) ((s t u l z) 0)))	;;uul
+("foretold"	nil	(((f oo) 0) ((t o l d) 1)))	;;oul
+("fosamax"	nil	(((f o) 1) ((s @) 0) ((m a k s) 2))) 	;;drug
+("four-fold"	nil	(((f oo) 1) ((f o l d) 0)))	;;oul
+("four-year-old"	nil	(((f oo) 1) ((y ir r) 0) ((o l d) 1)))	;;oul
+("four-year-olds"	nil	(((f oo) 1) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("fourfold"	nil	(((f oo) 1) ((f o l d) 0)))	;;oul
+("foxhole"	nil	(((f o k s) 1) ((h o l) 0)))	;;oul
+("foxholes"	nil	(((f o k s) 1) ((h o l z) 0)))	;;oul
+("freehold"	nil	(((f r ii) 1) ((h o l d) 0)))	;;oul
+("freeholder"	nil	(((f r ii) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("freeholders"	nil	(((f r ii) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("freeholding"	nil	(((f r ii) 1) ((h o l d) 1) ((i ng) 0)))	;;oul
+("freeholds"	nil	(((f r ii) 1) ((h o l d z) 0)))	;;oul
+("fuel"	nil	(((f y u l) 1)))	;;uul
+("fueled"	nil	(((f y u l d) 1)))	;;uul
+("fueling"	nil	(((f y u l) 1) ((i ng) 0)))	;;uul
+("fuelled"	nil	(((f y u l d) 1)))	;;uul
+("fuelling"	nil	(((f y u l) 1) ((i ng) 0)))	;;uul
+("fuels"	nil	(((f y u l z) 1)))	;;uul
+("fundholder"	nil	(((f uh n d) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("fundholders"	nil	(((f uh n d) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("furosemide"	nil	(((f y uu) 0) ((r o) 1) ((s @) 0) ((m ai d) 2))) 	;;drug
+("gatefold"	nil	(((g ei t) 1) ((f o l d) 0)))	;;oul
+("ghoul"	nil	(((g u l) 1)))	;;uul
+("ghoulish"	nil	(((g u l) 1) ((i sh) 0)))	;;uul
+("ghoulishly"	nil	(((g u l) 1) ((i sh) 0) ((l ii) 0)))	;;uul
+("ghoulishness"	nil	(((g u l) 1) ((i sh) 0) ((n @ s) 0)))	;;uul
+("ghouls"	nil	(((g u l z) 1)))	;;uul
+("gigavolt"	nil	(((g i) 1) ((g @) 0) ((v o l t) 1)))	;;oul
+("gigavolts"	nil	(((g i) 1) ((g @) 0) ((v o l t s) 1)))	;;oul
+("gladioli"	nil	(((g l a) 1) ((d ii) 0) ((o) 1) ((l ai) 0)))	;;oul
+("gladiolus"	nil	(((g l a) 1) ((d ii) 0) ((o) 1) ((l @ s) 0)))	;;oul
+("glossolalia"	nil	(((g l o) 1) ((s o) 0) ((l ei) 1) ((l ii @) 0)))	;;oul
+("glucosamine"	nil	(((g l uu) 0) ((k ou) 1) ((s @) 0) ((m ii n) 2))) 	;;drug
+("glyceryl"	nil	(((g l i) 1) ((s @) 0) ((r i l) 2))) 	;;drug
+("goal"	nil	(((g o l) 1)))	;;oul
+("goalie"	nil	(((g o l) 1) ((ii) 0)))	;;oul
+("goalies"	nil	(((g o l) 1) ((ii z) 0)))	;;oul
+("goalkeeper"	nil	(((g o l) 1) ((k ii p) 1) ((@) 0)))	;;oul
+("goalkeepers"	nil	(((g o l) 1) ((k ii p) 1) ((@ z) 0)))	;;oul
+("goalkeeping"	nil	(((g o l) 1) ((k ii p) 1) ((i ng) 0)))	;;oul
+("goalless"	nil	(((g o l) 1) ((l @ s) 0)))	;;oul
+("goalmouth"	nil	(((g o l) 1) ((m ow th) 0)))	;;oul
+("goalmouths"	nil	(((g o l) 1) ((m ow dh z) 0)))	;;oul
+("goalpost"	nil	(((g o l) 1) ((p ou s t) 0)))	;;oul
+("goalposts"	nil	(((g o l) 1) ((p ou s t s) 0)))	;;oul
+("goals"	nil	(((g o l z) 1)))	;;oul
+("golan"	nil	(((g o) 1) ((l @ n) 0)))	;;oul
+("gold"	nil	(((g o l d) 1)))	;;oul
+("gold-leaf"	nil	(((g o l d) 0) ((l ii f) 1)))	;;oul
+("gold-mines"	nil	(((g o l d) 1) ((m ai n z) 0)))	;;oul
+("gold-plated"	nil	(((g o l d) 1) ((p l ei t^) 1) ((@ d) 0)))	;;oul
+("goldberg"	nil	(((g o l d) 1) ((b @@r g) 0)))	;;oul
+("goldbergs"	nil	(((g o l d) 1) ((b @@r g z) 0)))	;;oul
+("goldbloom"	nil	(((g o l d) 1) ((b l uu m) 0)))	;;oul
+("goldbug"	nil	(((g o l d) 1) ((b uh g) 0)))	;;oul
+("goldbugs"	nil	(((g o l d) 1) ((b uh g z) 0)))	;;oul
+("golded"	nil	(((g o l d) 1) ((@ d) 0)))	;;oul
+("golden"	nil	(((g o l d) 1) ((n!) 0)))	;;oul
+("goldenest"	nil	(((g o l d) 1) ((n!) 0) ((@ s t) 0)))	;;oul
+("goldeneye"	nil	(((g o l d) 1) ((n!) 0) ((ai) 1)))	;;oul
+("goldenrod"	nil	(((g o l d) 1) ((n!) 0) ((r o d) 1)))	;;oul
+("goldenrods"	nil	(((g o l d) 1) ((n!) 0) ((r o d z) 1)))	;;oul
+("goldenson"	nil	(((g o l) 1) ((d n!) 0) ((s n!) 0)))	;;oul
+("goldfield"	nil	(((g o l d) 1) ((f ii l d) 0)))	;;oul
+("goldfinch"	nil	(((g o l d) 1) ((f i n ch) 0)))	;;oul
+("goldfinches"	nil	(((g o l d) 1) ((f i n ch) 1) ((@ z) 0)))	;;oul
+("goldfish"	nil	(((g o l d) 1) ((f i sh) 0)))	;;oul
+("goldfishes"	nil	(((g o l d) 1) ((f i sh) 1) ((@ z) 0)))	;;oul
+("goldie"	nil	(((g o l d) 1) ((ii) 0)))	;;oul
+("goldilocks"	nil	(((g o l) 1) ((d ii) 0) ((l o k s) 1)))	;;oul
+("golding"	nil	(((g o l d) 1) ((i ng) 0)))	;;oul
+("goldish"	nil	(((g o l d) 1) ((i sh) 0)))	;;oul
+("goldless"	nil	(((g o l d) 1) ((l @ s) 0)))	;;oul
+("goldman"	nil	(((g o l d) 1) ((m @ n) 0)))	;;oul
+("goldmann"	nil	(((g o l d) 1) ((m @ n) 0)))	;;oul
+("goldmans"	nil	(((g o l d) 1) ((m @ n z) 0)))	;;oul
+("goldmine"	nil	(((g o l d) 1) ((m ai n) 0)))	;;oul
+("goldmines"	nil	(((g o l d) 1) ((m ai n z) 0)))	;;oul
+("golds"	nil	(((g o l d z) 1)))	;;oul
+("goldschmidt"	nil	(((g o l d) 1) ((sh m i t) 0)))	;;oul
+("goldsmith"	nil	(((g o l d) 1) ((s m i th) 0)))	;;oul
+("goldsmiths"	nil	(((g o l d) 1) ((s m i th s) 0)))	;;oul
+("goldstein"	nil	(((g o l d) 1) ((s t ai n) 0)))	;;oul
+("goldsteinism"	nil	(((g o l d) 1) ((s t ai n) 0) ((i) 1) ((z m!) 0)))	;;oul
+("goldsteins"	nil	(((g o l d) 1) ((s t ai n z) 0)))	;;oul
+("goldsworthy"	nil	(((g o l d z) 1) ((w @@r) 1) ((dh ii) 0)))	;;oul
+("goldwater"	nil	(((g o l d) 1) ((w oo) 1) ((t^ @) 0)))	;;oul
+("goldwyn"	nil	(((g o l d) 1) ((w i n) 0)))	;;oul
+("gorgonzola"	nil	(((g oo) 1) ((g @ n) 0) ((z o) 1) ((l @) 0)))	;;oul
+("goulash"	nil	(((g u) 1) ((l a sh) 0)))	;;uul
+("goulashes"	nil	(((g u) 1) ((l a sh) 0) ((@ z) 0)))	;;uul
+("grammar-school"	nil	(((g r a) 1) ((m @) 0) ((s k u l) 1)))	;;uul
+("grammar-schools"	nil	(((g r a) 1) ((m @) 0) ((s k u l z) 1)))	;;uul
+("granola"	nil	(((g r @) 0) ((n o) 1) ((l @) 0)))	;;oul
+("grant-holder"	nil	(((g r aa n t) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("griswold"	nil	(((g r i z) 1) ((w o l d) 0)))	;;oul
+("grotesquely"	nil	(((g r ou) 0) ((t e s k) 1) ((l ii) 0)))	;;uul
+("gruel"	nil	(((g r u l) 1)))	;;uul
+("grueling"	nil	(((g r u l) 1) ((i ng) 0)))	;;uul
+("gruelling"	nil	(((g r u l) 1) ((i ng) 0)))	;;uul
+("gruels"	nil	(((g r u l z) 1)))	;;uul
+("guacamole"	nil	(((g w a) 1) ((k @) 0) ((m o) 1) ((l ii) 0)))	;;oul
+("hadn't"	nil	(((h a d) 1) ((n! t) 0)))	;;contraction
+("haere"	nil	(((h ai) 1) ((r ei) 0))) 	;;maori
+("haerenga"	nil	(((h aa) 0) ((e) 0) ((r e ng) 1) ((@) 0))) 	;;maori
+("hahunga"	nil	(((h aa) 1) ((h uu ng) 0) ((@) 0))) 	;;maori
+("haka"	nil	(((h aa) 1) ((k @) 0))) 	;;maori
+("hakari"	nil	(((h aa) 1) ((k aa) 0) ((r ii) 0))) 	;;maori
+("hakatere"	nil	(((h aa) 1) ((k aa) 0) ((t e) 0) ((r ei) 0))) 	;;maori
+("hakeke"	nil	(((h aa) 1) ((k e) 0) ((k i) 0))) 	;;maori
+("hakihaki"	nil	(((h aa) 1) ((k ii) 0) ((h aa) 0) ((k ii) 0))) 	;;maori
+("hakoakoa"	nil	(((h aa) 0) ((k oo) 1) ((aa) 0) ((k oo) 0) ((@) 0))) 	;;maori
+("haku"	nil	(((h aa) 1) ((k uu) 0))) 	;;maori
+("hakuwai"	nil	(((h aa) 1) ((k @) 0) ((w ai) 0))) 	;;maori
+("hamutana"	nil	(((h aa) 1) ((m uu) 0) ((t aa) 0) ((n @) 0))) 	;;maori
+("handhold"	nil	(((h a n d) 1) ((h o l d) 0)))	;;oul
+("handholding"	nil	(((h a n d) 1) ((h o l d) 1) ((i ng) 0)))	;;oul
+("handholds"	nil	(((h a n d) 1) ((h o l d z) 0)))	;;oul
+("handtool"	nil	(((h a n d) 1) ((t u l) 0)))	;;uul
+("handtools"	nil	(((h a n d) 1) ((t u l z) 0)))	;;uul
+("hangehange"	nil	(((h uh ng) 1) ((e) 0) ((h uh ng) 0) ((ei) 0))) 	;;maori
+("hangi"	nil	(((h uh ng) 1) ((ii) 0))) 	;;maori
+("hani"	nil	(((h a) 1) ((n ii) 0))) 	;;maori
+("hapene"	nil	(((h aa) 1) ((p e) 0) ((n ei) 0))) 	;;maori
+("hapu"	nil	(((h aa) 1) ((p uu) 0))) 	;;maori
+("hapua"	nil	(((h aa) 1) ((p uu) 0) ((@) 0))) 	;;maori
+("hapuku"	nil	(((h aa) 1) ((p uu) 0) ((k uu) 0))) 	;;maori
+("harakeke"	nil	(((h aa) 1) ((r aa) 0) ((k e) 0) ((k ei) 0))) 	;;maori
+("harore"	nil	(((h aa) 1) ((r ou) 0) ((r ei) 0))) 	;;maori
+("hartlepool"	nil	(((h aa t) 1) ((l i) 0) ((p u l) 0)))	;;uul
+("hartlepools"	nil	(((h aa t) 1) ((l i) 0) ((p u l z) 0)))	;;uul
+("hasn't"	nil	(((h a z) 1) ((n! t) 0)))	;;contraction
+("hauama"	nil	(((h ow) 1) ((aa) 0) ((m @) 0))) 	;;maori
+("hauhau"	nil	(((h ow) 1) ((h ow) 0))) 	;;maori
+("haumakoroa"	nil	(((h ow) 1) ((m aa) 0) ((k oo) 0) ((r ou) 0) ((@) 0))) 	;;maori
+("haumata"	nil	(((h ow) 1) ((m aa) 0) ((t^ @) 0))) 	;;maori
+("hauraki"	nil	(((h ow) 1) ((r a) 0) ((k ii) 0))) 	;;maori
+("haurangi"	nil	(((h ow) 1) ((r uh ng) 0) ((ii) 0))) 	;;maori
+("hauture"	nil	(((h aa) 1) ((t uu) 0) ((r ei) 0))) 	;;maori
+("haven't"	nil	(((h a v) 1) ((n! t) 0)))	;;contraction
+("hawaiki"	nil	(((h aa) 0) ((w ai) 1) ((y ii) 0) ((k ii) 0))) 	;;maori
+("he'd"	nil	(((h ii d) 1)))	;;contraction
+("he'll"	nil	(((h ii l) 1)))	;;contraction
+("he's"	nil	(((h ii z) 1)))	;;contraction
+("hei"	nil	(((h e) 1) ((ii) 0))) 	;;maori
+("heke"	nil	(((h e) 1) ((k ei) 0))) 	;;maori
+("heketara"	nil	(((h e) 1) ((k e) 0) ((t aa) 0) ((r @) 0))) 	;;maori
+("hellhole"	nil	(((h a l) 1) ((h o l) 0)))	;;oul
+("hellholes"	nil	(((h a l) 1) ((h o l z) 0)))	;;oul
+("henare"	nil	(((h e) 1) ((n aa) 0) ((r ei) 0))) 	;;maori
+("heruheru"	nil	(((h e) 1) ((r uu) 0) ((h e) 0) ((r uu) 0))) 	;;maori
+("hidey-hole"	nil	(((h ai) 1) ((d ii) 0) ((h o l) 1)))	;;oul
+("hidy-hole"	nil	(((h ai) 1) ((d ii) 0) ((h o l) 1)))	;;oul
+("high-voltage"	nil	(((h ai) 1) ((v o l t) 1) ((i jh) 0)))	;;oul
+("highschool"	nil	(((h ai) 1) ((s k u l) 0)))	;;uul
+("highschools"	nil	(((h ai) 1) ((s k u l z) 0)))	;;uul
+("hihi"	nil	(((h ii) 1) ((h ii) 0))) 	;;maori
+("hiki"	nil	(((h ii) 1) ((k ii) 0))) 	;;maori
+("hikoi"	nil	(((h ii) 1) ((k oo) 0) ((ii) 0))) 	;;maori
+("hiku"	nil	(((h ii) 1) ((k uu) 0))) 	;;maori
+("hinahina"	nil	(((h ii) 1) ((n aa) 0) ((h ii) 0) ((n @) 0))) 	;;maori
+("hinaki"	nil	(((h ii) 1) ((n aa) 0) ((k ii) 0))) 	;;maori
+("hinau"	nil	(((h ii) 1) ((n ow) 0))) 	;;maori
+("hinu"	nil	(((h ii) 1) ((n uu) 0))) 	;;maori
+("hioi"	nil	(((h ii) 1) ((oo) 0) ((ii) 0))) 	;;maori
+("hipi"	nil	(((h ii) 1) ((p ii) 0))) 	;;maori
+("hiwi"	nil	(((h ii) 1) ((w ii) 0))) 	;;maori
+("hiwihiwi"	nil	(((h ii) 1) ((w ii) 0) ((h ii) 0) ((w ii) 0))) 	;;maori
+("hoa"	nil	(((h ou) 1) ((@) 0))) 	;;maori
+("hoha"	nil	(((h ou) 1) ((h aa) 0))) 	;;maori
+("hoiho"	nil	(((h oo) 1) ((ii) 0) ((h oo) 0))) 	;;maori
+("hoka"	nil	(((h oo) 1) ((k @) 0))) 	;;maori
+("hokarari"	nil	(((h oo) 1) ((k aa) 0) ((r aa) 0) ((r ii) 0))) 	;;maori
+("hoki"	nil	(((h ou) 1) ((k ii) 0))) 	;;maori
+("hokianga"	nil	(((h ou) 1) ((k ii) 0) ((uh ng) 0) ((@) 0))) 	;;maori
+("hokioi"	nil	(((h oo) 1) ((k ii) 0) ((oo) 0) ((ii) 0))) 	;;maori
+("hokitika"	nil	(((h o) 0) ((k @) 0) ((t i) 1) ((k @) 0))) 	;;maori
+("hokonui"	nil	(((h o) 1) ((k @) 0) ((n uu) 0) ((ii) 0))) 	;;maori
+("hold"	nil	(((h o l d) 1)))	;;oul
+("hold-up"	nil	(((h o l d) 1) (( uh p) 0)))	;;oul
+("holden"	nil	(((h o l) 1) ((d n!) 0)))	;;oul
+("holder"	nil	(((h o l d) 1) ((@) 0)))	;;oul
+("holders"	nil	(((h o l d) 1) ((@ z) 0)))	;;oul
+("holding"	nil	(((h o l d) 1) ((i ng) 0)))	;;oul
+("holdings"	nil	(((h o l d) 1) ((i ng z) 0)))	;;oul
+("holdouts"	nil	(((h o l d) 1) (( ow t s) 0)))	;;oul
+("holdover"	nil	(((h o l d) 1) ((ou) 1) ((v @) 0)))	;;oul
+("holdovers"	nil	(((h o l d) 1) ((ou) 1) ((v @ z) 0)))	;;oul
+("holds"	nil	(((h o l d z) 1)))	;;oul
+("holdup"	nil	(((h o l d) 1) (( uh p) 0)))	;;oul
+("holdups"	nil	(((h o l d) 1) (( uh p s) 0)))	;;oul
+("hole"	nil	(((h o l) 1)))	;;oul
+("hole-picking"	nil	(((h o l) 1) ((p i k) 1) ((i ng) 0)))	;;oul
+("holeable"	nil	(((h o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("holed"	nil	(((h o l d) 1)))	;;oul
+("holeless"	nil	(((h o l) 1) ((l @ s) 0)))	;;oul
+("holes"	nil	(((h o l z) 1)))	;;oul
+("holey"	nil	(((h o l) 1) ((ii) 0)))	;;oul
+("holier"	nil	(((h o) 1) ((l ii @) 0)))	;;oul
+("holies"	nil	(((h o) 1) ((l ii z) 0)))	;;oul
+("holiest"	nil	(((h o) 1) ((l ii @ s t) 0)))	;;oul
+("holiests"	nil	(((h o) 1) ((l ii @ s t s) 0)))	;;oul
+("holily"	nil	(((h o) 1) ((l @) 0) ((l ii) 0)))	;;oul
+("holiness"	nil	(((h o) 1) ((l ii) 0) ((n @ s) 0)))	;;oul
+("holing"	nil	(((h o l) 1) ((i ng) 0)))	;;oul
+("holism"	nil	(((h o l) 1) ((i) 0) ((z m!) 0)))	;;oul
+("holistic"	nil	(((h o l) 0) ((i) 1) ((s t i k) 0)))	;;oul
+("holman"	nil	(((h o l) 1) ((m @ n) 0)))	;;oul
+("holmium"	nil	(((h o l) 1) ((m ii @ m) 0)))	;;oul
+("holst"	nil	(((h o l s t) 1)))	;;oul
+("holster"	nil	(((h o l) 1) ((s t @) 0)))	;;oul
+("holstered"	nil	(((h o l) 1) ((s t @ d) 0)))	;;oul
+("holsters"	nil	(((h o l) 1) ((s t @ z) 0)))	;;oul
+("holt"	nil	(((h o l t) 1)))	;;oul
+("holy"	nil	(((h o) 1) ((l ii) 0)))	;;oul
+("holyoke"	nil	(((h o) 1) ((l ii) 0) ((ou k) 0)))	;;oul
+("holystone"	nil	(((h o) 1) ((l ii) 0) ((s t ou n) 1)))	;;oul
+("homai"	nil	(((h ou) 1) ((m ai) 0))) 	;;maori
+("homeschooling"	nil	(((h ou m) 1) ((s k u l) 1) ((i ng) 0)))	;;uul
+("hongi"	nil	(((h o ng) 1) ((ii) 0))) 	;;maori
+("hooligan"	nil	(((h @) 1) ((l i) 0) ((g @ n) 0)))	;;uul
+("hooliganise"	nil	(((h @) 1) ((l i) 0) ((g @ n) 0) ((ai z) 0)))	;;uul
+("hooliganism"	nil	(((h @) 1) ((l i) 0) ((g @ n) 0) ((i) 1) ((z m!) 0)))	;;uul
+("hooliganize"	nil	(((h @) 1) ((l i) 0) ((g @ n) 0) ((ai z) 0)))	;;uul
+("hooligans"	nil	(((h @) 1) ((l i) 0) ((g @ n z) 0)))	;;uul
+("hori"	nil	(((h o) 1) ((r ii) 0))) 	;;maori
+("horoeka"	nil	(((h oo) 1) ((r ou) 0) ((e) 0) ((k @) 0))) 	;;maori
+("horokaka"	nil	(((h oo) 1) ((r ou) 0) ((k aa) 0) ((k @) 0))) 	;;maori
+("horopito"	nil	(((h oo) 1) ((r ou) 0) ((p ii) 0) ((t^ ou) 0))) 	;;maori
+("hotete"	nil	(((h ou) 1) ((t e) 0) ((t^ ei) 0))) 	;;maori
+("houhere"	nil	(((h ou) 1) ((h e) 0) ((r ei) 0))) 	;;maori
+("houi"	nil	(((h ou) 1) ((ii) 0))) 	;;maori
+("houpara"	nil	(((h ou) 1) ((p aa) 0) ((r @) 0))) 	;;maori
+("household"	nil	(((h ow s) 1) ((h o l d) 0)))	;;oul
+("householder"	nil	(((h ow s) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("householders"	nil	(((h ow s) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("households"	nil	(((h ow s) 1) ((h o l d z) 0)))	;;oul
+("huahua"	nil	(((h uu) 1) ((aa) 0) ((h uu) 0) ((@) 0))) 	;;maori
+("huakaroro"	nil	(((h uu) 1) ((aa) 0) ((k aa) 0) ((r ou) 1) ((r ou) 0))) 	;;maori
+("huhu"	nil	(((h uu) 1) ((h uu) 0))) 	;;maori
+("hui"	nil	(((h uu) 1) ((ii) 0))) 	;;maori
+("huia"	nil	(((h uu) 1) ((i) 0) ((@) 0))) 	;;maori
+("huihuinga"	nil	(((h uu) 1) ((ii) 0) ((h uu) 1) ((ii ng) 0) ((@) 0))) 	;;maori
+("humboldt"	nil	(((h uh m) 1) ((b o l t) 0)))	;;oul
+("hundredfold"	nil	(((h uh n) 1) ((d r @ d) 0) ((f o l d) 1)))	;;oul
+("hune"	nil	(((h uu) 1) ((n ei) 0))) 	;;maori
+("huperei"	nil	(((h uu) 1) ((p e) 0) ((r e) 0) ((ii) 0))) 	;;maori
+("hupiro"	nil	(((h uu) 1) ((p ii) 0) ((r ou) 0))) 	;;maori
+("hutiwai"	nil	(((h uu) 1) ((t^ i) 0) ((w ai) 0))) 	;;maori
+("hutu"	nil	(((h uu) 1) ((t uu) 0))) 	;;maori
+("i'd"	nil	(((ai d) 1)))	;;contraction
+("i'll"	nil	(((ai l) 1)))	;;contraction
+("i'm"	nil	(((ai m) 1)))	;;contraction
+("i've"	nil	(((ai v) 1)))	;;contraction
+("ice-cold"	nil	((( ai s) 0) ((k o l d) 1)))	;;oul
+("ihe"	nil	(((ii) 1) ((h ei) 0))) 	;;maori
+("ihi"	nil	(((ii) 1) ((h ii) 0))) 	;;maori
+("iho"	nil	(((ii) 1) ((h ou) 0))) 	;;maori
+("ihupuku"	nil	(((ii) 0) ((h uu) 1) ((p uu) 0) ((k uu) 0))) 	;;maori
+("ika"	nil	(((ii) 1) ((k @) 0))) 	;;maori
+("imbroglio"	nil	(((i m) 0) ((b r o) 1) ((l y ou) 0)))	;;oul
+("imbroglios"	nil	(((i m) 0) ((b r o) 1) ((l y ou z) 0)))	;;oul
+("inanga"	nil	(((i) 0) ((n uh ng) 1) ((@) 0))) 	;;maori
+("inconsolable"	nil	(((i n) 1) ((k @ n) 0) ((s o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("inconsolableness"	nil	(((i n) 1) ((k @ n) 0) ((s o l) 1) ((@) 0) ((b l!) 0) ((n @ s) 0)))	;;oul
+("inconsolably"	nil	(((i n) 1) ((k @ n) 0) ((s o l) 1) ((@) 0) ((b l ii) 0)))	;;oul
+("incontrollable"	nil	(((i n) 1) ((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("incontrollably"	nil	(((i n) 1) ((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l ii) 0)))	;;oul
+("inholding"	nil	(((i ng) 1) ((h o l d) 0) ((i ng) 0)))	;;oul
+("inkholder"	nil	(((i ng k) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("interpolar"	nil	(((i n) 1) ((t @) 0) ((p o l) 1) ((@) 0)))	;;oul
+("isn't"	nil	(((i z) 1) ((n! t) 0)))	;;contraction
+("isosorbide"	nil	(((ai) 2) ((s @) 0) ((s oo) 1) ((b ai d) 0))) 	;;drug
+("it's"	nil	(((i t s) 1)))	;;contraction
+("iti"	nil	(((ii) 1) ((t^ ii) 0))) 	;;maori
+("iwi"	nil	(((ii) 1) ((w ii) 0))) 	;;maori
+("jobholder"	nil	(((jh o b) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("jobholders"	nil	(((jh o b) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("jolt"	nil	(((jh o l t) 1)))	;;oul
+("jolted"	nil	(((jh o l t) 1) ((@ d) 0)))	;;oul
+("jolting"	nil	(((jh o l t) 1) ((i ng) 0)))	;;oul
+("joltingly"	nil	(((jh o l t) 1) ((i ng) 0) ((l ii) 0)))	;;oul
+("jolts"	nil	(((jh o l t s) 1)))	;;oul
+("jolty"	nil	(((jh o l t) 1) ((ii) 0)))	;;oul
+("joule"	nil	(((jh u l) 1)))	;;uul
+("joules"	nil	(((jh u l z) 1)))	;;uul
+("ka"	nil	(((k aa) 1))) 	;;maori
+("kaeo"	nil	(((k aa) 1) ((i) 0) ((ou) 0))) 	;;maori
+("kaha"	nil	(((k aa) 1) ((h aa) 0))) 	;;maori
+("kahakaha"	nil	(((k aa) 1) ((h aa) 0) ((k aa) 0) ((h aa) 0))) 	;;maori
+("kahawai"	nil	(((k aa) 1) ((w ai) 0))) 	;;maori
+("kahika"	nil	(((k aa) 1) ((h ii) 0) ((k @) 0))) 	;;maori
+("kahikatea"	nil	(((k @) 0) ((h i) 2) ((k @) 0) ((t ii) 1) ((@) 0))) 	;;maori
+("kahikatoa"	nil	(((k @) 0) ((h i) 2) ((k @) 0) ((t ou) 1) ((@) 0))) 	;;maori
+("kahu"	nil	(((k aa) 1) ((h uu) 0))) 	;;maori
+("kai"	nil	(((k ai) 1))) 	;;maori
+("kaiaia"	nil	(((k ai) 0) ((ai) 1) ((@) 0))) 	;;maori
+("kaiawhina"	nil	(((k ai) 0) ((aa) 1) ((f ii) 0) ((n @) 0))) 	;;maori
+("kaihautu"	nil	(((k ai) 0) ((@) 0) ((uu) 0) ((t^ uu) 1))) 	;;maori
+("kaihua"	nil	(((k ai) 1) ((h uu) 0) ((@) 0))) 	;;maori
+("kaikai"	nil	(((k ai) 1) ((k ai) 0))) 	;;maori
+("kaikawaka"	nil	(((k ai) 1) ((k aa) 0) ((w aa) 0) ((k @) 0))) 	;;maori
+("kaikomako"	nil	(((k ai) 0) ((k @) 0) ((m aa) 1) ((k ou) 0))) 	;;maori
+("kaiku"	nil	(((k ai) 0) ((k uu) 1))) 	;;maori
+("kaimanawa"	nil	(((k ai) 0) ((m aa) 1) ((n @) 0) ((w @) 0))) 	;;maori
+("kainga"	nil	(((k ai ng) 1) ((@) 0))) 	;;maori
+("kaitaka"	nil	(((k ai) 1) ((t aa) 0) ((k @) 0))) 	;;maori
+("kaitiaki"	nil	(((k ai) 0) ((t ii) 1) ((@) 0) ((k ii) 0))) 	;;maori
+("kaitiakitanga"	nil	(((k ai) 0) ((t ii) 1) ((@) 0) ((k ii) 0) ((t uh ng) 2) ((@) 0))) 	;;maori
+("kaiwhakahaere"	nil	(((k ai) 1) ((f aa) 0) ((k aa) 0) ((h ai) 1) ((r ei) 0))) 	;;maori
+("kaiwhiria"	nil	(((k ai) 1) ((f ii) 0) ((r ii) 0) ((@) 0))) 	;;maori
+("kaka"	nil	(((k aa) 1) ((k @) 0))) 	;;maori
+("kakaha"	nil	(((k aa) 1) ((k aa) 0) ((h aa) 0))) 	;;maori
+("kakahi"	nil	(((k aa) 1) ((k aa) 0) ((h ii) 0))) 	;;maori
+("kakaho"	nil	(((k aa) 1) ((k aa) 0) ((h oo) 0))) 	;;maori
+("kakahu"	nil	(((k aa) 1) ((k aa) 0) ((h uu) 0))) 	;;maori
+("kakapo"	nil	(((k aa) 1) ((k @) 0) ((p ou) 0))) 	;;maori
+("kakariki"	nil	(((k aa) 0) ((k @) 0) ((r ii) 1) ((k ii) 0))) 	;;maori
+("kaki"	nil	(((k aa) 0) ((k ii) 1))) 	;;maori
+("kamahi"	nil	(((k aa) 1) ((m @) 0) ((h ii) 0))) 	;;maori
+("kamokamo"	nil	(((k aa) 1) ((m oo) 0) ((k aa) 0) ((m oo) 0))) 	;;maori
+("kanae"	nil	(((k aa) 1) ((n aa) 0) ((ei) 0))) 	;;maori
+("kanakana"	nil	(((k aa) 1) ((n aa) 0) ((k aa) 0) ((n @) 0))) 	;;maori
+("kanga"	nil	(((k uh ng) 1) ((@) 0))) 	;;maori
+("kanono"	nil	(((k aa) 1) ((n oo) 0) ((n oo) 0))) 	;;maori
+("kanuka"	nil	(((k aa) 1) ((n uu) 0) ((k @) 0))) 	;;maori
+("kao"	nil	(((k ow) 1))) 	;;maori
+("kapa"	nil	(((k aa) 1) ((p @) 0))) 	;;maori
+("kapai"	nil	(((k aa) 0) ((p ai) 1))) 	;;maori
+("kapeta"	nil	(((k aa) 1) ((p e) 0) ((t aa) 2))) 	;;maori
+("kapia"	nil	(((k aa) 1) ((p ii) 0) ((@) 0))) 	;;maori
+("kapuka"	nil	(((k aa) 1) ((p uu) 0) ((k @) 0))) 	;;maori
+("karaka"	nil	(((k @) 0) ((r aa) 1) ((k @) 0))) 	;;maori
+("karakahia"	nil	(((k aa) 0) ((r aa) 1) ((k aa) 0) ((h ii) 0) ((@) 0))) 	;;maori
+("karakia"	nil	(((k aa) 0) ((r @) 0) ((k ii) 1) ((@) 0))) 	;;maori
+("karamu"	nil	(((k @) 0) ((r aa) 1) ((m uu) 0))) 	;;maori
+("karanga"	nil	(((k aa) 1) ((r uh ng) 0) ((@) 0))) 	;;maori
+("kareao"	nil	(((k aa) 1) ((r e) 0) ((ow) 0))) 	;;maori
+("karearea"	nil	(((k @) 0) ((r e) 1) ((i @) 0) ((r e) 0) ((i @) 0))) 	;;maori
+("karengo"	nil	(((k aa) 1) ((r e ng) 0) ((oo) 0))) 	;;maori
+("karetu"	nil	(((k aa) 1) ((r e) 0) ((t uu) 0))) 	;;maori
+("karitane"	nil	(((k aa) 0) ((r @) 0) ((t aa) 1) ((n ii) 0))) 	;;maori
+("karo"	nil	(((k aa) 1) ((r ou) 0))) 	;;maori
+("karoro"	nil	(((k aa) 1) ((r ou) 0) ((r ou) 0))) 	;;maori
+("karuhiruhi"	nil	(((k aa) 0) ((r uu) 1) ((h ii) 0) ((r uu) 0) ((h ii) 0))) 	;;maori
+("karuparera"	nil	(((k aa) 0) ((r uu) 0) ((p aa) 1) ((r e) 0) ((r @) 0))) 	;;maori
+("kataitai"	nil	(((k @) 0) ((t ai) 1) ((t ai) 0))) 	;;maori
+("katipo"	nil	(((k a) 1) ((t i) 0) ((p ou) 0))) 	;;maori
+("katoa"	nil	(((k aa) 1) ((t ou) 0) ((@) 0))) 	;;maori
+("katote"	nil	(((k aa) 1) ((t oo) 0) ((t ei) 0))) 	;;maori
+("kauhanganui"	nil	(((k ow) 0) ((h uh ng) 1) ((@) 0) ((n uu) 0) ((ii) 0))) 	;;maori
+("kaumatua"	nil	(((k ow) 0) ((m aa) 1) ((t uu) 0) ((@) 0))) 	;;maori
+("kaupapa"	nil	(((k ow) 1) ((p aa) 0) ((p @) 0))) 	;;maori
+("kaurehe"	nil	(((k ow) 1) ((r e) 0) ((h ei) 0))) 	;;maori
+("kauri"	nil	(((k ow) 1) ((r ii) 0))) 	;;maori
+("kauru"	nil	(((k ow) 1) ((r uu) 0))) 	;;maori
+("kauta"	nil	(((k ow) 1) ((t^ @) 0))) 	;;maori
+("kawa"	nil	(((k aa) 1) ((w @) 0))) 	;;maori
+("kawaka"	nil	(((k aa) 1) ((w aa) 0) ((k @) 0))) 	;;maori
+("kawakawa"	nil	(((k aa) 1) ((w aa) 0) ((k aa) 0) ((w @) 0))) 	;;maori
+("kawana"	nil	(((k aa) 1) ((w a) 0) ((n @) 0))) 	;;maori
+("kawanatanga"	nil	(((k aa) 1) ((w aa) 0) ((n aa) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("kawau"	nil	(((k aa) 1) ((w ow) 0))) 	;;maori
+("kawaupaka"	nil	(((k aa) 1) ((w ow) 0) ((p aa) 1) ((k @) 0))) 	;;maori
+("kawe"	nil	(((k aa) 1) ((w ei) 0))) 	;;maori
+("kawekawea"	nil	(((k aa) 0) ((w e) 0) ((k aa) 0) ((w e) 0) ((aa) 1))) 	;;maori
+("kea"	nil	(((k ii) 1) ((@) 0))) 	;;maori
+("kehe"	nil	(((k e) 1) ((h ei) 0))) 	;;maori
+("kehua"	nil	(((k e) 1) ((h uu) 0) ((@) 0))) 	;;maori
+("kekeno"	nil	(((k e) 1) ((k e) 0) ((n oo) 0))) 	;;maori
+("kekerengu"	nil	(((k e) 1) ((k e) 0) ((r e ng) 0) ((uu) 0))) 	;;maori
+("keketerehe"	nil	(((k e) 0) ((k e) 0) ((t e) 1) ((r e) 0) ((h ei) 0))) 	;;maori
+("kereru"	nil	(((k e) 0) ((r e) 0) ((r uu) 1))) 	;;maori
+("kerewai"	nil	(((k e) 1) ((r e) 0) ((w ai) 0))) 	;;maori
+("kete"	nil	(((k e) 1) ((t ei) 0))) 	;;maori
+("key-hole"	nil	(((k ii) 1) ((h o l) 0)))	;;oul
+("key-holes"	nil	(((k ii) 1) ((h o l z) 0)))	;;oul
+("keyhole"	nil	(((k ii) 1) ((h o l) 0)))	;;oul
+("keyholes"	nil	(((k ii) 1) ((h o l z) 0)))	;;oul
+("kia"	nil	(((k ii) 1) ((@) 0))) 	;;maori
+("kiekie"	nil	(((k i) 1) ((@) 0) ((k i) 0) ((@) 0))) 	;;maori
+("kilojoule"	nil	(((k i) 1) ((l @) 0) ((jh u l) 1)))	;;uul
+("kilojoules"	nil	(((k i) 1) ((l @) 0) ((jh u l z) 1)))	;;uul
+("kilovolt"	nil	(((k i) 1) ((l @) 0) ((v o l t) 1)))	;;oul
+("kilovolts"	nil	(((k i) 1) ((l @) 0) ((v o l t s) 1)))	;;oul
+("kina"	nil	(((k ii) 1) ((n @) 0))) 	;;maori
+("kinaki"	nil	(((k ii) 1) ((n aa) 0) ((k ii) 0))) 	;;maori
+("kingitanga"	nil	(((k i ng) 1) ((ii) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("kiokio"	nil	(((k ii) 1) ((oo) 0) ((k ii) 0) ((oo) 0))) 	;;maori
+("kiore"	nil	(((k ii) 1) ((oo) 0) ((r ei) 0))) 	;;maori
+("kirikiriroa"	nil	(((k ii) 1) ((r ii) 0) ((k ii) 0) ((r ii) 0) ((r ou) 0) ((@) 0))) 	;;maori
+("kirimate"	nil	(((k i) 0) ((r i) 0) ((m a) 1) ((t^ ii) 0))) 	;;maori
+("kirimoko"	nil	(((k ii) 1) ((r ii) 0) ((m ou) 0) ((k ou) 0))) 	;;maori
+("kite"	nil	(((k ii) 1) ((t ei) 0))) 	;;maori
+("kiwakiwa"	nil	(((k ii) 1) ((w aa) 0) ((k ii) 0) ((w @) 0))) 	;;maori
+("kiwi"	nil	(((k ii) 1) ((w ii) 0))) 	;;maori
+("kneehole"	nil	(((n ii) 1) ((h o l) 0)))	;;oul
+("kneeholes"	nil	(((n ii) 1) ((h o l z) 0)))	;;oul
+("knoll"	nil	(((n o l) 1)))	;;oul
+("knolls"	nil	(((n o l z) 1)))	;;oul
+("knothole"	nil	(((n o t) 1) ((h o l) 0)))	;;oul
+("knotholes"	nil	(((n o t) 1) ((h o l z) 0)))	;;oul
+("ko"	nil	(((k oo) 1))) 	;;maori
+("koarea"	nil	(((k oo) 1) ((aa) 0) ((r e) 0) ((@) 0))) 	;;maori
+("koaro"	nil	(((k oo) 1) ((aa) 0) ((r ou) 0))) 	;;maori
+("koauau"	nil	(((k oo) 0) ((ow) 1) ((ow) 0))) 	;;maori
+("koekoea"	nil	(((k oo) 0) ((e) 0) ((k oo) 0) ((e) 0) ((aa) 1))) 	;;maori
+("koha"	nil	(((k oo) 1) ((h aa) 0))) 	;;maori
+("kohanga"	nil	(((k oo) 1) ((h uh ng) 0) ((@) 0))) 	;;maori
+("kohekohe"	nil	(((k ou) 1) ((i) 0) ((k ou) 0) ((i) 0))) 	;;maori
+("kohepiro"	nil	(((k oo) 1) ((h e) 0) ((p ii) 0) ((r ou) 0))) 	;;maori
+("koheru"	nil	(((k oo) 1) ((h e) 0) ((r uu) 0))) 	;;maori
+("kohia"	nil	(((k oo) 1) ((h ii) 0) ((@) 0))) 	;;maori
+("kohikohi"	nil	(((k oo) 1) ((h ii) 0) ((k oo) 0) ((h ii) 0))) 	;;maori
+("kohl"	nil	(((k o l) 1)))	;;oul
+("kohlberg"	nil	(((k o l) 1) ((b @@r g) 0)))	;;oul
+("kohlbergs"	nil	(((k o l) 1) ((b @@r g z) 0)))	;;oul
+("kohler"	nil	(((k o) 1) ((l @) 0)))	;;oul
+("kohlers"	nil	(((k o) 1) ((l @ z) 0)))	;;oul
+("kohlrabi"	nil	(((k o l) 0) ((r aa) 1) ((b ii) 0)))	;;oul
+("kohls"	nil	(((k o l z) 1)))	;;oul
+("kohoperoa"	nil	(((k oo) 1) ((h oo) 0) ((p e) 0) ((r ou) 0) ((@) 0))) 	;;maori
+("kohua"	nil	(((k oo) 1) ((h uu) 0) ((@) 0))) 	;;maori
+("kohuhu"	nil	(((k oo) 0) ((h uu) 1) ((h uu) 0))) 	;;maori
+("kohukohu"	nil	(((k oo) 1) ((h uu) 0) ((k oo) 0) ((h uu) 0))) 	;;maori
+("kohutuhutu"	nil	(((k @) 0) ((h uu) 1) ((t^ uu) 0) ((h uu) 0) ((t^ uu) 0))) 	;;maori
+("koinga"	nil	(((k oo) 1) ((ii ng) 0) ((@) 0))) 	;;maori
+("koitareke"	nil	(((k oi) 0) ((t^ @) 0) ((r e) 1) ((k i) 0))) 	;;maori
+("koiwi"	nil	(((k oo) 1) ((ii) 0) ((w ii) 0))) 	;;maori
+("kokako"	nil	(((k oo) 1) ((k aa) 0) ((k oo) 0))) 	;;maori
+("kokihi"	nil	(((k oo) 1) ((k ii) 0) ((h ii) 0))) 	;;maori
+("kokiri"	nil	(((k oo) 1) ((k ii) 0) ((r ii) 0))) 	;;maori
+("kokomuka"	nil	(((k oo) 1) ((k oo) 0) ((m uu) 0) ((k @) 0))) 	;;maori
+("kokopara"	nil	(((k oo) 1) ((k oo) 0) ((p aa) 0) ((r @) 0))) 	;;maori
+("kokopu"	nil	(((k oo) 1) ((k oo) 0) ((p uu) 0))) 	;;maori
+("kokori"	nil	(((k ou) 1) ((k ou) 0) ((r ii) 0))) 	;;maori
+("kokowai"	nil	(((k oo) 1) ((k oo) 0) ((w ai) 0))) 	;;maori
+("kola"	nil	(((k o) 1) ((l @) 0)))	;;oul
+("kolas"	nil	(((k o) 1) ((l @ z) 0)))	;;oul
+("komate"	nil	(((k ou) 1) ((m aa) 0) ((t ei) 0))) 	;;maori
+("komiti"	nil	(((k ou) 1) ((m i) 0) ((t ii) 0))) 	;;maori
+("konaki"	nil	(((k ou) 0) ((n aa) 1) ((k ii) 0))) 	;;maori
+("konini"	nil	(((k ou) 0) ((n i) 1) ((n ii) 0))) 	;;maori
+("kono"	nil	(((k oo) 1) ((n oo) 0))) 	;;maori
+("kopa"	nil	(((k ou) 1) ((p @) 0))) 	;;maori
+("kopakopa"	nil	(((k oo) 1) ((p aa) 0) ((k oo) 0) ((p @) 0))) 	;;maori
+("kopapa"	nil	(((k oo) 1) ((p aa) 0) ((p @) 0))) 	;;maori
+("kopata"	nil	(((k oo) 1) ((p aa) 0) ((t^ @) 0))) 	;;maori
+("kopi"	nil	(((k ou) 1) ((p ii) 0))) 	;;maori
+("kopiro"	nil	(((k ou) 1) ((p ii) 0) ((r ou) 0))) 	;;maori
+("kopukapuka"	nil	(((k oo) 0) ((p uu) 1) ((k aa) 0) ((p uu) 0) ((k @) 0))) 	;;maori
+("kopuru"	nil	(((k ou) 1) ((p uu) 0) ((r uu) 0))) 	;;maori
+("koputotara"	nil	(((k oo) 0) ((p uu) 0) ((t oo) 1) ((t aa) 0) ((r @) 0))) 	;;maori
+("korari"	nil	(((k @) 0) ((r aa) 1) ((r ii) 0))) 	;;maori
+("korau"	nil	(((k oo) 1) ((r ow) 0))) 	;;maori
+("koreke"	nil	(((k oo) 1) ((r e) 0) ((k ei) 0))) 	;;maori
+("korero"	nil	(((k oo) 0) ((r e) 1) ((r ou) 0))) 	;;maori
+("korerorero"	nil	(((k o) 0) ((r e) 1) ((r ou) 0) ((r e) 0) ((r ou) 0))) 	;;maori
+("korikori"	nil	(((k oo) 1) ((r ii) 0) ((k oo) 0) ((r ii) 0))) 	;;maori
+("korimako"	nil	(((k o) 0) ((r @) 0) ((m aa) 1) ((k ou) 0))) 	;;maori
+("koro"	nil	(((k oo) 1) ((r ou) 0))) 	;;maori
+("koroi"	nil	(((k oo) 0) ((r ou) 0) ((ii) 1))) 	;;maori
+("korokio"	nil	(((k oo) 1) ((r ou) 0) ((k ii) 0) ((oo) 0))) 	;;maori
+("korokoro"	nil	(((k oo) 1) ((r ou) 0) ((k oo) 0) ((r ou) 0))) 	;;maori
+("korokoro-pounamu"	nil	(((k oo) 1) ((r ou) 0) ((k oo) 0) ((r ou) 0) ((p ou) 1) ((n aa) 0) ((m uu) 0))) 	;;maori
+("koromiko"	nil	(((k oo) 1) ((r ou) 0) ((m ii) 0) ((k oo) 0))) 	;;maori
+("korora"	nil	(((k oo) 0) ((r ou) 0) ((r aa) 1))) 	;;maori
+("korotangi"	nil	(((k oo) 1) ((r @) 0) ((t uh ng) 0) ((ii) 0))) 	;;maori
+("koroua"	nil	(((k oo) 1) ((r ou) 0) ((uu) 0) ((@) 0))) 	;;maori
+("korowai"	nil	(((k oo) 1) ((r ou) 0) ((w ai) 0))) 	;;maori
+("koru"	nil	(((k oo) 1) ((r uu) 0))) 	;;maori
+("koruru"	nil	(((k oo) 1) ((r uu) 0) ((r uu) 0))) 	;;maori
+("kotahitanga"	nil	(((k oo) 1) ((t aa) 0) ((h ii) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("kotare"	nil	(((k oo) 1) ((t aa) 0) ((r ei) 0))) 	;;maori
+("kotero"	nil	(((k oo) 1) ((t e) 0) ((r ou) 0))) 	;;maori
+("kotuku"	nil	(((k ou) 1) ((t^ @) 0) ((k uu) 0))) 	;;maori
+("kotuku-ngutupapa"	nil	(((k oo) 1) ((t uu) 0) ((k uu ng) 0) ((uu) 1) ((t uu) 0) ((p aa) 0) ((p @) 0))) 	;;maori
+("kotukutuku"	nil	(((k oo) 0) ((t uu) 1) ((k uu) 0) ((t uu) 0) ((k uu) 0))) 	;;maori
+("kouka"	nil	(((k ou) 1) ((k @) 0))) 	;;maori
+("koukou"	nil	(((k ou) 1) ((k ou) 0))) 	;;maori
+("koura"	nil	(((k ou) 1) ((r @) 0))) 	;;maori
+("koutou"	nil	(((k ou) 1) ((t ou) 0))) 	;;maori
+("kowhai"	nil	(((k oo) 1) ((f ai) 0))) 	;;maori
+("kowhaiwhai"	nil	(((k oo) 0) ((f ai) 1) ((f ai) 0))) 	;;maori
+("kowharawhara"	nil	(((k oo) 0) ((f aa) 1) ((r aa) 0) ((f aa) 0) ((r @) 0))) 	;;maori
+("kowiniwini"	nil	(((k oo) 0) ((w ii) 1) ((n ii) 0) ((w ii) 0) ((n ii) 0))) 	;;maori
+("kuaka"	nil	(((k uu) 1) ((aa) 0) ((k @) 0))) 	;;maori
+("kui"	nil	(((k uu) 1) ((ii) 0))) 	;;maori
+("kuia"	nil	(((k uu) 1) ((ii) 0) ((@) 0))) 	;;maori
+("kuku"	nil	(((k uu) 1) ((k uu) 0))) 	;;maori
+("kukupa"	nil	(((k uu) 1) ((k uu) 0) ((p @) 0))) 	;;maori
+("kukuruata"	nil	(((k uu) 0) ((k uu) 0) ((r uu) 1) ((aa) 0) ((t^ @) 0))) 	;;maori
+("kumara"	nil	(((k uu m) 1) ((r @) 0))) 	;;maori
+("kumarahou"	nil	(((k uu) 1) ((m aa) 0) ((r aa) 0) ((h ou) 0))) 	;;maori
+("kumi"	nil	(((k uu) 1) ((m ii) 0))) 	;;maori
+("kumukumu"	nil	(((k uu) 1) ((m uu) 0) ((k uu) 0) ((m uu) 0))) 	;;maori
+("kune"	nil	(((k uu) 1) ((n ei) 0))) 	;;maori
+("kupae"	nil	(((k uu) 1) ((p ai) 0))) 	;;maori
+("kupapa"	nil	(((k uu) 1) ((p aa) 0) ((p @) 0))) 	;;maori
+("kuparu"	nil	(((k uu) 1) ((p aa) 0) ((r uu) 0))) 	;;maori
+("kupe"	nil	(((k uu) 1) ((p ei) 0))) 	;;maori
+("kura"	nil	(((k uu) 1) ((r @) 0))) 	;;maori
+("kuri"	nil	(((k uu) 1) ((r ii) 0))) 	;;maori
+("kurikuri"	nil	(((k uu) 1) ((r ii) 0) ((k uu) 0) ((r ii) 0))) 	;;maori
+("kuruwhengi"	nil	(((k uu) 1) ((r uu) 0) ((f e ng) 0) ((ii) 0))) 	;;maori
+("kutai"	nil	(((k uu) 1) ((t ai) 0))) 	;;maori
+("kutu"	nil	(((k uu) 1) ((t uu) 0))) 	;;maori
+("lampholder"	nil	(((l a m p) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("lampholders"	nil	(((l a m p) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("landhold"	nil	(((l a n d) 1) ((h o l d) 0)))	;;oul
+("landholder"	nil	(((l a n d) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("landholders"	nil	(((l a n d) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("landholding"	nil	(((l a n d) 1) ((h o l d) 1) ((i ng) 0)))	;;oul
+("landholdings"	nil	(((l a n d) 1) ((h o l d) 0) ((i ng z) 0)))	;;oul
+("lasix"	nil	(((l a) 1) ((s i k s) 0))) 	;;drug
+("latanoprost"	nil	(((l @) 0) ((t a) 1) ((n @) 0) ((p r o s t) 2))) 	;;drug
+("laxol"	nil	(((l a k) 1) ((s o l) 0))) 	;;drug
+("leasehold"	nil	(((l ii s) 1) ((h o l d) 0)))	;;oul
+("leaseholder"	nil	(((l ii s) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("leaseholders"	nil	(((l ii s) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("leaseholds"	nil	(((l ii s) 1) ((h o l d z) 0)))	;;oul
+("leopold"	nil	(((l e @) 1) ((p o l d) 0)))	;;beer-bear,oul
+("let's"	nil	(((l e t s) 1)))	;;contraction
+("linoleum"	nil	(((l i) 0) ((n o) 1) ((l ii @ m) 0)))	;;oul
+("linoleums"	nil	(((l i) 0) ((n o) 1) ((l ii @ m z) 0)))	;;oul
+("lipitor"	nil	(((l i) 1) ((p @) 0) ((t oo) 2))) 	;;drug
+("liverpool"	nil	(((l i) 1) ((v @) 0) ((p u l) 0)))	;;uul
+("lola"	nil	(((l o) 1) ((l @) 0)))	;;oul
+("lolas"	nil	(((l o) 1) ((l @ z) 0)))	;;oul
+("lolita"	nil	(((l o) 0) ((l ii) 1) ((t^ @) 0)))	;;oul
+("loophole"	nil	(((l uu p) 1) ((h o l) 0)))	;;oul
+("loopholes"	nil	(((l uu p) 1) ((h o l z) 0)))	;;oul
+("loperamide"	nil	(((l @) 0) ((p e) 1) ((r @) 0) ((m ai d) 2))) 	;;drug
+("lymeswold"	nil	(((l ai m z) 1) ((w o l d) 0)))	;;oul
+("macrolevel"	nil	(((m a) 1) ((k r o) 0) ((l e) 1) ((v l!) 0)))	;;oul
+("maeroero"	nil	(((m aa) 1) ((e) 0) ((r ou) 0) ((e) 0) ((r ou) 0))) 	;;maori
+("magnolia"	nil	(((m a g) 0) ((n o) 1) ((l y @) 0)))	;;oul
+("magnolias"	nil	(((m a g) 0) ((n o) 1) ((l y @ z) 0)))	;;oul
+("mahi"	nil	(((m aa) 1) ((h ii) 0))) 	;;maori
+("mahoe"	nil	(((m aa) 0) ((h ou) 1) ((ii) 0))) 	;;maori
+("mahue"	nil	(((m aa) 1) ((h uu) 0) ((ii) 0))) 	;;maori
+("mahuta"	nil	(((m @) 0) ((h uu) 1) ((t^ @) 0))) 	;;maori
+("mai"	nil	(((m ai) 1))) 	;;maori
+("maihi"	nil	(((m ai) 1) ((h ii) 0))) 	;;maori
+("maika"	nil	(((m ai) 1) ((k @) 0))) 	;;maori
+("maikaika"	nil	(((m ai) 1) ((k ai) 0) ((k @) 0))) 	;;maori
+("mailfolder"	nil	(((m ei l) 1) ((f o l d) 1) ((@) 0)))	;;oul
+("mailfolders"	nil	(((m ei l) 1) ((f o l d) 1) ((@ z) 0)))	;;oul
+("mailspool"	nil	(((m ei l) 1) ((s p u l) 0)))	;;uul
+("mailspools"	nil	(((m ei l) 1) ((s p u l z) 0)))	;;uul
+("maire"	nil	(((m ai) 1) ((r ei) 0))) 	;;maori
+("mairehau"	nil	(((m ai) 1) ((r e) 0) ((h ow) 0))) 	;;maori
+("makaka"	nil	(((m aa) 1) ((k aa) 0) ((k @) 0))) 	;;maori
+("makamaka"	nil	(((m aa) 1) ((k aa) 0) ((m aa) 0) ((k @) 0))) 	;;maori
+("makariri"	nil	(((m aa) 1) ((k aa) 0) ((r i) 0) ((r ii ) 2))) 	;;maori
+("mako"	nil	(((m aa) 1) ((k ou) 0))) 	;;maori
+("makomako"	nil	(((m aa) 1) ((k ou) 0) ((m aa) 0) ((k ou) 0))) 	;;maori
+("makutu"	nil	(((m aa) 1) ((k uu) 0) ((t uu) 0))) 	;;maori
+("malvolio"	nil	(((m a l) 0) ((v o) 1) ((l ii) 0) ((ou) 0)))	;;oul
+("mamaku"	nil	(((m aa) 1) ((m aa) 0) ((k uu) 0))) 	;;maori
+("mamangi"	nil	(((m aa) 1) ((m uh ng) 0) ((ii) 0))) 	;;maori
+("mana"	nil	(((m aa) 1) ((n @) 0))) 	;;maori
+("manaakitanga"	nil	(((m a) 1) ((n aa) 0) ((aa) 0) ((k ii) 0) ((t uh ng) 1) ((@) 0))) 	;;maori
+("manaia"	nil	(((m aa) 1) ((n ai) 1) ((@) 0))) 	;;maori
+("manamoana"	nil	(((m a) 1) ((n aa) 0) ((m ou) 0) ((a) 1) ((n @) 0))) 	;;maori
+("manatu"	nil	(((m aa) 0) ((n aa) 0) ((t uu) 1))) 	;;maori
+("manawa"	nil	(((m aa) 1) ((n aa) 0) ((w @) 0))) 	;;maori
+("mangai"	nil	(((m uh ng) 1) ((ai) 0))) 	;;maori
+("mangeao"	nil	(((m uh ng) 0) ((e) 1) ((ow) 0))) 	;;maori
+("mangemange"	nil	(((m uh ng) 1) ((e) 0) ((m uh ng) 0) ((ei) 0))) 	;;maori
+("mangere"	nil	(((m uh ng) 1) ((@) 0) ((r ii) 0))) 	;;maori
+("mango"	nil	(((m uh ng) 1) ((ou) 0))) 	;;maori
+("mangopare"	nil	(((m uh ng) 1) ((ou) 0) ((p aa) 1) ((r ei) 0))) 	;;maori
+("manhole"	nil	(((m a n) 1) ((h o l) 0)))	;;oul
+("manholes"	nil	(((m a n) 1) ((h o l z) 0)))	;;oul
+("manifold"	nil	(((m a) 1) ((n @) 0) ((f o l d) 0)))	;;oul
+("manifolding"	nil	(((m a) 1) ((n @) 0) ((f o l d) 1) ((i ng) 0)))	;;oul
+("manifoldly"	nil	(((m a) 1) ((n @) 0) ((f o l d) 1) ((l ii) 0)))	;;oul
+("manifolds"	nil	(((m a) 1) ((n @) 0) ((f o l d z) 0)))	;;oul
+("manoao"	nil	(((m uh) 1) ((n @) 0) ((w aa) 0) ((u) 0))) 	;;maori
+("manono"	nil	(((m aa) 1) ((n oo) 0) ((n oo) 0))) 	;;maori
+("manuhiri"	nil	(((m aa) 1) ((n uu) 0) ((h ii) 0) ((r ii) 0))) 	;;maori
+("manuka"	nil	(((m @) 0) ((n uu) 1) ((k @) 0))) 	;;maori
+("manuka-rauriki"	nil	(((m a) 0) ((n uu) 1) ((k aa) 0) ((r ow) 0) ((r ii) 1) ((k ii) 0))) 	;;maori
+("maomao"	nil	(((m aa) 1) ((oo) 0) ((m ow) 0))) 	;;maori
+("maori"	nil	(((m ow) 1) ((r ii) 0))) 	;;maori
+("maoritanga"	nil	(((m aa) 1) ((u) 0) ((r ii) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("mapau"	nil	(((m aa) 1) ((p aa) 0) ((u) 0))) 	;;maori
+("marae"	nil	(((m uh) 0) ((r ai) 1))) 	;;maori
+("maramatanga"	nil	(((m aa) 0) ((r aa) 0) ((m aa) 0) ((t uh ng) 1) ((@) 0))) 	;;maori
+("marari"	nil	(((m aa) 0) ((r aa) 0) ((r ii) 1))) 	;;maori
+("marigold"	nil	(((m a) 1) ((r @) 0) ((g o l d) 1)))	;;oul
+("marigolds"	nil	(((m a) 1) ((r @) 0) ((g o l d z) 1)))	;;oul
+("marire"	nil	(((m aa) 1) ((r ii) 0) ((r ei) 0))) 	;;maori
+("maro"	nil	(((m aa) 1) ((r ou) 0))) 	;;maori
+("maroro"	nil	(((m aa) 1) ((r ou) 0) ((r ou) 0))) 	;;maori
+("maru"	nil	(((m aa) 1) ((r uu) 0))) 	;;maori
+("matai"	nil	(((m aa) 1) ((t ai) 0))) 	;;maori
+("mataitai"	nil	(((m aa) 0) ((t ai) 1) ((t ai) 0))) 	;;maori
+("matakite"	nil	(((m aa) 1) ((t aa) 0) ((k ii) 0) ((t ei) 0))) 	;;maori
+("matariki"	nil	(((m aa) 0) ((t aa) 0) ((r ii) 1) ((k ii) 0))) 	;;maori
+("matata"	nil	(((m aa) 1) ((t aa) 0) ((t^ @) 0))) 	;;maori
+("matauranga"	nil	(((m aa) 0) ((t ow) 0) ((r uh ng) 1) ((@) 0))) 	;;maori
+("matipo"	nil	(((m a) 1) ((t i) 0) ((p ou) 0))) 	;;maori
+("matua"	nil	(((m aa) 1) ((t uu) 0) ((@) 0))) 	;;maori
+("matuawhapuku"	nil	(((m aa) 1) ((t uu) 0) ((aa) 0) ((f aa) 1) ((p uu) 0) ((k uu) 0))) 	;;maori
+("matuhi"	nil	(((m aa) 1) ((t uu) 0) ((h ii) 0))) 	;;maori
+("matuku"	nil	(((m aa) 1) ((t uu) 0) ((k uu) 0))) 	;;maori
+("matuku-hurepo"	nil	(((m aa) 1) ((t uu) 0) ((k uu) 0) ((h uu) 1) ((r e) 0) ((p oo) 0))) 	;;maori
+("matuku-moana"	nil	(((m aa) 1) ((t uu) 0) ((k uu) 0) ((m oo) 1) ((aa) 0) ((n @) 0))) 	;;maori
+("mau"	nil	(((m ow) 1))) 	;;maori
+("mauku"	nil	(((m ow) 1) ((k uu) 0))) 	;;maori
+("maunga"	nil	(((m ow ng) 1) ((@) 0))) 	;;maori
+("mauri"	nil	(((m ow) 1) ((r ii) 0))) 	;;maori
+("mawhai"	nil	(((m aa) 1) ((f ai) 0))) 	;;maori
+("mawhera"	nil	(((m aa) 1) ((f e) 0) ((r @) 0))) 	;;maori
+("mawhero"	nil	(((m aa) 1) ((f e) 0) ((r ou) 0))) 	;;maori
+("maypole"	nil	(((m ei) 1) ((p o l) 0)))	;;oul
+("maypoles"	nil	(((m ei) 1) ((p o l z) 0)))	;;oul
+("mccole"	nil	(((m @) 0) ((k o l) 1)))	;;oul
+("mea"	nil	(((m e) 1) ((@) 0))) 	;;maori
+("megajoule"	nil	(((m e) 1) ((g @) 0) ((jh u l) 1)))	;;uul
+("megajoules"	nil	(((m e) 1) ((g @) 0) ((jh u l z) 1)))	;;uul
+("megavolt"	nil	(((m e) 1) ((g @) 0) ((v o l t) 1)))	;;oul
+("megavolts"	nil	(((m e) 1) ((g @) 0) ((v o l t s) 1)))	;;oul
+("melancholia"	nil	(((m a) 1) ((l @ ng) 0) ((k o) 1) ((l ii @) 0)))	;;oul
+("mere"	nil	(((m e) 1) ((r ii) 0))) 	;;maori
+("metoprolol"	nil	(((m @) 0) ((t r o) 1) ((p @) 0) ((l o l) 2))) 	;;drug
+("metropole"	nil	(((m e) 1) ((t r @) 0) ((p o l) 0)))	;;oul
+("microcontroller"	nil	(((m ai) 1) ((k r ou) 0) ((k @ n) 0) ((t r o l) 1) ((@) 0)))	;;oul
+("microcontrollers"	nil	(((m ai) 1) ((k r ou) 0) ((k @ n) 0) ((t r o l) 1) ((@ z) 0)))	;;oul
+("microjoule"	nil	(((m ai) 1) ((k r ou) 0) ((jh u l) 1)))	;;uul
+("microjoules"	nil	(((m ai) 1) ((k r ou) 0) ((jh u l z) 1)))	;;uul
+("microland"	nil	(((m ai) 1) ((k r o) 0) ((l a n d) 1)))	;;oul
+("microlanders"	nil	(((m ai) 1) ((k r o) 0) ((l a n d) 1) ((@ z) 0)))	;;oul
+("microlaser"	nil	(((m ai) 1) ((k r o) 0) ((l ei) 1) ((z @) 0)))	;;oul
+("microlasers"	nil	(((m ai) 1) ((k r o) 0) ((l ei) 1) ((z @ z) 0)))	;;oul
+("microlevel"	nil	(((m ai) 1) ((k r o) 0) ((l e) 1) ((v l!) 0)))	;;oul
+("microline"	nil	(((m ai) 1) ((k r o) 0) ((l ai n) 1)))	;;oul
+("microlinear"	nil	(((m ai) 1) ((k r o) 0) ((l i) 1) ((n ii @) 0)))	;;oul
+("microlines"	nil	(((m ai) 1) ((k r o) 0) ((l ai n z) 1)))	;;oul
+("microlithography"	nil	(((m ai) 1) ((k r o) 0) ((l i) 0) ((th o) 1) ((g r @) 0) ((f ii) 0)))	;;oul
+("microlitre"	nil	(((m ai) 1) ((k r o) 0) ((l ii) 1) ((t^ @) 0)))	;;oul
+("microlitres"	nil	(((m ai) 1) ((k r o) 0) ((l ii) 1) ((t^ @ z) 0)))	;;oul
+("microvolt"	nil	(((m ai) 1) ((k r ou) 0) ((v o l t) 1)))	;;oul
+("microvolts"	nil	(((m ai) 1) ((k r ou) 0) ((v o l t s) 1)))	;;oul
+("mightn't"	nil	(((m ai t) 1) ((n! t) 0)))	;;contraction
+("miha"	nil	(((m ii) 1) ((h aa) 0))) 	;;maori
+("mihanere"	nil	(((m ii) 1) ((h aa) 0) ((n e) 0) ((r ei) 0))) 	;;maori
+("mihi"	nil	(((m ii) 1) ((h ii) 0))) 	;;maori
+("miki-miki"	nil	(((m ii) 1) ((k ii) 0) ((m ii) 0) ((k ii) 0))) 	;;maori
+("mikoikoi"	nil	(((m ii) 0) ((k oo) 1) ((ii) 0) ((k oo) 0) ((ii) 0))) 	;;maori
+("millionfold"	nil	(((m i) 1) ((l y @ n) 0) ((f o l d) 1)))	;;oul
+("millivolt"	nil	(((m i) 1) ((l i) 0) ((v o l t) 1)))	;;oul
+("millivolts"	nil	(((m i) 1) ((l i) 0) ((v o l t s) 1)))	;;oul
+("mingimingi"	nil	(((m ii ng) 1) ((ii) 0) ((m ii ng) 0) ((ii) 0))) 	;;maori
+("mirimiri"	nil	(((m i) 1) ((r ii) 0) ((m i) 0) ((r ii) 0))) 	;;maori
+("miro"	nil	(((m i) 1) ((r ou) 0))) 	;;maori
+("miromiro"	nil	(((m ii) 1) ((r ou) 0) ((m ii) 0) ((r ou) 0))) 	;;maori
+("misbeholden"	nil	(((m i s) 1) ((b i) 0) ((h o l d) 1) ((n!) 0)))	;;oul
+("mistold"	nil	(((m i s) 0) ((t o l d) 1)))	;;oul
+("moa"	nil	(((m ou) 1) ((@) 0))) 	;;maori
+("moana"	nil	(((m ou) 0) ((aa) 1) ((n @) 0))) 	;;maori
+("moeone"	nil	(((m oo) 1) ((e) 0) ((oo) 0) ((n ei) 0))) 	;;maori
+("moeraki"	nil	(((m oo) 1) ((e) 0) ((r aa) 0) ((k ii) 0))) 	;;maori
+("moeriki"	nil	(((m ou) 0) ((e) 0) ((r ii) 1) ((k ii) 0))) 	;;maori
+("mohimohi"	nil	(((m oo) 1) ((h ii) 0) ((m oo) 0) ((h ii) 0))) 	;;maori
+("moho"	nil	(((m oo) 1) ((h oo) 0))) 	;;maori
+("mohua"	nil	(((m oo) 1) ((h uu) 0) ((@) 0))) 	;;maori
+("moi"	nil	(((m ou) 1) ((ii) 0))) 	;;maori
+("moki"	nil	(((m ou) 1) ((k ii) 0))) 	;;maori
+("mokihi"	nil	(((m oo) 1) ((k ii) 0) ((h ii) 0))) 	;;maori
+("mokimoki"	nil	(((m oo) 1) ((k ii) 0) ((m oo) 0) ((k ii) 0))) 	;;maori
+("moko"	nil	(((m oo) 1) ((k oo) 0))) 	;;maori
+("mokomoko"	nil	(((m oo) 1) ((k oo) 0) ((m oo) 0) ((k oo) 0))) 	;;maori
+("mokopuna"	nil	(((m oo) 1) ((k oo) 0) ((p uu) 0) ((n @) 0))) 	;;maori
+("molar"	nil	(((m o) 1) ((l @) 0)))	;;oul
+("molars"	nil	(((m o) 1) ((l @ z) 0)))	;;oul
+("mold"	nil	(((m o l d) 1)))	;;oul
+("moldboard"	nil	(((m o l d) 1) ((b oo d) 0)))	;;oul
+("moldboards"	nil	(((m o l d) 1) ((b oo d z) 0)))	;;oul
+("molded"	nil	(((m o l d) 1) ((@ d) 0)))	;;oul
+("moldier"	nil	(((m o l d) 1) ((ii @) 0)))	;;oul
+("moldiest"	nil	(((m o l d) 1) ((ii @ s t) 0)))	;;oul
+("moldiness"	nil	(((m o l d) 1) ((ii) 0) ((n @ s) 0)))	;;oul
+("molding"	nil	(((m o l d) 1) ((i ng) 0)))	;;oul
+("moldings"	nil	(((m o l d) 1) ((i ng z) 0)))	;;oul
+("molds"	nil	(((m o l d z) 1)))	;;oul
+("moldy"	nil	(((m o l d) 1) ((ii) 0)))	;;oul
+("mole"	nil	(((m o l) 1)))	;;oul
+("molecatcher"	nil	(((m o l) 1) ((k a ch) 1) ((@) 0)))	;;oul
+("molecatchers"	nil	(((m o l) 1) ((k a ch) 1) ((@ z) 0)))	;;oul
+("molehill"	nil	(((m o l) 1) ((h i l) 0)))	;;oul
+("molehills"	nil	(((m o l) 1) ((h i l z) 0)))	;;oul
+("molerat"	nil	(((m o l) 1) ((r a t) 0)))	;;oul
+("molerats"	nil	(((m o l) 1) ((r a t s) 0)))	;;oul
+("moles"	nil	(((m o l z) 1)))	;;oul
+("moleskin"	nil	(((m o l) 1) ((s k i n) 0)))	;;oul
+("moleskins"	nil	(((m o l) 1) ((s k i n z) 0)))	;;oul
+("moloch"	nil	(((m o) 1) ((l o k) 0)))	;;oul
+("molten"	nil	(((m o l) 1) ((t n!) 0)))	;;oul
+("moltenly"	nil	(((m o l) 1) ((t n!) 0) ((l ii) 0)))	;;oul
+("mongolia"	nil	(((m o ng) 0) ((g o) 1) ((l ii @) 0)))	;;oul
+("mongolian"	nil	(((m o ng) 0) ((g o) 1) ((l ii @ n) 0)))	;;oul
+("mongolians"	nil	(((m o ng) 0) ((g o) 1) ((l ii @ n z) 0)))	;;oul
+("mongolias"	nil	(((m o ng) 0) ((g o) 1) ((l ii @ z) 0)))	;;oul
+("monoao"	nil	(((m oo) 1) ((n oo) 0) ((ow) 0))) 	;;maori
+("mononitrate"	nil	(((m o) 2) ((n ou) 0) ((n ai) 1) ((t r ei t) 0))) 	;;drug
+("morena"	nil	(((m oo) 0) ((r e) 1) ((n @) 0))) 	;;maori
+("moriori"	nil	(((m oo) 1) ((r ii) 0) ((oo) 2) ((r ii) 0))) 	;;maori
+("moteatea"	nil	(((m ou) 0) ((t e) 1) ((aa) 0) ((t e) 0) ((@) 0))) 	;;maori
+("motilium"	nil	(((m ou) 0) ((t i) 1) ((l ii) 0) ((@ m) 0))) 	;;drug
+("motorola"	nil	(((m ou) 1) ((t^ @) 0) ((r o) 1) ((l @) 0)))	;;oul
+("motorolas"	nil	(((m ou) 1) ((t^ @) 0) ((r o) 1) ((l @ z) 0)))	;;oul
+("mould"	nil	(((m o l d) 1)))	;;oul
+("mouldable"	nil	(((m o l d) 1) ((@) 0) ((b l!) 0)))	;;oul
+("moulded"	nil	(((m o l d) 1) ((@ d) 0)))	;;oul
+("moulder"	nil	(((m o l d) 1) ((@) 0)))	;;oul
+("mouldered"	nil	(((m o l d) 1) ((@ d) 0)))	;;oul
+("mouldering"	nil	(((m o l d) 1) ((@ r) 0) ((i ng) 0)))	;;oul
+("moulders"	nil	(((m o l d) 1) ((@ z) 0)))	;;oul
+("mouldier"	nil	(((m o l d) 1) ((ii @) 0)))	;;oul
+("mouldiest"	nil	(((m o l d) 1) ((ii @ s t) 0)))	;;oul
+("mouldiness"	nil	(((m o l d) 1) ((ii) 0) ((n @ s) 0)))	;;oul
+("moulding"	nil	(((m o l d) 1) ((i ng) 0)))	;;oul
+("mouldings"	nil	(((m o l d) 1) ((i ng z) 0)))	;;oul
+("moulds"	nil	(((m o l d z) 1)))	;;oul
+("mouldy"	nil	(((m o l d) 1) ((ii) 0)))	;;oul
+("moult"	nil	(((m o l t) 1)))	;;oul
+("moulted"	nil	(((m o l t) 1) ((@ d) 0)))	;;oul
+("moulting"	nil	(((m o l t) 1) ((i ng) 0)))	;;oul
+("moults"	nil	(((m o l t s) 1)))	;;oul
+("muka"	nil	(((m uu) 1) ((k @) 0))) 	;;maori
+("multipolarisation"	nil	(((m o l) 1) ((t ii) 0) ((p o l) 1) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("multipolarization"	nil	(((m o l) 1) ((t ii) 0) ((p o l) 1) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("murihiku"	nil	(((m uu) 1) ((r ii) 0) ((h ii) 1) ((k uu) 0))) 	;;maori
+("muru"	nil	(((m uu) 1) ((r uu) 0))) 	;;maori
+("mustn't"	nil	(((m uh s) 1) ((n! t) 0)))	;;contraction
+("nahui"	nil	(((n aa) 1) ((h uu) 0) ((ii) 0))) 	;;maori
+("namu"	nil	(((n aa) 1) ((m uu) 0))) 	;;maori
+("nanua"	nil	(((n a) 1) ((n uu) 0) ((@) 0))) 	;;maori
+("napoleon"	nil	(((n @) 0) ((p o) 1) ((l ii @ n) 0)))	;;oul
+("napoleonic"	nil	(((n @) 0) ((p o) 1) ((l ii) 0) ((o n) 1) ((i k) 0)))	;;oul
+("napoleons"	nil	(((n @) 0) ((p o) 1) ((l ii @ n z) 0)))	;;oul
+("naprosyn"	nil	(((n a p) 1) ((r @) 0) ((s i n) 2))) 	;;drug
+("nau"	nil	(((n ow) 1))) 	;;maori
+("neinei"	nil	(((n e) 0) ((ii) 1) ((n e) 0) ((ii) 0))) 	;;maori
+("neoliberalism"	nil	(((n ii) 1) ((o) 0) ((l i) 1) ((b @) 0) ((r @ l) 0) ((i) 1) ((z m!) 0)))	;;oul
+("nettlefolds"	nil	(((n e) 1) ((t l!) 0) ((f o l d z) 0)))	;;oul
+("newbold"	nil	(((n y uu) 1) ((b o l d) 0)))	;;oul
+("nga"	nil	(((n aa) 1))) 	;;maori
+("ngai"	nil	(((ng ai) 1))) 	;;maori
+("ngaio"	nil	(((n aa) 1) ((i) 0) ((ou) 0))) 	;;maori
+("ngamotu"	nil	(((ng aa) 1) ((m ou) 0) ((t uu) 0))) 	;;maori
+("ngarara"	nil	(((ng aa) 1) ((r aa) 0) ((r @) 0))) 	;;maori
+("ngati"	nil	(((n aa) 1) ((t^ ii) 0))) 	;;maori
+("ngawha"	nil	(((ng aa) 1) ((f @) 0))) 	;;maori
+("ngeri"	nil	(((ng e) 1) ((r ii) 0))) 	;;maori
+("ngirungiru"	nil	(((ng ii) 1) ((r uu ng) 0) ((ii) 0) ((r uu) 0))) 	;;maori
+("ngoiro"	nil	(((ng oo) 1) ((ii) 0) ((r ou) 0))) 	;;maori
+("nguru"	nil	(((ng uu) 1) ((r uu) 0))) 	;;maori
+("ngutu-parore"	nil	(((ng uu) 1) ((t uu) 0) ((p aa) 1) ((r ou) 0) ((r ei) 0))) 	;;maori
+("ngutukaka"	nil	(((ng uu) 1) ((t uu) 0) ((k aa) 0) ((k @) 0))) 	;;maori
+("nicole"	nil	(((n i) 0) ((k o l) 1)))	;;oul
+("nikau"	nil	(((n ii) 1) ((k ow) 0))) 	;;maori
+("ninefold"	nil	(((n ai n) 1) ((f o l d) 0)))	;;oul
+("niu"	nil	(((n ii) 1) ((uu) 0))) 	;;maori
+("noa"	nil	(((n oo) 1) ((@) 0))) 	;;maori
+("nohi"	nil	(((n ou) 1) ((h ii) 0))) 	;;maori
+("nohoanga"	nil	(((n oo) 1) ((h oo) 0) ((uh ng) 0) ((@) 0))) 	;;maori
+("nolan"	nil	(((n o) 1) ((l @ n) 0)))	;;oul
+("nonpolar"	nil	(((n o n) 0) ((p o l) 1) ((@) 0)))	;;oul
+("nui"	nil	(((n uu) 1) ((ii) 0))) 	;;maori
+("o"	nil	(((oo) 1))) 	;;maori
+("oamaru"	nil	(((oo) 1) ((m @) 0) ((r uu) 0))) 	;;maori
+("obliquely"	nil	(((@) 0) ((b l ii k) 1) ((l ii) 0)))	;;uul
+("office-holder"	nil	(((o) 1) ((f @ s) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("office-holders"	nil	(((o) 1) ((f @ s) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("officeholder"	nil	(((o) 1) ((f @ s) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("officeholders"	nil	(((o) 1) ((f @ s) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("ohau"	nil	(((oo) 1) ((h ow) 0))) 	;;maori
+("ohu"	nil	(((ou) 1) ((h uu) 0))) 	;;maori
+("oi"	nil	(((oo) 1) ((ii) 0))) 	;;maori
+("oia"	nil	(((oo) 1) ((ii) 0) ((@) 0))) 	;;maori
+("oioi"	nil	(((oo) 1) ((ii) 0) ((oo) 0) ((ii) 0))) 	;;maori
+("okeoke"	nil	(((oo) 1) ((k e) 0) ((oo) 0) ((k ei) 0))) 	;;maori
+("olaf"	nil	(((o) 1) ((l a f) 0)))	;;oul
+("olav"	nil	(((o) 1) ((l a v) 0)))	;;oul
+("old"	nil	(((o l d) 1)))	;;oul
+("old-fashioned"	nil	((( o l d) 0) ((f a) 1) ((sh n! d) 0)))	;;oul
+("old-fashionedness"	nil	((( o l d) 0) ((f a) 1) ((sh n! d) 0) ((n @ s) 0)))	;;oul
+("old-fogeyish"	nil	((( o l d) 0) ((f ou) 1) ((g ii) 0) ((i sh) 0)))	;;oul
+("old-fogyish"	nil	((( o l d) 0) ((f ou) 1) ((g ii) 0) ((i sh) 0)))	;;oul
+("old-style"	nil	(((o l d) 1) ((s t ai l) 0)))	;;oul
+("old-time"	nil	((( o l d) 0) ((t ai m) 1)))	;;oul
+("old-timer"	nil	((( o l d) 0) ((t ai m) 1) ((@) 0)))	;;oul
+("old-timers"	nil	((( o l d) 0) ((t ai m) 1) ((@ z) 0)))	;;oul
+("old-world"	nil	((( o l d) 0) ((w @@r l d) 1)))	;;oul
+("olde"	nil	(((o l) 1) ((d ii) 0)))	;;oul
+("olden"	nil	(((o l d) 1) ((n!) 0)))	;;oul
+("oldenburg"	nil	(((o l) 1) ((d n!) 0) ((b @@r g) 1)))	;;oul
+("older"	nil	(((o l d) 1) ((@) 0)))	;;oul
+("oldest"	nil	(((o l d) 1) ((@ s t) 0)))	;;oul
+("oldfashioned"	nil	((( o l d) 0) ((f a) 1) ((sh n! d) 0)))	;;oul
+("oldfield"	nil	(((o l d) 1) ((f ii l d) 0)))	;;oul
+("oldham"	nil	(((o l) 1) ((d @ m) 0)))	;;oul
+("oldie"	nil	(((o l d) 1) ((ii) 0)))	;;oul
+("oldies"	nil	(((o l d) 1) ((ii z) 0)))	;;oul
+("oldish"	nil	(((o l d) 1) ((i sh) 0)))	;;oul
+("oldmore"	nil	(((o l d) 1) ((m oo) 0)))	;;oul
+("oldness"	nil	(((o l d) 1) ((n @ s) 0)))	;;oul
+("olds"	nil	(((o l d z) 1)))	;;oul
+("oldsmobile"	nil	(((o l d z) 1) ((m @) 0) ((b ii l) 1)))	;;oul
+("oldster"	nil	(((o l d) 1) ((s t @) 0)))	;;oul
+("oldsters"	nil	(((o l d) 1) ((s t @ z) 0)))	;;oul
+("oldtimer"	nil	(((o l d) 1) ((t ai m) 1) ((@) 0)))	;;oul
+("oldtimers"	nil	(((o l d) 1) ((t ai m) 1) ((@ z) 0)))	;;oul
+("oldworld"	nil	((( o l d) 0) ((w @@r l d) 1)))	;;oul
+("oldy"	nil	(((o l d) 1) ((ii) 0)))	;;oul
+("ole"	nil	(((o) 0) ((l ei) 1)))	;;oul
+("oleaginous"	nil	(((o) 1) ((l ii) 0) ((a) 1) ((jh i) 0) ((n @ s) 0)))	;;oul
+("oleander"	nil	(((o) 1) ((l ii) 0) ((a n) 1) ((d @) 0)))	;;oul
+("oleanders"	nil	(((o) 1) ((l ii) 0) ((a n) 1) ((d @ z) 0)))	;;oul
+("oleary"	nil	(((o) 0) ((l ir) 1) ((r ii) 0)))	;;oul
+("oleg"	nil	(((o) 1) ((l e g) 0)))	;;oul
+("oleomargarine"	nil	(((o) 1) ((l ii) 0) ((ou) 0) ((m aa) 1) ((jh @) 0) ((r ii n) 0)))	;;oul
+("oleomargarines"	nil	(((o) 1) ((l ii) 0) ((ou) 0) ((m aa) 1) ((jh @) 0) ((r ii n z) 1)))	;;oul
+("olin"	nil	(((o) 1) ((l i n) 0)))	;;oul
+("olsen"	nil	(((o l) 1) ((s n!) 0)))	;;oul
+("olson"	nil	(((o l) 1) ((s n!) 0)))	;;oul
+("olsons"	nil	(((o l) 1) ((s n! z) 0)))	;;oul
+("olsson"	nil	(((o l) 1) ((s n!) 0)))	;;oul
+("omeprazole"	nil	(((@) 0) ((m e) 1) ((p r @) 0) ((z ou l) 2))) 	;;drug
+("one-year-old"	nil	(((w uh n) 1) ((y ir r) 0) ((o l d) 1)))	;;oul
+("onehunga"	nil	(((ou) 0) ((n ii) 0) ((h uh ng) 1) ((@) 0))) 	;;maori
+("ongaonga"	nil	(((o ng) 1) ((ow ng) 0) ((@) 0))) 	;;maori
+("ora"	nil	(((oo) 1) ((r @) 0))) 	;;maori
+("orere"	nil	(((oo) 1) ((r e) 0) ((r ei) 0))) 	;;maori
+("orihou"	nil	(((oo) 1) ((r ii) 0) ((h ou) 0))) 	;;maori
+("oriole"	nil	(((oo) 1) ((r ii) 0) ((o l) 0)))	;;oul
+("orioles"	nil	(((oo) 1) ((r ii) 0) ((o l z) 0)))	;;oul
+("oriori"	nil	(((oo) 1) ((r ii) 0) ((oo) 0) ((r ii) 0))) 	;;maori
+("oro-oro"	nil	(((oo) 1) ((r ou) 0) ((oo) 0) ((r ou) 0))) 	;;maori
+("otautahi"	nil	(((oo) 1) ((t ow) 0) ((t aa) 0) ((h ii) 0))) 	;;maori
+("otepoti"	nil	(((oo) 1) ((t e) 0) ((p oo) 0) ((t ii) 0))) 	;;maori
+("otolaryngology"	nil	(((ou) 1) ((t^ o) 0) ((l a) 1) ((r i ng) 0) ((g o) 1) ((l @) 0) ((jh ii) 0)))	;;oul
+("otoole"	nil	(((ou) 0) ((t u l) 1)))	;;uul
+("outfolder"	nil	(((ow t) 1) ((f o l d) 1) ((@) 0)))	;;oul
+("outsold"	nil	((( ow t) 0) ((s o l d) 1)))	;;oul
+("oversold"	nil	(((ou) 1) ((v @) 0) ((s o l d) 1)))	;;oul
+("paepae"	nil	(((p aa) 1) ((e) 0) ((p aa) 0) ((ei) 0))) 	;;maori
+("pahautea"	nil	(((p aa) 1) ((h ow) 0) ((t e) 1) ((@) 0))) 	;;maori
+("pai"	nil	(((p ai) 1))) 	;;maori
+("paikaka"	nil	(((p ai) 0) ((k aa) 1) ((k @) 0))) 	;;maori
+("pakaha"	nil	(((p aa) 0) ((k aa) 0) ((h aa) 1))) 	;;maori
+("pakaru"	nil	(((p aa) 1) ((k aa) 0) ((r uu) 0))) 	;;maori
+("pake"	nil	(((p aa) 1) ((k ii  ) 0))) 	;;maori
+("pakeha"	nil	(((p aa) 1) ((k ii) 0) ((h aa) 0))) 	;;maori
+("paketi"	nil	(((p aa) 1) ((k @) 0) ((t ii) 0))) 	;;maori
+("pakihi"	nil	(((p aa) 1) ((k @) 0) ((h ii) 0))) 	;;maori
+("pakipaki"	nil	(((p aa) 1) ((k ii) 0) ((p aa) 2) ((k ii) 0))) 	;;maori
+("pakirikiri"	nil	(((p aa) 1) ((k ii) 0) ((r ii) 0) ((k ii) 0) ((r ii) 0))) 	;;maori
+("pakurakura"	nil	(((p aa) 1) ((k uu) 0) ((r aa) 0) ((k uu) 0) ((r @) 0))) 	;;maori
+("panapana"	nil	(((p aa) 1) ((n @) 0) ((p aa) 2) ((n @) 0))) 	;;maori
+("panokonoko"	nil	(((p aa) 0) ((n oo) 1) ((k oo) 0) ((n oo) 0) ((k oo) 0))) 	;;maori
+("panui"	nil	(((p aa) 1) ((n uu) 0) ((ii) 0))) 	;;maori
+("papa"	nil	(((p aa) 1) ((p @) 0))) 	;;maori
+("papa-i-oea"	nil	(((p aa) 0) ((p ai) 0) ((oo) 0) ((e) 0) ((@) 0))) 	;;maori
+("papakainga"	nil	(((p aa) 1) ((p aa) 0) ((k ai ng) 1) ((@) 0))) 	;;maori
+("papango"	nil	(((p aa) 1) ((p uh ng) 0) ((oo) 0))) 	;;maori
+("papanoko"	nil	(((p aa) 1) ((p aa) 0) ((n oo) 0) ((k oo) 0))) 	;;maori
+("papataniwhaniwha"	nil	(((p aa) 1) ((p aa) 0) ((t aa) 0) ((n ii) 1) ((f aa) 0) ((n ii) 0) ((f @) 0))) 	;;maori
+("papatuanuku"	nil	(((p aa) 2) ((p @) 0) ((t uu) 1) ((@) 0) ((n uu) 2) ((k uu) 0))) 	;;maori
+("papauma"	nil	(((p aa) 1) ((p ow) 0) ((m @) 0))) 	;;maori
+("paperfolding"	nil	(((p ei) 1) ((p @) 0) ((f o l d) 1) ((i ng) 0)))	;;oul
+("paracetamol"	nil	(((p a) 2) ((r @) 0) ((s ii) 1) ((t @) 0) ((m o l) 0))) 	;;drug
+("paraerae"	nil	(((p aa) 0) ((r aa) 1) ((e) 0) ((r aa) 0) ((ei) 0))) 	;;maori
+("paraha"	nil	(((p aa) 1) ((r aa) 0) ((h aa) 0))) 	;;maori
+("paraki"	nil	(((p aa) 1) ((r aa) 0) ((k ii) 0))) 	;;maori
+("parani"	nil	(((p aa) 1) ((r aa) 0) ((n ii) 0))) 	;;maori
+("paraoa"	nil	(((p aa) 0) ((r aa) 1) ((oo) 0) ((@) 0))) 	;;maori
+("parapara"	nil	(((p aa) 1) ((r aa) 0) ((p aa) 0) ((r @) 0))) 	;;maori
+("parara"	nil	(((p aa) 0) ((r aa) 0) ((r aa) 1))) 	;;maori
+("parataniwha"	nil	(((p aa) 1) ((r aa) 0) ((t aa) 1) ((n ii) 0) ((f @) 0))) 	;;maori
+("parawai"	nil	(((p aa) 1) ((r aa) 0) ((w ai) 0))) 	;;maori
+("parekareka"	nil	(((p aa) 0) ((r e) 1) ((k aa) 0) ((r e) 0) ((k @) 0))) 	;;maori
+("paremoremo"	nil	(((p aa) 0) ((r e) 1) ((m oo) 0) ((r e) 0) ((m oo) 0))) 	;;maori
+("parengo"	nil	(((p aa) 1) ((r e ng) 0) ((oo) 0))) 	;;maori
+("parera"	nil	(((p aa) 1) ((r e) 0) ((r @) 0))) 	;;maori
+("parihaka"	nil	(((p aa) 1) ((r ii) 0) ((h aa) 0) ((k @) 0))) 	;;maori
+("parole"	nil	(((p @) 0) ((r o l) 1)))	;;oul
+("paroled"	nil	(((p @) 0) ((r o l d) 1)))	;;oul
+("parolee"	nil	(((p @) 0) ((r o l) 1) ((ii) 1)))	;;oul
+("parolees"	nil	(((p @) 0) ((r o l) 1) ((ii z) 1)))	;;oul
+("paroles"	nil	(((p @) 0) ((r o l z) 1)))	;;oul
+("parore"	nil	(((p @) 0) ((r ou) 1) ((r ii) 0))) 	;;maori
+("paroxetine"	nil	(((p @) 0) ((r o k) 1) ((s @) 0) ((t ii n) 2))) 	;;drug
+("paruwhatitiri"	nil	(((p aa) 1) ((r uu) 0) ((f aa) 1) ((t ii) 0) ((t ii) 0) ((r ii) 0))) 	;;maori
+("pataka"	nil	(((p aa) 1) ((t aa) 0) ((k @) 0))) 	;;maori
+("pateke"	nil	(((p aa) 1) ((t e) 0) ((k ei) 0))) 	;;maori
+("pateketeke"	nil	(((p aa) 0) ((t e) 1) ((k e) 0) ((t e) 0) ((k ei) 0))) 	;;maori
+("patete"	nil	(((p aa) 1) ((t e) 0) ((t ei) 0))) 	;;maori
+("patiki"	nil	(((p aa) 1) ((t ii) 0) ((k ii) 0))) 	;;maori
+("patiti"	nil	(((p aa) 1) ((t i) 0) ((t ii) 0))) 	;;maori
+("patotara"	nil	(((p aa) 0) ((t oo) 1) ((t aa) 0) ((r @) 0))) 	;;maori
+("patrol"	nil	(((p @) 0) ((t r o l) 1)))	;;oul
+("patroled"	nil	(((p @) 0) ((t r o l d) 1)))	;;oul
+("patroling"	nil	(((p @) 0) ((t r o l) 1) ((i ng) 0)))	;;oul
+("patrolled"	nil	(((p @) 0) ((t r o l d) 1)))	;;oul
+("patroller"	nil	(((p @) 0) ((t r o l) 1) ((@) 0)))	;;oul
+("patrollers"	nil	(((p @) 0) ((t r o l) 1) ((@ z) 0)))	;;oul
+("patrolling"	nil	(((p @) 0) ((t r o l) 1) ((i ng) 0)))	;;oul
+("patrolman"	nil	(((p @) 0) ((t r o l) 1) ((m @ n) 0)))	;;oul
+("patrolmen"	nil	(((p @) 0) ((t r o l) 1) ((m @ n) 0)))	;;oul
+("patrols"	nil	(((p @) 0) ((t r o l z) 1)))	;;oul
+("patu"	nil	(((p aa) 1) ((t uu) 0))) 	;;maori
+("patupaiarehe"	nil	(((p aa) 0) ((t uu) 0) ((p ai) 1) ((aa) 0) ((r e) 0) ((h ei) 0))) 	;;maori
+("pau"	nil	(((p ow) 1))) 	;;maori
+("paua"	nil	(((p aa) 1) ((w @) 0))) 	;;maori
+("payroll"	nil	(((p ei) 1) ((r o l) 0)))	;;oul
+("payrolled"	nil	(((p ei) 1) ((r o l d) 0)))	;;oul
+("payrolls"	nil	(((p ei) 1) ((r o l z) 0)))	;;oul
+("peep-hole"	nil	(((p ii p) 1) ((h o l) 0)))	;;oul
+("peep-holes"	nil	(((p ii p) 1) ((h o l z) 0)))	;;oul
+("peephole"	nil	(((p ii p) 1) ((h o l) 0)))	;;oul
+("peepholed"	nil	(((p ii p) 1) ((h o l d) 0)))	;;oul
+("peepholes"	nil	(((p ii p) 1) ((h o l z) 0)))	;;oul
+("pekapeka"	nil	(((p e) 1) ((k aa) 0) ((p e) 0) ((k @) 0))) 	;;maori
+("pen-holder"	nil	(((p e n) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("penholder"	nil	(((p e n) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("penholders"	nil	(((p e n) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("pepsicola"	nil	(((p e p) 1) ((s ii) 0) ((k o) 1) ((l @) 0)))	;;oul
+("perei"	nil	(((p e) 1) ((r e) 0) ((ii) 0))) 	;;maori
+("periperi"	nil	(((p e) 1) ((r ii) 0) ((p e) 2) ((r ii) 0))) 	;;maori
+("petroleum"	nil	(((p @) 0) ((t r o) 1) ((l ii @ m) 0)))	;;oul
+("petroleum-based"	nil	(((p @) 0) ((t r o) 1) ((l ii @ m) 0) ((b ei s t) 1)))	;;oul
+("petroleums"	nil	(((p @) 0) ((t r o) 1) ((l ii @ m z) 0)))	;;oul
+("photolithographic"	nil	(((f ou) 1) ((t^ o) 0) ((l i) 1) ((th @) 0) ((g r a) 1) ((f i k) 0)))	;;oul
+("photolithographically"	nil	(((f ou) 1) ((t^ o) 0) ((l i) 1) ((th @) 0) ((g r a) 1) ((f i k) 0) ((l ii) 0)))	;;oul
+("photolithography"	nil	(((f ou) 1) ((t^ o) 0) ((l i) 0) ((th o) 1) ((g r @) 0) ((f ii) 0)))	;;oul
+("photoluminescence"	nil	(((f ou) 1) ((t^ o) 0) ((l uu) 1) ((m @) 0) ((n e s) 1) ((n! s) 0)))	;;oul
+("pia"	nil	(((p ii) 1) ((@) 0))) 	;;maori
+("pianola"	nil	(((p ii @) 0) ((n o) 1) ((l @) 0)))	;;oul
+("pianolas"	nil	(((p ii @) 0) ((n o) 1) ((l @ z) 0)))	;;oul
+("picojoule"	nil	(((p ii) 1) ((k ou) 0) ((jh u l) 1)))	;;uul
+("picojoules"	nil	(((p ii) 1) ((k ou) 0) ((jh u l z) 1)))	;;uul
+("pigeon-hole"	nil	(((p i) 1) ((jh @ n) 0) ((h o l) 1)))	;;oul
+("pigeon-holed"	nil	(((p i) 1) ((jh @ n) 0) ((h o l d) 1)))	;;oul
+("pigeon-holes"	nil	(((p i) 1) ((jh @ n) 0) ((h o l z) 1)))	;;oul
+("pigeon-holing"	nil	(((p i) 1) ((jh @ ng) 0) ((h o l) 1) ((i ng) 0)))	;;oul
+("pigeonhole"	nil	(((p i) 1) ((jh @ n) 0) ((h o l) 1)))	;;oul
+("pigeonholed"	nil	(((p i) 1) ((jh @ n) 0) ((h o l d) 1)))	;;oul
+("pigeonholer"	nil	(((p i) 1) ((jh @ n) 0) ((h o l) 1) ((@) 0)))	;;oul
+("pigeonholes"	nil	(((p i) 1) ((jh @ n) 0) ((h o l z) 1)))	;;oul
+("pigeonholing"	nil	(((p i) 1) ((jh @ ng) 0) ((h o l) 1) ((i ng) 0)))	;;oul
+("pihapiharau"	nil	(((p ii) 1) ((h aa) 0) ((p ii) 2) ((h aa) 0) ((r ow) 0))) 	;;maori
+("pihoihoi"	nil	(((p ii) 0) ((h oo) 1) ((ii) 0) ((h oo) 0) ((ii) 0))) 	;;maori
+("pikau"	nil	(((p ii) 1) ((k ow) 0))) 	;;maori
+("pikiarero"	nil	(((p ii) 1) ((k ii) 0) ((aa) 1) ((r e) 0) ((r ou) 0))) 	;;maori
+("pikopiko"	nil	(((p ii) 1) ((k oo) 0) ((p ii) 0) ((k oo) 0))) 	;;maori
+("pikopo"	nil	(((p ii) 1) ((k oo) 0) ((p oo) 0))) 	;;maori
+("pingao"	nil	(((p ii ng) 1) ((ow) 0))) 	;;maori
+("pinholder"	nil	(((p i n) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("pinholders"	nil	(((p i n) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("pinhole"	nil	(((p i n) 1) ((h o l) 0)))	;;oul
+("pinholes"	nil	(((p i n) 1) ((h o l z) 0)))	;;oul
+("pioke"	nil	(((p ii) 1) ((oo) 0) ((k ei) 0))) 	;;maori
+("piopio"	nil	(((p ii) 1) ((oo) 0) ((p ii) 0) ((oo) 0))) 	;;maori
+("pipi"	nil	(((p i) 1) ((p ii) 0))) 	;;maori
+("pipiharau"	nil	(((p i) 0) ((p ii) 0) ((h aa) 1) ((r ow) 0))) 	;;maori
+("pipipi"	nil	(((p ii) 1) ((p ii) 0) ((p ii) 0))) 	;;maori
+("pipiwharauroa"	nil	(((p ii) 1) ((p ii) 0) ((f aa) 0) ((r ow) 1) ((r ou) 0) ((@) 0))) 	;;maori
+("pirikahu"	nil	(((p i) 0) ((r ii) 0) ((k aa) 1) ((h uu) 0))) 	;;maori
+("piripiri"	nil	(((p ii) 1) ((r ii) 0) ((p ii) 0) ((r ii) 0))) 	;;maori
+("piripiriwhata"	nil	(((p ii) 1) ((r ii) 0) ((p ii) 0) ((r ii) 0) ((f aa) 1) ((t^ @) 0))) 	;;maori
+("pirita"	nil	(((p ii) 1) ((r ii) 0) ((t^ @) 0))) 	;;maori
+("pistole"	nil	(((p i) 0) ((s t o l) 1)))	;;oul
+("pitau"	nil	(((p ii) 1) ((t ow) 0))) 	;;maori
+("pitoitoi"	nil	(((p ii) 0) ((t oo) 1) ((ii) 0) ((t oo) 0) ((ii) 0))) 	;;maori
+("piupiu"	nil	(((p y uu) 1) ((p y uu) 0))) 	;;maori
+("piwaiwaka"	nil	(((p ii) 1) ((w ai) 0) ((w o) 1) ((k @) 0))) 	;;maori
+("piwakawaka"	nil	(((p ii) 0) ((w o) 1) ((k @) 0) ((w o) 0) ((k @) 0))) 	;;maori
+("piwauwau"	nil	(((p ii) 0) ((w ow) 1) ((w ow) 0))) 	;;maori
+("placeholder"	nil	(((p l ei s) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("placeholders"	nil	(((p l ei s) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("playschool"	nil	(((p l ei) 1) ((s k u l) 0)))	;;uul
+("playschools"	nil	(((p l ei) 1) ((s k u l z) 0)))	;;uul
+("plughole"	nil	(((p l uh g) 1) ((h o l) 0)))	;;oul
+("plugholes"	nil	(((p l uh g) 1) ((h o l z) 0)))	;;oul
+("poaka"	nil	(((p oo) 1) ((aa) 0) ((k @) 0))) 	;;maori
+("poha"	nil	(((p oo) 1) ((h aa) 0))) 	;;maori
+("pohowera"	nil	(((p oo) 1) ((h oo) 0) ((w e) 0) ((r @) 0))) 	;;maori
+("pohue"	nil	(((p oo) 1) ((h uu) 0) ((ei) 0))) 	;;maori
+("pohuiakaroa"	nil	(((p oo) 1) ((h uu) 0) ((ii) 0) ((aa) 0) ((k aa) 0) ((r ou) 0) ((@) 0))) 	;;maori
+("pohutukawa"	nil	(((p @) 0) ((h uu) 0) ((t^ @) 0) ((k aa) 1) ((w @) 0))) 	;;maori
+("poi"	nil	(((p oi) 1))) 	;;maori
+("pokaka"	nil	(((p oo) 1) ((k aa) 0) ((k @) 0))) 	;;maori
+("pokarekare"	nil	(((p ou) 0) ((k aa) 1) ((r e) 0) ((k aa) 2) ((r ei) 0))) 	;;maori
+("pokeka"	nil	(((p oo) 1) ((k e) 0) ((k @) 0))) 	;;maori
+("poland"	nil	(((p o) 1) ((l @ n d) 0)))	;;oul
+("polands"	nil	(((p o) 1) ((l @ n d z) 0)))	;;oul
+("polar"	nil	(((p o l) 1) ((@) 0)))	;;oul
+("polarbear"	nil	(((p o l) 1) ((@) 0) ((b e @) 1)))	;;beer-bear,oul
+("polarbears"	nil	(((p o l) 1) ((@) 0) ((b e @ z) 1)))	;;beer-bear,oul
+("polarimeter"	nil	(((p o l) 1) ((@ r) 0) ((i) 1) ((m @) 0) ((t^ @) 0)))	;;oul
+("polarimeters"	nil	(((p o l) 1) ((@ r) 0) ((i) 1) ((m @) 0) ((t^ @ z) 0)))	;;oul
+("polarisable"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0) ((b l!) 0)))	;;oul
+("polarisation"	nil	(((p o l) 1) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("polariscope"	nil	(((p o l) 0) ((a) 1) ((r @) 0) ((s k ou p) 1)))	;;oul
+("polarise"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 0)))	;;oul
+("polarised"	nil	(((p o l) 1) ((@ r) 0) ((ai z d) 0)))	;;oul
+("polariser"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0)))	;;oul
+("polarisers"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("polarises"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("polarising"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((i ng) 0)))	;;oul
+("polarities"	nil	(((p o l) 0) ((a r) 1) ((@) 0) ((t^ ii z) 0)))	;;oul
+("polarity"	nil	(((p o l) 0) ((a r) 1) ((@) 0) ((t^ ii) 0)))	;;oul
+("polarizability"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0) ((b i l) 1) ((@) 0) ((t^ ii) 0)))	;;oul
+("polarizable"	nil	(((p o l) 1) ((@ r) 0) ((i z) 0) ((@) 0) ((b l!) 0)))	;;oul
+("polarization"	nil	(((p o l) 1) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("polarizations"	nil	(((p o l) 1) ((@ r) 0) ((i z) 0) ((ei) 1) ((sh n! z) 0)))	;;oul
+("polarize"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 0)))	;;oul
+("polarized"	nil	(((p o l) 1) ((@ r) 0) ((ai z d) 0)))	;;oul
+("polarizer"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0)))	;;oul
+("polarizers"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("polarizes"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("polarizing"	nil	(((p o l) 1) ((@ r) 0) ((ai z) 1) ((i ng) 0)))	;;oul
+("polarogram"	nil	(((p o l) 0) ((a r) 1) ((@) 0) ((g r a m) 1)))	;;oul
+("polarograph"	nil	(((p o l) 0) ((a r) 1) ((@) 0) ((g r aa f) 1)))	;;oul
+("polarographs"	nil	(((p o l) 0) ((a r) 1) ((@) 0) ((g r aa f s) 1)))	;;oul
+("polarography"	nil	(((p o l) 1) ((@ r) 0) ((o) 1) ((g r @) 0) ((f ii) 0)))	;;oul
+("polaroid"	nil	(((p o) 1) ((l @) 0) ((r oi d) 0)))	;;oul
+("pole"	nil	(((p o l) 1)))	;;oul
+("poleax"	nil	(((p o l) 1) (( a k s) 0)))	;;oul
+("poleaxe"	nil	(((p o l) 1) (( a k s) 0)))	;;oul
+("poleaxed"	nil	(((p o l) 1) (( a k s t) 0)))	;;oul
+("poleaxes"	nil	(((p o l) 1) ((a k s) 1) ((@ z) 0)))	;;oul
+("polecat"	nil	(((p o l) 1) ((k a t) 0)))	;;oul
+("polecats"	nil	(((p o l) 1) ((k a t s) 0)))	;;oul
+("poles"	nil	(((p o l z) 1)))	;;oul
+("policyholder"	nil	(((p o) 1) ((l @) 0) ((s ii) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("policyholders"	nil	(((p o) 1) ((l @) 0) ((s ii) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("polio"	nil	(((p o) 1) ((l ii) 0) ((ou) 0)))	;;oul
+("poliomyelitis"	nil	(((p o) 1) ((l ii) 0) ((ou) 0) ((m ai @) 1) ((l ai) 1) ((t^ @ s) 0)))	;;oul
+("polis"	nil	(((p o) 1) ((l i s) 0)))	;;oul
+("poll"	nil	(((p o l) 1)))	;;oul
+("poll-tax"	nil	(((p o l) 1) ((t a k s) 0)))	;;oul
+("poll-taxes"	nil	(((p o l) 1) ((t a k s) 1) ((@ z) 0)))	;;oul
+("pollable"	nil	(((p o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("polled"	nil	(((p o l d) 1)))	;;oul
+("poller"	nil	(((p o l) 1) ((@) 0)))	;;oul
+("pollers"	nil	(((p o l) 1) ((@ z) 0)))	;;oul
+("polling"	nil	(((p o l) 1) ((i ng) 0)))	;;oul
+("polls"	nil	(((p o l z) 1)))	;;oul
+("pollster"	nil	(((p o l) 1) ((s t @) 0)))	;;oul
+("pollsters"	nil	(((p o l) 1) ((s t @ z) 0)))	;;oul
+("polo"	nil	(((p o) 1) ((l ou) 0)))	;;oul
+("poloponies"	nil	(((p o) 1) ((l ou) 0) ((p ou) 1) ((n ii z) 0)))	;;oul
+("polopony"	nil	(((p o) 1) ((l ou) 0) ((p ou) 1) ((n ii) 0)))	;;oul
+("polos"	nil	(((p o) 1) ((l ou z) 0)))	;;oul
+("polson"	nil	(((p o l) 1) ((s n!) 0)))	;;oul
+("poneke"	nil	(((p @) 0) ((n ii) 1) ((k ii) 0))) 	;;maori
+("ponga"	nil	(((p o ng) 1) ((@) 0))) 	;;maori
+("pool"	nil	(((p u l) 1)))	;;uul
+("poole"	nil	(((p u l) 1)))	;;uul
+("pooled"	nil	(((p u l d) 1)))	;;uul
+("pooles"	nil	(((p u l z) 1)))	;;uul
+("pooling"	nil	(((p u l) 1) ((i ng) 0)))	;;uul
+("poolroom"	nil	(((p u l) 1) ((r uu m) 0)))	;;uul
+("poolrooms"	nil	(((p u l) 1) ((r uu m z) 0)))	;;uul
+("pools"	nil	(((p u l z) 1)))	;;uul
+("poolside"	nil	(((p u l) 1) ((s ai d) 0)))	;;uul
+("poolsides"	nil	(((p u l) 1) ((s ai d z) 0)))	;;uul
+("pooltable"	nil	(((p u l) 1) ((t ei) 1) ((b l!) 0)))	;;uul
+("pooltables"	nil	(((p u l) 1) ((t ei) 1) ((b l! z) 0)))	;;uul
+("popokotea"	nil	(((p oo) 1) ((p oo) 0) ((k oo) 0) ((t e) 0) ((@) 0))) 	;;maori
+("popotea"	nil	(((p ou) 0) ((p ou) 0) ((t e) 0) ((@) 0))) 	;;maori
+("porae"	nil	(((p oo) 1) ((r aa) 0) ((ei) 0))) 	;;maori
+("porangi"	nil	(((p oo) 1) ((r uh ng) 0) ((ii) 0))) 	;;maori
+("porirua"	nil	(((p o) 0) ((r @) 0) ((r uu) 1) ((@) 0))) 	;;maori
+("poroaki"	nil	(((p ou) 0) ((r ou) 0) ((aa) 0) ((k ii) 0))) 	;;maori
+("porokaiwhiri"	nil	(((p oo) 1) ((r ou) 0) ((k ai) 0) ((f ii) 0) ((r ii) 0))) 	;;maori
+("poroporo"	nil	(((p oo) 1) ((r ou) 0) ((p oo) 0) ((r ou) 0))) 	;;maori
+("poroporoaki"	nil	(((p oo) 1) ((r ou) 0) ((p oo) 0) ((r ou) 0) ((aa) 0) ((k ii) 1))) 	;;maori
+("portfolio"	nil	(((p oo t) 0) ((f o) 1) ((l ii) 0) ((ou) 0)))	;;oul
+("portfolios"	nil	(((p oo t) 0) ((f o) 1) ((l ii) 0) ((ou z) 0)))	;;oul
+("porthole"	nil	(((p oo t) 1) ((h o l) 0)))	;;oul
+("portholes"	nil	(((p oo t) 1) ((h o l z) 0)))	;;oul
+("postalveolar"	nil	(((p ou s t) 1) ((a l) 0) ((v ii) 0) ((o) 1) ((l @) 0)))	;;oul
+("postalveolars"	nil	(((p ou s t) 1) ((a l) 0) ((v ii) 0) ((o) 1) ((l @ z) 0)))	;;oul
+("postholder"	nil	(((p ou s t) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("potae"	nil	(((p ou) 1) ((t ai) 0))) 	;;maori
+("pothole"	nil	(((p o t) 1) ((h o l) 0)))	;;oul
+("potholed"	nil	(((p o t) 1) ((h o l d) 0)))	;;oul
+("potholer"	nil	(((p o t) 1) ((h o l) 1) ((@) 0)))	;;oul
+("potholers"	nil	(((p o t) 1) ((h o l) 1) ((@ z) 0)))	;;oul
+("potholes"	nil	(((p o t) 1) ((h o l z) 0)))	;;oul
+("potholing"	nil	(((p o t) 1) ((h o l) 1) ((i ng) 0)))	;;oul
+("pou"	nil	(((p ou) 1) ((uu) 0))) 	;;maori
+("pouakai"	nil	(((p ou) 1) ((@) 0) ((k ai) 0))) 	;;maori
+("poulterer"	nil	(((p o l) 1) ((t @) 0) ((r @) 0)))	;;oul
+("poultice"	nil	(((p o l) 1) ((t @ s) 0)))	;;oul
+("poultices"	nil	(((p o l) 1) ((t @ s) 0) ((@ z) 0)))	;;oul
+("poulticing"	nil	(((p o l) 1) ((t @ s) 0) ((i ng) 0)))	;;oul
+("poultries"	nil	(((p o l) 1) ((t r ii z) 0)))	;;oul
+("poultry"	nil	(((p o l) 1) ((t r ii) 0)))	;;oul
+("pounamu"	nil	(((p ou) 1) ((n aa) 0) ((m uu) 0))) 	;;maori
+("poupou"	nil	(((p ou) 1) ((p ou) 0))) 	;;maori
+("pouri"	nil	(((p ou) 1) ((r ii) 0))) 	;;maori
+("poutama"	nil	(((p ou) 1) ((t aa) 0) ((m @) 0))) 	;;maori
+("powertools"	nil	(((p ow @) 1) ((t u l z) 0)))	;;uul
+("powhaitere"	nil	(((p oo) 0) ((f ai) 1) ((t e) 0) ((r ei) 0))) 	;;maori
+("powhiri"	nil	(((p oo) 1) ((f i) 0) ((r ii) 0))) 	;;maori
+("powhiwhi"	nil	(((p oo) 1) ((f ii) 0) ((f ii) 0))) 	;;maori
+("pre-school"	nil	(((p r ii) 1) ((s k u l) 0)))	;;uul
+("prednisone"	nil	(((p r e d) 1) ((n i) 0) ((s ou n) 2))) 	;;drug
+("prefoliation"	nil	(((p r ii) 1) ((f o) 0) ((l ii) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("premarin"	nil	(((p r e) 1) ((m @) 0) ((r i n) 2))) 	;;drug
+("preschool"	nil	(((p r ii) 1) ((s k u l) 0)))	;;uul
+("preschooler"	nil	(((p r ii) 0) ((s k u l) 1) ((@) 0)))	;;uul
+("preschoolers"	nil	(((p r ii) 1) ((s k u l) 0) ((@ z) 0)))	;;uul
+("preschooling"	nil	(((p r ii) 0) ((s k u l) 1) ((i ng) 0)))	;;uul
+("preschools"	nil	(((p r ii) 1) ((s k u l z) 0)))	;;uul
+("pro-life"	nil	(((p r o) 0) ((l ai f) 1)))	;;oul
+("prolapse"	nil	(((p r o) 1) ((l a p s) 0)))	;;oul
+("prolapsed"	nil	(((p r o) 1) ((l a p s t) 0)))	;;oul
+("prolate"	nil	(((p r o) 1) ((l ei t) 0)))	;;oul
+("prole"	nil	(((p r o l) 1)))	;;oul
+("proles"	nil	(((p r o l z) 1)))	;;oul
+("proletarian"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ n) 0)))	;;oul
+("proletarianism"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ n) 0) ((i) 1) ((z m!) 0)))	;;oul
+("proletarianization"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ n) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("proletarianize"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ n) 0) ((ai z) 0)))	;;oul
+("proletarianized"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ n) 0) ((ai z d) 0)))	;;oul
+("proletarians"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ n z) 0)))	;;oul
+("proletariat"	nil	(((p r o) 1) ((l @) 0) ((t ir) 1) ((r ii @ t) 0)))	;;oul
+("prolix"	nil	(((p r o) 1) ((l i k s) 0)))	;;oul
+("prolixness"	nil	(((p r o) 1) ((l i k s) 0) ((n @ s) 0)))	;;oul
+("prolog"	nil	(((p r o) 1) ((l o g) 0)))	;;oul
+("prologs"	nil	(((p r o) 1) ((l o g z) 0)))	;;oul
+("prologue"	nil	(((p r o) 1) ((l o g) 0)))	;;oul
+("prologues"	nil	(((p r o) 1) ((l o g z) 0)))	;;oul
+("prolongate"	nil	(((p r o) 1) ((l o ng) 0) ((g ei t) 0)))	;;oul
+("prolongation"	nil	(((p r o) 1) ((l o ng) 0) ((g ei) 1) ((sh n!) 0)))	;;oul
+("prolongations"	nil	(((p r o) 1) ((l o ng) 0) ((g ei) 1) ((sh n! z) 0)))	;;oul
+("proteolytic"	nil	(((p r ou) 1) ((t^ ii) 0) ((o) 0) ((l i) 1) ((t^ i k) 0)))	;;oul
+("psola"	nil	(((p @) 0) ((s o) 1) ((l @) 0)))	;;oul
+("pua"	nil	(((p uu) 1) ((@) 0))) 	;;maori
+("puanga"	nil	(((p uu) 1) ((uh ng) 0) ((@) 0))) 	;;maori
+("puarangi"	nil	(((p uu) 1) ((aa) 0) ((r uh ng) 0) ((ii) 0))) 	;;maori
+("puawananga"	nil	(((p uu) 0) ((aa) 0) ((w aa) 1) ((n uh ng) 0) ((@) 0))) 	;;maori
+("puha"	nil	(((p uu) 1) ((h aa) 0))) 	;;maori
+("puharakeke"	nil	(((p uu) 0) ((h aa) 1) ((r aa) 0) ((k e) 0) ((k ei) 0))) 	;;maori
+("puheretaiko"	nil	(((p uu) 1) ((h e) 0) ((r e) 0) ((t ai) 1) ((k oo) 0))) 	;;maori
+("puhoi"	nil	(((p uu) 1) ((h oi) 0))) 	;;maori
+("puia"	nil	(((p uu) 1) ((ii) 0) ((@) 0))) 	;;maori
+("puka"	nil	(((p uu) 1) ((k @) 0))) 	;;maori
+("pukahu"	nil	(((p uu) 1) ((k aa) 0) ((h uu) 0))) 	;;maori
+("pukana"	nil	(((p uu) 1) ((k aa) 0) ((n @) 0))) 	;;maori
+("pukanui"	nil	(((p u) 1) ((k @) 0) ((n uu) 2) ((ii) 0))) 	;;maori
+("pukapuka"	nil	(((p uu) 1) ((k aa) 0) ((p uu) 0) ((k @) 0))) 	;;maori
+("pukatea"	nil	(((p uu) 1) ((k aa) 0) ((t e) 0) ((@) 0))) 	;;maori
+("pukeko"	nil	(((p uu) 0) ((k e) 1) ((k ou) 0))) 	;;maori
+("puku"	nil	(((p u) 1) ((k uu) 0))) 	;;maori
+("pukunui"	nil	(((p uu) 1) ((k uu) 0) ((n uu) 0) ((ii) 0))) 	;;maori
+("pukurau"	nil	(((p uu) 1) ((k uu) 0) ((r ow) 0))) 	;;maori
+("punga"	nil	(((p uh ng) 1) ((@) 0))) 	;;maori
+("pungapunga"	nil	(((p uu ng) 1) ((aa) 0) ((p uu ng) 0) ((@) 0))) 	;;maori
+("puni"	nil	(((p uu) 1) ((n ii) 0))) 	;;maori
+("punui"	nil	(((p uu) 1) ((n uu) 0) ((ii) 0))) 	;;maori
+("pupu"	nil	(((p uu) 1) ((p uu) 0))) 	;;maori
+("pupuharakeke"	nil	(((p uu) 1) ((p uu) 0) ((h aa) 1) ((r aa) 0) ((k e) 0) ((k ei) 0))) 	;;maori
+("pupurangi"	nil	(((p uu) 1) ((p uu) 0) ((r uh ng) 1) ((ii) 0))) 	;;maori
+("puriri"	nil	(((p uu) 1) ((r i) 0) ((r ii) 2))) 	;;maori
+("purumorua"	nil	(((p uu) 0) ((r uu) 0) ((m oo) 1) ((r uu) 0) ((@) 0))) 	;;maori
+("putangitangi"	nil	(((p uu) 0) ((t uh ng) 1) ((ii) 0) ((t uh ng) 0) ((ii) 0))) 	;;maori
+("putaputaweta"	nil	(((p uu) 0) ((t aa) 0) ((p uu) 0) ((t aa) 1) ((w e) 0) ((t^ @) 0))) 	;;maori
+("puteketeke"	nil	(((p uu) 0) ((t e) 1) ((k e) 0) ((t e) 0) ((k ei) 0))) 	;;maori
+("putiputi"	nil	(((p u) 1) ((t^ ii) 0) ((p u) 2) ((t^ ii) 0))) 	;;maori
+("putorino"	nil	(((p uu) 2) ((t^ @) 0) ((r ii) 1) ((n ou) 0))) 	;;maori
+("putoto"	nil	(((p uu) 1) ((t oo) 0) ((t oo) 0))) 	;;maori
+("puwaiwhakarua"	nil	(((p uu) 1) ((w ai) 0) ((f aa) 0) ((k aa) 0) ((r uu) 0) ((@) 0))) 	;;maori
+("puweto"	nil	(((p uu) 1) ((w e) 0) ((t oo) 0))) 	;;maori
+("ra"	nil	(((r aa) 1))) 	;;maori
+("radio-location"	nil	(((r ei) 1) ((d ii) 0) ((o) 0) ((l ou) 0) ((k ei) 1) ((sh n!) 0)))	;;oul
+("radioluminescence"	nil	(((r ei) 1) ((d ii) 0) ((o) 0) ((l uu) 1) ((m @) 0) ((n e s) 1) ((n! s) 0)))	;;oul
+("rahui"	nil	(((r aa) 1) ((h uu) 0) ((ii) 0))) 	;;maori
+("rahui-pokeka"	nil	(((r aa) 1) ((h uu) 0) ((ii) 0) ((p oo) 1) ((k e) 0) ((k @) 0))) 	;;maori
+("rakau"	nil	(((r aa) 1) ((k ow) 0))) 	;;maori
+("rakiura"	nil	(((r aa) 1) ((k ii) 0) ((uu) 0) ((r @) 0))) 	;;maori
+("ramarama"	nil	(((r aa) 1) ((m aa) 0) ((r aa) 0) ((m @) 0))) 	;;maori
+("rangatahi"	nil	(((r uh ng) 1) ((aa) 0) ((t aa) 0) ((h ii) 0))) 	;;maori
+("rangatira"	nil	(((r uh ng) 1) ((aa) 0) ((t ii) 0) ((r @) 0))) 	;;maori
+("rangatiratanga"	nil	(((r uh ng) 1) ((aa) 0) ((t ii) 0) ((r aa) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("rangi"	nil	(((r uh ng) 1) ((ii) 0))) 	;;maori
+("rangimarie"	nil	(((r uh ng) 1) ((ii) 0) ((m aa) 2) ((r ii) 0) ((ei) 0))) 	;;maori
+("rangiora"	nil	(((r uh ng) 0) ((ii) 0) ((oo) 1) ((r @) 0))) 	;;maori
+("rangitata"	nil	(((r uh ng) 1) ((ii) 0) ((t aa) 0) ((t^ @) 0))) 	;;maori
+("rangitoto"	nil	(((r uh ng) 1) ((ii) 0) ((t ou) 0) ((t^ ou) 0))) 	;;maori
+("ranguru"	nil	(((r uh ng) 1) ((@) 0) ((r uu) 0))) 	;;maori
+("raranga"	nil	(((r aa) 1) ((r uh ng) 0) ((@) 0))) 	;;maori
+("rari"	nil	(((r aa) 0) ((r ii) 1))) 	;;maori
+("rata"	nil	(((r aa) 1) ((t^ @) 0))) 	;;maori
+("ratahuihui"	nil	(((r aa) 1) ((t aa) 0) ((h uu) 0) ((ii) 0) ((h uu) 0) ((ii) 0))) 	;;maori
+("ratana"	nil	(((r aa) 1) ((t aa) 0) ((n @) 0))) 	;;maori
+("rauhuia"	nil	(((r ow) 1) ((h uu) 0) ((ii) 0) ((@) 0))) 	;;maori
+("raukawa"	nil	(((r ow) 1) ((k aa) 0) ((w @) 0))) 	;;maori
+("raukura"	nil	(((r ow) 1) ((k uu) 0) ((r @) 0))) 	;;maori
+("raunui"	nil	(((r ow) 1) ((n uu) 0) ((ii) 0))) 	;;maori
+("raupatu"	nil	(((r ow) 1) ((p aa) 0) ((t uu) 0))) 	;;maori
+("raupeka"	nil	(((r ow) 1) ((p e) 0) ((k @) 0))) 	;;maori
+("raupo"	nil	(((r aa) 1) ((u) 0) ((p ou) 0))) 	;;maori
+("raurau"	nil	(((r ow) 1) ((r ow) 0))) 	;;maori
+("raurekau"	nil	(((r ow) 0) ((r e) 1) ((k ow) 0))) 	;;maori
+("rauriki"	nil	(((r aa) 1) ((u) 0) ((r @) 0) ((k ii) 0))) 	;;maori
+("raurimu"	nil	(((r ow) 1) ((r ii) 0) ((m uu) 0))) 	;;maori
+("rautini"	nil	(((r ow) 1) ((t i) 0) ((n ii) 0))) 	;;maori
+("ravioli"	nil	(((r a) 1) ((v ii) 0) ((o) 1) ((l ii) 0)))	;;oul
+("rawaru"	nil	(((r aa) 1) ((w aa) 0) ((r uu) 0))) 	;;maori
+("rawiri"	nil	(((r aa) 1) ((w ii) 0) ((r ii) 0))) 	;;maori
+("redpoll"	nil	(((r e d) 1) ((p o l) 0)))	;;oul
+("refolded"	nil	(((r ii) 0) ((f o l d) 1) ((@ d) 0)))	;;oul
+("refolding"	nil	(((r ii) 0) ((f o l d) 1) ((i ng) 0)))	;;oul
+("refuel"	nil	(((r ii) 0) ((f y u l) 1)))	;;uul
+("refueled"	nil	(((r ii) 0) ((f y u l d) 1)))	;;uul
+("refueling"	nil	(((r ii) 0) ((f y u l) 1) ((i ng) 0)))	;;uul
+("refuelled"	nil	(((r ii) 0) ((f y u l d) 1)))	;;uul
+("refuelling"	nil	(((r ii) 0) ((f y u l) 1) ((i ng) 0)))	;;uul
+("refuels"	nil	(((r ii) 0) ((f y u l z) 1)))	;;uul
+("reinga"	nil	(((r e) 0) ((i) 0) ((i ng @) 1))) 	;;maori
+("reinhold"	nil	(((r ei n) 1) ((h o l d) 0)))	;;oul
+("reka"	nil	(((r e) 1) ((k @) 0))) 	;;maori
+("rekohu"	nil	(((r e) 1) ((k @) 0) ((h uu) 0))) 	;;maori
+("remould"	nil	(((r ii) 0) ((m o l d) 1)))	;;oul
+("remoulding"	nil	(((r ii) 0) ((m o l d) 1) ((i ng) 0)))	;;oul
+("remoulds"	nil	(((r ii) 0) ((m o l d z) 1)))	;;oul
+("remuera"	nil	(((r e) 0) ((m uu) 0) ((e) 1) ((@ r @) 0))) 	;;maori
+("rengarenga"	nil	(((r e ng) 1) ((aa) 0) ((r e ng) 0) ((@) 0))) 	;;maori
+("reo"	nil	(((r ei) 1) ((ou) 0))) 	;;maori
+("reperepe"	nil	(((r e) 1) ((p e) 0) ((r e) 0) ((p ei) 0))) 	;;maori
+("reremai"	nil	(((r e) 1) ((r e) 0) ((m ai) 0))) 	;;maori
+("resold"	nil	(((r ii) 0) ((s o l d) 1)))	;;oul
+("resoldering"	nil	(((r ii) 0) ((s o l) 1) ((d @ r) 0) ((i ng) 0)))	;;oul
+("resoled"	nil	(((r ii) 0) ((s o l d) 1)))	;;oul
+("retireti"	nil	(((r e) 1) ((t^ ii) 0) ((r e) 0) ((t^ ii) 0))) 	;;maori
+("retold"	nil	(((r ii) 0) ((t o l d) 1)))	;;oul
+("retooled"	nil	(((r ii) 0) ((t u l d) 1)))	;;uul
+("retooling"	nil	(((r ii) 0) ((t u l) 1) ((i ng) 0)))	;;uul
+("reupholster"	nil	(((r ii) 1) ((uh p) 0) ((h o l) 1) ((s t @) 0)))	;;oul
+("reupholstered"	nil	(((r ii) 1) ((uh p) 0) ((h o l) 1) ((s t @ d) 0)))	;;oul
+("reupholstering"	nil	(((r ii) 1) ((uh p) 0) ((h o l) 1) ((s t @ r) 0) ((i ng) 0)))	;;oul
+("reupholsters"	nil	(((r ii) 1) ((uh p) 0) ((h o l) 1) ((s t @ z) 0)))	;;oul
+("revolt"	nil	(((r i) 0) ((v o l t) 1)))	;;oul
+("revolted"	nil	(((r i) 0) ((v o l t) 1) ((@ d) 0)))	;;oul
+("revolter"	nil	(((r i) 0) ((v o l t) 1) ((@) 0)))	;;oul
+("revolters"	nil	(((r i) 0) ((v o l t) 1) ((@ z) 0)))	;;oul
+("revolting"	nil	(((r i) 0) ((v o l t) 1) ((i ng) 0)))	;;oul
+("revoltingly"	nil	(((r i) 0) ((v o l t) 1) ((i ng) 0) ((l ii) 0)))	;;oul
+("revolts"	nil	(((r i) 0) ((v o l t s) 1)))	;;oul
+("rewana"	nil	(((r e) 1) ((w aa) 0) ((n @) 0))) 	;;maori
+("rewarewa"	nil	(((r e) 1) ((w aa) 0) ((r e) 0) ((w @) 0))) 	;;maori
+("ridgepole"	nil	(((r i jh) 1) ((p o l) 0)))	;;oul
+("ridgepoles"	nil	(((r i jh) 1) ((p o l z) 0)))	;;oul
+("rigamarole"	nil	(((r i g) 1) ((m @) 0) ((r o l) 1)))	;;oul
+("rigamaroles"	nil	(((r i g) 1) ((m @) 0) ((r o l z) 1)))	;;oul
+("rigmarole"	nil	(((r i g) 1) ((m @) 0) ((r o l) 0)))	;;oul
+("rigmaroles"	nil	(((r i g) 1) ((m @) 0) ((r o l z) 0)))	;;oul
+("rimu"	nil	(((r ii) 1) ((m uu) 0))) 	;;maori
+("rimurapa"	nil	(((r ii) 1) ((m uu) 0) ((r aa) 2) ((p @) 0))) 	;;maori
+("rimurimu"	nil	(((r ii) 1) ((m uu) 0) ((r ii) 2) ((m uu) 0))) 	;;maori
+("ringatu"	nil	(((r ii ng) 0) ((aa) 0) ((t uu) 1))) 	;;maori
+("riri"	nil	(((r ii) 1) ((r ii) 0))) 	;;maori
+("riroriro"	nil	(((r ii) 1) ((r ou) 0) ((r ii) 0) ((r ou) 0))) 	;;maori
+("rissole"	nil	(((r i) 1) ((s o l) 0)))	;;oul
+("rissoles"	nil	(((r i) 1) ((s o l z) 0)))	;;oul
+("riwai"	nil	(((r ii) 1) ((w ai) 0))) 	;;maori
+("roa"	nil	(((r ou) 1) ((@) 0))) 	;;maori
+("roadholding"	nil	(((r ou d) 1) ((h o l d) 1) ((i ng) 0)))	;;oul
+("rock-and-roll"	nil	(((r o k) 1) ((@ n) 0) ((r o l) 1)))	;;oul
+("rock-n-roll"	nil	(((r o k) 1) ((@ n) 0) ((r o l) 1)))	;;oul
+("rohe"	nil	(((r ou) 1) ((h ei) 0))) 	;;maori
+("rohutu"	nil	(((r ou) 1) ((h uu) 0) ((t uu) 0))) 	;;maori
+("roi"	nil	(((r ou) 1) ((ii) 0))) 	;;maori
+("roland"	nil	(((r o) 1) ((l @ n d) 0)))	;;oul
+("role"	nil	(((r o l) 1)))	;;oul
+("role-playing"	nil	(((r o l) 1) ((p l ei) 1) ((i ng) 0)))	;;oul
+("roleplayed"	nil	(((r o l) 1) ((p l ei d) 0)))	;;oul
+("roleplaying"	nil	(((r o l) 1) ((p l ei) 1) ((i ng) 0)))	;;oul
+("roles"	nil	(((r o l z) 1)))	;;oul
+("rolex"	nil	(((r o) 1) ((l e k s) 0)))	;;oul
+("roll"	nil	(((r o l) 1)))	;;oul
+("roll-call"	nil	(((r o l) 1) ((k oo l) 0)))	;;oul
+("roll-calls"	nil	(((r o l) 1) ((k oo l z) 0)))	;;oul
+("roll-on"	nil	(((r o l) 1) (( o n) 0)))	;;oul
+("roll-on-roll-off"	nil	(((r o l) 1) (( o n) 0) ((r o l) 0) ((o f) 1)))	;;oul
+("roll-out"	nil	(((r o l) 1) (( ow t) 0)))	;;oul
+("roll-outs"	nil	(((r o l) 1) (( ow t s) 0)))	;;oul
+("roll-up"	nil	(((r o l) 1) (( uh p) 0)))	;;oul
+("roll-ups"	nil	(((r o l) 1) (( uh p s) 0)))	;;oul
+("rollable"	nil	(((r o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("rollback"	nil	(((r o l) 1) ((b a k) 0)))	;;oul
+("rollbacks"	nil	(((r o l) 1) ((b a k s) 0)))	;;oul
+("rolled"	nil	(((r o l d) 1)))	;;oul
+("roller"	nil	(((r o l) 1) ((@) 0)))	;;oul
+("rollerblade"	nil	(((r o l) 1) ((@) 0) ((b l ei d) 1)))	;;oul
+("rollerbladed"	nil	(((r o l) 1) ((@) 0) ((b l ei d) 1) ((@ d) 0)))	;;oul
+("rollerblades"	nil	(((r o l) 1) ((@) 0) ((b l ei d z) 1)))	;;oul
+("rollerblading"	nil	(((r o l) 1) ((@) 0) ((b l ei d) 1) ((i ng) 0)))	;;oul
+("rollercoaster"	nil	(((r o l) 1) ((@) 0) ((k ou s t) 1) ((@) 0)))	;;oul
+("rollercoasters"	nil	(((r o l) 1) ((@) 0) ((k ou s t) 1) ((@ z) 0)))	;;oul
+("rollers"	nil	(((r o l) 1) ((@ z) 0)))	;;oul
+("rolleston"	nil	(((r o l) 1) ((s t @ n) 0)))	;;oul
+("rolling"	nil	(((r o l) 1) ((i ng) 0)))	;;oul
+("rollings"	nil	(((r o l) 1) ((i ng z) 0)))	;;oul
+("rollmop"	nil	(((r o l) 1) ((m o p) 0)))	;;oul
+("rollover"	nil	(((r o l) 1) ((ou) 1) ((v @) 0)))	;;oul
+("rollovers"	nil	(((r o l) 1) ((ou) 1) ((v @ z) 0)))	;;oul
+("rolls"	nil	(((r o l z) 1)))	;;oul
+("rollup"	nil	(((r o l) 1) (( uh p) 0)))	;;oul
+("rollups"	nil	(((r o l) 1) (( uh p s) 0)))	;;oul
+("roly-poly"	nil	(((r o) 1) ((l ii) 0) ((p o) 1) ((l ii) 0)))	;;oul
+("rongo"	nil	(((r ou ng) 1) ((oo) 0))) 	;;maori
+("rongoa"	nil	(((r ou ng) 0) ((ou) 0) ((@) 0))) 	;;maori
+("rongomatane"	nil	(((r ou ng) 0) ((ou) 0) ((m aa) 0) ((t aa 1- n ei) 0))) 	;;maori
+("roniu"	nil	(((r ou) 1) ((n ii) 0) ((uu) 0))) 	;;maori
+("ropata"	nil	(((r ou) 1) ((p aa) 0) ((t^ @) 0))) 	;;maori
+("ropu"	nil	(((r ou) 1) ((p uu) 0))) 	;;maori
+("rori"	nil	(((r ou) 1) ((r ii) 0))) 	;;maori
+("rotorua"	nil	(((r ou) 2) ((t^ @) 0) ((r uu) 1) ((@) 0))) 	;;maori
+("rowi"	nil	(((r ou) 1) ((w ii) 0))) 	;;maori
+("rua"	nil	(((r uu) 1) ((@) 0))) 	;;maori
+("runa"	nil	(((r uu) 1) ((n @) 0))) 	;;maori
+("runanga"	nil	(((r uu) 1) ((n uh ng) 0) ((@) 0))) 	;;maori
+("ruru"	nil	(((r uu) 1) ((r uu) 0))) 	;;maori
+("samuel"	nil	(((s a) 1) ((m y uw u l) 0)))	;;uul
+("samuels"	nil	(((s a) 1) ((m y uw u l z) 0)))	;;uul
+("samuelson"	nil	(((s a) 1) ((m y uw u l) 0) ((s n!) 0)))	;;uul
+("samuelsson"	nil	(((s a) 1) ((m y uw u l) 0) ((s n!) 0)))	;;uul
+("scaffold"	nil	(((s k a) 1) ((f o l d) 0)))	;;oul
+("scaffolding"	nil	(((s k a) 1) ((f o l d) 0) ((i ng) 0)))	;;oul
+("scaffoldings"	nil	(((s k a) 1) ((f o l d) 0) ((i ng z) 0)))	;;oul
+("scaffolds"	nil	(((s k a) 1) ((f o l d z) 0)))	;;oul
+("school"	nil	(((s k u l) 1)))	;;uul
+("school-bags"	nil	(((s k u l) 1) ((b a g z) 0)))	;;uul
+("school-board"	nil	(((s k u l) 1) ((b oo d) 0)))	;;uul
+("school-boards"	nil	(((s k u l) 1) ((b oo d z) 0)))	;;uul
+("school-days"	nil	(((s k u l) 1) ((d ei z) 0)))	;;uul
+("school-girl"	nil	(((s k u l) 1) ((g @@r l) 0)))	;;uul
+("school-girls"	nil	(((s k u l) 1) ((g @@r l z) 0)))	;;uul
+("school-marm"	nil	(((s k u l) 1) ((m aa m) 0)))	;;uul
+("school-marmish"	nil	(((s k u l) 1) ((m aa m) 1) ((i sh) 0)))	;;uul
+("school-room"	nil	(((s k u l) 1) ((r uu m) 0)))	;;uul
+("school-rooms"	nil	(((s k u l) 1) ((r uu m z) 0)))	;;uul
+("schoolbag"	nil	(((s k u l) 1) ((b a g) 0)))	;;uul
+("schoolbags"	nil	(((s k u l) 1) ((b a g z) 0)))	;;uul
+("schoolbook"	nil	(((s k u l) 1) ((b u k) 0)))	;;uul
+("schoolbookish"	nil	(((s k u l) 1) ((b u k) 1) ((i sh) 0)))	;;uul
+("schoolbooks"	nil	(((s k u l) 1) ((b u k s) 0)))	;;uul
+("schoolboy"	nil	(((s k u l) 1) ((b oi) 0)))	;;uul
+("schoolboyish"	nil	(((s k u l) 1) ((b oi) 1) ((i sh) 0)))	;;uul
+("schoolboys"	nil	(((s k u l) 1) ((b oi z) 0)))	;;uul
+("schoolchild"	nil	(((s k u l) 1) ((ch ai l d) 0)))	;;uul
+("schoolchildren"	nil	(((s k u l) 1) ((ch i l) 1) ((d r @ n) 0)))	;;uul
+("schoolchildrens"	nil	(((s k u l) 1) ((ch i l) 1) ((d r @ n z) 0)))	;;uul
+("schoolday"	nil	(((s k u l) 1) ((d ei) 0)))	;;uul
+("schooldays"	nil	(((s k u l) 1) ((d ei z) 0)))	;;uul
+("schooled"	nil	(((s k u l d) 1)))	;;uul
+("schooler"	nil	(((s k u l) 1) ((@) 0)))	;;uul
+("schoolfellow"	nil	(((s k u l) 1) ((f a) 1) ((l ou) 0)))	;;uul
+("schoolfellows"	nil	(((s k u l) 1) ((f a) 1) ((l ou z) 0)))	;;uul
+("schoolfriend"	nil	(((s k u l) 1) ((f r e n d) 0)))	;;uul
+("schoolfriends"	nil	(((s k u l) 1) ((f r e n d z) 0)))	;;uul
+("schoolgirl"	nil	(((s k u l) 1) ((g @@r l) 0)))	;;uul
+("schoolgirlish"	nil	(((s k u l) 1) ((g @@r l) 1) ((i sh) 0)))	;;uul
+("schoolgirlishly"	nil	(((s k u l) 1) ((g @@r l) 1) ((i sh) 0) ((l ii) 0)))	;;uul
+("schoolgirlishness"	nil	(((s k u l) 1) ((g @@r l) 1) ((i sh) 0) ((n @ s) 0)))	;;uul
+("schoolgirls"	nil	(((s k u l) 1) ((g @@r l z) 0)))	;;uul
+("schoolhouse"	nil	(((s k u l) 1) ((h ow s) 0)))	;;uul
+("schoolhouses"	nil	(((s k u l) 1) ((h ow z) 1) ((@ z) 0)))	;;uul
+("schooling"	nil	(((s k u l) 1) ((i ng) 0)))	;;uul
+("schoolkid"	nil	(((s k u l) 1) ((k i d) 0)))	;;uul
+("schoolkids"	nil	(((s k u l) 1) ((k i d z) 0)))	;;uul
+("schoolmarm"	nil	(((s k u l) 1) ((m aa m) 0)))	;;uul
+("schoolmarms"	nil	(((s k u l) 1) ((m aa m z) 0)))	;;uul
+("schoolmaster"	nil	(((s k u l) 1) ((m aa) 1) ((s t @) 0)))	;;uul
+("schoolmastering"	nil	(((s k u l) 1) ((m aa) 1) ((s t @ r) 0) ((i ng) 0)))	;;uul
+("schoolmasterish"	nil	(((s k u l) 1) ((m aa) 1) ((s t @ r) 0) ((i sh) 0)))	;;uul
+("schoolmasters"	nil	(((s k u l) 1) ((m aa) 1) ((s t @ z) 0)))	;;uul
+("schoolmate"	nil	(((s k u l) 1) ((m ei t) 0)))	;;uul
+("schoolmates"	nil	(((s k u l) 1) ((m ei t s) 0)))	;;uul
+("schoolmistress"	nil	(((s k u l) 1) ((m i) 1) ((s t r @ s) 0)))	;;uul
+("schoolmistresses"	nil	(((s k u l) 1) ((m i) 1) ((s t r @ s) 0) ((@ z) 0)))	;;uul
+("schoolpeople"	nil	(((s k u l) 1) ((p ii) 1) ((p l!) 0)))	;;uul
+("schoolroom"	nil	(((s k u l) 1) ((r uu m) 0)))	;;uul
+("schoolrooms"	nil	(((s k u l) 1) ((r uu m z) 0)))	;;uul
+("schools"	nil	(((s k u l z) 1)))	;;uul
+("schoolteacher"	nil	(((s k u l) 1) ((t ii ch) 1) ((@) 0)))	;;uul
+("schoolteachers"	nil	(((s k u l) 1) ((t ii ch) 1) ((@ z) 0)))	;;uul
+("schoolteaching"	nil	(((s k u l) 1) ((t ii ch) 1) ((i ng) 0)))	;;uul
+("schooltime"	nil	(((s k u l) 1) ((t ai m) 0)))	;;uul
+("schooltimes"	nil	(((s k u l) 1) ((t ai m z) 0)))	;;uul
+("schoolwork"	nil	(((s k u l) 1) ((w @@r k) 0)))	;;uul
+("schoolyard"	nil	(((s k u l) 1) ((y aa d) 0)))	;;uul
+("schoolyards"	nil	(((s k u l) 1) ((y aa d z) 0)))	;;uul
+("schoolyear"	nil	(((s k u l) 0) ((y e @) 1)))	;;beer-bear,uul
+("schoolyears"	nil	(((s k u l) 0) ((y e @ z) 1)))	;;beer-bear,uul
+("scold"	nil	(((s k o l d) 1)))	;;oul
+("scolded"	nil	(((s k o l d) 1) ((@ d) 0)))	;;oul
+("scolder"	nil	(((s k o l d) 1) ((@) 0)))	;;oul
+("scolding"	nil	(((s k o l d) 1) ((i ng) 0)))	;;oul
+("scolds"	nil	(((s k o l d z) 1)))	;;oul
+("scroll"	nil	(((s k r o l) 1)))	;;oul
+("scrollable"	nil	(((s k r o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("scrollbar"	nil	(((s k r o l) 1) ((b aa) 0)))	;;oul
+("scrollbars"	nil	(((s k r o l) 1) ((b aa z) 0)))	;;oul
+("scrolled"	nil	(((s k r o l d) 1)))	;;oul
+("scroller"	nil	(((s k r o l) 1) ((@) 0)))	;;oul
+("scrollers"	nil	(((s k r o l) 1) ((@ z) 0)))	;;oul
+("scrolling"	nil	(((s k r o l) 1) ((i ng) 0)))	;;oul
+("scrolls"	nil	(((s k r o l z) 1)))	;;oul
+("self-control"	nil	(((s a l f) 1) ((k @ n) 0) ((t r o l) 1)))	;;oul
+("self-controlled"	nil	(((s a l f) 1) ((k @ n) 0) ((t r o l d) 1)))	;;oul
+("self-controls"	nil	(((s a l f) 1) ((k @ n) 0) ((t r o l z) 1)))	;;oul
+("self-rolled"	nil	(((s a l f) 0) ((r o l d) 1)))	;;oul
+("self-schooled"	nil	(((s a l f) 0) ((s k u l d) 1)))	;;uul
+("semicolon"	nil	(((s e) 1) ((m ii) 0) ((k o) 1) ((l @ n) 0)))	;;oul
+("semicolons"	nil	(((s e) 1) ((m ii) 0) ((k o) 1) ((l @ n z) 0)))	;;oul
+("seminole"	nil	(((s e) 1) ((m i) 0) ((n o l) 0)))	;;oul
+("seoul"	nil	(((s o l) 1)))	;;oul
+("sequel"	nil	(((s ii) 1) ((k w u l) 0)))	;;uul
+("sequels"	nil	(((s ii) 1) ((k w u l z) 0)))	;;uul
+("serc"	nil	(((s @@r k) 1))) 	;;drug
+("seven-year-old"	nil	(((s e) 1) ((v n!) 0) ((y ir r) 0) ((o l d) 1)))	;;oul
+("seven-year-olds"	nil	(((s e) 1) ((v n!) 0) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("sevenfold"	nil	(((s e) 1) ((v n!) 0) ((f o l d) 1)))	;;oul
+("severalfold"	nil	(((s e v) 1) ((r @ l) 0) ((f o l d) 1)))	;;oul
+("shan't"	nil	(((sh aa n t) 1)))	;;contraction
+("shareholder"	nil	(((sh e @) 1) ((h o l d) 1) ((@) 0)))	;;beer-bear,oul
+("shareholders"	nil	(((sh e @) 1) ((h o l d) 1) ((@ z) 0)))	;;beer-bear,oul
+("shareholding"	nil	(((sh e @) 1) ((h o l d) 1) ((i ng) 0)))	;;beer-bear,oul
+("shareholdings"	nil	(((sh e @) 1) ((h o l d) 1) ((i ng z) 0)))	;;beer-bear,oul
+("she'd"	nil	(((sh ii d) 1)))	;;contraction
+("she'll"	nil	(((sh ii l) 1)))	;;contraction
+("she's"	nil	(((sh ii z) 1)))	;;contraction
+("sheepfold"	nil	(((sh ii p) 1) ((f o l d) 0)))	;;oul
+("sheepfolds"	nil	(((sh ii p) 1) ((f o l d z) 0)))	;;oul
+("shergold"	nil	(((sh @@r) 1) ((g o l d) 0)))	;;oul
+("shoal"	nil	(((sh o l) 1)))	;;oul
+("shoaled"	nil	(((sh o l d) 1)))	;;oul
+("shoaling"	nil	(((sh o l) 1) ((i ng) 0)))	;;oul
+("shoals"	nil	(((sh o l z) 1)))	;;oul
+("shouldn't"	nil	(((sh u d) 1) ((n! t) 0)))	;;contraction
+("sinemet"	nil	(((s i) 1) ((n @) 0) ((m e t) 2))) 	;;drug
+("sinkhole"	nil	(((s i ng k) 1) ((h o l) 0)))	;;oul
+("sinkholes"	nil	(((s i ng k) 1) ((h o l z) 0)))	;;oul
+("six-year-old"	nil	(((s i k s) 1) ((y ir r) 0) ((o l d) 1)))	;;oul
+("six-year-olds"	nil	(((s i k s) 1) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("sixfold"	nil	(((s i k s) 1) ((f o l d) 0)))	;;oul
+("slave-holders"	nil	(((s l ei v) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("slaveholder"	nil	(((s l ei v) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("slaveholders"	nil	(((s l ei v) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("smallholder"	nil	(((s m oo l) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("smallholders"	nil	(((s m oo l) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("smallholding"	nil	(((s m oo l) 1) ((h o l d) 1) ((i ng) 0)))	;;oul
+("smallholdings"	nil	(((s m oo l) 1) ((h o l d) 1) ((i ng z) 0)))	;;oul
+("smolder"	nil	(((s m o l) 1) ((d @) 0)))	;;oul
+("smoldered"	nil	(((s m o l) 1) ((d @ d) 0)))	;;oul
+("smoldering"	nil	(((s m o l) 1) ((d @ r) 0) ((i ng) 0)))	;;oul
+("smolders"	nil	(((s m o l) 1) ((d @ z) 0)))	;;oul
+("smoulder"	nil	(((s m o l) 1) ((d @) 0)))	;;oul
+("smouldered"	nil	(((s m o l) 1) ((d @ d) 0)))	;;oul
+("smouldering"	nil	(((s m o l) 1) ((d @ r) 0) ((i ng) 0)))	;;oul
+("smoulders"	nil	(((s m o l) 1) ((d @ z) 0)))	;;oul
+("sola"	nil	(((s o) 1) ((l @) 0)))	;;oul
+("solano"	nil	(((s o) 0) ((l aa) 1) ((n ou) 0)))	;;oul
+("solar"	nil	(((s o) 1) ((l @) 0)))	;;oul
+("solarisation"	nil	(((s o) 1) ((l @ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("solarise"	nil	(((s o) 1) ((l @ r) 0) ((ai z) 0)))	;;oul
+("solarised"	nil	(((s o) 1) ((l @ r) 0) ((ai z d) 0)))	;;oul
+("solarises"	nil	(((s o) 1) ((l @ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("solarising"	nil	(((s o) 1) ((l @ r) 0) ((ai z) 1) ((i ng) 0)))	;;oul
+("solarization"	nil	(((s o) 1) ((l @ r) 0) ((i z) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("solarize"	nil	(((s o) 1) ((l @ r) 0) ((ai z) 0)))	;;oul
+("solarized"	nil	(((s o) 1) ((l @ r) 0) ((ai z d) 0)))	;;oul
+("solarizes"	nil	(((s o) 1) ((l @ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("solarizing"	nil	(((s o) 1) ((l @ r) 0) ((ai z) 1) ((i ng) 0)))	;;oul
+("solars"	nil	(((s o) 1) ((l @ z) 0)))	;;oul
+("sold"	nil	(((s o l d) 1)))	;;oul
+("solder"	nil	(((s o l) 1) ((d @) 0)))	;;oul
+("soldered"	nil	(((s o l) 1) ((d @ d) 0)))	;;oul
+("soldering"	nil	(((s o l) 1) ((d @ r) 0) ((i ng) 0)))	;;oul
+("solders"	nil	(((s o l) 1) ((d @ z) 0)))	;;oul
+("soldier"	nil	(((s o l) 1) ((jh @) 0)))	;;oul
+("soldiered"	nil	(((s o l) 1) ((jh @ d) 0)))	;;oul
+("soldiering"	nil	(((s o l) 1) ((jh @ r) 0) ((i ng) 0)))	;;oul
+("soldierliness"	nil	(((s o l) 1) ((jh @) 0) ((l ii) 0) ((n @ s) 0)))	;;oul
+("soldierly"	nil	(((s o l) 1) ((jh @) 0) ((l ii) 0)))	;;oul
+("soldiers"	nil	(((s o l) 1) ((jh @ z) 0)))	;;oul
+("soldiery"	nil	(((s o l) 1) ((jh @ r) 0) ((ii) 0)))	;;oul
+("sole"	nil	(((s o l) 1)))	;;oul
+("soled"	nil	(((s o l d) 1)))	;;oul
+("solely"	nil	(((s o l) 1) ((l ii) 0)))	;;oul
+("solenoid"	nil	(((s o) 1) ((l @) 0) ((n oi d) 0)))	;;oul
+("solenoids"	nil	(((s o) 1) ((l @) 0) ((n oi d z) 0)))	;;oul
+("solent"	nil	(((s o) 1) ((l @ n t) 0)))	;;oul
+("soles"	nil	(((s o l z) 1)))	;;oul
+("solihull"	nil	(((s o) 1) ((l i) 0) ((h uh l) 1)))	;;oul
+("soling"	nil	(((s o l) 1) ((i ng) 0)))	;;oul
+("solo"	nil	(((s o) 1) ((l ou) 0)))	;;oul
+("soloist"	nil	(((s o) 1) ((l ou) 0) ((i s t) 0)))	;;oul
+("soloists"	nil	(((s o) 1) ((l ou) 0) ((i s t s) 0)))	;;oul
+("solon"	nil	(((s o) 1) ((l o n) 0)))	;;oul
+("solos"	nil	(((s o) 1) ((l ou z) 0)))	;;oul
+("soul"	nil	(((s o l) 1)))	;;oul
+("soul-saving"	nil	(((s o l) 1) ((s ei v) 1) ((i ng) 0)))	;;oul
+("soulful"	nil	(((s o l) 1) ((f u l) 0)))	;;oul
+("soulfully"	nil	(((s o l) 1) ((f l!) 0) ((ii) 0)))	;;oul
+("soulfulness"	nil	(((s o l) 1) ((f u l) 0) ((n @ s) 0)))	;;oul
+("soulless"	nil	(((s o l) 1) ((l @ s) 0)))	;;oul
+("soullessly"	nil	(((s o l) 1) ((l @ s) 0) ((l ii) 0)))	;;oul
+("soullessness"	nil	(((s o l) 1) ((l @ s) 0) ((n @ s) 0)))	;;oul
+("soulmate"	nil	(((s o l) 1) ((m ei t) 0)))	;;oul
+("soulmates"	nil	(((s o l) 1) ((m ei t s) 0)))	;;oul
+("souls"	nil	(((s o l z) 1)))	;;oul
+("spoliation"	nil	(((s p o l) 1) ((ii) 0) ((ei) 1) ((sh n!) 0)))	;;oul
+("spool"	nil	(((s p u l) 1)))	;;uul
+("spooled"	nil	(((s p u l d) 1)))	;;uul
+("spooler"	nil	(((s p u l) 1) ((@) 0)))	;;uul
+("spoolers"	nil	(((s p u l) 1) ((@ z) 0)))	;;uul
+("spooling"	nil	(((s p u l) 1) ((i ng) 0)))	;;uul
+("spools"	nil	(((s p u l z) 1)))	;;uul
+("spout-hole"	nil	(((s p ow t) 1) ((h o l) 0)))	;;oul
+("spout-holes"	nil	(((s p ow t) 1) ((h o l z) 0)))	;;oul
+("spyhole"	nil	(((s p ai) 1) ((h o l) 0)))	;;oul
+("spyholes"	nil	(((s p ai) 1) ((h o l z) 0)))	;;oul
+("square-shouldered"	nil	(((s k w e @) 1) ((sh o l) 1) ((d @ d) 0)))	;;beer-bear,oul
+("stakeholder"	nil	(((s t ei k) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("stakeholders"	nil	(((s t ei k) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("steamroll"	nil	(((s t ii m) 1) ((r o l) 0)))	;;oul
+("steamrolled"	nil	(((s t ii m) 1) ((r o l d) 0)))	;;oul
+("steamroller"	nil	(((s t ii m) 1) ((r o l) 1) ((@) 0)))	;;oul
+("steamrollered"	nil	(((s t ii m) 1) ((r o l) 1) ((@ d) 0)))	;;oul
+("steamrollering"	nil	(((s t ii m) 1) ((r o l) 1) ((@ r) 0) ((i ng) 0)))	;;oul
+("steamrollers"	nil	(((s t ii m) 1) ((r o l) 1) ((@ z) 0)))	;;oul
+("steamrolling"	nil	(((s t ii m) 1) ((r o l) 1) ((i ng) 0)))	;;oul
+("steamrolls"	nil	(((s t ii m) 1) ((r o l z) 0)))	;;oul
+("stockholder"	nil	(((s t o k) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("stockholders"	nil	(((s t o k) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("stockholding"	nil	(((s t o k) 1) ((h o l d) 1) ((i ng) 0)))	;;oul
+("stockholdings"	nil	(((s t o k) 1) ((h o l d) 1) ((i ng z) 0)))	;;oul
+("stole"	nil	(((s t o l) 1)))	;;oul
+("stolen"	nil	(((s t o l) 1) ((@ n) 0)))	;;oul
+("stoles"	nil	(((s t o l z) 1)))	;;oul
+("stool"	nil	(((s t u l) 1)))	;;uul
+("stools"	nil	(((s t u l z) 1)))	;;uul
+("stranglehold"	nil	(((s t r a ng) 1) ((g l!) 0) ((h o l d) 1)))	;;oul
+("strangleholds"	nil	(((s t r a ng) 1) ((g l!) 0) ((h o l d z) 1)))	;;oul
+("stroll"	nil	(((s t r o l) 1)))	;;oul
+("strolled"	nil	(((s t r o l d) 1)))	;;oul
+("stroller"	nil	(((s t r o l) 1) ((@) 0)))	;;oul
+("strollers"	nil	(((s t r o l) 1) ((@ z) 0)))	;;oul
+("strolling"	nil	(((s t r o l) 1) ((i ng) 0)))	;;oul
+("strolls"	nil	(((s t r o l z) 1)))	;;oul
+("stronghold"	nil	(((s t r o ng) 1) ((h o l d) 0)))	;;oul
+("strongholds"	nil	(((s t r o ng) 1) ((h o l d z) 0)))	;;oul
+("subfolder"	nil	(((s uh b) 1) ((f o l d) 1) ((@) 0)))	;;oul
+("subfolders"	nil	(((s uh b) 1) ((f o l d) 1) ((@ z) 0)))	;;oul
+("subsolar"	nil	(((s uh b) 0) ((s o) 1) ((l @) 0)))	;;oul
+("subtools"	nil	(((s uh b) 1) ((t u l z) 0)))	;;uul
+("succinate"	nil	(((s uh k) 1) ((s i) 0) ((n ei t) 2))) 	;;drug
+("sunday-school"	nil	(((s uh n) 1) ((d ei) 0) ((s k u l) 1)))	;;uul
+("sunday-schools"	nil	(((s uh n) 1) ((d ei) 0) ((s k u l z) 1)))	;;uul
+("supercold"	nil	(((s uu) 1) ((p @) 0) ((k o l d) 1)))	;;oul
+("supercool"	nil	(((s uu) 1) ((p @) 0) ((k u l) 1)))	;;uul
+("supercooled"	nil	(((s uu) 1) ((p @) 0) ((k u l d) 1)))	;;uul
+("supercooling"	nil	(((s uu) 1) ((p @) 0) ((k u l) 1) ((i ng) 0)))	;;uul
+("swollen"	nil	(((s w o) 1) ((l @ n) 0)))	;;oul
+("tadpole"	nil	(((t a d) 1) ((p o l) 0)))	;;oul
+("tadpoles"	nil	(((t a d) 1) ((p o l z) 0)))	;;oul
+("taewa"	nil	(((t aa) 1) ((e) 0) ((w @) 0))) 	;;maori
+("taha"	nil	(((t aa) 1) ((h aa) 0))) 	;;maori
+("tahae"	nil	(((t aa) 1) ((h ai) 0))) 	;;maori
+("tahuhu"	nil	(((t aa) 1) ((h uu) 0) ((h uu) 0))) 	;;maori
+("taiaha"	nil	(((t aa) 1) ((i) 0) ((@) 0) ((h aa) 0))) 	;;maori
+("taiepa"	nil	(((t aa) 1) ((i) 0) ((@) 0) ((p @) 0))) 	;;maori
+("taieri"	nil	(((t aa) 1) ((i) 0) ((@) 0) ((r ii) 0))) 	;;maori
+("taihoa"	nil	(((t ai) 0) ((h ou) 1) ((@) 0))) 	;;maori
+("taiko"	nil	(((t ai) 1) ((k oo) 0))) 	;;maori
+("tainui"	nil	(((t ai) 0) ((n uu) 1) ((ii) 0))) 	;;maori
+("taipo"	nil	(((t ai) 1) ((p ou) 0))) 	;;maori
+("tairoa"	nil	(((t ai) 1) ((r ou) 0) ((@) 0))) 	;;maori
+("taitokerau"	nil	(((t ai) 2) ((t ou) 0) ((k e) 1) ((r ow) 0))) 	;;maori
+("taka"	nil	(((t aa) 1) ((k @) 0))) 	;;maori
+("takahe"	nil	(((t aa) 1) ((k @) 0) ((h ii) 0))) 	;;maori
+("takapu"	nil	(((t aa) 1) ((k aa) 0) ((p uu) 0))) 	;;maori
+("takapuna"	nil	(((t a) 2) ((k @) 0) ((p uu) 1) ((n@) 0))) 	;;maori
+("takawaenga"	nil	(((t aa) 0) ((k aa) 0) ((w aa) 1) ((e ng) 0) ((@) 0))) 	;;maori
+("takeke"	nil	(((t aa) 1) ((k e) 0) ((k ei) 0))) 	;;maori
+("tamaiti"	nil	(((t aa) 1) ((m @) 0) ((ii) 2) ((t ii) 0))) 	;;maori
+("tamaki-makau-rau"	nil	(((t aa) 1) ((m aa) 0) ((k ii) 0) ((m aa) 1) ((k ow) 0) ((r ow) 1))) 	;;maori
+("tamaki-nui-a-rua"	nil	(((t aa) 0) ((m aa) 0) ((k ii) 0) ((n uu) 0) ((ii) 0) ((aa) 0) ((r uu) 0) ((@) 0))) 	;;maori
+("tamariki"	nil	(((t aa) 1) ((m aa) 0) ((r ii) 2) ((k ii) 0))) 	;;maori
+("tamure"	nil	(((t aa) 1) ((m uu) 0) ((r ei) 0))) 	;;maori
+("tane"	nil	(((t aa) 1) ((n ei) 0))) 	;;maori
+("tanekaha"	nil	(((t aa) 1) ((n e) 0) ((k aa) 0) ((h aa) 0))) 	;;maori
+("tangaroa"	nil	(((t uh ng) 2) ((aa) 0) ((r ou) 1) ((@) 0))) 	;;maori
+("tangata"	nil	(((t uh ng) 1) ((@) 0) ((t^ @) 0))) 	;;maori
+("tangeao"	nil	(((t uh ng) 1) ((e) 0) ((ow) 0))) 	;;maori
+("tangi"	nil	(((t uh ng) 1) ((ii) 0))) 	;;maori
+("tangihanga"	nil	(((t uh ng) 1) ((ii) 0) ((h uh ng) 0) ((@) 0))) 	;;maori
+("tangiwai"	nil	(((t uh ng) 1) ((ii) 0) ((w ai) 0))) 	;;maori
+("taniko"	nil	(((t aa) 1) ((n ii) 0) ((k oo) 0))) 	;;maori
+("taniwha"	nil	(((t aa) 1) ((n ii) 0) ((f aa) 0))) 	;;maori
+("taonga"	nil	(((t aa) 1) ((o ng) 0) ((@) 0))) 	;;maori
+("tapanui"	nil	(((t aa) 0) ((p @) 0) ((n uu) 1) ((ii) 0))) 	;;maori
+("tapu"	nil	(((t aa) 1) ((p uu) 0))) 	;;maori
+("tarahina"	nil	(((t a) 2) ((r aa) 0) ((h ii) 1) ((n @) 0))) 	;;maori
+("taraire"	nil	(((t aa) 0) ((r ai) 1) ((r ei) 0))) 	;;maori
+("tarakihi"	nil	(((t aa) 1) ((r @) 0) ((k ii) 0))) 	;;maori
+("taramea"	nil	(((t aa) 1) ((r aa) 0) ((m e) 0) ((@) 0))) 	;;maori
+("taranaki"	nil	(((t a) 2) ((r @) 0) ((n a) 1)  (k ii) 0))) 	;;maori
+("taranga"	nil	(((t aa) 1) ((r uh ng) 0) ((@) 0))) 	;;maori
+("tarapo"	nil	(((t aa) 0) ((r aa) 0) ((p oo) 1))) 	;;maori
+("tarapunga"	nil	(((t aa) 0) ((r aa) 1) ((p uu ng) 0) ((@) 0))) 	;;maori
+("tararua"	nil	(((t a) 2) ((r aa) 0) ((r uu) 1) ((@) 0))) 	;;maori
+("tarata"	nil	(((t aa) 1) ((r aa) 0) ((t^ @) 0))) 	;;maori
+("taro"	nil	(((t aa) 1) ((r ou) 0))) 	;;maori
+("tataramoa"	nil	(((t aa) 0) ((t aa) 0) ((r aa) 0) ((m oo) 1) ((@) 0))) 	;;maori
+("taua"	nil	(((t ow) 1) ((@) 0))) 	;;maori
+("tauhinu"	nil	(((t ow) 1) ((h ii) 0) ((n uu) 0))) 	;;maori
+("tauhou"	nil	(((t ow) 1) ((h ou) 0) ((uu) 0))) 	;;maori
+("tauira"	nil	(((t ow) 1) ((ii) 0) ((r @) 0))) 	;;maori
+("tauiwi"	nil	(((t ow) 1) ((ii) 0) ((w ii) 0))) 	;;maori
+("taumaka"	nil	(((t ow) 1) ((m aa) 0) ((k @) 0))) 	;;maori
+("taumata"	nil	(((t ow) 1) ((m aa) 0) ((t^ @) 0))) 	;;maori
+("taupara"	nil	(((t ow) 1) ((p aa) 0) ((r @) 0))) 	;;maori
+("taupata"	nil	(((t ow) 1) ((p aa) 0) ((t^ @) 0))) 	;;maori
+("tauranga"	nil	(((t ow) 1) ((r o ng) 0) ((@) 0))) 	;;maori
+("tauranga-moana"	nil	(((t ow) 1) ((r uh ng) 0) ((aa) 0) ((m ou) 0) ((a) 1) ((n @) 0))) 	;;maori
+("taurekareka"	nil	(((t ow) 0) ((r e) 1) ((k aa) 0) ((r e) 0) ((k @) 0))) 	;;maori
+("tautoko"	nil	(((t ow) 1) ((t o) 0) ((k ou) 0))) 	;;maori
+("tawa"	nil	(((t aa) 1) ((w @) 0))) 	;;maori
+("tawai"	nil	(((t aa) 1) ((w ai) 0))) 	;;maori
+("tawake"	nil	(((t aa) 1) ((w aa) 0) ((k ei) 0))) 	;;maori
+("tawapou"	nil	(((t aa) 0) ((w aa) 1) ((p ou) 0))) 	;;maori
+("tawari"	nil	(((t aa) 1) ((w aa) 0) ((r ii) 0))) 	;;maori
+("tawatawa"	nil	(((t aa) 1) ((w aa) 0) ((t aa) 0) ((w @) 0))) 	;;maori
+("tawhara"	nil	(((t aa) 1) ((f aa) 0) ((r @) 0))) 	;;maori
+("tawheowheo"	nil	(((t aa) 0) ((f e) 1) ((oo) 0) ((f e) 0) ((oo) 0))) 	;;maori
+("tawhero"	nil	(((t aa) 1) ((f e) 0) ((r ou) 0))) 	;;maori
+("tawhiri"	nil	(((t aa) 1) ((f i) 0) ((r ii) 0))) 	;;maori
+("te"	nil	(((t ei) 1))) 	;;maori
+("teina"	nil	(((t ei) 1) ((n @) 0))) 	;;maori
+("tekoteko"	nil	(((t e) 1) ((k ou) 0) ((t e) 0) ((k ou) 0))) 	;;maori
+("tena"	nil	(((t e) 1) ((n @) 0))) 	;;maori
+("tenakoe"	nil	(((t @) 0) ((n aa) 1) ((k w e i) 0))) 	;;maori
+("tenfold"	nil	(((t e n) 1) ((f o l d) 0)))	;;oul
+("tete"	nil	(((t e) 1) ((t ei) 0))) 	;;maori
+("teteawaka"	nil	(((t e) 0) ((t e) 1) ((aa) 0) ((w aa) 0) ((k @) 0))) 	;;maori
+("tetere"	nil	(((t e) 1) ((t e) 0) ((r ei) 0))) 	;;maori
+("tewhanga-nui-a-tara"	nil	(((t e) 0) ((f uh ng) 1) ((aa) 0) ((n uu) 0) ((ii) 0) ((aa) 0) ((t aa) 1) ((r @) 0))) 	;;maori
+("tewhatewha"	nil	(((t e) 1) ((f @) 0) ((t e) 0) ((f @) 0))) 	;;maori
+("that'd"	nil	(((dh a t^) 1) ((@ d) 0)))	;;contraction
+("that'll"	nil	(((dh a t) 1) ((l!) 0)))	;;contraction
+("that's"	nil	(((dh a t s) 1)))	;;contraction
+("thermoluminescence"	nil	(((th @@r m) 1) ((o) 0) ((l uu) 1) ((m @) 0) ((n e s) 1) ((n! s) 0)))	;;oul
+("thermoluminescent"	nil	(((th @@r m) 1) ((o) 0) ((l uu) 1) ((m @) 0) ((n e s) 1) ((n! t) 0)))	;;oul
+("they'd"	nil	(((dh ei d) 1)))	;;contraction
+("they'll"	nil	(((dh ei l) 1)))	;;contraction
+("they're"	nil	(((dh ir) 1)))	;;contraction
+("they've"	nil	(((dh ei v) 1)))	;;contraction
+("thirtyfold"	nil	(((th @@r) 1) ((t^ ii) 0) ((f o l d) 1)))	;;oul
+("thousandfold"	nil	(((th ow) 1) ((z n! d) 0) ((f o l d) 1)))	;;oul
+("three-year-old"	nil	(((th r ii) 1) ((y ir r) 0) ((o l d) 1)))	;;oul
+("three-year-olds"	nil	(((th r ii) 1) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("threefold"	nil	(((th r ii) 1) ((f o l d) 0)))	;;oul
+("threefoldness"	nil	(((th r ii) 1) ((f o l d) 0) ((n @ s) 0)))	;;oul
+("threshhold"	nil	(((th r e sh) 1) ((h o l d) 0)))	;;oul
+("threshholds"	nil	(((th r e sh) 1) ((h o l d z) 0)))	;;oul
+("threshold"	nil	(((th r e sh) 1) ((h o l d) 0)))	;;oul
+("thresholds"	nil	(((th r e sh) 1) ((h o l d z) 0)))	;;oul
+("thunderbolt"	nil	(((th uh n) 1) ((d @) 0) ((b o l t) 1)))	;;oul
+("thunderbolts"	nil	(((th uh n) 1) ((d @) 0) ((b o l t s) 1)))	;;oul
+("thyroxine"	nil	(((th ai) 0) ((r o k) 1) ((s ii n) 2))) 	;;drug
+("tiaki"	nil	(((t ii) 1) ((aa) 0) ((k ii) 0))) 	;;maori
+("tidepool"	nil	(((t ai d) 1) ((p u l) 0)))	;;uul
+("tidepools"	nil	(((t ai d) 1) ((p u l z) 0)))	;;uul
+("tieke"	nil	(((t ii) 1) ((e) 0) ((k ei) 0))) 	;;maori
+("tihore"	nil	(((t ii) 1) ((h oo) 0) ((r ei) 0))) 	;;maori
+("tika"	nil	(((t ii) 1) ((k @) 0))) 	;;maori
+("tikanga"	nil	(((t ii) 1) ((k uh ng) 0) ((@) 0))) 	;;maori
+("tikati"	nil	(((t i) 1) ((k aa) 0) ((t^ ii) 0))) 	;;maori
+("tiki"	nil	(((t ii) 1) ((k ii) 0))) 	;;maori
+("tikumu"	nil	(((t ii) 1) ((k uu) 0) ((m uu) 0))) 	;;maori
+("tinana"	nil	(((t ii) 1) ((n a) 0) ((n @) 0))) 	;;maori
+("tino"	nil	(((t ii) 1) ((n oo) 0))) 	;;maori
+("tio"	nil	(((t ii) 1) ((oo) 0))) 	;;maori
+("tipare"	nil	(((t ii) 1) ((p aa) 0) ((r ei) 0))) 	;;maori
+("tipau"	nil	(((t ii) 1) ((p ow) 0))) 	;;maori
+("tipi"	nil	(((t i) 1) ((p ii) 0))) 	;;maori
+("tipuna"	nil	(((t ii) 1) ((p uu) 0) ((n @) 0))) 	;;maori
+("tireni"	nil	(((t ii) 1) ((r e) 0) ((n ii) 0))) 	;;maori
+("tiriti"	nil	(((t i) 1) ((r i) 0) ((t^ ii) 0))) 	;;maori
+("titi"	nil	(((t ii) 1) ((t^ ii) 0))) 	;;maori
+("titi-wainui"	nil	(((t i) 0) ((t^ ii) 0) ((w ai) 1) ((n uu) 0) ((ii) 0))) 	;;maori
+("titipounamu"	nil	(((t i) 0) ((t^ ii) 0) ((p ou) 1) ((n aa) 0) ((m uu) 0))) 	;;maori
+("titleholder"	nil	(((t ai) 1) ((t l!) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("titleholders"	nil	(((t ai) 1) ((t l!) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("tito"	nil	(((t ii) 1) ((t^ ou) 0))) 	;;maori
+("titoki"	nil	(((t ii) 1) ((t ou) 0) ((k ii) 0))) 	;;maori
+("tiwai"	nil	(((t ii) 1) ((w ai) 0))) 	;;maori
+("tiwakawaka"	nil	(((t ii) 0) ((w aa) 1) ((k aa) 0) ((w aa) 0) ((k @) 0))) 	;;maori
+("toa"	nil	(((t oo) 1) ((@) 0))) 	;;maori
+("toad-in-the-hole"	nil	(((t ou d) 1) ((i n) 0) ((dh @) 0) ((h o l) 1)))	;;oul
+("toadstool"	nil	(((t ou d) 1) ((s t u l) 0)))	;;uul
+("toadstools"	nil	(((t ou d) 1) ((s t u l z) 0)))	;;uul
+("toanui"	nil	(((t oo) 1) ((aa) 0) ((n uu) 0) ((ii) 0))) 	;;maori
+("toatoa"	nil	(((t ou) 1) ((@) 0) ((t ou) 0) ((@) 0))) 	;;maori
+("toehold"	nil	(((t ou) 1) ((h o l d) 0)))	;;oul
+("toeholds"	nil	(((t ou) 1) ((h o l d z) 0)))	;;oul
+("toetoe"	nil	(((t ou) 1) ((ii) 0) ((t ou) 0) ((ii) 0))) 	;;maori
+("toheroa"	nil	(((t ou) 0) ((@) 0) ((r ou) 1) ((@) 0))) 	;;maori
+("tohora"	nil	(((t oo) 0) ((h oo) 0) ((r aa) 1))) 	;;maori
+("tohunga"	nil	(((t oo) 1) ((h uu ng) 0) ((@) 0))) 	;;maori
+("toi"	nil	(((t oo) 1) ((ii) 0))) 	;;maori
+("toitoi"	nil	(((t o i) 1) ((t oi) 0))) 	;;maori
+("toki"	nil	(((t oo) 1) ((k ii) 0))) 	;;maori
+("toko"	nil	(((t ou) 1) ((k ou) 0))) 	;;maori
+("tokoeka"	nil	(((t oo) 0) ((k oo) 1) ((e) 0) ((k @) 0))) 	;;maori
+("tokotoko"	nil	(((t ou) 1) ((k ou) 0) ((t ou) 2) ((k ou) 0))) 	;;maori
+("told"	nil	(((t o l d) 1)))	;;oul
+("toll"	nil	(((t o l) 1)))	;;oul
+("toll-gatherer"	nil	(((t o l) 1) ((g a) 1) ((dh @ r) 0) ((@) 0)))	;;oul
+("toll-gatherers"	nil	(((t o l) 1) ((g a) 1) ((dh @ r) 0) ((@ z) 0)))	;;oul
+("tollable"	nil	(((t o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("tollbooth"	nil	(((t o l) 1) ((b uu dh) 0)))	;;oul
+("tollbooths"	nil	(((t o l) 1) ((b uu dh z) 0)))	;;oul
+("tollbridge"	nil	(((t o l) 1) ((b r i jh) 0)))	;;oul
+("tollbridges"	nil	(((t o l) 1) ((b r i jh) 1) ((@ z) 0)))	;;oul
+("tollcollector"	nil	(((t o l) 1) ((k @) 0) ((l e k t) 1) ((@) 0)))	;;oul
+("tollcollectors"	nil	(((t o l) 1) ((k @) 0) ((l e k t) 1) ((@ z) 0)))	;;oul
+("tolled"	nil	(((t o l d) 1)))	;;oul
+("toller"	nil	(((t o l) 1) ((@) 0)))	;;oul
+("tollesbury"	nil	(((t o l z) 1) ((b @) 0) ((r ii) 0)))	;;oul
+("tollfree"	nil	(((t o l) 0) ((f r ii) 1)))	;;oul
+("tollgate"	nil	(((t o l) 1) ((g ei t) 0)))	;;oul
+("tollgates"	nil	(((t o l) 1) ((g ei t s) 0)))	;;oul
+("tollhouse"	nil	(((t o l) 1) ((h ow s) 0)))	;;oul
+("tollhouses"	nil	(((t o l) 1) ((h ow z) 1) ((@ z) 0)))	;;oul
+("tolling"	nil	(((t o l) 1) ((i ng) 0)))	;;oul
+("tolls"	nil	(((t o l z) 1)))	;;oul
+("tombola"	nil	(((t o m) 0) ((b o) 1) ((l @) 0)))	;;oul
+("tombolas"	nil	(((t o m) 0) ((b o) 1) ((l @ z) 0)))	;;oul
+("tomfool"	nil	(((t o m) 0) ((f u l) 1)))	;;uul
+("tomfoolery"	nil	(((t o m) 0) ((f u l) 1) ((@) 0) ((r ii) 0)))	;;uul
+("tomo"	nil	(((t ou) 1) ((m ou) 0))) 	;;maori
+("tool"	nil	(((t u l) 1)))	;;uul
+("toolbar"	nil	(((t u l) 1) ((b aa) 0)))	;;uul
+("toolbars"	nil	(((t u l) 1) ((b aa z) 0)))	;;uul
+("toolbox"	nil	(((t u l) 1) ((b o k s) 0)))	;;uul
+("toolboxes"	nil	(((t u l) 1) ((b o k s) 1) ((@ z) 0)))	;;uul
+("toolchest"	nil	(((t u l) 1) ((ch e s t) 0)))	;;uul
+("toolchests"	nil	(((t u l) 1) ((ch e s t s) 0)))	;;uul
+("toole"	nil	(((t u l) 1)))	;;uul
+("tooling"	nil	(((t u l) 1) ((i ng) 0)))	;;uul
+("toolkit"	nil	(((t u l) 1) ((k i t) 0)))	;;uul
+("toolkits"	nil	(((t u l) 1) ((k i t s) 0)))	;;uul
+("toolmake"	nil	(((t u l) 1) ((m ei k) 0)))	;;uul
+("toolmaker"	nil	(((t u l) 1) ((m ei k) 1) ((@) 0)))	;;uul
+("toolmakers"	nil	(((t u l) 1) ((m ei k) 1) ((@ z) 0)))	;;uul
+("toolmaking"	nil	(((t u l) 1) ((m ei k) 1) ((i ng) 0)))	;;uul
+("tools"	nil	(((t u l z) 1)))	;;uul
+("toolset"	nil	(((t u l) 1) ((s e t) 0)))	;;uul
+("toolsets"	nil	(((t u l) 1) ((s e t s) 0)))	;;uul
+("toolsmith"	nil	(((t u l) 1) ((s m i th) 0)))	;;uul
+("toolsmiths"	nil	(((t u l) 1) ((s m i th s) 0)))	;;uul
+("topuni"	nil	(((t oo) 1) ((p uu) 0) ((n ii) 0))) 	;;maori
+("torea"	nil	(((t oo) 1) ((r e) 0) ((@) 0))) 	;;maori
+("torehe"	nil	(((t oo) 1) ((r e) 0) ((h ei) 0))) 	;;maori
+("toro"	nil	(((t oo) 1) ((r ou) 0))) 	;;maori
+("toroa"	nil	(((t oo) 1) ((r ou) 0) ((@) 0))) 	;;maori
+("toropapa"	nil	(((t oo) 1) ((r ou) 0) ((p aa) 0) ((p @) 0))) 	;;maori
+("tororaro"	nil	(((t oo) 0) ((r ou) 0) ((r aa) 1) ((r ou) 0))) 	;;maori
+("torori"	nil	(((t oo) 1) ((r ou) 0) ((r ii) 0))) 	;;maori
+("torotoro"	nil	(((t oo) 1) ((r ou) 0) ((t oo) 2) ((r ou) 0))) 	;;maori
+("totara"	nil	(((t ou) 1) ((t^ @) 0) ((r @) 0))) 	;;maori
+("totokipio"	nil	(((t oo) 0) ((t oo) 1) ((k ii) 0) ((p ii) 0) ((oo) 0))) 	;;maori
+("toutouwai"	nil	(((t ou) 1) ((t^ @) 0) ((w ai) 1))) 	;;maori
+("towai"	nil	(((t ou) 1) ((w ai) 0))) 	;;maori
+("transpolar"	nil	(((t r a n z) 0) ((p o l) 1) ((@) 0)))	;;oul
+("trimethoprim"	nil	(((t r @) 0) ((m e) 1) ((th @) 0) ((p r i m) 2))) 	;;drug
+("trinitrate"	nil	(((t r i) 1) ((n i) 0) ((t r ei t) 2))) 	;;drug
+("troll"	nil	(((t r o l) 1)))	;;oul
+("trolled"	nil	(((t r o l d) 1)))	;;oul
+("troller"	nil	(((t r o l) 1) ((@) 0)))	;;oul
+("trollers"	nil	(((t r o l) 1) ((@ z) 0)))	;;oul
+("trolling"	nil	(((t r o l) 1) ((i ng) 0)))	;;oul
+("trollings"	nil	(((t r o l) 1) ((i ng z) 0)))	;;oul
+("trolls"	nil	(((t r o l z) 1)))	;;oul
+("tuakana"	nil	(((t uu) 0) ((@) 0) ((k aa) 1) ((n @) 0))) 	;;maori
+("tuakura"	nil	(((t uu) 1) ((@) 0) ((k uu) 0) ((r @) 0))) 	;;maori
+("tuangi"	nil	(((t uu) 1) ((uh ng) 0) ((ii) 0))) 	;;maori
+("tuatara"	nil	(((t uu) 0) ((@) 0) ((t aa) 1) ((r @) 0))) 	;;maori
+("tuatini"	nil	(((t uu) 1) ((@) 0) ((t i) 0) ((n ii) 0))) 	;;maori
+("tuatua"	nil	(((t uu) 1) ((@) 0) ((t uu) 2) ((@) 0))) 	;;maori
+("tuere"	nil	(((t uu) 1) ((e) 0) ((r ei) 0))) 	;;maori
+("tui"	nil	(((t uu) 1) ((ii) 0))) 	;;maori
+("tuku"	nil	(((t uu) 1) ((k uu) 0))) 	;;maori
+("tukutuku"	nil	(((t u) 1) ((k uu) 0) ((t u) 2 ((k uu) 0))) 	;;maori
+("tumatakura"	nil	(((t uu) 1) ((m aa) 0) ((t aa) 0) ((k uu) 1) ((r @) 0))) 	;;maori
+("tumatauenga"	nil	(((t uu) 1) ((m aa) 0) ((t ow) 0) ((e ng) 0) ((@) 0))) 	;;maori
+("tumuaki"	nil	(((t uu) 1) ((m uu) 0) ((aa) 0) ((k ii) 0))) 	;;maori
+("tuokura"	nil	(((t uu) 2) ((oo) 0) ((k uu) 1) ((r @) 0))) 	;;maori
+("tupakihi"	nil	(((t uu) 1) ((p aa) 0) ((k ii) 0) ((h ii) 0))) 	;;maori
+("tupapaku"	nil	(((t uu) 0) ((p aa) 1) ((p aa) 0) ((k uu) 0))) 	;;maori
+("tupara"	nil	(((t uu) 1) ((p aa) 0) ((r @) 0))) 	;;maori
+("tupare"	nil	(((t uu) 1) ((p aa) 0) ((r ei) 0))) 	;;maori
+("tupuna"	nil	(((t uu) 1) ((p uu) 0) ((n @) 0))) 	;;maori
+("turanga-nui-a-kiwa"	nil	(((t uu) 0) ((r uh ng) 0) ((a) 0) ((n uu) 0) ((ii) 0) ((aa) 0) ((k ii) 0) ((w @) 0))) 	;;maori
+("turangawaewae"	nil	(((t uu) 1) ((r uh ng) 0) ((aa) 0) ((w aa) 1) ((e) 0) ((w aa) 0) ((ei) 0))) 	;;maori
+("turehu"	nil	(((t uu) 1) ((r e) 0) ((h uu) 0))) 	;;maori
+("turepo"	nil	(((t uu) 1) ((r e) 0) ((p oo) 0))) 	;;maori
+("turutu"	nil	(((t u) 1) ((r @) 0) ((t uu) 0))) 	;;maori
+("tutae"	nil	(((t uu) 1) ((t ai) 0))) 	;;maori
+("tutaekuri"	nil	(((t uu) 1) ((t aa) 0) ((e) 0) ((k uu) 0) ((r ii) 0))) 	;;maori
+("tutukiwi"	nil	(((t uu) 1) ((t uu) 0) ((k ii) 1) ((w ii) 0))) 	;;maori
+("tuturiwhatu"	nil	(((t u) 0) ((t u) 1) ((r ii) 0) ((f aa) 2) ((t uu) 0))) 	;;maori
+("tuturuatu"	nil	(((t uu) 0) ((t uu) 0) ((r uu) 1) ((aa) 0) ((t uu) 0))) 	;;maori
+("twelvefold"	nil	(((t w a l v) 1) ((f o l d) 0)))	;;oul
+("twenty-year-old"	nil	(((t w e n) 1) ((t ii) 0) ((y ir r) 0) ((o l d) 1)))	;;oul
+("twenty-year-olds"	nil	(((t w e n) 1) ((t ii) 0) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("twentyfold"	nil	(((t w e n) 1) ((t ii) 0) ((f o l d) 1)))	;;oul
+("two-fold"	nil	(((t uu) 1) ((f o l d) 0)))	;;oul
+("two-year-old"	nil	(((t uu) 1) ((y ir r) 0) ((o l d) 1)))	;;oul
+("two-year-olds"	nil	(((t uu) 1) ((y ir r) 0) ((o l d z) 1)))	;;oul
+("twofold"	nil	(((t uu) 1) ((f o l d) 0)))	;;oul
+("tyrol"	nil	(((t i) 0) ((r o l) 1)))	;;oul
+("umu"	nil	(((uw) 1) ((m uu) 0))) 	;;maori
+("unbeholden"	nil	(((uh n) 1) ((b i) 0) ((h o l d) 1) ((n!) 0)))	;;oul
+("unblindfold"	nil	(((uh n) 0) ((b l ai n d) 1) ((f o l d) 0)))	;;oul
+("unblindfolded"	nil	(((uh n) 0) ((b l ai n d) 1) ((f o l d) 0) ((@ d) 0)))	;;oul
+("unblindfolds"	nil	(((uh n) 0) ((b l ai n d) 1) ((f o l d z) 0)))	;;oul
+("unbolt"	nil	(((uh n) 0) ((b o l t) 1)))	;;oul
+("unbolted"	nil	(((uh n) 0) ((b o l t) 1) ((@ d) 0)))	;;oul
+("unbolts"	nil	(((uh n) 0) ((b o l t s) 1)))	;;oul
+("unconsoled"	nil	(((uh n) 1) ((k @ n) 0) ((s o l d) 1)))	;;oul
+("uncontrollable"	nil	(((uh n) 1) ((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l!) 0)))	;;oul
+("uncontrollableness"	nil	(((uh n) 1) ((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l!) 0) ((n @ s) 0)))	;;oul
+("uncontrollably"	nil	(((uh n) 1) ((k @ n) 0) ((t r o l) 1) ((@) 0) ((b l ii) 0)))	;;oul
+("uncontrolled"	nil	(((uh n) 1) ((k @ n) 0) ((t r o l d) 1)))	;;oul
+("uncool"	nil	(((uh n) 0) ((k u l) 1)))	;;uul
+("undercool"	nil	(((uh n) 1) ((d @) 0) ((k u l) 1)))	;;uul
+("undercooled"	nil	(((uh n) 1) ((d @) 0) ((k u l d) 1)))	;;uul
+("undercooling"	nil	(((uh ng) 1) ((d @) 0) ((k u l) 1) ((i ng) 0)))	;;uul
+("undercools"	nil	(((uh n) 1) ((d @) 0) ((k u l z) 1)))	;;uul
+("undersold"	nil	(((uh n) 1) ((d @) 0) ((s o l d) 1)))	;;oul
+("unenrolled"	nil	(((uh n) 1) ((@ n) 0) ((r o l d) 1)))	;;oul
+("unfold"	nil	(((uh n) 0) ((f o l d) 1)))	;;oul
+("unfolded"	nil	(((uh n) 0) ((f o l d) 1) ((@ d) 0)))	;;oul
+("unfolder"	nil	(((uh n) 0) ((f o l d) 1) ((@) 0)))	;;oul
+("unfolding"	nil	(((uh ng) 0) ((f o l d) 1) ((i ng) 0)))	;;oul
+("unfoldings"	nil	(((uh ng) 0) ((f o l d) 1) ((i ng z) 0)))	;;oul
+("unfolds"	nil	(((uh n) 0) ((f o l d z) 1)))	;;oul
+("unforetold"	nil	(((uh n) 1) ((f oo) 0) ((t o l d) 1)))	;;oul
+("unfuelled"	nil	(((uh n) 0) ((f y u l d) 1)))	;;uul
+("unholier"	nil	(((uh n) 0) ((h o) 1) ((l ii @) 0)))	;;oul
+("unholiest"	nil	(((uh n) 0) ((h o) 1) ((l ii @ s t) 0)))	;;oul
+("unholily"	nil	(((uh n) 0) ((h o) 1) ((l @) 0) ((l ii) 0)))	;;oul
+("unholiness"	nil	(((uh n) 0) ((h o) 1) ((l ii) 0) ((n @ s) 0)))	;;oul
+("unholy"	nil	(((uh n) 0) ((h o) 1) ((l ii) 0)))	;;oul
+("unipolar"	nil	(((y uu) 1) ((n ii) 0) ((p o l) 1) ((@) 0)))	;;oul
+("unmould"	nil	(((uh n) 0) ((m o l d) 1)))	;;oul
+("unmoulded"	nil	(((uh n) 0) ((m o l d) 1) ((@ d) 0)))	;;oul
+("unmoulds"	nil	(((uh n) 0) ((m o l d z) 1)))	;;oul
+("unpolarisable"	nil	(((uh n) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0) ((b l!) 0)))	;;oul
+("unpolarised"	nil	(((uh n) 0) ((p o l) 1) ((@ r) 0) ((ai z d) 0)))	;;oul
+("unpolarizable"	nil	(((uh n) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@) 0) ((b l!) 0)))	;;oul
+("unpolarize"	nil	(((uh n) 0) ((p o l) 1) ((@ r) 0) ((ai z) 0)))	;;oul
+("unpolarized"	nil	(((uh n) 0) ((p o l) 1) ((@ r) 0) ((ai z d) 0)))	;;oul
+("unpolarizes"	nil	(((uh n) 0) ((p o l) 1) ((@ r) 0) ((ai z) 1) ((@ z) 0)))	;;oul
+("unpolled"	nil	(((uh n) 0) ((p o l d) 1)))	;;oul
+("unroll"	nil	(((uh n) 0) ((r o l) 1)))	;;oul
+("unrolled"	nil	(((uh n) 0) ((r o l d) 1)))	;;oul
+("unrolling"	nil	(((uh ng) 0) ((r o l) 1) ((i ng) 0)))	;;oul
+("unrollings"	nil	(((uh ng) 0) ((r o l) 1) ((i ng z) 0)))	;;oul
+("unrolls"	nil	(((uh n) 0) ((r o l z) 1)))	;;oul
+("unschooled"	nil	(((uh n) 0) ((s k u l d) 1)))	;;uul
+("unsold"	nil	(((uh n) 0) ((s o l d) 1)))	;;oul
+("unsolder"	nil	(((uh n) 0) ((s o l) 1) ((d @) 0)))	;;oul
+("unsolders"	nil	(((uh n) 0) ((s o l) 1) ((d @ z) 0)))	;;oul
+("unsoldierlike"	nil	(((uh n) 0) ((s o l) 1) ((jh @) 0) ((l ai k) 1)))	;;oul
+("unsoldierly"	nil	(((uh n) 0) ((s o l) 1) ((jh @) 0) ((l ii) 0)))	;;oul
+("untold"	nil	(((uh n) 0) ((t o l d) 1)))	;;oul
+("unwholesome"	nil	(((uh n) 0) ((h o l) 1) ((s m!) 0)))	;;oul
+("unwholesomely"	nil	(((uh n) 0) ((h o l) 1) ((s m!) 0) ((l ii) 0)))	;;oul
+("unwholesomeness"	nil	(((uh n) 0) ((h o l) 1) ((s m!) 0) ((n @ s) 0)))	;;oul
+("unwithholding"	nil	(((uh ng) 1) ((w i dh) 0) ((h o l d) 1) ((i ng) 0)))	;;oul
+("uphold"	nil	(((uh p) 0) ((h o l d) 1)))	;;oul
+("upholder"	nil	(((uh p) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("upholders"	nil	(((uh p) 0) ((h o l d) 1) ((@ z) 0)))	;;oul
+("upholding"	nil	(((uh p) 0) ((h o l d) 1) ((i ng) 0)))	;;oul
+("upholds"	nil	(((uh p) 0) ((h o l d z) 1)))	;;oul
+("upholster"	nil	(((uh p) 0) ((h o l) 1) ((s t @) 0)))	;;oul
+("upholstered"	nil	(((uh p) 0) ((h o l) 1) ((s t @ d) 0)))	;;oul
+("upholsterer"	nil	(((uh p) 0) ((h o l) 1) ((s t @ r) 0) ((@) 0)))	;;oul
+("upholsterers"	nil	(((uh p) 0) ((h o l) 1) ((s t @ r) 0) ((@ z) 0)))	;;oul
+("upholstering"	nil	(((uh p) 0) ((h o l) 1) ((s t @ r) 0) ((i ng) 0)))	;;oul
+("upholsters"	nil	(((uh p) 0) ((h o l) 1) ((s t @ z) 0)))	;;oul
+("upholstery"	nil	(((uh p) 0) ((h o l) 1) ((s t @ r) 0) ((ii) 0)))	;;oul
+("upokororo"	nil	(((uw) 1) ((p oo) 0) ((k oo) 0) ((r ou) 0) ((r ou) 0))) 	;;maori
+("upokotea"	nil	(((uw) 1) ((p oo) 0) ((k oo) 0) ((t e) 0) ((@) 0))) 	;;maori
+("urenika"	nil	(((uw) 0) ((r e) 0) ((n ii) 1) ((k @) 0))) 	;;maori
+("ureure"	nil	(((uw) 1) ((r e) 0) ((uu) 0) ((r ei) 0))) 	;;maori
+("urupa"	nil	(((uw) 0) ((r uu) 0) ((p aa) 1))) 	;;maori
+("uruwhenua"	nil	(((uw) 1) ((r uu) 0) ((f e) 2) ((n uu) 0) ((@) 0))) 	;;maori
+("utu"	nil	(((uw) 1) ((t uu) 0))) 	;;maori
+("utuwai"	nil	(((uw) 1) ((t^ @) 0) ((w ai) 0))) 	;;maori
+("vergo"	nil	(((v @@r) 1) ((g ou) 0))) 	;;drug
+("videocontroller"	nil	(((v i) 1) ((d ii) 0) ((ou) 0) ((k @ n) 0) ((t r o l) 1) ((@) 0)))	;;oul
+("videocontrollers"	nil	(((v i) 1) ((d ii) 0) ((ou) 0) ((k @ n) 0) ((t r o l) 1) ((@ z) 0)))	;;oul
+("viola"	nil	(((v ii) 0) ((o) 1) ((l @) 0)))	;;oul
+("violas"	nil	(((v ii) 0) ((o) 1) ((l @ z) 0)))	;;oul
+("vole"	nil	(((v o l) 1)))	;;oul
+("voles"	nil	(((v o l z) 1)))	;;oul
+("volt"	nil	(((v o l t) 1)))	;;oul
+("voltage"	nil	(((v o l t) 1) ((i jh) 0)))	;;oul
+("voltages"	nil	(((v o l t) 1) ((i jh) 0) ((@ z) 0)))	;;oul
+("voltaic"	nil	(((v o l) 0) ((t ei) 1) ((i k) 0)))	;;oul
+("voltmeter"	nil	(((v o l t) 1) ((m ii) 1) ((t^ @) 0)))	;;oul
+("voltmeters"	nil	(((v o l t) 1) ((m ii) 1) ((t^ @ z) 0)))	;;oul
+("volts"	nil	(((v o l t s) 1)))	;;oul
+("waerenga"	nil	(((w aa) 1) ((e) 0) ((r e ng) 0) ((@) 0))) 	;;maori
+("waeroa"	nil	(((w aa) 1) ((e) 0) ((r ou) 0) ((@) 0))) 	;;maori
+("waewaekaka"	nil	(((w aa) 1) ((e) 0) ((w aa) 0) ((e) 0) ((k aa) 1) ((k @) 0))) 	;;maori
+("waewaekoukou"	nil	(((w aa) 1) ((e) 0) ((w aa) 0) ((e) 0) ((k ou) 1) ((k ou) 0))) 	;;maori
+("waharoa"	nil	(((w aa) 1) ((h aa) 0) ((r ou) 0) ((@) 0))) 	;;maori
+("wahi"	nil	(((w aa) 1) ((h ii) 0))) 	;;maori
+("wahine"	nil	(((w aa) 1) ((h ii) 0) ((n ei) 0))) 	;;maori
+("wai"	nil	(((w ai) 1))) 	;;maori
+("waiariki"	nil	(((w ai) 1) ((@) 0) ((r ii) 0) ((k ii) 0))) 	;;maori
+("waiata"	nil	(((w ai) 1) ((aa) 0) ((t^ @) 0))) 	;;maori
+("waiharakeke"	nil	(((w ai) 0) ((h aa) 1) ((r aa) 0) ((k e 2- k ei) 0))) 	;;maori
+("waihi"	nil	(((w ai) 0) ((h ii) 1))) 	;;maori
+("waihopai"	nil	(((w ai) 0) ((h ou) 1) ((p ai) 0))) 	;;maori
+("waiouru"	nil	(((w ai) 0) ((uu) 1) ((r uu) 0))) 	;;maori
+("waipiro"	nil	(((w ai) 1) ((p ii) 1) ((r ou) 0))) 	;;maori
+("wairarapa"	nil	(((w ai) 0) ((r @) 0) ((r a) 1) ((p @) 0))) 	;;maori
+("wairau"	nil	(((w ai) 1) ((r ow) 0))) 	;;maori
+("wairua"	nil	(((w ai) 0) ((r uu) 1) ((@) 0))) 	;;maori
+("waitangi"	nil	(((w ai) 1) ((t uh ng) 0) ((ii) 0))) 	;;maori
+("waitoreke"	nil	(((w ai) 1) ((t oo) 0) ((r e) 0) ((k ei) 0))) 	;;maori
+("waiu-atua"	nil	(((w ai) 0) ((uu) 1) ((aa) 1) ((t uu) 0) ((@) 0))) 	;;maori
+("waka"	nil	(((w o) 1) ((k @) 0))) 	;;maori
+("wakahuia"	nil	(((w aa) 1) ((k aa) 0) ((h uu) 0) ((ii) 0) ((@) 0))) 	;;maori
+("walpole"	nil	(((w oo l) 1) ((p o l) 0)))	;;oul
+("wananga"	nil	(((w a) 1) ((n uh ng) 0) ((@) 0))) 	;;maori
+("waoriki"	nil	(((w aa) 1) ((oo) 0) ((r ii) 0) ((k ii) 0))) 	;;maori
+("warehou"	nil	(((w o) 1) ((r @) 0) ((h ow) 0))) 	;;maori
+("warhol"	nil	(((w oo) 1) ((h o l) 0)))	;;oul
+("water-cooler"	nil	(((w oo) 1) ((t^ @) 0) ((k u l) 1) ((@) 0)))	;;uul
+("we'll"	nil	(((w ii l) 1)))	;;contraction
+("week-old"	nil	(((w ii k) 0) ((o l d) 1)))	;;oul
+("wehi"	nil	(((w e1 ) 0) ((h ii) 0))) 	;;maori
+("weka"	nil	(((w e) 1) ((k @) 0))) 	;;maori
+("weka-pango"	nil	(((w e) 1) ((k @) 0) ((p uh ng) 2) ((ou) 0))) 	;;maori
+("well-upholstered"	nil	(((w a l) 1) ((uh p) 0) ((h o l) 1) ((s t @ d) 0)))	;;oul
+("weren't"	nil	(((w @@r n t) 1)))	;;contraction
+("wero"	nil	(((w e) 1) ((r ou) 0))) 	;;maori
+("weta"	nil	(((w e) 1) ((t^ @) 0))) 	;;maori
+("wetapunga"	nil	(((w e) 1) ((t aa) 0) ((p uu ng) 1) ((@) 0))) 	;;maori
+("weweia"	nil	(((w e) 1) ((w e) 0) ((ii) 0) ((@) 0))) 	;;maori
+("whai"	nil	(((f ai) 1))) 	;;maori
+("whai-repo"	nil	(((f ai) 1) ((r e) 1) ((p oo) 0))) 	;;maori
+("whaikorero"	nil	(((f ai) 0) ((k oo) 1) ((r e) 0) ((r ou) 0))) 	;;maori
+("whakairo"	nil	(((f aa) 1) ((k ai) 0) ((r ou) 0))) 	;;maori
+("whakama"	nil	(((f aa) 0) ((k aa) 0) ((m aa) 1))) 	;;maori
+("whakaoriori"	nil	(((f aa) 1) ((k @) 0) ((oo) 2) ((r ii) 0) ((oo) 2) ((r ii) 0))) 	;;maori
+("whakapapa"	nil	(((f aa) 1) ((k aa) 0) ((p aa) 0) ((p @) 0))) 	;;maori
+("whakatane"	nil	(((f aa) 0) ((k @) 0) ((t aa) 1) ((n i) 0))) 	;;maori
+("whakatauaki"	nil	(((f aa) 2) ((k aa) 0) ((t ow) 1) ((aa) 0) ((k ii) 0))) 	;;maori
+("whakatu"	nil	(((f aa) 1) ((k aa) 0) ((t uu) 0))) 	;;maori
+("whakawhanaungatanga"	nil	(((f aa) 1) ((k aa) 0) ((f aa) 1) ((n ow ng) 0) ((aa) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("whanake"	nil	(((f aa) 1) ((n aa) 0) ((k ei) 0))) 	;;maori
+("whanau"	nil	(((f aa) 1) ((n ow) 0))) 	;;maori
+("whanaunga"	nil	(((f aa) 0) ((n @) 0) ((u ng) 1) ((@) 0))) 	;;maori
+("whanaungatanga"	nil	(((f aa) 1) ((n ow ng) 0) ((aa) 0) ((t uh ng) 0) ((@) 0))) 	;;maori
+("whangai"	nil	(((f uh ng) 1) ((ai) 0))) 	;;maori
+("whanganui"	nil	(((f uh ng) 1) ((aa) 0) ((n uu) 0) ((ii) 0))) 	;;maori
+("wharangi"	nil	(((f aa) 1) ((r uh ng) 0) ((ii) 0))) 	;;maori
+("wharangipiro"	nil	(((f aa) 1) ((r uh ng) 0) ((ii) 0) ((p ii) 1) ((r ou) 0))) 	;;maori
+("wharariki"	nil	(((f aa) 1) ((r aa) 0) ((r ii) 0) ((k ii) 0))) 	;;maori
+("wharawhara"	nil	(((f aa) 1) ((r aa) 0) ((f aa) 0) ((r @) 0))) 	;;maori
+("whare"	nil	(((f aa) 1) ((r ei) 0))) 	;;maori
+("wharekai"	nil	(((f aa) 1) ((r e) 0) ((k ai) 0))) 	;;maori
+("wharekauri"	nil	(((f aa) 1) ((r e) 0) ((k ow) 0) ((r ii) 0))) 	;;maori
+("wharenui"	nil	(((f aa) 1) ((r e) 0) ((n uu) 0) ((ii) 0))) 	;;maori
+("wharepaku"	nil	(((f aa) 2) ((r e) 0) ((p aa) 1) ((k uu) 0))) 	;;maori
+("wharepuni"	nil	(((f aa) 1) ((r e) 0) ((p uu) 0) ((n ii) 0))) 	;;maori
+("whariki"	nil	(((f aa) 1) ((r ii) 0) ((k ii) 0))) 	;;maori
+("what'll"	nil	(((w o t) 1) ((l!) 0)))	;;contraction
+("what're"	nil	(((w o t^) 1) ((@) 0)))	;;contraction
+("what's"	nil	(((w o t s) 1)))	;;contraction
+("what've"	nil	(((w o t^) 1) ((@ v) 0)))	;;contraction
+("whata"	nil	(((f aa) 1) ((t^ @) 0))) 	;;maori
+("whatu"	nil	(((f aa) 1) ((t uu) 0))) 	;;maori
+("whau"	nil	(((f ow) 1))) 	;;maori
+("whauwhau"	nil	(((f ow) 1) ((f ow) 0))) 	;;maori
+("whauwhaupaku"	nil	(((f ow) 1) ((f ow) 0) ((p aa) 0) ((k uu) 0))) 	;;maori
+("whauwhi"	nil	(((f ow) 1) ((f ii) 0))) 	;;maori
+("whawhakou"	nil	(((f aa) 1) ((f aa) 0) ((k ou) 0))) 	;;maori
+("whekau"	nil	(((f e) 1) ((k ow) 0))) 	;;maori
+("wheke"	nil	(((f e) 1) ((k ei) 0))) 	;;maori
+("wheki"	nil	(((f e) 1) ((k ii) 0))) 	;;maori
+("whenua"	nil	(((f e) 1) ((nuu) 0) ((@) 0))) 	;;maori
+("where're"	nil	(((w ir r) 1) ((@) 0)))	;;contraction
+("where's"	nil	(((w e @ z) 1)))	;;contraction,beer-bear
+("whio"	nil	(((f ii) 1) ((oo) 0))) 	;;maori
+("whirlpool"	nil	(((w @@r l) 1) ((p u l) 0)))	;;uul
+("whirlpools"	nil	(((w @@r l) 1) ((p u l z) 0)))	;;uul
+("whitau"	nil	(((f ii) 1) ((t ow) 0))) 	;;maori
+("who'd"	nil	(((h uu d) 1)))	;;contraction
+("who'll"	nil	(((h @ l) 1)))	;;contraction
+("who're"	nil	(((h uu @) 1)))	;;contraction
+("who's"	nil	(((h uu z) 1)))	;;contraction
+("who've"	nil	(((h uu v) 1)))	;;contraction
+("whole"	nil	(((h o l) 1)))	;;oul
+("whole-hearted"	nil	(((h o l) 1) ((h aa t^) 1) ((@ d) 0)))	;;oul
+("whole-heartedly"	nil	(((h o l) 1) ((h aa t^) 1) ((@ d) 0) ((l ii) 0)))	;;oul
+("wholehearted"	nil	(((h o l) 1) ((h aa t^) 1) ((@ d) 0)))	;;oul
+("wholeheartedly"	nil	(((h o l) 1) ((h aa t^) 1) ((@ d) 0) ((l ii) 0)))	;;oul
+("wholeheartedness"	nil	(((h o l) 1) ((h aa t^) 1) ((@ d) 0) ((n @ s) 0)))	;;oul
+("wholemeal"	nil	(((h o l) 1) ((m ii l) 0)))	;;oul
+("wholeness"	nil	(((h o l) 1) ((n @ s) 0)))	;;oul
+("wholes"	nil	(((h o l z) 1)))	;;oul
+("wholesale"	nil	(((h o l) 1) ((s ei l) 0)))	;;oul
+("wholesaler"	nil	(((h o l) 1) ((s ei l) 1) ((@) 0)))	;;oul
+("wholesalers"	nil	(((h o l) 1) ((s ei l) 1) ((@ z) 0)))	;;oul
+("wholesales"	nil	(((h o l) 1) ((s ei l z) 0)))	;;oul
+("wholesaling"	nil	(((h o l) 1) ((s ei l) 1) ((i ng) 0)))	;;oul
+("wholescale"	nil	(((h o l) 1) ((s k ei l) 0)))	;;oul
+("wholesome"	nil	(((h o l) 1) ((s m!) 0)))	;;oul
+("wholesomely"	nil	(((h o l) 1) ((s m!) 0) ((l ii) 0)))	;;oul
+("wholesomeness"	nil	(((h o l) 1) ((s m!) 0) ((n @ s) 0)))	;;oul
+("wholesomest"	nil	(((h o l) 1) ((s m!) 0) ((@ s t) 0)))	;;oul
+("wholism"	nil	(((h o l) 1) ((i) 0) ((z m!) 0)))	;;oul
+("wholistic"	nil	(((h o l) 0) ((i s t) 1) ((i k) 0)))	;;oul
+("wholly"	nil	(((h o l) 1) ((ii) 0)))	;;oul
+("why's"	nil	(((w ai z) 1)))	;;contraction
+("wikitoria"	nil	(((w i) 0) ((k ii) 0) ((t oo) 1) ((r ii) 0) ((@) 0))) 	;;maori
+("withhold"	nil	(((w i dh) 0) ((h o l d) 1)))	;;oul
+("withholder"	nil	(((w i dh) 0) ((h o l d) 1) ((@) 0)))	;;oul
+("withholding"	nil	(((w i dh) 0) ((h o l d) 1) ((i ng) 0)))	;;oul
+("withholdings"	nil	(((w i dh) 0) ((h o l d) 1) ((i ng z) 0)))	;;oul
+("withholds"	nil	(((w i dh) 0) ((h o l d z) 1)))	;;oul
+("wiwi"	nil	(((w ii) 1) ((w ii) 0))) 	;;maori
+("wold"	nil	(((w o l d) 1)))	;;oul
+("wolds"	nil	(((w o l d z) 1)))	;;oul
+("won't"	nil	(((w ou n t) 1)))	;;contraction
+("wool"	nil	(((w u l) 1)))	;;uul
+("wool-gathering"	nil	(((w u l) 1) ((g a) 1) ((dh @ r) 0) ((i ng) 0)))	;;uul
+("wooldridge"	nil	(((w u l) 1) ((d r i jh) 0)))	;;uul
+("woolen"	nil	(((w u l) 1) ((@ n) 0)))	;;uul
+("woolens"	nil	(((w u l) 1) ((@ n z) 0)))	;;uul
+("woolf"	nil	(((w u l f) 1)))	;;uul
+("woolgather"	nil	(((w u l) 1) ((g a) 1) ((dh @) 0)))	;;uul
+("woolgathered"	nil	(((w u l) 1) ((g a) 1) ((dh @ d) 0)))	;;uul
+("woolgathering"	nil	(((w u l) 1) ((g a) 1) ((dh @ r) 0) ((i ng) 0)))	;;uul
+("woolgathers"	nil	(((w u l) 1) ((g a) 1) ((dh @ z) 0)))	;;uul
+("woolily"	nil	(((w u l) 1) ((@) 0) ((l ii) 0)))	;;uul
+("woollen"	nil	(((w u l) 1) ((@ n) 0)))	;;uul
+("woollens"	nil	(((w u l) 1) ((@ n z) 0)))	;;uul
+("woolley"	nil	(((w u l) 1) ((ii) 0)))	;;uul
+("woolleys"	nil	(((w u l) 1) ((ii z) 0)))	;;uul
+("woollier"	nil	(((w u l) 1) ((e @) 0)))	;;uul
+("woollies"	nil	(((w u l) 1) ((ii z) 0)))	;;uul
+("woolliest"	nil	(((w u l) 1) ((ii @ s t) 0)))	;;uul
+("woolliness"	nil	(((w u l) 1) ((ii) 0) ((n @ s) 0)))	;;uul
+("woolly"	nil	(((w u l) 1) ((ii) 0)))	;;uul
+("wools"	nil	(((w u l z) 1)))	;;uul
+("woolsack"	nil	(((w u l) 1) ((s a k) 0)))	;;uul
+("woolsacks"	nil	(((w u l) 1) ((s a k s) 0)))	;;uul
+("woolveridge"	nil	(((w u l) 1) ((v @) 0) ((r i jh) 0)))	;;uul
+("woolwich"	nil	(((w u) 1) ((l i ch) 0)))	;;uul
+("woolworth"	nil	(((w u l) 1) ((w @ th) 0)))	;;uul
+("woolworths"	nil	(((w u l) 1) ((w @ th s) 0)))	;;uul
+("workholder"	nil	(((w @@r k) 1) ((h o l d) 1) ((@) 0)))	;;oul
+("workholders"	nil	(((w @@r k) 1) ((h o l d) 1) ((@ z) 0)))	;;oul
+("wormhole"	nil	(((w @@r m) 1) ((h o l) 0)))	;;oul
+("wormholes"	nil	(((w @@r m) 1) ((h o l z) 0)))	;;oul
+("would'nt"	nil	(((w u d) 1) ((n! t) 0)))	;;contraction
+("would've"	nil	(((w u d) 1) ((@ v) 0)))	;;contraction
+("you'd"	nil	(((y uu d) 1)))	;;contraction
+("you'll"	nil	(((y @ l) 1)))	;;contraction
+("you're"	nil	(((y oo) 1)))	;;contraction
+("you've"	nil	(((y uu v) 1)))	;;contraction
+("zola"	nil	(((z o) 1) ((l @) 0)))	;;oul
+("zopiclone"	nil	(((z o p) 1) ((i) 0) ((k l ou n) 2))) 	;;drug
