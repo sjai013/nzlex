@@ -14,6 +14,19 @@ for word in all_modified_words_temp:
 
 del f, all_modified_words_temp
 
+# Get a list of all words in the alveo MAUS dictionary
+f = open("../alveo/all.txt")
+alveo_temp = f.readlines()
+f.close()
+
+alveo = dict()
+for word in alveo_temp:
+    line = word.split(",")
+    alveo[line[0]] = line[1].strip()
+
+del f, alveo_temp
+
+
 # Get list of all unique words
 f = open("all_unique_words.txt",'r')
 unique_words_temp = f.readlines()
@@ -26,8 +39,9 @@ for word in unique_words_temp:
     unique_words[word[0]] = word[1].strip()
 
 del f, unique_words_temp
-# Compare unique words and NZ dictionary, and get all unique words NOT in the NZ dictionary
-missing_words = list(set(unique_words) - set(all_modified_words))
+# Compare unique words and NZ dictionary, and get all unique words NOT in the NZ or MAUS dictionary
+nz_maus_words = list(set(all_modified_words) | set(alveo))
+missing_words = list(set(unique_words) - set(nz_maus_words))
 
 f = open("missing_words.txt", "w")
 for word in sorted(missing_words):
@@ -35,3 +49,4 @@ for word in sorted(missing_words):
 
 f.close()
 del f
+
