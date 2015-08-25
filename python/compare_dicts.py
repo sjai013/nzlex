@@ -13,7 +13,7 @@ temp = f.readlines();
 
 ald = dict()
 for line in temp:
-    ald[line.split("\t")[0]] = line.split("\t")[1].replace("\n","").split(",")[0]
+    ald[line.split("\t")[0].replace(",", "")] = line.split("\t")[1].replace("\n","").split(",")[0]
 
 # Read MAUS dictionary (in SAMPA format)
 
@@ -24,9 +24,6 @@ alveo = dict()
 for line in temp:
     alveo[line.split(",")[0]] = line.split(",")[1].replace("\n","")
 
-
-# Transform the ALD pronunciation to SAMPA - need to define a 1:1 transformation
-# Not all phones are one character long - some are two.  So, need to begin search with two-character long phones
 
 #####################################################################
 ###################### Transform ALD to SAMPA #######################
@@ -67,9 +64,6 @@ replacePhone(ald, "@U", "@}")
 
 
 
-
-
-
 # Print words common to both, but with differing pronunciations, to a file, so we can compare the symbols
 
 f = open("differences.txt", mode="w")
@@ -79,7 +73,11 @@ for word in common_words:
         f.write(word + '\t' + ald[word] + '\t' + alveo[word] + '\n')
 
 
-# Print final dictionary - merge ALD into MAUS
+
+
+#####################################################################
+##################### Print final dictionary ########################
+#####################################################################
 
 
 # ALD has two-word entries, so see which of the single words are not in the alveo dictionary
@@ -89,14 +87,14 @@ for words in unique_ald_temp:
     split_words = words.split(" ");
     for i in range(0,len(split_words)):
         if split_words[i] not in alveo:
-            unique_ald[split_words[i]] = ald[words].split(" ")[i]
-
+            unique_ald[split_words[i]] = ald[words].split(" ")[i].replace(",","")
 
 
 f = open("complete.txt", mode="w")
 all_word_list = sorted(list(alveo.keys() + unique_ald.keys()))
 
 for word in all_word_list:
+
     if word in alveo:
         f.write(word.lower() + '\t' + alveo[word] + "\tMAUS" + '\n')
     else:

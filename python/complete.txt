@@ -24,7 +24,6 @@ australia	@str\{Ili:@	MAUS
 australian	@st`r\{Ilj@n	MAUS
 ave	`{v@nj}:	MAUS
 b	bi:	MAUS
-b,	bi:	ALD
 bbq	`b6:b@kj}:	MAUS
 bc	bi:`si:	MAUS
 bmx	bi:em`eks	MAUS
@@ -36,7 +35,6 @@ bill	bIl	MAUS
 boyd	boId	MAUS
 buddhism	`bUdIz@m	MAUS
 c	si:	MAUS
-c,	si:	ALD
 cd	si:`di:	MAUS
 ces	si:i:`es	MAUS
 cod	si:@}`di:	MAUS
@@ -56,14 +54,12 @@ croatian	kr\@}`{IS@n	MAUS
 cross	kr\Os	MAUS
 czech	tSek	MAUS
 d	di:	MAUS
-d,	di:	ALD
 december	d@`semb@	MAUS
 democrats	`dem@kr\{ts	MAUS
 dr	`dOkt@	MAUS
 dreaming	`dr\i:mIN	MAUS
 dutch	d6tS	MAUS
 e	i:	MAUS
-e,	i:	ALD
 eb	i:`bi:	MAUS
 ecg	i:si:`dZi:	MAUS
 eftpos	`eftpOs	MAUS
@@ -74,14 +70,12 @@ ellen	el@n	MAUS
 english	`INglIS	MAUS
 ethan	i:T@n	MAUS
 f	ef	MAUS
-f,	ef	ALD
 fahrenheit	`f{r\@nhAet	MAUS
 february	`febr\}:@r\i:	MAUS
 filipino	fIl@`pi:n@}	MAUS
 french	fr\entS	MAUS
 friday	`fr\Aed{I	MAUS
 g	dZi:	MAUS
-g,	dZi:	ALD
 gdp	dZi:di:`pi:	MAUS
 gnp	dZi:en`pi:	MAUS
 gp	dZi:`pi:	MAUS
@@ -94,7 +88,6 @@ governor-general	g6v@n@`dZenr\@l	MAUS
 granny	gr\{ni:	ALD
 greek	gr\i:k	MAUS
 h	{ItS	MAUS
-h,	{ItS	ALD
 hq	{ItS`kj}:	MAUS
 hsc	{ItSes`si:	MAUS
 hal	h{l	MAUS
@@ -105,7 +98,6 @@ hungarian	h6N`ge:r\i:@n	MAUS
 i	Ae	MAUS
 i'll	Ael	MAUS
 i've	Aev	MAUS
-i,	Ae	ALD
 id	Ae`di:	MAUS
 iou	Ae@}`j}:	MAUS
 indonesia	Ind@`ni:Z@	ALD
@@ -114,7 +106,6 @@ islam	`Izl{m	MAUS
 italian	@`t{lj@n	MAUS
 ive	Aev	MAUS
 j	dZ{I	MAUS
-j,	dZ{I	ALD
 jp	dZ{I`pi:	MAUS
 jan.	`dZ{nj@r\i:	MAUS
 january	`dZ{nj@r\i:	MAUS
@@ -129,12 +120,10 @@ july	dZ@`lAe	MAUS
 jun.	dZ}:n	MAUS
 june	dZ}:n	MAUS
 k	k{I	MAUS
-k,	k{I	ALD
 ko	k{I`@}	MAUS
 khmer	k@`me:	MAUS
 korean	k@`r\i:@n	MAUS
 l	el	MAUS
-l,	el	ALD
 l-plate	`elpl{It	MAUS
 lpg	elpi:`dZi:	MAUS
 la	l{In	MAUS
@@ -143,7 +132,6 @@ lao	l{O	MAUS
 latin	`l{t@n	MAUS
 ltd	`lIm@t@d	MAUS
 m	em	MAUS
-m,	em	ALD
 mp	em`pi:	MAUS
 ms	em`es	MAUS
 msg	emes`dZi:	MAUS
@@ -160,7 +148,6 @@ mr	`mIst@	MAUS
 mrs	`mIs@z	MAUS
 ms	mIz	MAUS
 n	en	MAUS
-n,	en	ALD
 n/a	en`{I	MAUS
 nb	en`bi:	MAUS
 ne	no:T`i:st	MAUS
@@ -172,12 +159,10 @@ ninjas	nIndZ@z	MAUS
 nov.	n@}`vemb@	MAUS
 november	n@}`vemb@	MAUS
 o	@}	MAUS
-o,	@}	ALD
 ok	@}`k{I	MAUS
 october	Ok`t@}b@	MAUS
 olympic	@lImpIk	ALD
 p	pi:	MAUS
-p,	pi:	ALD
 p-plate	`pi:pl{It	MAUS
 pa	pi:`{I	MAUS
 paye	pi:{IwAe`i:	MAUS
@@ -196,11 +181,9 @@ pope	p@}p	MAUS
 portuguese	po:tS@`gi:z	MAUS
 protestant	`pr\Ot@st@nt	MAUS
 q	kj}:	MAUS
-q,	kj}:	ALD
 qc	kj}:`si:	MAUS
 qld	`kwi:nzl@nd	MAUS
 r	6:	MAUS
-r,	6:	ALD
 ram	r\{m	MAUS
 rom	r\Om	MAUS
 rsl	6:r\es`el	MAUS
@@ -210,7 +193,6 @@ roman	`r\@}m@n	MAUS
 romanian	r\@}`m{Ini:@n	MAUS
 rosas	r\@}z@z	MAUS
 s	es	MAUS
-s,	es	ALD
 sa	s{OT@`str\{Ilj@	MAUS
 std	esti:`di:	MAUS
 sabbath	`s{b@T	MAUS
@@ -225,14 +207,13 @@ serbian	`s3:bi:@n	MAUS
 sharon	S{r\@n	MAUS
 shaw	So:	MAUS
 smith	`smIT	ALD
-southern	s6	ALD
+southern	s6D@n	ALD
 spanish	`sp{nIS	MAUS
 springwood	spr\INwUd	MAUS
 st	??	ALD
 sunday	`s6nd{I	MAUS
 susan	s}:z@n	MAUS
 t	ti:	MAUS
-t,	ti:	ALD
 t-shirt	`ti:S3:t	MAUS
 tafe	t{If	MAUS
 tv	ti:`vi:	MAUS
@@ -243,27 +224,21 @@ troy	tr\oI	MAUS
 tuesday	`tj}:zd{I	MAUS
 turkish	`t3:kIS	MAUS
 u	j}:	MAUS
-u,	j}:	ALD
 v	vi:	MAUS
-v,	vi:	ALD
 vcr	vi:si:`6:	MAUS
 vdu	vi:di:`j}:	MAUS
 vip	vi:Ae`pi:	MAUS
 vic.	vIk`to:r\i:@	MAUS
 vietnamese	vi:etn@`mi:z	MAUS
 w	west	MAUS
-w,	`d6	ALD
 wa	west@n@`str\{Ilj@	MAUS
 wednesday	`wenzd{I	MAUS
 word	Pronunciation	MAUS
 wran	r\{n	MAUS
 x	eks	MAUS
-x,	eks	ALD
 xmas	`kr\Ism@s	MAUS
 y	wAe	MAUS
-y,	wAe	ALD
 z	zed	MAUS
-z,	zed	ALD
 a	@	MAUS
 a.m.	{I`em	MAUS
 abandon	@`b{nd@n	MAUS
@@ -1357,7 +1332,7 @@ brunch	br\6ntS	MAUS
 brunette	br\}:`net	MAUS
 brunt	br\6nt	MAUS
 brush	br\6S	MAUS
-brussels	br\6	ALD
+brussels	br\6s@lz	ALD
 brutal	`br\}:t@l	MAUS
 brute	br\}:t	MAUS
 bubble	`b6b@l	MAUS
@@ -1382,7 +1357,7 @@ bugger	`b6g@	MAUS
 bugle	`bj}:g@l	MAUS
 build	bIld	MAUS
 building	`bIldIN	MAUS
-built-up	bIlt-6	ALD
+built-up	bIlt-6p	ALD
 bulb	b6lb	MAUS
 bulge	b6ldZ	MAUS
 bulk	b6lk	MAUS
@@ -1458,7 +1433,7 @@ butcherbird	`bUtS@b3:d	MAUS
 butler	b6tl@	MAUS
 butt	b6t	MAUS
 butter	`b6t@	MAUS
-butterfly	`b6	ALD
+butterfly	`b6t@flAe	ALD
 buttocks	`b6t@ks	MAUS
 button	`b6t@n	MAUS
 buttress	`b6tr\@s	MAUS
@@ -2463,7 +2438,7 @@ decimate	`des@m{It	MAUS
 decipher	d@`sAef@	MAUS
 decision	d@`sIZ@n	MAUS
 deck	dek	MAUS
-declaration	ALD	
+declaration		ALD
 declare	d@`kle:	MAUS
 decline	d@`klAen	MAUS
 decode	di:`k@}d	MAUS
@@ -5797,7 +5772,7 @@ mice	mAes	MAUS
 microbe	`mAekr\@}b	MAUS
 microphone	`mAekr\@f@}n	MAUS
 microscope	`mAekr\@sk@}p	MAUS
-microwave	mAekr\@w{Iv	ALD
+microwave	mAekr\@w{I6`6v@n	ALD
 mid	mId	MAUS
 midday	`mIdd{I	MAUS
 middle	`mId@l	MAUS
@@ -7266,7 +7241,7 @@ reference	`r\efr\@ns	MAUS
 referendum	r\ef@`r\end@m	MAUS
 reflect	r\@`flekt	MAUS
 reflex	`r\i:fleks	MAUS
-reflexive	r\@fleksIv	ALD
+reflexive	r\@fleksI6`pr\@}n{On	ALD
 reform	r\@`fo:m	MAUS
 refrain	r\@`fr\{In	MAUS
 refresh	r\@`fr\eS	MAUS
@@ -7302,7 +7277,7 @@ rejoice	r\@`dZoIs	MAUS
 relapse	r\@`l{ps	MAUS
 relate	r\@`l{It	MAUS
 relation	r\@`l{IS@n	MAUS
-relations	blIk	ALD
+relations	r\@`l{ISnz	ALD
 relationship	r\@`l{IS@nSIp	MAUS
 relative	`r\el@tIv	MAUS
 relatively	`r\el@tIvli:	MAUS
@@ -7687,7 +7662,7 @@ schooner	`sk}:n@	MAUS
 science	`sAe@ns	MAUS
 scientist	`sAe@nt@st	MAUS
 scissors	`sIz@z	MAUS
-sclerosis	lt@p@l	ALD
+sclerosis	skl@`r\@}s@s	ALD
 scoff	skOf	MAUS
 scold	sk@}ld	MAUS
 scone	skOn	MAUS
@@ -9317,7 +9292,7 @@ uprising	`6pr\AezIN	MAUS
 uproar	`6pr\o:	MAUS
 uproarious	6p`r\o:r\i:@s	MAUS
 upset	6p`set	MAUS
-upside	6	ALD
+upside	6psAed	ALD
 upstairs	6p`ste:z	MAUS
 upstream	6p`str\i:m	MAUS
 uptight	6p`tAet	MAUS

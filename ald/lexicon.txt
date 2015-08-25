@@ -16,10 +16,10 @@ aborigine	Ab@`rIdZ@ni:
 abort	@`b@:t
 abortion	@`b@:S@n
 about	@`ba:Ut
-above	@`bV v
+above	@`bVv
 abrasion	@`brEIZ@n
 abroad	@`br@:d
-abrupt	@`brV pt
+abrupt	@`brVpt
 abscess	`AbsEs, `Abs@s
 absent	`Abs@nt
 absent-minded	Abs@nt-`ma:Ind@d
@@ -34,8 +34,8 @@ accept	@k`sEpt
 access	`a:ksEs
 accident	`Aks@d@nt
 accommodate	@`kOm@dEIt
-accompany	@`kV mp@ni:, @`kV mpni:
-accomplice	@`kV mpl@s, -`kOm-
+accompany	@`kVmp@ni:, @`kVmpni:
+accomplice	@`kVmpl@s, -`kOm-
 accord	@`k@:d
 accordingly	@`k@:dINli:
 account	@`ka:u:nt
@@ -44,7 +44,7 @@ accountant	@`ka:Unt@nt
 accumulate	@`kju:mj@lEIt
 accurate	`Akj@r@t
 accuse	@`kju:z
-accustomed	@`kV st@md
+accustomed	@`kVst@md
 ace	EIs
 ache	EIk
 achieve	@`tSi:v
@@ -72,7 +72,7 @@ actor	`Akt@
 ACTU	EI si: ti: `ju:
 actual	`AktSu:@l
 actually	`AktSu:@li:, `AktS@li:
-acupuncture	`Akj@pV NktS@, `Ak@-
+acupuncture	`Akj@pVNktS@, `Ak@-
 acute	@`kju:t
 acutely	@`kju:tli:
 ad	Ad
@@ -91,8 +91,8 @@ adjacent	@`dZEIs@nt
 adjective	`AdZ@ktIv
 adjourn	@`dZ@:n
 adjudicate	@`dZu:d@kEIt
-adjust	@`dZV st
-adjustment	@`dZV stm@nt
+adjust	@`dZVst
+adjustment	@`dZVstm@nt
 admin	`AdmIn, Ad`mIn
 administration	@dmIn@`strEIS@n
 admire	@d`ma:I@
@@ -101,8 +101,8 @@ admit	@d`mIt
 adolescence	Ad@`lEs@ns
 adopt	@`dOpt
 adore	@`d@:
-adult	`AdV lt, @`dV lt
-adultery	@`dV lt@ri:
+adult	`AdVlt, @`dVlt
+adultery	@`dVlt@ri:
 advance	@d`vAns, -`va:ns
 advanced	@d`vAnst, -`va:nst
 advancement	@d`vAnsm@nt, -`va:ns-
@@ -158,7 +158,7 @@ ago	@`g@U
 agony	`Ag@ni:
 agree	@`gri:
 agreement	@`gri:m@nt
-agriculture	`Agr@kV ltS@
+agriculture	`Agr@kVltS@
 ahead	@`hEd
 aid	EId
 AIDS	EIdz
@@ -253,7 +253,7 @@ amicable	`AmIk@b@l
 ammonia	@`m@Uni:@, -j@
 ammunition	Amj@`nIS@n
 amnesia	Am`ni:Z@
-among	@`mV N
+among	@`mVN
 amorous	`Am@r@s
 amount	@`ma:Unt
 ample	`Amp@l
@@ -294,7 +294,7 @@ announce	@`na:Uns
 annoy	@`n@:I
 annual	`Anju:@l
 anonymous	@`nOn@m@s
-another	@`nV D@
+another	@`nVD@
 answer	`Ans@, `a:n-
 ant	Ant
 antagonise	An`tAg@na:Iz
@@ -322,7 +322,7 @@ anxious	`ANS@s, `ANk-
 any	`Eni:
 anybody	`Eni:bOdi:, -b@di:
 anyhow	`Eni:ha:U
-anyone	`Eni:wV n
+anyone	`Eni:wVn
 anything	`Eni:TIN
 anyway	`Eni:wEI
 anywhere	`Eni:wE@
@@ -507,7 +507,7 @@ audit	`@:d@t
 audition	@:`dIS@n
 Aug.	`@:g@st
 August	`@:g@st
-august	@:`gV st
+august	@:`gVst
 aunt	a:nt
 aura	`@:r@
 auspicious	@:`spIS@s, @-
@@ -570,7 +570,7 @@ backlog	`bAklOg
 backside	bAk`sa:Id
 backstop	`bAkstOp
 backstroke	`bAkstr@Uk
-backup	`bAkV p
+backup	`bAkVp
 backward	`bAkw@d
 backwards	`bAkw@dz
 backyard	bAk`ja:d
@@ -606,7 +606,7 @@ bandit	`bAnd@t
 bang	bAN
 banjo	`bAndZ@U
 bank	bANk
-bankrupt	`bANkrV pt
+bankrupt	`bANkrVpt
 banksia	`bANksi:@
 banquet	`bANkw@t
 baptism	`bAptIzm
@@ -682,8 +682,8 @@ beautiful	`bju:t@f@l
 beauty	`bju:ti:
 became	b@`kEIm
 beckon	`bEk@n
-become	b@`kV m, bi:-
-becoming	b@`kV mIN, bi:-
+become	b@`kVm, bi:-
+becoming	b@`kVmIN, bi:-
 bed	bEd
 bedding	`bEdIN
 bedraggled	b@`drAg@ld
@@ -699,8 +699,8 @@ beg	bEg
 began	b@`gAn
 begin	b@`gIn
 beginner	b@`gIn@
-begrudge	b@`grV dZ, bi:-
-begun	b@`gV n
+begrudge	b@`grVdZ, bi:-
+begun	b@`gVn
 behalf	b@`ha:f
 behave	b@`hEIv, bi:-
 behind	b@`ha:Ind, bi:-
@@ -715,10 +715,10 @@ bell	bEl
 belligerent	b@`lIdZ@r@nt
 bellow	`bEl@U
 belly	`bEli:
-bellybutton	`bEli:bV t@n
+bellybutton	`bEli:bVt@n
 belong	b@`lON
 belongings	b@`lONINz
-beloved	b@`lV v@d
+beloved	b@`lVv@d
 below	b@`l@U
 belt	bElt
 bench	bEntS
@@ -850,18 +850,18 @@ bloated	`bl@Ut@d
 bloc	blOk
 block	blOk
 blockade	blO`kEId
-blockbuster	`blOkbV st@
+blockbuster	`blOkbVst@
 bloke	bl@Uk
 blond	blOnd
 blonde	blOnd
-blood	blV d
-bloodbath	`blV dba:T
-bloodshed	`blV dSEd
-bloodshot	`blV dSOt
-bloodstream	`blV dstri:m
-bloodthirsty	`blV dT@:sti:
-bloody	`blV di:
-bloody-minded	blV di:-`ma:Ind@d
+blood	blVd
+bloodbath	`blVdba:T
+bloodshed	`blVdSEd
+bloodshot	`blVdSOt
+bloodstream	`blVdstri:m
+bloodthirsty	`blVdT@:sti:
+bloody	`blVdi:
+bloody-minded	blVdi:-`ma:Ind@d
 bloom	blu:m
 blossom	`blOs@m
 blot	blOt
@@ -869,9 +869,9 @@ blouse	bla:Uz
 blow	bl@U
 blowout	`bl@Ua:Ut
 blowtorch	`bl@Ut@:tS
-blubber	`blV b@
-bludge	blV dZ
-bludgeon	`blV dZ@n
+blubber	`blVb@
+bludge	blVdZ
+bludgeon	`blVdZ@n
 blue	blu:
 blue metal	`blu: mEtl
 blue movie	blu: `mu:vi:
@@ -880,14 +880,14 @@ blue-ringed octopus	blu:-rINd `Okt@p@s
 bluebottle	`blu:bOtl
 blueprint	`blu:prInt
 blues	blu:z
-bluff	blV f
-blunder	`blV nd@
-blunt	blV nt
+bluff	blVf
+blunder	`blVnd@
+blunt	blVnt
 blur	bl@:
 blurb	bl@:b
 blurt	bl@:t
-blush	blV S
-bluster	`blV st@
+blush	blVS
+bluster	`blVst@
 BMX	bi: Em `Eks
 board	b@:d
 boarder	`b@:d@
@@ -944,7 +944,7 @@ bore	b@:
 born	b@:n
 borne	b@:n
 boronia	b@`r@Uni:@
-borough	`bV r@
+borough	`bVr@
 borrow	`bOr@U
 bosom	`bUz@m
 boss	bOs
@@ -952,7 +952,7 @@ botanist	`bOt@n@st
 botch	bOtS
 both	b@UT
 bottle	`bOtl
-bottlebrush	`bOtlbrV S
+bottlebrush	`bOtlbrVS
 bottleneck	`bOtlnEk
 bottom	`bOt@m
 bough	ba:U
@@ -1010,7 +1010,7 @@ brawn	br@:n
 brazen	`brEIz@n
 breach	bri:tS
 bread	brEd
-bread-and-butter	brEd-@n-`bV t@
+bread-and-butter	brEd-@n-`bVt@
 breadline	`brEdla:In
 breadth	brEdT
 breadwinner	`brEdwIn@
@@ -1070,52 +1070,52 @@ bronze	brOnz
 brooch	br@UtS
 brood	bru:d
 broom	bru:m
-bros.	`brV D@z
+bros.	`brVD@z
 broth	brOT
 brothel	`brOT@l
-brother	`brV D@
-brother-in-law	`brV D@r-In-l@:
+brother	`brVD@
+brother-in-law	`brVD@r-In-l@:
 brought	br@:t
 brow	bra:U
 browbeat	`bra:Ubi:t
 brown	bra:Un
 browse	bra:Uz
 bruise	bru:z
-brumby	`brV mbi:
-brunch	brV ntS
+brumby	`brVmbi:
+brunch	brVntS
 brunette	bru:`nEt
-brunt	brV nt
-brush	brV S
-brussels sprout	brV s@lz `spra:Ut
+brunt	brVnt
+brush	brVS
+brussels sprout	brVs@lz `spra:Ut
 brutal	`bru:t@l
 brute	bru:t
-bubble	`bV b@l
-bubbler	`bV bl@
-buck	bV k
-bucket	`bV k@t
-bucktooth	bV k`tu:T
-bud	bV d
+bubble	`bVb@l
+bubbler	`bVbl@
+buck	bVk
+bucket	`bVk@t
+bucktooth	bVk`tu:T
+bud	bVd
 Buddhism	`bUdIz@m
-buddy	`bV di:
-budge	bV dZ
-budgerigar	`bV dZ@ri:ga:
-budget	`bV dZ@t
-budgie	`bV dZi:
-buff	bV f
-buffer	`bV f@
-buffet	`bV fEI
+buddy	`bVdi:
+budge	bVdZ
+budgerigar	`bVdZ@ri:ga:
+budget	`bVdZ@t
+budgie	`bVdZi:
+buff	bVf
+buffer	`bVf@
+buffet	`bVfEI
 buffoon	b@`fu:n
-bug	bV g
-bugbear	`bV gbE@
-bugger	`bV g@
+bug	bVg
+bugbear	`bVgbE@
+bugger	`bVg@
 bugle	`bju:g@l
 build	bIld
 building	`bIldIN
 building society	`bIldIN s@sa:I@ti:
-built-up area	bIlt-V p `E@ri:@
-bulb	bV lb
-bulge	bV ldZ
-bulk	bV lk
+built-up area	bIlt-Vp `E@ri:@
+bulb	bVlb
+bulge	bVldZ
+bulk	bVlk
 bull	bUl
 bullbar	`bUlba:
 bulldozer	`bUld@Uz@
@@ -1126,22 +1126,22 @@ bullock	`bUl@k
 bullseye	`bUlza:I
 bullshit	`bUlSIt
 bully	`bUli:
-bum	bV m
-bumble	`bV mb@l
-bump	bV mp
-bumper	`bV mp@
-bun	bV n
-bunch	bV ntS
-bundle	`bV ndl
-bundy	`bV ndi:
-bung	bV N
-bungalow	`bV Ng@l@U
-bungle	`bV Ng@l
-bunion	`bV nj@n
-bunk	bV Nk
-bunker	`bV Nk@
-bunny	`bV ni:
-bunyip	`bV nj@p
+bum	bVm
+bumble	`bVmb@l
+bump	bVmp
+bumper	`bVmp@
+bun	bVn
+bunch	bVntS
+bundle	`bVndl
+bundy	`bVndi:
+bung	bVN
+bungalow	`bVNg@l@U
+bungle	`bVNg@l
+bunion	`bVnj@n
+bunk	bVNk
+bunker	`bVNk@
+bunny	`bVni:
+bunyip	`bVnj@p
 buoy	b@:I
 buoyant	`b@:I@nt
 burble	`b@:b@l
@@ -1157,12 +1157,12 @@ burn	b@:n
 burnish	`b@:nIS
 burp	b@:p
 burr	b@:
-burrow	`bV r@U
+burrow	`bVr@U
 bursar	`b@:s@
 bursary	`b@:s@ri:
 burst	b@:st
 bury	`bEri:
-bus	bV s
+bus	bVs
 bush	bUS
 bush band	`bUS bAnd
 bushed	bUSt
@@ -1174,28 +1174,28 @@ bushwalk	`bUSw@:k
 bushwhacker	`bUSwAk@
 business	`bIzn@s
 businesslike	`bIzn@sla:Ik
-busker	`bV sk@
-bust	bV st
-bustard	`bV st@d
-bustle	`bV s@l
+busker	`bVsk@
+bust	bVst
+bustard	`bVst@d
+bustle	`bVs@l
 busy	`bIzi:
 busybody	`bIzi:bOdi:
-but	bV t
+but	bVt
 butane	`bju:tEIn
 butch	bUtS
 butcher	`bUtS@
 butcherbird	`bUtS@b@:d
-butt	bV t
-butter	`bV t@
-butterfly stroke	`bV t@fla:I str@Uk
-buttocks	`bV t@ks
-buttress	`bV tr@s
+butt	bVt
+butter	`bVt@
+butterfly stroke	`bVt@fla:I str@Uk
+buttocks	`bVt@ks
+buttress	`bVtr@s
 buy	ba:I
-buzz	bV z
+buzz	bVz
 by	ba:I
 by-election	`ba:I-@lEkS@n
 by-law	`ba:I-l@:
-by-product	`ba:I-prOdV kt
+by-product	`ba:I-prOdVkt
 bye	ba:I
 BYO	bi: wa:I `@U
 bypass	`ba:Ipa:s
@@ -1287,7 +1287,7 @@ card	ka:d
 cardboard	`ka:db@:d
 cardiac	`ka:di:Ak
 cardigan	`ka:dIg@n
-cardinal number	ka:d@n@l `nV mb@
+cardinal number	ka:d@n@l `nVmb@
 care	kE@
 career	k@`rI@
 careful	`kE@f@l
@@ -1326,7 +1326,7 @@ casualty	`kAZju:@lti:
 casuarina	kAZj@`ri:n@
 cat	kAt
 catalogue	`kAt@lOg
-catapult	`kAt@pV lt
+catapult	`kAt@pVlt
 cataract	`kAt@rAkt
 catarrh	k@`ta:
 catastrophe	k@`tAstr@fi:
@@ -1420,7 +1420,7 @@ chauvinism	`S@Uv@nIz@m
 cheap	tSi:p
 cheat	tSi:t
 check	tSEk
-check-up	`tSEk-V p
+check-up	`tSEk-Vp
 checkout	`tSEka:Ut
 cheek	tSi:k
 cheer	tSI@
@@ -1438,7 +1438,7 @@ cherub	`tSEr@b
 chess	tSEs
 chest	tSEst
 chew	tSu:
-chewing gum	`tSu:IN gV m
+chewing gum	`tSu:IN gVm
 chic	Si:k
 chick	tSIk
 chicken	`tSIk@n
@@ -1483,15 +1483,15 @@ Christmas bush	`krIsm@s bUS
 chrome	kr@Um
 chronic	`krOnIk
 chronological	krOn@`lOdZIk@l
-chubby	`tSV bi:
-chuck	tSV k
-chuckle	`tSV k@l
-chunder	`tSV nd@
-chunk	tSV Nk
+chubby	`tSVbi:
+chuck	tSVk
+chuckle	`tSVk@l
+chunder	`tSVnd@
+chunk	tSVNk
 church	tS@:tS
 churn	tS@:n
 chute	Su:t
-chutney	`tSV tni:
+chutney	`tSVtni:
 cider	`sa:Id@
 cigar	s@`ga:
 cigarette	sIg@`rEt
@@ -1501,7 +1501,7 @@ circuit	`s@:k@t
 circulate	`s@:kj@lEIt
 circulation	s@:kj@`lEIS@n
 circumcise	`s@:k@msa:Iz
-circumference	s@`kV mf@r@ns
+circumference	s@`kVmf@r@ns
 circumstance	`sEk@mstAns
 circus	`s@:k@s
 citizen	`sIt@z@n
@@ -1565,7 +1565,7 @@ clockwork	`klOkw@:k
 clog	klOg
 clone	kl@Un
 close	kl@Uz
-close-up	`kl@Us-V p
+close-up	`kl@Us-Vp
 clot	klOt
 cloth	klOT
 clothe	kl@UD
@@ -1576,17 +1576,17 @@ cloudy	`kla:Udi:
 clout	kla:Ut
 clover	`kl@Uv@
 clown	kla:Un
-club	klV b
-clucky	`klV ki:
+club	klVb
+clucky	`klVki:
 clue	klu:
-clump	klV mp
-clumsy	`klV mzi:
-clung	klV N
-cluster	`klV st@
-clutch	klV tS
-clutter	`klV t@
+clump	klVmp
+clumsy	`klVmzi:
+clung	klVN
+cluster	`klVst@
+clutch	klVtS
+clutter	`klVt@
 cm	`sEnt@mi:t@
-Co	`kV mp@ni:
+Co	`kVmp@ni:
 coach	k@UtS
 coagulate	k@U`Agj@lEIt
 coal	k@Ul
@@ -1601,12 +1601,12 @@ coax	k@Uks
 cobweb	`kObwEb
 cocaine	k@U`kEIn
 cock	kOk
-cock-up	`kOk-V p
+cock-up	`kOk-Vp
 cockatoo	kOk@`tu:
 cockpit	`kOkpIt
 cocktail	`kOktEIl
 cocky	`kOki:
-coconut	`k@Uk@nV t
+coconut	`k@Uk@nVt
 COD	si: @U `di:
 code	k@Ud
 codeine	`k@Udi:n
@@ -1620,9 +1620,9 @@ coin	k@:In
 coincide	k@U@n`sa:Id
 coincidence	k@U`Ins@d@ns
 coke	k@Uk
-colander	`kV l@nd@, `kOl-
+colander	`kVl@nd@, `kOl-
 cold	k@Uld
-cold-blooded	`k@Uld-blV d@d
+cold-blooded	`k@Uld-blVd@d
 coleslaw	`k@Ulsl@:
 colic	`kOlIk
 collaborate	k@`lAb@rEIt
@@ -1640,7 +1640,7 @@ colon	`k@Ul@n
 colonel	`k@:n@l
 colony	`kOl@ni:
 colossal	k@`lOs@l
-colour	`kV l@
+colour	`kVl@
 column	`kOl@m
 coma	`k@Um@
 comb	k@Um
@@ -1648,11 +1648,11 @@ combat	`kOmbAt
 combination	kOmb@`nEIS@n
 combination lock	kOmb@`nEIS@n lOk
 combine	k@m`ba:In
-come	kV m
+come	kVm
 comedy	`kOm@di:
 comet	`kOm@t
-comfort	`kV mf@t
-comfortable	`kV mft@b@l, `kV mf@t@b@l
+comfort	`kVmf@t
+comfortable	`kVmft@b@l, `kVmf@t@b@l
 comic	`kOmIk
 comma	`kOm@
 command	k@`mAnd, -`ma:nd
@@ -1684,7 +1684,7 @@ commute	k@`mju:t
 compact	`kOmpAkt
 compact disc	kOmpAkt `dIsk
 companion	k@m`pAnj@n
-company	`kV mp@ni:
+company	`kVmp@ni:
 comparative	k@m`pAr@tIv
 compare	k@m`pE@
 comparison	k@m`pAr@s@n
@@ -1719,8 +1719,8 @@ comprehend	kOmpr@`hEnd
 compress	k@m`prEs
 comprise	k@m`pra:Iz
 compromise	`kOmpr@ma:Iz
-compulsion	k@m`pV lS@n
-compulsory	k@m`pV ls@ri:
+compulsion	k@m`pVlS@n
+compulsory	k@m`pVls@ri:
 compute	k@m`pju:t
 computer	k@m`pju:t@
 comrade	`kOmrEId
@@ -1744,8 +1744,8 @@ concise	k@n`sa:Is
 conclude	k@N`klu:d
 concrete	`kONkri:t
 concur	k@N`k@:
-concurrent	k@N`kV r@nt
-concussion	k@N`kV S@n
+concurrent	k@N`kVr@nt
+concussion	k@N`kVS@n
 condemn	k@n`dEm
 condensation	kOnd@n`sEIS@n
 condense	k@n`dEns
@@ -1754,7 +1754,7 @@ condition	k@n`dIS@n
 conditioned	k@n`dIS@nd
 condom	`kOndOm
 condone	k@n`d@Un
-conduct	k@n`dV kt
+conduct	k@n`dVkt
 cone	k@Un
 confectionery	k@n`fEkS@nri:
 confer	k@n`f@:
@@ -1768,16 +1768,16 @@ confirm	k@n`f@:m
 confiscate	`kOnf@skEIt
 conflict	`kOnflIkt
 conform	k@n`f@:m
-confront	k@n`frV nt
+confront	k@n`frVnt
 confuse	k@n`fju:z
 congested	k@n`dZEst@d
 congratulate	k@n`grAtS@lEIt
 congregate	`kONgr@gEIt
 congregation	kONgr@`gEIS@n
 congress	`kONgrEs
-conjunction	k@n`dZV NkS@n
-conjunctivitis	k@ndZV Nkt@`va:It@s
-conjure	`kV ndZ@
+conjunction	k@n`dZVNkS@n
+conjunctivitis	k@ndZVNkt@`va:It@s
+conjure	`kVndZ@
 connect	k@`nEkt
 conquer	`kONk@
 conscience	`kOnS@ns
@@ -1802,7 +1802,7 @@ console	k@n`s@Ul
 consonant	`kOns@n@nt
 conspicuous	k@n`spIkju:@s
 conspiracy	k@n`spIr@si:
-constable	`kV nst@b@l
+constable	`kVnst@b@l
 constant	`kOnst@nt
 constellation	kOnst@`lEIS@n
 consternation	kOnst@`nEIS@n
@@ -1810,11 +1810,11 @@ constipation	kOnst@`pEIS@n
 constituency	k@n`stItju:@nsi:
 constitution	kOnst@`tju:S@n
 constrict	k@n`strIkt
-construct	k@n`strV kt
-constructive	k@n`strV ktIv
+construct	k@n`strVkt
+constructive	k@n`strVktIv
 consul	`kOns@l
-consult	k@n`sV lt
-consultant	k@n`sV lt@nt
+consult	k@n`sVlt
+consultant	k@n`sVlt@nt
 consume	k@n`sju:m
 consumer	k@n`sju:m@
 contact	`kOntAkt
@@ -1895,7 +1895,7 @@ corridor	`kOr@d@:
 corroboree	k@`rOb@ri:
 corrode	k@`r@Ud
 corrugated	`kOr@gEIt@d
-corrupt	k@`rV pt
+corrupt	k@`rVpt
 cortisone	`k@:t@z@Un
 cosmetic	kOz`mEtIk
 cosmopolitan	kOzm@`pOl@tn
@@ -1915,21 +1915,21 @@ counsel	`ka:Uns@l
 count	ka:Unt
 counter	`ka:Unt@
 counterfeit	`ka:Unt@f@t, -fi:t
-country	`kV ntri:
+country	`kVntri:
 coup	ku:
-couple	`kV p@l
+couple	`kVp@l
 coupon	`ku:pOn
-courage	`kV rIdZ
+courage	`kVrIdZ
 courier	`kUri:@
 course	k@:s
 court	k@:t
 courteous	`k@:ti:@s
 courtyard	`k@:tja:d
-cousin	`kV z@n
+cousin	`kVz@n
 cove	k@Uv
-covenant	`kV v@n@nt
-cover	`kV v@
-covet	`kV v@t
+covenant	`kVv@n@nt
+cover	`kVv@
+covet	`kVv@t
 cow	ka:U
 coward	`ka:U@d
 crab	krAb
@@ -2008,53 +2008,53 @@ crucify	`kru:s@fa:I
 crude	kru:d
 cruel	`kru:@l
 cruise	kru:z
-crumb	krV m
-crumble	`krV mb@l
-crummy	`krV mi:
-crumpet	`krV mp@t
-crumple	`krV mp@l
-crunch	krV ntS
+crumb	krVm
+crumble	`krVmb@l
+crummy	`krVmi:
+crumpet	`krVmp@t
+crumple	`krVmp@l
+crunch	krVntS
 crusade	kru:`sEId
-crush	krV S
-crust	krV st
-crustacean	krV s`tEIS@n
-crutch	krV tS
-crux	krV ks
+crush	krVS
+crust	krVst
+crustacean	krVs`tEIS@n
+crutch	krVtS
+crux	krVks
 cry	kra:I
 cryptic	`krIptIk
 crystal	`krIst@l
-cub	kV b
+cub	kVb
 cubic	`kju:bIk
 cubicle	`kju:bIk@l
-cucumber	`kju:kV mb@
-cuddle	`kV dl
-cuddly	`kV dli:
+cucumber	`kju:kVmb@
+cuddle	`kVdl
+cuddly	`kVdli:
 cue	kju:
-cuff	kV f
-cul-de-sac	`kV l-d@-sAk
-culinary	`kV l@nri:, -@n@ri:
-culminate	`kV lm@nEIt
-culprit	`kV lprIt
-cult	kV lt
-cultivate	`kV lt@vEIt
-culture	`kV ltS@
-cumbersome	`kV mb@s@m
-cumquat	`kV mkwOt
-cunning	`kV nIN
-cunt	kV nt
-cup	kV p
-cupboard	`kV b@d
+cuff	kVf
+cul-de-sac	`kVl-d@-sAk
+culinary	`kVl@nri:, -@n@ri:
+culminate	`kVlm@nEIt
+culprit	`kVlprIt
+cult	kVlt
+cultivate	`kVlt@vEIt
+culture	`kVltS@
+cumbersome	`kVmb@s@m
+cumquat	`kVmkwOt
+cunning	`kVnIN
+cunt	kVnt
+cup	kVp
+cupboard	`kVb@d
 curb	k@:b
 curdle	`k@:dl
 cure	`kju:@, kjU@
 curious	`kju:ri:@s
 curl	k@:l
-currant	`kV r@nt
-currawong	`kV r@wON
-currency	`kV r@nsi:
-current	`kV r@nt
+currant	`kVr@nt
+currawong	`kVr@wON
+currency	`kVr@nsi:
+current	`kVr@nt
 curriculum	k@`rIkj@l@m
-curry	`kV ri:
+curry	`kVri:
 curse	k@:s
 curt	k@:t
 curtail	k@:`tEIl
@@ -2063,16 +2063,16 @@ curtsy	`k@:tsi:
 curve	k@:v
 cushion	`kUS@n
 cushy	`kUSi:
-custard	`kV st@d
-custody	`kV st@di:
-custom	`kV st@m
-customary	`kV st@m@ri:, -t@mri:
-customer	`kV st@m@
-cut	kV t
+custard	`kVst@d
+custody	`kVst@di:
+custom	`kVst@m
+customary	`kVst@m@ri:, -t@mri:
+customer	`kVst@m@
+cut	kVt
 cute	kju:t
 cuticle	`kju:tIk@l
-cutlery	`kV tl@ri:
-cutlet	`kV tl@t
+cutlery	`kVtl@ri:
+cutlet	`kVtl@t
 CV	si:`vi:
 cycle	`sa:Ik@l
 cyclone	`sa:Ikl@Un
@@ -2100,7 +2100,7 @@ damp	dAmp
 dampen	`dAmp@n
 damper	`dAmp@
 dance	dAns, da:ns
-dandruff	`dAndrV f
+dandruff	`dAndrVf
 danger	`dEIndZ@
 dangle	`dANg@l
 dank	dANk
@@ -2154,7 +2154,7 @@ debate	d@`bEIt
 debit	`dEb@t
 debris	`dEbri:, `dEIbri:, d@`bri:
 debt	dEt
-debug	di:`bV g
+debug	di:`bVg
 debut	`dEIbju:,  d@`bu:
 decade	`dkEId
 decadent	`dEk@d@nt
@@ -2195,8 +2195,8 @@ decrepit	d@`krEp@t
 decry	d@`kra:I
 dedicate	`dEd@kEIt
 deduce	d@`dju:s
-deduct	d@`dV kt
-deduction	d@`dV kS@n
+deduct	d@`dVkt
+deduction	d@`dVkS@n
 deed	di:d
 deep	di:p
 deep freeze	di:p `fri:z
@@ -2227,7 +2227,7 @@ deform	d@`f@:m
 defraud	d@`fr@:d
 defrost	di:`frOst, d@-
 deft	dEft
-defunct	d@`fV Nkt
+defunct	d@`fVNkt
 defuse	di:`fju:z
 defy	d@`fa:I
 degenerate	d@`dZEn@r@t
@@ -2256,7 +2256,7 @@ deliver	d@`lIv@
 delta	`dElt@
 delude	d@`lu:d
 deluge	`dElju:dZ
-deluxe	d@`lV ks
+deluxe	d@`lVks
 delve	dElv
 demand	d@`mAnd, d@`ma:nd
 demanding	d@`mAndIN, d@`ma:ndIN
@@ -2501,18 +2501,18 @@ disciplinarian	dIs@pl@`nE@ri:@n
 discipline	`dIs@pl@n
 disclose	dIs`kl@Uz
 disco	`dIsk@U
-discolour	dIs`kV l@
-discomfort	dIs`kV mf@t
+discolour	dIs`kVl@
+discomfort	dIs`kVmf@t
 disconcert	dIsk@n`s@:t
 disconnect	dIsk@`nEkt
 discontent	dIsk@n`tEnt
 discontinue	dIsk@n`tInju:
 discord	`dIsk@:d
 discount	`dIska:Unt
-discourage	dI`skV rIdZ
+discourage	dI`skVrIdZ
 discourse	`dIsk@:s
 discourteous	dI`sk@:ti:@s
-discover	dI`skV v@
+discover	dI`skVv@
 discredit	dI`skrEd@t
 discreet	dI`skri:t
 discrepancy	dI`skrEp@nsi:
@@ -2524,9 +2524,9 @@ disease	d@`zi:z
 disfavour	dIs`fEIv@
 disfigure	dIs`fIg@
 disgrace	d@s`grEIs
-disgruntled	dIs`grV ntld
+disgruntled	dIs`grVntld
 disguise	dIs`ga:Iz
-disgust	d@s`gV st
+disgust	d@s`gVst
 dish	dIS
 disheartened	dIs`ha:t@nd
 dishevelled	dI`SEv@ld
@@ -2578,7 +2578,7 @@ disrepair	dIsr@`pE@
 disreputable	dIs`rEpj@t@bl
 disrepute	dIsr@`pju:t
 disrespect	dIsr@`spEkt
-disrupt	dIs`rV pt
+disrupt	dIs`rVpt
 dissatisfied	dI`sAtIsfa:Id
 dissect	dI`sEkt
 dissension	dI`sEnS@n
@@ -2608,7 +2608,7 @@ distress	d@`strEs
 distribute	d@`strIbju:t
 distribution	dIstr@`bju:S@n
 district	`dIstrIkt
-distrust	d@`strV st
+distrust	d@`strVst
 disturb	d@`st@:b
 disturbance	d@`st@:b@ns
 disturbed	d@`st@:bd
@@ -2630,7 +2630,7 @@ divine	d@`va:In
 divinity	d@`vIn@ti:
 division	d@`vIZ@n
 divorcee	d@v@:`si:
-divulge	d@`vV ldZ
+divulge	d@`vVldZ
 dizzy	`dIzi:
 do	du:
 dob	dOb
@@ -2645,7 +2645,7 @@ documentary	dOkj@`mEntri:
 dodge	dOdZ
 dodgy	`dOdZi:
 doe	d@U
-does	dV z
+does	dVz
 dog	dOg
 dog-ear	`dOg-I@
 dogged	`dOg@d
@@ -2668,7 +2668,7 @@ dominate	`dOm@nEIt
 domineering	dOm@`nI@rIN
 don't	d@Unt
 donate	d@U`nEIt
-done	dV n
+done	dVn
 donkey	`dONki:
 donor	`d@Un@
 doodle	`du:dl
@@ -2687,15 +2687,15 @@ dossier	`dOsi:@
 dot	dOt
 dote	d@Ut
 dotty	`dOti:
-double	`dV bl
-double bass	dV bl `bEIs
-doublecross	dV bl`krOs
+double	`dVbl
+double bass	dVbl `bEIs
+doublecross	dVbl`krOs
 doubt	da:Ut
 doubtful	`da:UtfUl
 dough	d@U
 dour	dU@, da:U@
 douse	da:Us
-dove	dV v
+dove	dVv
 dowdy	`da:Udi:
 down	da:Un
 down payment	da:Un `pEIm@nt
@@ -2716,9 +2716,9 @@ downwards	`da:Unw@dz
 downwind	da:Un`wInd
 downy	`da:Uni:
 dowry	`da:Uri:
-doz.	`dV z@n
+doz.	`dVz@n
 doze	d@Uz
-dozen	`dV z@n
+dozen	`dVz@n
 Dr	`dOkt@
 drab	drAb
 draft	dra:ft
@@ -2780,31 +2780,31 @@ drought	dra:Ut
 drove	dr@Uv
 drown	dra:Un
 drowsy	`dra:Uzi:
-drug	drV g
-drum	drV m
-drumstick	`drV mstIk
-drunk	drV Nk
+drug	drVg
+drum	drVm
+drumstick	`drVmstIk
+drunk	drVNk
 dry	dra:I
 dry-clean	dra:I-`kli:n
 dual	`dju:@l
-dub	dV b
+dub	dVb
 dubious	`dju:bi:@s
-duck	dV k
+duck	dVk
 due	dju:
 duel	`dju:@l
 duet	dju:`Et
-dug	dV g
-dugout	`dV ga:Ut
+dug	dVg
+dugout	`dVga:Ut
 duly	`dju:li:
-dumb	dV m
-dummy	`dV mi:
-dump	dV mp
-dumpling	`dV mplIN
-dumpy	`dV mpi:
+dumb	dVm
+dummy	`dVmi:
+dump	dVmp
+dumpling	`dVmplIN
+dumpy	`dVmpi:
 dune	dju:n
-dung	dV N
-dunk	dV Nk
-dunny	`dV ni:
+dung	dVN
+dunk	dVNk
+dunny	`dVni:
 duo	`dju:@U
 duodenum	dju:@`di:n@m
 dupe	dju:p
@@ -2813,10 +2813,10 @@ duplicate	`dju:pl@kEIt
 durable	`dju:r@b@l
 duration	dju:`rEIS@n
 during	`dju:rIN
-dusk	dV sk
-dust	dV st
-dustpan	`dV stpAn
-Dutch	dV tS
+dusk	dVsk
+dust	dVst
+dustpan	`dVstpAn
+Dutch	dVtS
 duty	`dju:ti:
 duty-free	dju:ti:-`fri:
 duvet	`du:vEI
@@ -2837,7 +2837,7 @@ e.g.	i: `dZi:
 each	i:tS
 eager	`i:g@
 ear	I@
-eardrum	`I@drV m
+eardrum	`I@drVm
 early	`@:li:
 earn	@:n
 earnest	`@:n@st
@@ -2947,7 +2947,7 @@ enclose	En`kl@Uz, @n-
 encode	En`k@Ud
 encore	`Onk@:, `ONk@:
 encounter	En`ka:Unt@, @n-
-encourage	En`kV rIdZ, @n-
+encourage	En`kVrIdZ, @n-
 encyclopedia	Ensa:Ikl@`pi:di:@, @n-
 end	End
 endanger	En`dEIndZ@, @n-
@@ -2966,7 +2966,7 @@ enjoy	En`dZ@:I, @n-
 enlarge	En`la:dZ, @n-
 enlist	En`lIst
 enormous	@`n@:m@s, i:-
-enough	@`nV f, i:-
+enough	@`nVf, i:-
 enquiry	In`kwa:Iri:, @n-, En-
 enrage	En`rEIdZ, @n-
 enrich	En`rItS, @n-
@@ -3012,7 +3012,7 @@ err	@:
 errand	`Er@nd
 erratic	@`rAtIk
 error	`Er@
-erupt	@`rV pt, i:-
+erupt	@`rVpt, i:-
 escalator	`Esk@lEIt@
 escapade	`Esk@pEId
 escape	@s`kEIp
@@ -3055,7 +3055,7 @@ evergreen	`Ev@gri:n
 every	`Evri:
 everybody	`Evri:bOdi:
 everyday	`Evri:dEI
-everyone	`Evri:wV n
+everyone	`Evri:wVn
 everything	`Evri:TIN
 everywhere	`Evri:wE@
 evict	@`vIkt
@@ -3133,7 +3133,7 @@ exposure	@k`sp@UZ@, Ek-
 express	@k`sprEs, Ek-
 expression	@k`sprES@n, Ek-
 expressway	Ek`sprEswEI
-expulsion	@k`spV lS@n, Ek-
+expulsion	@k`spVlS@n, Ek-
 exquisite	`Ekskw@z@t, @k`skwIz@t
 extend	@k`stEnd, Ek-
 extension	@k`stEnS@n, Ek-
@@ -3385,7 +3385,7 @@ flap	flAp
 flapjack	`flApdZAk
 flare	flE@
 flash	flAS
-flash flood	flAS `flV d
+flash flood	flAS `flVd
 flashback	`flASbAk
 flashlight	`flASla:It
 flashy	`flASi:
@@ -3428,8 +3428,8 @@ flit	flIt
 float	fl@Ut
 flock	flOk
 flog	flOg
-flood	flV d
-floodlight	`flV dla:It
+flood	flVd
+floodlight	`flVdla:It
 floor	fl@:
 floorboard	`fl@:b@:d
 flop	flOp
@@ -3439,27 +3439,27 @@ floral	`flOr@l
 florist	`flOr@st
 floss	flOs
 flour	`fla:U@
-flourish	`flV rIS
+flourish	`flVrIS
 flout	fla:Ut
 flow	fl@U
 flowerbed	`fla:U@bEd
 flowery	`fla:U@ri:
 flown	fl@Un
 flu	flu:
-fluctuate	`flV ktSu:EIt
+fluctuate	`flVktSu:EIt
 flue	flu:
 fluent	`flu:@nt
-fluff	flV f
+fluff	flVf
 fluid	`flu:@d
 fluke	flu:k
-flunk	flV Nk
+flunk	flVNk
 fluorescent	flU@`rEs@nt
 fluoride	`flU@ra:Id, `flu:-
-flurry	`flV ri:
-flush	flV S
-fluster	`flV st@
+flurry	`flVri:
+flush	flVS
+fluster	`flVst@
 flute	flu:t
-flutter	`flV t@
+flutter	`flVt@
 fly	fla:I
 flying saucer	fla:IIN `s@:s@
 foal	f@Ul
@@ -3476,13 +3476,13 @@ foliage	`f@Uli:IdZ
 folk	f@Uk
 folklore	`f@Ukl@:
 follow	`fOl@U
-follow-up	`fOl@U-V p
+follow-up	`fOl@U-Vp
 follower	`fOl@U@
 following	`fOl@UIN
 folly	`fOli:
 fond	fOnd
 food	fu:d
-foodstuff	`fu:dstV f
+foodstuff	`fu:dstVf
 fool	fu:l
 foolproof	`fu:lpru:f
 foot	fUt
@@ -3539,7 +3539,7 @@ forsake	f@`sEIk
 fort	f@:t
 forte	`f@:tEI
 forth	f@:T
-forthcoming	f@:T`kV mIN
+forthcoming	f@:T`kVmIN
 forthright	`f@:Tra:It
 fortify	`f@:t@fa:I
 fortnight	`f@:tna:It
@@ -3630,8 +3630,8 @@ frog	frOg
 frogman	`frOgm@n
 frolic	`frOlIk
 from	frOm
-front	frV nt
-frontier	frV n`tI@
+front	frVnt
+frontier	frVn`tI@
 frost	frOst
 frostbite	`frOstba:It
 froth	frOT
@@ -3641,11 +3641,11 @@ frozen	`fr@Uz@n
 frugal	`fru:g@l
 fruit	fru:t
 fruitcake	`fru:tkEIk
-frustrate	frV s`trEIt, `frV strEIt
+frustrate	frVs`trEIt, `frVstrEIt
 fry	fra:I
-fuck	fV k
-fuckwit	`fV kwIt
-fudge	fV dZ
+fuck	fVk
+fuckwit	`fVkwIt
+fudge	fVdZ
 fuel	`fju:@l
 fugitive	`fju:dZ@tIv
 fulfil	fUl`fIl
@@ -3653,38 +3653,38 @@ full	fUl
 full stop	fUl `stOp
 full-time	fUl-`ta:Im
 fully-fledged	`fUli:-flEdZd
-fumble	`fV mbl
+fumble	`fVmbl
 fume	fju:m
 fumigate	`fju:m@gEIt
-fun	fV n
-function	`fV NkS@n
-functional	`fV NkS@n@l
-fund	fV nd
-fundamental	fV nd@`mEntl
+fun	fVn
+function	`fVNkS@n
+functional	`fVNkS@n@l
+fund	fVnd
+fundamental	fVnd@`mEntl
 funeral	`fju:nr@l
-fungus	`fV Ng@s
-funnel	`fV nl
-funnel-web	`fV n@lwEb
-funny	`fV ni:
+fungus	`fVNg@s
+funnel	`fVnl
+funnel-web	`fVn@lwEb
+funny	`fVni:
 fur	f@:
 furious	`fju:ri:@s
 furnace	`f@:n@s
 furnish	`f@:nIS
 furniture	`f@:nItS@
 furore	`fju:r@:
-furrow	`fV r@U
+furrow	`fVr@U
 further	`f@:D@
 furthest	`f@:D@st
 furtive	`f@:tIv
 fury	`fju:ri:
 fuse	fju:z
-fuss	fV s
-fussy	`fV si:
+fuss	fVs
+fussy	`fVsi:
 futile	`fju:ta:Il
 future	`fju:tS@
 future tense	fju:tS@ `tEns
-fuzz	fV z
-fuzzy	`fV zi:
+fuzz	fVz
+fuzzy	`fVzi:
 G	dZi:
 G, g	dZi:
 gable	`gEIb@l
@@ -3742,7 +3742,7 @@ gawk	g@:k
 gawky	`g@:ki:
 gay	gEI
 gaze	gEIz
-gazump	g@`zV mp
+gazump	g@`zVmp
 GDP	dZi: di: `pi:
 gear	gI@
 gel	dZEl
@@ -3826,13 +3826,13 @@ glorious	`gl@:ri:@s
 glory	`gl@:ri:
 gloss	glOs
 glossary	`glOs@ri:
-glove	glV v
+glove	glVv
 glow	gl@U
 glucose	`glu:k@Us
 glue	glu:
-glum	glV m
-glut	glV t
-glutton	`glV t@n
+glum	glVm
+glut	glVt
+glutton	`glVt@n
 gnash	nAS
 gnaw	n@:
 GNP	dZi: En `pi:
@@ -3863,10 +3863,10 @@ got	gOt
 gouge	ga:UdZ
 gourmet	`g@:ma:I
 gout	ga:Ut
-govern	`gV v@n
-government	`gV v@nm@nt
-Governor	`gV v@n@, `gV vn@
-Governor-General	gV v@n@-`dZEnr@l
+govern	`gVv@n
+government	`gVv@nm@nt
+Governor	`gVv@n@, `gVvn@
+Governor-General	gVv@n@-`dZEnr@l
 gown	ga:Un
 GP	dZi: `pi:
 GPO	dZi: pi: `@U
@@ -3887,9 +3887,9 @@ grandchild	`grAntSa:Ild
 granddaughter	`grAnd@:t@
 grandfather	`grAnfa:D@, `grAnd-
 grandiose	`grAndi:@Us
-grandmother	`grAnmV D@, `grAnd-
+grandmother	`grAnmVD@, `grAnd-
 grandparent	`grAnpE@r@nt
-grandson	`grAnsV n, `grAnd-
+grandson	`grAnsVn, `grAnd-
 granite	`grAn@t
 Granny Smith	grAni: `smIT
 grant	grAnt, gra:nt
@@ -3965,44 +3965,44 @@ grow	gr@U
 growl	gra:Ul
 grown	gr@Un
 growth	gr@UT
-grub	grV b
-grubby	`grV bi:
-grudge	grV dZ
-grudging	`grV dZIN
+grub	grVb
+grubby	`grVbi:
+grudge	grVdZ
+grudging	`grVdZIN
 gruelling	`gru:@lIN
 gruesome	`gru:s@m
-gruff	grV f
-grumble	`grV mb@l
-grumpy	`grV mpi:
-grunt	grV nt
+gruff	grVf
+grumble	`grVmb@l
+grumpy	`grVmpi:
+grunt	grVnt
 guarantee	gAr@n`ti:
 guard	ga:d
 guardian	`ga:di:@n
 guerilla	g@`rIl@
 guess	gEs
 guest	gEst
-guffaw	gV `f@:, g@-
+guffaw	gV`f@:, g@-
 guidance	`ga:Id@ns
 guide	ga:Id
 guile	ga:Il
 guilt	gIlt
 guitar	g@`ta:
-gulf	gV lf
-gullet	`gV l@t
-gullible	`gV l@b@l
-gully	`gV li:
-gulp	gV lp
-gum	gV m
-gumboot	`gV mbu:t
-gun	gV n
+gulf	gVlf
+gullet	`gVl@t
+gullible	`gVl@b@l
+gully	`gVli:
+gulp	gVlp
+gum	gVm
+gumboot	`gVmbu:t
+gun	gVn
 gurgle	`g@:g@l
-gush	gV S
-gust	gV st
-gusto	`gV st@U
-gut	gV t
-gutter	`gV t@
+gush	gVS
+gust	gVst
+gusto	`gVst@U
+gut	gVt
+gutter	`gVt@
 guy	ga:I
-guzzle	`gV z@l
+guzzle	`gVz@l
 gym	dZIm
 gymnasium	dZIm`nEIzi:@m
 gymnastics	dZIm`nAstIks
@@ -4024,12 +4024,12 @@ haggle	`hAg@l
 hail	hEIl
 hair	hE@
 hair-raising	`hE@rEIzIN
-haircut	`hE@kV t
+haircut	`hE@kVt
 hairdo	`hE@du:
 hairdresser	`hE@drEs@
 hairstyle	`hE@sta:Il
 half	ha:f
-half-brother	`ha:f-brV D@
+half-brother	`ha:f-brVD@
 half-hearted	`ha:f-ha:t@d
 half-sister	`ha:f-sIst@
 halfway	`ha:fwEI
@@ -4047,7 +4047,7 @@ hamper	`hAmp@
 hamstring	`hAmstrIN
 hand	hAnd
 handbag	`hAndbAg
-handcuffs	`hAndkV fs
+handcuffs	`hAndkVfs
 handful	`hAndfUl
 handicap	`hAndIkAp
 handicraft	`hAndi:kra:ft
@@ -4062,7 +4062,7 @@ handwriting	`hAndra:ItIN
 handy	`hAndi:
 hang	hAN
 hang-glider	`hAN-gla:Id@
-hang-up	`hAN-V p
+hang-up	`hAN-Vp
 hangar	`hAN@
 hanger	`hAN@
 hangover	`hAN@Uv@
@@ -4156,7 +4156,7 @@ held	hEld
 helicopter	`hEl@kOpt@
 heliport	`hEli:p@:t
 hell	hEl
-hello	hV `l@U, h@-
+hello	hV`l@U, h@-
 helm	hElm
 helmet	`hElm@t
 help	hElp
@@ -4192,7 +4192,7 @@ hew	hju:
 heyday	`hEIdEI
 hi-fi	`ha:I-fa:I
 hibernate	`ha:Ib@nEIt
-hiccup	`hIkV p
+hiccup	`hIkVp
 hidden	`hIdn
 hide	ha:Id
 hideaway	`ha:Id@wEI
@@ -4229,7 +4229,7 @@ historic	hI`stOrIk
 historical	hI`stOrIk@l
 history	`hIstri:, `hIst@ri:
 hit	hIt
-hit-and-run	hIt-n-`rV n
+hit-and-run	hIt-n-`rVn
 hitch	hItS
 hitchhike	`hItSha:Ik
 hitherto	hID@`tu:
@@ -4246,7 +4246,7 @@ hoe	h@U
 hog	hOg
 hoist	h@:Ist
 hold	h@Uld
-hold-up	`h@Uld-V p
+hold-up	`h@Uld-Vp
 hole	h@Ul
 holiday	`hOl@dEI
 hollow	`hOl@U
@@ -4266,8 +4266,8 @@ homoeopathy	h@Umi:`Op@Ti:
 homogeneous	h@Um@`dZi:ni:@s, hOm@-
 homosexual	h@Um@U`sEkSu:@l, hOm@-
 honest	`On@st
-honey	`hV ni:
-honeymoon	`hV ni:mu:n
+honey	`hVni:
+honeymoon	`hVni:mu:n
 honorary	`On@r@ri:
 honour	`On@
 honourable	`On@r@b@l
@@ -4295,7 +4295,7 @@ horror	`hOr@
 hors d'oeuvre	@: `d@:v
 horse	h@:s
 horseshoe	`h@:sSu:
-horticulture	`h@:t@kV ltS@
+horticulture	`h@:t@kVltS@
 hose	h@Uz
 hosiery	`h@UZ@ri:
 hospice	`hOsp@s
@@ -4331,47 +4331,47 @@ HQ	EItS`kju:
 hr	a:U@
 HSC	EItS Es `si:
 ht	ha:It
-hub	hV b
-huddle	`hV dl
+hub	hVb
+huddle	`hVdl
 hue	hju:
-hug	hV g
+hug	hVg
 huge	hju:dZ
-hulk	hV lk
-hull	hV l
-hullo	`hV l@U, h@`l@U
-hum	hV m
+hulk	hVlk
+hull	hVl
+hullo	`hVl@U, h@`l@U
+hum	hVm
 human	`hju:m@n
 humane	hju:`mEIn
 humanitarian	hju:mAn@`tE@ri:@n
 humanity	hju:`mAn@ti:
-humble	`hV mb@l
-humdrum	`hV mdrV m
+humble	`hVmb@l
+humdrum	`hVmdrVm
 humid	`hju:m@d
 humiliate	hju:`mIli:EIt
 humility	hju:`mIl@ti:
 humour	`hju:m@
-humpy	`hV mpi:
-hunch	hV ntS
-hundred	`hV ndr@d
-hung	hV N
-Hungarian	hV N`gE@ri:@n
-hunger	`hV Ng@
-hunt	hV nt
+humpy	`hVmpi:
+hunch	hVntS
+hundred	`hVndr@d
+hung	hVN
+Hungarian	hVN`gE@ri:@n
+hunger	`hVNg@
+hunt	hVnt
 hurdle	`h@:dl
 hurl	h@:l
 hurray	h@`rEI
-hurricane	`hV r@k@n, -Ik@n
-hurry	`hV ri:
+hurricane	`hVr@k@n, -Ik@n
+hurry	`hVri:
 hurt	h@:t
 hurtful	`h@:tfUl
 hurtle	`h@:tl
-husband	`hV zb@nd
-hush	hV S
-husk	hV sk
-husky	`hV ski:
-hustle	`hV s@l
-hut	hV t
-hutch	hV tS
+husband	`hVzb@nd
+hush	hVS
+husk	hVsk
+husky	`hVski:
+hustle	`hVs@l
+hut	hVt
+hutch	hVtS
 hwy	`ha:IwEI
 hybrid	`ha:IbrId
 hydrant	`ha:Idr@nt
@@ -4382,7 +4382,7 @@ hydroponics	ha:Idr@`pOnIks
 hygiene	`ha:IdZi:n
 hymn	hIm
 hype	ha:Ip
-hyped-up	`ha:Ipt-V p
+hyped-up	`ha:Ipt-Vp
 hyphen	`ha:If@n
 hypnosis	hIp`n@Us@s
 hypochondriac	ha:Ip@`kOndri:Ak
@@ -4473,7 +4473,7 @@ impression	Im`prES@n
 imprison	Im`prIz@n
 improve	Im`pru:v
 impudent	`Impju:d@nt, -pj@-
-impulse	`ImpV ls
+impulse	`ImpVls
 impure	Im`pjU@
 in	In
 in-	In-
@@ -4499,8 +4499,8 @@ inclined	IN`kla:Ind
 include	IN`klu:d
 inclusive	IN`klu:sIv
 incoherent	INk@U`hI@r@nt
-income	`InkV m, `IN-
-incoming	`InkV mIN
+income	`InkVm, `IN-
+incoming	`InkVmIN
 incompetent	IN`kOmp@t@nt
 inconvenient	INk@n`vi:ni:@nt
 incorporate	IN`k@:p@rEIt
@@ -4529,7 +4529,7 @@ indolent	`Ind@l@nt
 Indonesian	Ind@`ni:Z@n
 indoors	In`d@:z
 induce	In`dju:s
-indulge	In`dV ldZ
+indulge	In`dVldZ
 industry	`Ind@stri:
 inept	In`Ept
 inevitable	In`Ev@t@b@l
@@ -4556,7 +4556,7 @@ inflexible	In`flEks@b@l
 inflict	In`flIkt
 influence	`Influ:@ns
 influenza	Influ:`Enz@
-influx	`InflV ks
+influx	`InflVks
 inform	In`f@:m
 informal	In`f@:m@l
 information	Inf@`mEIS@n
@@ -4573,7 +4573,7 @@ initiate	I`nISi:EIt
 initiative	I`nISi:@tIv
 inject	In`dZEkt
 injure	`IndZ@
-injustice	In`dZV st@s
+injustice	In`dZVst@s
 ink	INk
 inkling	`INklIN
 inlaid	`InlEId
@@ -4608,15 +4608,15 @@ instead	In`stEd
 instinct	`InstINkt
 institute	`Inst@tSu:t
 institution	Inst@`tju:S@n
-instruct	In`strV kt
-instruction	In`strV kS@n
+instruct	In`strVkt
+instruction	In`strVkS@n
 instrument	`Instr@m@nt
 insubordinate	Ins@`b@:d@n@t
 insubstantial	Ins@b`stAnS@l
-insufferable	In`sV f@r@b@l, -fr@b@l
+insufferable	In`sVf@r@b@l, -fr@b@l
 insulate	`InS@lEIt
 insulin	`InS@l@n, -sj@l@n
-insult	In`sV lt
+insult	In`sVlt
 insure	In`S@:, -SU@
 intact	In`tAkt
 integral	`Int@gr@l
@@ -4647,7 +4647,7 @@ international	Int@`nAS@n@l
 interpret	In`t@:pr@t
 interrogate	In`tEr@gEIt
 interrogative	Int@`rOg@tIv
-interrupt	Int@`rV pt
+interrupt	Int@`rVpt
 intersection	`Int@`sEkS@n
 interstate	`Int@stEIt
 interval	`Int@v@l
@@ -4663,7 +4663,7 @@ intransitive	In`trAns@tIv
 intravenous	Intr@`vi:n@s
 intrigue	In`tri:g
 introduce	Intr@`dju:s
-introduction	Intr@`dV kS@n
+introduction	Intr@`dVkS@n
 intrude	In`tru:d
 intuition	IntSu:`IS@n
 invade	In`vEId
@@ -4788,42 +4788,42 @@ jube	dZu:b
 jubilant	`dZu:b@l@nt
 jubilee	dZu:b@`li:
 Judaism	`dZu:dEIz@m
-judge	dZV dZ
-judgment	`dZV dZm@nt
+judge	dZVdZ
+judgment	`dZVdZm@nt
 judicial	dZu:`dIS@l
 judicious	dZu:`dIS@s
 judo	`dZu:d@U
-jug	dZV g
-juggle	`dZV g@l
+jug	dZVg
+juggle	`dZVg@l
 juice	dZu:s
 jukebox	`dZu:kbOks
 Jul.	dZ@`la:I
 July	dZ@`la:I
-jumble	`dZV mb@l
-jumbo	`dZV mb@U
-jumbuck	`dZV mbV k
-jump	dZV mp
-jumper	`dZV mp@
-jumpy	`dZV mpi:
+jumble	`dZVmb@l
+jumbo	`dZVmb@U
+jumbuck	`dZVmbVk
+jump	dZVmp
+jumper	`dZVmp@
+jumpy	`dZVmpi:
 Jun.	dZu:n
-junction	`dZV NkS@n
-juncture	`dZV NktS@
+junction	`dZVNkS@n
+juncture	`dZVNktS@
 June	dZu:n
-jungle	`dZV Ng@l
+jungle	`dZVNg@l
 junior	`dZu:nj@
-junk	dZV Nk
-junkie	`dZV Nki:
-junta	`dZV nt@
+junk	dZVNk
+junkie	`dZVNki:
+junta	`dZVnt@
 jurisdiction	dZu:r@s`dIkS@n
 jury	`dZu:ri:
-just	dZV st
-justice	`dZV st@s
-justice of the peace	`dZV st@s @v D@ pi:s
-justify	`dZV st@fa:I
-jut	dZV t
+just	dZVst
+justice	`dZVst@s
+justice of the peace	`dZVst@s @VD@ pi:s
+justify	`dZVst@fa:I
+jut	dZVt
 jute	dZu:t
 juvenile	`dZu:v@na:Il
-juxtapose	dZV kst@`p@Uz, `dZV kst@p@Uz
+juxtapose	dZVkst@`p@Uz, `dZVkst@p@Uz
 k	kEI
 K, k	kEI
 kaleidoscope	k@`la:Id@sk@Up
@@ -4915,13 +4915,13 @@ know	n@U
 knowing	`n@UIN
 knowledge	`nOlIdZ
 known	n@Un
-knuckle	`nV k@l
+knuckle	`nVk@l
 KO	kEI `@U
 koala	k@U`a:l@
-kookaburra	`kUk@bV r@
+kookaburra	`kUk@bVr@
 Korean	k@`ri:@n
 kosher	`k@US@
-kung-fu	kV N-`fu:
+kung-fu	kVN-`fu:
 L, l	El
 La	lEIn
 Labor	`lEIb@
@@ -5067,7 +5067,7 @@ lime	la:Im
 limelight	`la:Imla:It
 limestone	`la:Imst@Un
 limit	`lIm@t
-limited company	lIm@t@d `kV mp@ni:
+limited company	lIm@t@d `kVmp@ni:
 limp	lImp
 line	la:In
 linen	`lIn@n
@@ -5098,7 +5098,7 @@ literate	`lIt@r@t
 literature	`lItr@tS@
 litre	`li:t@
 litter	`lIt@
-litterbug	`lIt@bV g
+litterbug	`lIt@bVg
 little	`lItl
 live	lIv
 livelihood	`la:Ivli:hUd
@@ -5158,8 +5158,8 @@ lounge	la:UndZ
 louse	la:Us
 lousy	`la:Uzi:
 lout	la:Ut
-love	lV v
-lovely	`lV vli:
+love	lVv
+lovely	`lVvli:
 low	l@U
 lower	`l@U@
 loyal	`l@:I@l
@@ -5168,30 +5168,30 @@ LPG	El pi: `dZi:
 Ltd	`lIm@t@d
 lubricate	`lu:br@kEIt
 lucid	`lu:s@d
-luck	lV k
+luck	lVk
 lucrative	`lu:kr@tIv
 ludicrous	`lu:d@kr@s
-lug	lV g
-luggage	`lV gIdZ
+lug	lVg
+luggage	`lVgIdZ
 lukewarm	lu:k`w@:m
-lull	lV l
-lullaby	`lV l@ba:I
+lull	lVl
+lullaby	`lVl@ba:I
 luminous	`lu:m@n@s
-lump	lV mp
+lump	lVmp
 lunar	`lu:n@
 lunatic	`lu:n@tIk
-lunch	lV ntS
-lung	lV N
-lunge	lV ndZ
+lunch	lVntS
+lung	lVN
+lunge	lVndZ
 lurch	l@:tS
 lurgy	`l@:gi:
 lurid	`lu:r@d
 lurk	l@:k
-luscious	`lV S@s
-lush	lV S
-lust	lV st
-luxuriant	lV g`Zu:ri:@nt
-luxury	`lV kS@ri:
+luscious	`lVS@s
+lush	lVS
+lust	lVst
+luxuriant	lVg`Zu:ri:@nt
+luxury	`lVkS@ri:
 lying	la:IIN
 lyrebird	`la:I@b@:d
 M, m	Em
@@ -5233,8 +5233,8 @@ major	`mEIdZ@
 majority	m@`dZOr@ti:
 make	mEIk
 make-believe	`mEIk-b@li:v
-make-up	`mEIk-V p
-maladjusted	mAl@`dZV st@d
+make-up	`mEIk-Vp
+maladjusted	mAl@`dZVst@d
 malaria	m@`lE@ri:@
 male	mEIl
 malevolent	m@`lEv@l@nt
@@ -5247,7 +5247,7 @@ mall	m@:l, mAl
 malleable	`mAli:@b@l
 mallee	`mAli:
 mallet	`mAl@t
-malnourished	`mAlnV rISt
+malnourished	`mAlnVrISt
 malpractice	mAl`prAkt@s
 malt	mOlt, m@:lt
 maltreat	mAl`tri:t
@@ -5297,7 +5297,7 @@ marine	m@`ri:n
 marital	`mAr@t@l
 maritime	`mAr@ta:Im
 mark	ma:k
-mark-up	`ma:k-V p
+mark-up	`ma:k-Vp
 market	`ma:k@t
 marketing	`ma:k@tIN
 marmalade	`ma:m@lEId
@@ -5457,7 +5457,7 @@ mice	ma:Is
 microbe	`ma:Ikr@Ub
 microphone	`ma:Ikr@f@Un
 microscope	`ma:Ikr@sk@Up
-microwave oven	ma:Ikr@wEIv `V v@n
+microwave oven	ma:Ikr@wEIV`Vv@n
 mid	mId
 midday	`mIddEI
 middle	`mIdl
@@ -5534,12 +5534,12 @@ mist	mIst
 mistake	m@`stEIk
 mistaken	m@`stEIk@n
 mistress	`mIstr@s
-misunderstand	mIsV nd@`stAnd
+misunderstand	mIsVnd@`stAnd
 mitigate	`mIt@gEIt
 mitten	`mItn
 mix	mIks
-mix-up	`mIks-V p
-mixed-up	`mIkst-V p
+mix-up	`mIks-Vp
+mixed-up	`mIkst-Vp
 mixture	`mIkstS@
 mnemonic	n@`mOnIk
 moan	m@Un
@@ -5566,12 +5566,12 @@ momentary	`m@u:m@ntri:
 momentous	m@`mEnt@s
 monarch	`mOn@k, -a:k
 monastery	`mOn@stri:
-Monday	`mV ndEI
-money	`mV ni:
-mongrel	`mV Ngr@l
+Monday	`mVndEI
+money	`mVni:
+mongrel	`mVNgr@l
 monitor	`mOn@t@
-monk	mV Nk
-monkey	`mV Nki:
+monk	mVNk
+monkey	`mVNki:
 mono	`mOn@U
 monogamy	m@`nOg@mi:
 monogram	`mOn@grAm
@@ -5583,7 +5583,7 @@ monotreme	`mOn@tri:m
 monsoon	mOn`su:n
 monster	`mOnst@
 monstrous	`mOnstr@s
-month	mV nT
+month	mVnT
 monument	`mOnj@m@nt
 monumental	mOnj@`mEntl
 mood	mu:d
@@ -5617,9 +5617,9 @@ moss	mOs
 most	m@Ust
 mostly	`m@Ustli:
 motel	m@U`tEl
-mother	`mV D@
-mother-in-law	`mV D@r-@n-l@:
-mother-of-pearl	mV D@r-@v-`p@:l
+mother	`mVD@
+mother-in-law	`mVD@r-@n-l@:
+mother-of-pearl	mVD@r-@v-`p@:l
 motif	m@U`ti:f
 motion	`m@US@n
 motivate	`m@Ut@vEIt
@@ -5653,58 +5653,58 @@ Mrs	`mIs@z
 Ms	mIz, m@z
 MS	Em `Es
 MSG	Em Es `dZi:
-much	mV tS
-muck	mV k
-mud	mV d
-muddle	`mV dl
-mudguard	`mV dga:d
+much	mVtS
+muck	mVk
+mud	mVd
+muddle	`mVdl
+mudguard	`mVdga:d
 muesli	`mju:zli:
-muffin	`mV f@n
-muffler	`mV fl@
-mug	mV g
-muggy	`mV gi:
-mulch	mV ltS
-mulga	`mV lg@
-mull	mV l
-multicultural	mV lti:`kV ltS@r@l
-multimedia	mV lti:`mi:di:@
-multinational	mV lti:`nAS@n@l
-multiple	`mV lt@p@l
-multiple sclerosis	mV lt@p@l skl@`r@Us@s
-multiple-choice	`mV lt@pl-tS@:Is
-multiply	`mV lt@pla:I
-multiracial	mV lti:`rEIS@l
-multitude	`mV lt@tSu:d
-mum	mV m
-mumble	`mV mb@l
-mummy	`mV mi:
-mumps	mV mps
-munch	mV ntS
-mundane	mV n`dEIn
+muffin	`mVf@n
+muffler	`mVfl@
+mug	mVg
+muggy	`mVgi:
+mulch	mVltS
+mulga	`mVlg@
+mull	mVl
+multicultural	mVlti:`kVltS@r@l
+multimedia	mVlti:`mi:di:@
+multinational	mVlti:`nAS@n@l
+multiple	`mVlt@p@l
+multiple sclerosis	mVlt@p@l skl@`r@Us@s
+multiple-choice	`mVlt@pl-tS@:Is
+multiply	`mVlt@pla:I
+multiracial	mVlti:`rEIS@l
+multitude	`mVlt@tSu:d
+mum	mVm
+mumble	`mVmb@l
+mummy	`mVmi:
+mumps	mVmps
+munch	mVntS
+mundane	mVn`dEIn
 municipality	mju:n@s@`pAl@ti:
 mural	`mju:r@l
 murder	`m@:d@
 murky	`m@:ki:
 murmur	`m@:m@
-muscle	`mV s@l
+muscle	`mVs@l
 museum	mju:`zi:@m
-mush	mV S
-mushroom	`mV Sru:m
+mush	mVS
+mushroom	`mVSru:m
 music	`mju:zIk
 musical	`mju:zIk@l
-musk	mV sk
-must	mV st
-mustard	`mV st@d
-muster	`mV st@
-musty	`mV sti:
+musk	mVsk
+must	mVst
+mustard	`mVst@d
+muster	`mVst@
+musty	`mVsti:
 mutate	mju:`tEIt
 mute	mju:t
 mutilate	`mju:t@lEIt
 mutiny	`mju:t@ni:
-mutter	`mV t@
-mutton	`mV tn
+mutter	`mVt@
+mutton	`mVtn
 mutual	`mju:tSu:@l
-muzzle	`mV z@l
+muzzle	`mVz@l
 my	ma:I
 myopia	ma:I`@Upi:@
 myriad	`mIri:@d
@@ -5808,8 +5808,8 @@ nippers	`nIp@z
 nipple	`nIpl
 nit	nIt
 no	n@U
-no-one	`n@UwV n
-no.	`nV mb@
+no-one	`n@UwVn
+no.	`nVmb@
 noble	`n@Ubl
 nobody	`n@UbOdi:
 nocturnal	nOk`t@:n@l
@@ -5819,12 +5819,12 @@ noise	n@:Iz
 nominate	`nOm@nEIt
 nonchalant	`nOnS@l@nt
 nondescript	`nOnd@skrIpt
-none	nV n
+none	nVn
 nonentity	nOn`Ent@ti:
-nonetheless	nV nD@`lEs
+nonetheless	nVnD@`lEs
 nonfiction	nOn`fIkS@n
 nonflammable	nOn`flAm@bl
-nonplussed	nOn`plV st
+nonplussed	nOn`plVst
 nonsense	`nOns@ns
 noodle	`nu:d@l
 noon	nu:n
@@ -5840,14 +5840,14 @@ not	nOt
 notable	`n@Ut@bl
 notch	nOtS
 note	n@Ut
-nothing	`nV TIN
+nothing	`nVTIN
 notice	`n@Ut@s
 notify	`n@Ut@fa:I
 notion	`n@US@n
 notorious	n@`t@:ri:@s
 nought	n@:t
 noun	na:Un
-nourish	`nV rIS
+nourish	`nVrIS
 Nov.	n@`vEmb@
 novel	`nOv@l
 novelty	`nOv@lti:
@@ -5859,19 +5859,19 @@ NT	n@:D@n `tEr@tri:
 nuclear	`nju:kli:@
 nucleus	`nju:kli:@s
 nude	nju:d
-nudge	nV dZ
-nugget	`nV g@t
+nudge	nVdZ
+nugget	`nVg@t
 nuisance	`nju:s@ns
-numb	nV m
-number	`nV m@
-numberplate	`nV mb@plEIt
+numb	nVm
+number	`nVm@
+numberplate	`nVmb@plEIt
 numeral	`nju:m@r@l
 numerator	`nju:m@rEIt@
 numerous	`nju:m@r@s
-nun	nV n
+nun	nVn
 nurse	n@:s
 nursery	`n@:s@ri:
-nut	nV t
+nut	nVt
 nutrition	nju:`trIS@n
 nutritionist	nju:`trIS@ni:st
 NW	n@:T`wEst
@@ -5896,7 +5896,7 @@ obsolete	`Obs@li:t
 obstacle	`Obst@k@l
 obstetrician	Obst@`trIS@n
 obstinate	`Obst@n@t
-obstruct	@b`strV kt
+obstruct	@b`strVkt
 obtain	@b`tEIn
 obtuse	@b`tju:s, Ob-
 obvious	`Obvi:@s
@@ -5913,7 +5913,7 @@ odious	`@Udi:@s
 odour	`@Ud@
 of	Ov
 off	Of
-off-colour	Of-`kV l@
+off-colour	Of-`kVl@
 off-peak	`Of-pi:k
 off-putting	`Of-pUtIN
 offence	@`fEns
@@ -5939,9 +5939,9 @@ omen	`@Um@n
 ominous	`Om@n@s
 omit	@U`mIt, @-
 on	On
-once	wV ns
-oncoming	`OnkV mIN
-one	wV n
+once	wVns
+oncoming	`OnkVmIN
+one	wVn
 only	`@Unli:
 onset	`OnsEt
 onto	`Ont@
@@ -5971,7 +5971,7 @@ orchard	`@:tS@d
 orchestra	`@:k@str@
 ordeal	@:`di:l, `@:di:l
 order	`@:d@
-ordinal number	@:d@n@l `nV mb@
+ordinal number	@:d@n@l `nVmb@
 ordinary	`@:d@n@ri:, `@:d@nri:
 organ	`@:g@n
 organic	@:`gAnIk
@@ -5990,8 +5990,8 @@ orthodontist	@:T@`dOnt@st
 orthodox	`@:T@dOks
 orthopaedic	@:T@pi:dIk
 osteopath	`Osti:@pAT
-other	`V D@
-otherwise	`V D@wa:Iz
+other	`VD@
+otherwise	`VD@wa:Iz
 ought	@:t
 our	a:U@
 ours	`a:U@z
@@ -6000,7 +6000,7 @@ out	a:Ut
 outback	`a:UtbAk
 outbreak	`a:UtbrEIk
 outburst	`a:Utb@:st
-outcome	`a:UtkV m
+outcome	`a:UtkVm
 outcry	`a:Utkra:I
 outdoors	a:Ut`d@:z
 outer	`a:Ut@
@@ -6021,7 +6021,7 @@ outward	`a:Utw@d
 outwards	`a:Utw@dz
 outwit	a:Ut`wIt
 ovary	`@Uv@ri:
-oven	`V v@n
+oven	`Vv@n
 over	`@Uv@
 overalls	`@Uv@r@:lz
 overarm	`@Uv@ra:m
@@ -6031,7 +6031,7 @@ overbearing	@Uv@`bE@rIN
 overboard	`@Uv@b@:d
 overcast	`@Uv@ka:st
 overcoat	`@Uv@k@Ut
-overcome	@Uv@`kV m
+overcome	@Uv@`kVm
 overdo	@Uv@`du:
 overdose	`@Uv@d@Us
 overdraft	`@Uv@dra:ft
@@ -6082,7 +6082,7 @@ padlock	`pAdlOk
 paediatrician	pi:di:@`trISn
 page	pEIdZ
 paid	pEId
-paid-up	`pEId-V p, pEId `V p
+paid-up	`pEId-Vp, pEId `Vp
 pain	pEIn
 painstaking	`pEInztEIkIN
 paint	pEInt
@@ -6338,7 +6338,7 @@ pig-headed	pIg-`hEd@d
 pigment	`pIgm@nt
 pigsty	`pIgsta:I
 pile	pa:Il
-pile-up	`pa:Il-V p
+pile-up	`pa:Il-Vp
 pilfer	`pIlf@
 pilgrim	`pIlgr@m
 Pilipino	pIl@`pi:n@U
@@ -6349,7 +6349,7 @@ pillowcase	`pIl@UkEIs
 pilot	`pa:Il@t
 pimple	`pImp@l
 PIN	pIn
-pin-up	`pIn-V p
+pin-up	`pIn-Vp
 pinch	pIntS
 pine	pa:In
 ping-pong	`pINpON
@@ -6408,24 +6408,24 @@ plonk	plONk
 plot	plOt
 plough	pla:U
 ploy	pl@:I
-pluck	plV k
-plucky	`plV ki:
-plug	plV g
-plughole	`plV gh@Ul
-plumber	`plV m@
-plummet	`plV m@t
-plump	plV mp
-plunge	plV ndZ
+pluck	plVk
+plucky	`plVki:
+plug	plVg
+plughole	`plVgh@Ul
+plumber	`plVm@
+plummet	`plVm@t
+plump	plVmp
+plunge	plVndZ
 plural	`plU@r@l
-plus	plV s
-plush	plV S
+plus	plVs
+plush	plVS
 ply	pla:I
 plywood	`pla:IwUd
 pneumonia	nju:`m@Unj@
 PO	pi: `@U
 poach	p@UtS
 pocket	`pOk@t
-pocket money	`pOk@t mV ni:
+pocket money	`pOk@t mVni:
 pod	pOd
 podgy	`pOdZi:
 poem	`p@U@m
@@ -6573,7 +6573,7 @@ presently	`prEz@ntli:
 preserve	pr@`z@:v
 president	`prEz@d@nt
 press	prEs
-press-up	`prEs-V p
+press-up	`prEs-Vp
 pressure	`prES@
 prestige	prEs`ti:Z
 presume	pr@`zju:m
@@ -6597,7 +6597,7 @@ primary	`pra:Im@ri:, `pra:Imri:
 primary school	`pra:Imri: sku:l
 prime	pra:Im
 prime minister	pra:Im `mIn@st@
-prime number	pra:Im `nV mb@
+prime number	pra:Im `nVmb@
 primitive	`prIm@tIv
 prince	prIns
 princess	`prInsEs
@@ -6623,8 +6623,8 @@ process	`pr@UsEs
 prod	prOd
 prodigy	`prOd@dZi:
 produce	pr@`dju:s
-product	`prOdV kt
-productive	pr@`dV ktIv
+product	`prOdVkt
+productive	pr@`dVktIv
 profession	pr@`fES@n
 professor	pr@`fEs@
 proficient	pr@`fIS@nt
@@ -6690,40 +6690,40 @@ psychic	`sa:IkIk
 psycho	`sa:Ik@U
 psychoanalyst	sa:Ik@U`An@l@st
 psychology	sa:I`kOl@dZi:
-pub	pV b
+pub	pVb
 puberty	`pju:b@ti:
 pubic	`pju:bIk
-public	`pV blIk
-public relations	pV blIk r@`lEISnz
-public school	pV blIk `sku:l
-public servant	pV blIk `s@:v@nt
-public service	pV blIk `s@:v@s
-publican	`pV blIk@n
-publication	pV bl@`kEIS@n
-publicity	pV b`lIs@ti:
-publish	`pV blIS
-pucker	`pV k@
+public	`pVblIk
+public relations	pVblIk r@`lEISnz
+public school	pVblIk `sku:l
+public servant	pVblIk `s@:v@nt
+public service	pVblIk `s@:v@s
+publican	`pVblIk@n
+publication	pVbl@`kEIS@n
+publicity	pVb`lIs@ti:
+publish	`pVblIS
+pucker	`pVk@
 pudding	`pUdIN
-puddle	`pV dl
-puff	pV f
-pugnacious	pV g`nEIS@s
+puddle	`pVdl
+puff	pVf
+pugnacious	pVg`nEIS@s
 pull	pUl
 pullover	`pUl@Uv@
-pulp	pV lp
-pulse	pV ls
-pump	pV mp
-pumpkin	`pV mpk@n
-pun	pV n
-punch	pV ntS
-punctual	`pV NktSu:@l
-punctuation	pV NktSu:`EIS@n
-puncture	`pV NktS@
-punish	`pV nIS
-punt	pV nt
+pulp	pVlp
+pulse	pVls
+pump	pVmp
+pumpkin	`pVmpk@n
+pun	pVn
+punch	pVntS
+punctual	`pVNktSu:@l
+punctuation	pVNktSu:`EIS@n
+puncture	`pVNktS@
+punish	`pVnIS
+punt	pVnt
 puny	`pju:ni:
-pup	pV p
+pup	pVp
 pupil	`pju:p@l
-puppet	`pV p@t
+puppet	`pVp@t
 purchase	`p@:tS@s
 pure	`pju:@, pjU@, pj@:
 puree	`pju:rEI
@@ -6733,15 +6733,15 @@ purpose	`p@:p@s
 purr	p@:
 purse	p@:s
 pursue	p@`sju:
-pus	pV s
+pus	pVs
 push	pUS
-push-up	`pUS-V p
+push-up	`pUS-Vp
 pushed	pUSt
 pusher	`pUS@
 pushover	`pUS@Uv@
 put	pUt
-putty	`pV ti:
-puzzle	`pV z@l
+putty	`pVti:
+puzzle	`pVz@l
 pyjamas	p@`dZa:m@z
 pylon	`pa:IlOn
 pyramid	`pIr@mId
@@ -6898,7 +6898,7 @@ record	r@`k@:d
 record-player	`rEk@:d-plEI@
 recorder	r@`k@:d@
 recount	r@`ka:Unt
-recover	r@`kV v@
+recover	r@`kVv@
 recreation	rEkri:`EIS@n
 recruit	r@`kru:t
 rectum	`rEkt@m
@@ -6910,7 +6910,7 @@ red tape	rEd `tEIp
 red-back	`rEd-bAk
 redeem	r@`di:m
 reduce	r@`dju:s
-redundant	r@`dV nd@nt
+redundant	r@`dVnd@nt
 reef	ri:f
 refer	r@`f@:
 referee	rEf@`ri:
@@ -6918,7 +6918,7 @@ reference	`rEfr@ns
 referendum	rEf@`rEnd@m
 reflect	r@`flEkt
 reflex	`ri:flEks
-reflexive pronoun	r@flEksIv `pr@Una:Un
+reflexive pronoun	r@flEksIV`pr@Una:Un
 reform	r@`f@:m
 refrain	r@`frEIn
 refresh	r@`frES
@@ -6926,7 +6926,7 @@ refreshments	r@`frESm@nts
 refrigerator	r@`frIdZ@rEIt@
 refuge	`rEfju:dZ
 refugee	rEfju:`dZi:
-refund	`ri:fV nd
+refund	`ri:fVnd
 refuse	r@`fju:z
 regain	r@`gEIn
 regard	r@`ga:d
@@ -6957,7 +6957,7 @@ relate	r@`lEIt
 relation	r@`lEIS@n
 relationship	r@`lEIS@nSIp
 relative	`rEl@tIv
-relative pronoun	rEl@tIv `pr@Una:Un
+relative pronoun	rEl@tIV`pr@Una:Un
 relatively	`rEl@tIvli:
 relax	r@`lAks
 relay	`ri:lEI
@@ -6971,7 +6971,7 @@ relic	`rElIk
 relief	r@`li:f
 relieve	r@`li:v
 religion	r@`lIdZ@n
-reluctant	r@`lV kt@nt
+reluctant	r@`lVkt@nt
 rely	r@`la:I
 remain	r@`mEIn
 remainder	r@`mEInd@
@@ -7015,9 +7015,9 @@ reprint	ri:`prInt
 reproach	r@`pr@UtS
 reproduce	ri:pr@`dju:s
 reptile	`rEpta:Il
-republic	r@`pV blIk
-repugnant	r@`pV gn@nt
-repulsive	r@`pV lsIv
+republic	r@`pVblIk
+repugnant	r@`pVgn@nt
+repulsive	r@`pVlsIv
 reputable	`rEpj@t@b@l
 reputation	rEpj@`tEIS@n
 reputed	r@`pju:t@d
@@ -7029,7 +7029,7 @@ resemble	r@`zEmbl
 resent	r@`zEnt
 reservation	rEz@`vEISn
 reserve	r@`z@:v
-reserve price	r@`z@:v pra:Is
+reserve price	r@`z@:Vpra:Is
 reserved	r@`z@:vd
 reservoir	`rEz@vwa:
 residence	`rEz@d@ns
@@ -7057,11 +7057,11 @@ restore	r@`st@:
 restrain	r@`strEIn
 restrained	r@`strEInd
 restrict	r@`strIkt
-result	r@`zV lt
+result	r@`zVlt
 resum	aae
 resume	r@`zju:m
 resurrect	rEz@`rEkt
-resuscitate	r@`sV s@tEIt
+resuscitate	r@`sVs@tEIt
 retail	`ri:tEIl
 retain	r@`tEIn
 retaliate	r@`tAli:EIt
@@ -7134,7 +7134,7 @@ rob	rOb
 robbery	`rOb@ri:
 robe	r@Ub
 robot	`r@UbOt
-robust	`r@UbV st, r@`bV st
+robust	`r@UbVst, r@`bVst
 rock	rOk
 rockery	`rOk@ri:
 rocket	`rOk@t
@@ -7162,8 +7162,8 @@ rosy	`r@Uzi:
 rot	rOt
 rotate	r@U`tEIt
 rotten	`rOt@n
-rough	rV f
-roughage	`rV fIdZ
+rough	rVf
+roughage	`rVfIdZ
 roulette	ru:`lEt
 round	ra:Und
 roundabout	`ra:Und@ba:Ut
@@ -7176,42 +7176,42 @@ royal	`r@:I@l
 royalty	`r@:I@lti:
 RSL	a:r Es `El
 RSVP	a:r Es vi: `pi:
-rub	rV b
-rubber	`rV b@
-rubbish	`rV bIS
-rubble	`rV b@l
+rub	rVb
+rubber	`rVb@
+rubbish	`rVbIS
+rubble	`rVb@l
 rubella	ru:`bEl@
 ruby	`ru:bi:
-rucksack	`rV ksAk
-rudder	`rV d@
-ruddy	`rV di:
+rucksack	`rVksAk
+rudder	`rVd@
+ruddy	`rVdi:
 rude	ru:d
-ruffian	`rV fi:@n
-rug	rV g
-rugby	`rV gbi:
-rugged	`rV g@d
+ruffian	`rVfi:@n
+rug	rVg
+rugby	`rVgbi:
+rugged	`rVg@d
 ruin	`ru:@n
 rule	ru:l
 ruler	`ru:l@
-rum	rV m
-rumble	`rV mb@l
-rummage	`rV mIdZ
+rum	rVm
+rumble	`rVmb@l
+rummage	`rVmIdZ
 rumour	`ru:m@
-rump	rV mp
-rumple	`rV mp@l
-rumpus	`rV mp@s
-run	rV n
-run-down	rV n-`da:Un
-rung	rV N
-runner-up	rV n@r-`V p
-runny	`rV ni:
-runt	rV nt
-runway	`rV nwEI
-rupture	`rV ptS@
+rump	rVmp
+rumple	`rVmp@l
+rumpus	`rVmp@s
+run	rVn
+run-down	rVn-`da:Un
+rung	rVN
+runner-up	rVn@r-`Vp
+runny	`rVni:
+runt	rVnt
+runway	`rVnwEI
+rupture	`rVptS@
 rural	`rU@r@l
-rush	rV S
-rust	rV st
-rut	rV t
+rush	rVS
+rust	rVst
+rut	rVt
 ruthless	`ru:Tl@s
 S, s	Es
 SA	sa:UT @`strEIlj@
@@ -7367,20 +7367,20 @@ scripture	`skrIptS@
 scroll	skr@Ul
 scrotum	`skr@Ut@m
 scrounge	skra:UndZ
-scrub	skrV b
-scruff	skrV f
-scruffy	`skrV fi:
-scrum	skrV m
+scrub	skrVb
+scruff	skrVf
+scruffy	`skrVfi:
+scrum	skrVm
 scrupulous	`skru:pj@l@s
 scrutinise	`skru:t@na:Iz
 scuba diving	`sku:b@ da:IvIN
-scuff	skV f
-scuffle	`skV f@l
-scullery	`skV l@ri:
-sculpture	`skV lptS@
-scum	skV m
-scurry	`skV ri:
-scuttle	`skV tl
+scuff	skVf
+scuffle	`skVf@l
+scullery	`skVl@ri:
+sculpture	`skVlptS@
+scum	skVm
+scurry	`skVri:
+scuttle	`skVtl
 sea	si:
 seafood	`si:fu:d
 seal	si:l
@@ -7485,7 +7485,7 @@ serving	`s@:vIN
 serving spoon	`s@:vIN spu:n
 session	`sES@n
 set	sEt
-set-up	`sEt-V p
+set-up	`sEt-Vp
 setback	`sEtbAk
 settee	sE`ti:, s@`ti:
 setting	`sEtIN
@@ -7514,7 +7514,7 @@ shade	SEId
 shadow	`SAd@U
 shaggy	`SAgi:
 shake	SEIk
-shake-up	`SEIkV p
+shake-up	`SEIkVp
 shall	SAl
 shallow	`SAl@U
 sham	SAm
@@ -7575,17 +7575,17 @@ short	S@:t
 short-sighted	S@:t-`sa:It@d
 short-tempered	S@:t-`tEmp@d
 shortage	`S@:tIdZ
-shortcoming	`S@:tkV mIN
+shortcoming	`S@:tkVmIN
 shorten	`S@:t@n
 shorthand	`S@:thAnd
 shortly	`S@:tli:
 shot	SOt
-shotgun	`SOtgV n
+shotgun	`SOtgVn
 should	SUd
 shoulder	`S@Uld@
 shout	Sa:Ut
-shove	SV v
-shovel	`SV v@l
+shove	SVv
+shovel	`SVv@l
 show	S@U
 show-off	`S@U-Of
 showdown	`S@Uda:Un
@@ -7598,13 +7598,13 @@ shrill	SrIl
 shrimp	SrImp
 shrink	SrINk
 shrivel	`SrIv@l
-shrub	SrV b
-shrug	SrV g
-shudder	`SV d@
-shuffle	`SV f@l
-shun	SV n
-shut	SV t
-shutter	`SV t@
+shrub	SrVb
+shrug	SrVg
+shudder	`SVd@
+shuffle	`SVf@l
+shun	SVn
+shut	SVt
+shutter	`SVt@
 shy	Sa:I
 sibling	`sIblIN
 sick	sIk
@@ -7694,7 +7694,7 @@ skinny	`skIni:
 skip	skIp
 skirt	sk@:t
 skivvy	`skIvi:
-skull	skV l
+skull	skVl
 sky	ska:I
 skyscraper	`ska:IskrEIp@
 slab	slAb
@@ -7746,18 +7746,18 @@ slosh	slOS
 sloshed	slOSt
 slot	slOt
 slouch	sla:UtS
-slovenly	`slV v@nli:
+slovenly	`slVv@nli:
 slow	sl@U
-sludge	slV dZ
-slug	slV g
-sluggish	`slV gIS
-slum	slV m
-slump	slV mp
-slung	slV N
+sludge	slVdZ
+slug	slVg
+sluggish	`slVgIS
+slum	slVm
+slump	slVmp
+slung	slVN
 slur	sl@:
 slurp	sl@:p
-slush	slV S
-slut	slV t
+slush	slVS
+slut	slVt
 sly	sla:I
 smack	smAk
 small	sm@:l
@@ -7777,11 +7777,11 @@ smoke	sm@Uk
 smokescreen	`sm@Ukskri:n
 smooth	smu:D
 smorgasbord	`sm@:g@zb@:d
-smother	`smV D@
+smother	`smVD@
 smoulder	`sm@Uld@
-smudge	smV dZ
-smug	smV g
-smuggle	`smV g@l
+smudge	smVdZ
+smug	smVg
+smuggle	`smVg@l
 snack	snAk
 snag	snAg
 snail	snEIl
@@ -7809,9 +7809,9 @@ snore	sn@:
 snort	sn@:t
 snout	sna:Ut
 snow	sn@U
-snub	snV b
-snug	snV g
-snuggle	`snV g@l
+snub	snVb
+snug	snVg
+snuggle	`snVg@l
 so	s@U
 so-and-so	`s@U-@n-s@U
 soak	s@Uk
@@ -7850,17 +7850,17 @@ soluble	`sOlj@b@l
 solution	s@`lu:S@n
 solve	sOlv
 sombre	`sOmb@
-some	sV m
-somebody	`sV mbOdi:, `sV mb@di:
-somehow	`sV mha:U
-someone	`sV mwV n
-somersault	`sV m@sOlt
-something	`sV mTIN
-sometime	`sV mta:Im
-sometimes	`sV mta:Imz
-somewhere	`sV mwE@
-son	sV n
-son-in-law	`sV n-In-l@:
+some	sVm
+somebody	`sVmbOdi:, `sVmb@di:
+somehow	`sVmha:U
+someone	`sVmwVn
+somersault	`sVm@sOlt
+something	`sVmTIN
+sometime	`sVmta:Im
+sometimes	`sVmta:Imz
+somewhere	`sVmwE@
+son	sVn
+son-in-law	`sVn-In-l@:
 song	sON
 soon	su:n
 soot	sUt
@@ -7882,7 +7882,7 @@ soup	su:p
 sour	`sa:U@
 source	s@:s
 south	sa:UT
-Southern Cross	sV D@n `krOs
+Southern Cross	sVD@n `krOs
 souvenir	su:v@`nI@
 soviet	`s@Uvi:@t, `sOv-
 sow	s@U
@@ -7900,7 +7900,7 @@ spank	spANk
 spanner	`spAn@
 spare	spE@
 spark	spa:k
-spark plug	`spa:k plV g
+spark plug	`spa:k plVg
 sparkle	`spa:k@l
 sparse	spa:s
 spasm	`spAz@m
@@ -7965,11 +7965,11 @@ splint	splInt
 splinter	`splInt@
 split	splIt
 split-level	`splIt-lEv@l
-splutter	`splV t@
+splutter	`splVt@
 spoil	sp@:Il
 spoken	`sp@Uk@n
 spokesperson	`sp@Uksp@:s@n
-sponge	spV ndZ
+sponge	spVndZ
 sponsor	`spOns@
 sponsorship	`spOns@SIp
 spontaneous	spOn`tEIni:@s
@@ -7996,9 +7996,9 @@ sprinkle	`sprINk@l
 sprint	sprInt
 sprout	spra:Ut
 sprouts	spra:Uts
-sprung	sprV N
-spud	spV d
-spun	spV n
+sprung	sprVN
+spud	spVd
+spun	spVn
 spur	sp@:
 spurt	sp@:t
 spy	spa:I
@@ -8075,7 +8075,7 @@ stenographer	st@`nOgr@f@
 step	stEp
 stepfather	`stEpfa:D@
 stepladder	`stEplAd@
-stepmother	`stEpmV D@
+stepmother	`stEpmVD@
 stereo	`stEri:@U
 sterile	`stEra:Il
 sterilise	`stEr@la:Iz
@@ -8103,7 +8103,7 @@ stockman	`stOkm@n
 stocky	`stOki:
 stole	st@Ul
 stolen	`st@Ul@n
-stomach	`stV m@k
+stomach	`stVm@k
 stone	st@Un
 stone-cold	st@Un-`k@Uld
 stood	stUd
@@ -8157,67 +8157,67 @@ stroll	str@Ul
 stroller	`str@Ul@
 strong	strON
 strove	str@Uv
-struck	strV k
-structure	`strV ktS@
-struggle	`strV g@l
-stub	stV b
-stubborn	`stV b@n
-stubby	`stV bi:
-stuck	stV k
-stuck-up	`stV k-V p
+struck	strVk
+structure	`strVktS@
+struggle	`strVg@l
+stub	stVb
+stubborn	`stVb@n
+stubby	`stVbi:
+stuck	stVk
+stuck-up	`stVk-Vp
 student	`stju:dnt
 studio	`stju:di:@U
-study	`stV di:
-stuff	stV f
-stuffing	`stV fIN
-stuffy	`stV fi:
-stumble	`stV mb@l
-stump	stV mp
-stumpy	`stV mpi:
-stun	stV n
-stung	stV N
-stunning	`stV nIN
+study	`stVdi:
+stuff	stVf
+stuffing	`stVfIN
+stuffy	`stVfi:
+stumble	`stVmb@l
+stump	stVmp
+stumpy	`stVmpi:
+stun	stVn
+stung	stVN
+stunning	`stVnIN
 stupid	`stju:p@d
 sturdy	`st@:di:
-stutter	`stV t@
+stutter	`stVt@
 style	sta:Il
 stylish	`sta:IlIS
-subdivide	`sV bd@va:Id, sV bd@`va:Id
+subdivide	`sVbd@va:Id, sVbd@`va:Id
 subdue	s@b`dju:
 subdued	s@b`dju:d
-subject	`sV bdZEkt
-submarine	`sV bm@ri:n, sV bm@`ri:n
+subject	`sVbdZEkt
+submarine	`sVbm@ri:n, sVbm@`ri:n
 submerge	s@b`m@:dZ
 submit	s@b`mIt
 subordinate	s@`b@:d@n@t
 subscribe	s@b`skra:Ib
 subscriber	s@b`skra:Ib@
 subscription	s@b`skrIpS@n
-subsequent	`sV bs@kw@nt
+subsequent	`sVbs@kw@nt
 subside	s@b`sa:Id
 subsidiary	s@b`sIdZ@ri:
-subsidy	`sV bs@di:
-substance	`sV bst@ns
+subsidy	`sVbs@di:
+substance	`sVbst@ns
 substantial	s@b`stAnS@l
-substitute	`sV bst@tSu:t
-subtitle	`sV bta:Itl
-subtle	`sV tl
+substitute	`sVbst@tSu:t
+subtitle	`sVbta:Itl
+subtle	`sVtl
 subtract	s@b`trAkt
-suburb	`sV b@:b
+suburb	`sVb@:b
 suburbia	s@`b@:bi:@
 succeed	s@k`si:d
 success	s@k`sEs
-such	sV tS
-suck	sV k
-sudden	`sV dn
-suds	sV dz
+such	sVtS
+suck	sVk
+sudden	`sVdn
+suds	sVdz
 sue	su:
 suede	swEId
-suffer	`sV f@
-suffering	`sV f@rIN
+suffer	`sVf@
+suffering	`sVf@rIN
 sufficient	s@`fIS@nt
-suffix	`sV fIks
-suffocate	`sV f@kEIt
+suffix	`sVfIks
+suffocate	`sVf@kEIt
 sugar	`SUg@
 suggest	s@`dZEst
 suicidal	su:@`sa:Idl
@@ -8227,34 +8227,34 @@ suitable	`su:t@b@l
 suitcase	`su:tkEIs
 suite	swi:t
 suited	`su:t@d
-sulk	sV lk
-sullen	`sV l@n
-sultana	sV l`ta:n@
-sultry	`sV ltri:
-sum	sV m
-summary	`sV m@ri:
-summer	`sV m@
-summit	`sV m@t
-summon	`sV m@n
-summons	`sV m@nz
-sumptuous	`sV mptSu:@s
-sun	sV n
-sunbake	`sV nbEIk
-sunburn	`sV nb@:n
-Sunday	`sV ndEI
-sundry	`sV ndri:
-sung	sV N
-sunglasses	`sV ngla:s@z
-sunk	sV Nk
-sunken	`sV Nk@n
-sunlight	`sV nla:It
-sunny	`sV ni:
-sunrise	`sV nra:Iz
-sunscreen	`sV nskri:n
-sunset	`sV nsEt
-sunshine	`sV nSa:In
-sunstroke	`sV nstr@Uk
-suntan	`sV ntAn
+sulk	sVlk
+sullen	`sVl@n
+sultana	sVl`ta:n@
+sultry	`sVltri:
+sum	sVm
+summary	`sVm@ri:
+summer	`sVm@
+summit	`sVm@t
+summon	`sVm@n
+summons	`sVm@nz
+sumptuous	`sVmptSu:@s
+sun	sVn
+sunbake	`sVnbEIk
+sunburn	`sVnb@:n
+Sunday	`sVndEI
+sundry	`sVndri:
+sung	sVN
+sunglasses	`sVngla:s@z
+sunk	sVNk
+sunken	`sVNk@n
+sunlight	`sVnla:It
+sunny	`sVni:
+sunrise	`sVnra:Iz
+sunscreen	`sVnskri:n
+sunset	`sVnsEt
+sunshine	`sVnSa:In
+sunstroke	`sVnstr@Uk
+suntan	`sVntAn
 super	`su:p@
 superannuation	`su:p@rAnju:`EIS@n
 superb	s@`p@:b, su:-
@@ -8265,9 +8265,9 @@ superlative	su:`p@:l@tIv
 supermarket	`su:p@ma:k@t
 superstitious	su:p@`stIS@s
 supervise	`su:p@va:Iz
-supper	`sV p@
-supple	`sV p@l
-supplement	`sV pl@m@nt
+supper	`sVp@
+supple	`sVp@l
+supplement	`sVpl@m@nt
 supply	s@`pla:I
 support	s@`p@:t
 supportive	s@`p@:tIv
@@ -8300,7 +8300,7 @@ suspense	s@`spEns
 suspension	s@`spEnS@n
 suspicion	s@`spIS@n
 suspicious	s@`spIS@s
-suss	sV s
+suss	sVs
 sustain	s@`stEIn
 swag	swAg
 swagger	`swAg@
@@ -8338,8 +8338,8 @@ swoop	swu:p
 sword	s@:d
 swore	sw@:
 sworn	sw@:n
-swum	swV m
-swung	swV N
+swum	swVm
+swung	swVN
 syllable	`sIl@b@l
 syllabus	`sIl@b@s
 symbol	`sImb@l
@@ -8582,9 +8582,9 @@ thirty	`T@:ti:
 this	DIs
 thistle	`TIs@l
 thong	TON
-thorough	`TV r@
-thoroughfare	`TV r@fE@
-thoroughly	`TV r@li:
+thorough	`TVr@
+thoroughfare	`TVr@fE@
+thoroughly	`TVr@li:
 those	D@Uz
 though	D@U
 thought	T@:t
@@ -8613,14 +8613,14 @@ throttle	`TrOtl
 through	Tru:
 throughout	Tru:`a:Ut
 throw	Tr@U
-thrust	TrV st
-thud	TV d
-thug	TV g
-thumb	TV m
-thump	TV mp
-thunder	`TV nd@
+thrust	TrVst
+thud	TVd
+thug	TVg
+thumb	TVm
+thump	TVmp
+thunder	`TVnd@
 Thursday	`T@:zdEI
-thus	DV s
+thus	DVs
 thwart	Tw@:t
 thyme	ta:Im
 thyroid	`Ta:Ir@:Id
@@ -8691,9 +8691,9 @@ tomb	tu:m
 tombstone	`tu:mst@Un
 tomcat	`tOmkAt
 tomorrow	t@`mOr@U
-ton	tV n
+ton	tVn
 tone	t@Un
-tongue	tV N
+tongue	tVN
 tonic	`tOnIk
 tonight	t@`na:It
 tonne	tOn
@@ -8705,7 +8705,7 @@ tool	tu:l
 toot	tu:t
 tooth	tu:T
 toothache	`tu:TEIk
-toothbrush	`tu:TbrV S
+toothbrush	`tu:TbrVS
 toothpaste	`tu:TpEIst
 toothpick	`tu:TpIk
 top	tOp
@@ -8725,9 +8725,9 @@ total	`t@Ut@l
 totalitarian	t@UtAl@`tE@ri:@n
 totem	`t@Ut@m
 totter	`tOt@
-touch	tV tS
-touchy	`tV tSi:
-tough	tV f
+touch	tVtS
+touchy	`tVtSi:
+tough	tVf
 tour	t@:, tU@
 tourism	`t@:rIzm, `tU@rIzm
 tourist	`t@:rIst, `tU@rIst
@@ -8798,36 +8798,36 @@ tried	tra:Id
 trim	trIm
 trip	trIp
 triple	`trIpl
-triumph	`tra:IV mf
+triumph	`tra:IVmf
 trivial	`trIvi:@l
 trod	trOd
 trodden	`trOdn
 troop	tru:p
 tropical	`trOpIkl
 tropics	`trOpIks
-trouble	`trV bl
+trouble	`trVbl
 trousers	`tra:Uz@z
-truck	trV k
-trudge	trV dZ
+truck	trVk
+trudge	trVdZ
 true	tru:
-trumpet	`trV mp@t
-trunk	trV Nk
-trust	trV st
-trustworthy	`trV stw@:Di:
+trumpet	`trVmp@t
+trunk	trVNk
+trust	trVst
+trustworthy	`trVstw@:Di:
 truth	tru:T
 truthful	`tru:TfUl
 try	tra:I
 tube	tju:b
-tuck	tV k
+tuck	tVk
 Tuesday	`tju:zdEI
-tuft	tV ft
-tug	tV g
+tuft	tVft
+tug	tVg
 tuition	tju:`ISn
-tumble	`tV mbl
+tumble	`tVmbl
 tumour	`tju:m@
 tuna	`tju:n@
 tune	tju:n
-tunnel	`tV n@l
+tunnel	`tVn@l
 Turkish	`t@:kIS
 turn	t@:n
 turquoise	`t@:kw@:Iz
@@ -8855,39 +8855,39 @@ typical	`tIpIkl
 typically	`tIpIkli:
 tyre	ta:I@
 U, u	ju:
-ugly	`V gli:
-ulcer	`V ls@
-ultimate	`V lt@m@t
-um	V m
-umbrella	V m`brEl@
-umpire	`V mpa:I@
-umpteen	V mp`ti:n, `V mpti:n
+ugly	`Vgli:
+ulcer	`Vls@
+ultimate	`Vlt@m@t
+um	Vm
+umbrella	Vm`brEl@
+umpire	`Vmpa:I@
+umpteen	Vmp`ti:n, `Vmpti:n
 unanimous	ju:`nAn@m@s
-uncanny	V n`kAni:
-uncle	`V Nk@l
-unconscious	V n`kOnS@s
-under	`V nd@
-underarm	`V nd@ra:m
-underdone	V nd@`dV n
-undergo	V nd@`g@U
+uncanny	Vn`kAni:
+uncle	`VNk@l
+unconscious	Vn`kOnS@s
+under	`Vnd@
+underarm	`Vnd@ra:m
+underdone	Vnd@`dVn
+undergo	Vnd@`g@U
 undergrowth	`u:nd@gr@UT
-underhand	`V nd@hAnd
-underline	V nd@`la:In
-underneath	V nd@`ni:T
-underpants	`V nd@pAnts
-understand	V nd@`stAnd
-understate	V nd@`stEIt
-undertake	V nd@`tEIk
-undertaker	`V nd@tEIk@
-underwear	`V nd@wE@
-undo	V n`du:
-uneasy	V n`i:zi:
-unemployed	V n@m`pl@:Id
-uneventful	V n@`vEntfUl
-unforgettable	V nf@`gEt@b@l
+underhand	`Vnd@hAnd
+underline	Vnd@`la:In
+underneath	Vnd@`ni:T
+underpants	`Vnd@pAnts
+understand	Vnd@`stAnd
+understate	Vnd@`stEIt
+undertake	Vnd@`tEIk
+undertaker	`Vnd@tEIk@
+underwear	`Vnd@wE@
+undo	Vn`du:
+uneasy	Vn`i:zi:
+unemployed	Vn@m`pl@:Id
+uneventful	Vn@`vEntfUl
+unforgettable	Vnf@`gEt@b@l
 unify	`ju:n@fa:I
 unilateral	ju:ni:`lAt@r@l, -`lAtr@l, ju:n@-
-uninterested	V n`Intr@st@d
+uninterested	Vn`Intr@st@d
 union	`ju:nj@n
 unique	ju:`ni:k
 unisex	`ju:ni:sEks
@@ -8897,49 +8897,49 @@ unite	ju:`na:It
 universal	ju:n@`v@:s@l
 universe	`ju:n@v@:s
 university	ju:n@`v@:s@ti:
-unknown	V n`n@Un
-unlawful	V n`l@:fUl
-unless	V n`lEs, @n-
-unravel	V n`rAv@l
-unreal	V n`ri:l
-unrest	V n`rEst
-unscathed	V n`skEIDd
-unscrew	V n`skru:
-unscrupulous	V n`skru:pjUl@s
-unsettle	V n`sEtl
-untangle	V n`tANgl
-unthinkable	V n`TINk@b@l
-untie	V n`ta:I
-until	V n`tIl
-unusual	V n`ju:Zu:@l
-unwieldy	V n`wIldi:
-up	V p
-up-market	`V p-ma:k@t
-up-to-date	V p-t@-`dEIt
-upbringing	`V pbrININ
-update	V p`dEIt
-upgrade	V p`grEId
-upheaval	V p`hi:v@l
-uphill	V p`hIl
-uphold	V p`h@Uld
-upholstery	V p`h@Ulstri:
-upkeep	`V pki:p
+unknown	Vn`n@Un
+unlawful	Vn`l@:fUl
+unless	Vn`lEs, @n-
+unravel	Vn`rAv@l
+unreal	Vn`ri:l
+unrest	Vn`rEst
+unscathed	Vn`skEIDd
+unscrew	Vn`skru:
+unscrupulous	Vn`skru:pjUl@s
+unsettle	Vn`sEtl
+untangle	Vn`tANgl
+unthinkable	Vn`TINk@b@l
+untie	Vn`ta:I
+until	Vn`tIl
+unusual	Vn`ju:Zu:@l
+unwieldy	Vn`wIldi:
+up	Vp
+up-market	`Vp-ma:k@t
+up-to-date	Vp-t@-`dEIt
+upbringing	`VpbrININ
+update	Vp`dEIt
+upgrade	Vp`grEId
+upheaval	Vp`hi:v@l
+uphill	Vp`hIl
+uphold	Vp`h@Uld
+upholstery	Vp`h@Ulstri:
+upkeep	`Vpki:p
 upon	@`pOn
-upper	`V p@
-uppermost	`V p@m@Ust
-upright	`V pra:It
-uprising	`V pra:IzIN
-uproar	`V pr@:
-uproarious	V p`r@:ri:@s
-upset	V p`sEt
-upside down	V psa:Id `da:Un
-upstairs	V p`stE@z
-upstream	V p`stri:m
-uptight	V p`ta:It
-upturn	`V pt@:n
-upward	`V pw@d
-upwards	`V pw@dz
-upwind	V p`wInd
+upper	`Vp@
+uppermost	`Vp@m@Ust
+upright	`Vpra:It
+uprising	`Vpra:IzIN
+uproar	`Vpr@:
+uproarious	Vp`r@:ri:@s
+upset	Vp`sEt
+upside down	Vpsa:Id `da:Un
+upstairs	Vp`stE@z
+upstream	Vp`stri:m
+uptight	Vp`ta:It
+upturn	`Vpt@:n
+upward	`Vpw@d
+upwards	`Vpw@dz
+upwind	Vp`wInd
 uranium	ju:`rEIni:@m
 urban	`@:b@n
 urbane	@:`bEIn
@@ -8948,7 +8948,7 @@ urgent	`@:dZ@nt
 urinal	`ju:r@n@l, ju:`ra:In@l
 urine	`ju:r@n, -a:In
 urn	@:n
-us	V s
+us	Vs
 use	ju:z
 used	ju:st
 usual	`ju:Zu:@l
@@ -8956,8 +8956,8 @@ ute	ju:t
 utensil	ju:`tEns@l
 uterus	`ju:t@r@s
 utilities	ju:`tIl@ti:z
-utility truck	ju:`tIl@ti: trV k
-utter	`V t@
+utility truck	ju:`tIl@ti: trVk
+utter	`Vt@
 v	`v@:s@s
 V, v	vi:
 vacancy	`vEIk@nsi:
@@ -9086,10 +9086,10 @@ vow	va:U
 vowel	`va:U@l
 voyage	`v@:IIdZ
 vs	`v@:s@s
-vulgar	`vV lg@
-vulnerable	`vV lnr@b@l, -n@r@b@l
+vulgar	`vVlg@
+vulnerable	`vVlnr@b@l, -n@r@b@l
 W	wEst
-W, w	`dV b@lju:
+W, w	`dVb@lju:
 WA	wEst@n @`strEIlj@
 wad	wOd
 waddle	`wOdl
@@ -9138,8 +9138,8 @@ waste	wEIst
 wastepaper basket	wEIst`pEIp@ ba:sk@t
 watch	wOtS
 water	`w@:t@
-watercolour	`w@:t@kV l@
-waterfront	`w@:t@frV nt
+watercolour	`w@:t@kVl@
+waterfront	`w@:t@frVnt
 waterlogged	`w@:t@lOgd
 waterproof	`w@:t@pru:f
 waterski	`w@:t@ski:
@@ -9225,7 +9225,7 @@ whoever	hu:`Ev@
 whole	h@Ul
 wholemeal	`h@Ulmi:l
 wholesale	`h@UlsEIl
-wholesome	`h@UlsV m
+wholesome	`h@UlsVm
 whom	hu:m
 whopping	`wOpIN
 whore	h@:
@@ -9291,9 +9291,9 @@ wolf	wUlf
 woman	`wUm@n
 womb	wu:m
 wombat	`wOmbAt
-won	wV n
-wonder	`wV nd@
-wonderful	`wV nd@fUl
+won	wVn
+wonder	`wVnd@
+wonderful	`wVnd@fUl
 wood	wUd
 woodwork	`wUdw@:k
 wool	wUl
@@ -9312,7 +9312,7 @@ worldwide	w@:l`dwa:Id
 worm	w@:m
 worn	w@:n
 worn-out	w@:n-`a:Ut
-worry	`wV ri:
+worry	`wVri:
 worse	w@:s
 worship	`w@:SIp
 worst	w@:st
@@ -9337,7 +9337,7 @@ write	ra:It
 write-off	`ra:It-@f
 wrong	rON
 wrote	r@Ut
-wrung	rV N
+wrung	rVN
 wuss	wUs
 x	Eks
 x-ray	`Eks-rEI, Eks-`rEI
@@ -9369,15 +9369,15 @@ yoghurt	`j@Ug@t, `jOg@t
 yolk	j@Uk
 yonks	jONks
 you	ju:
-young	jV N
-youngster	`jV Nst@
+young	jVN
+youngster	`jVNst@
 your	j@:
 yours	j@:z
 yourself	j@:`sElf
 youth	ju:T
 yr	jI@
-yuk	jV k
-yuppie	`jV pi:
+yuk	jVk
+yuppie	`jVpi:
 Z, z	zEd
 zeal	zi:l
 zero	`zI@r@U

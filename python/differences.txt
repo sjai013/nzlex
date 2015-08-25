@@ -1,45 +1,35 @@
 four	f@:	fo:
-conjure	`k6 ndZ@	`k6ndZ@
 pardon	`p6:dn	`p6:d@n
-rupture	`r\6 ptS@	`r\6ptS@
 quadruple	kw@`dr\}:p@l	kwOd`r\}:p@l
 lord	l@:d	lo:d
 hormone	`h@:m@}n	`ho:m@}n
 impertinent	Im`p@:t@n@nt	Im`p3:t@n@nt
 disturb	d@`st@:b	d@`st3:b
-pulse	p6 ls	p6ls
-thunder	`T6 nd@	`T6nd@
 avert	@`v@:t	@`v3:t
 dog-ear	`dOg-I@	`dOgI@
 reporter	r\@`p@:t@	r\@`po:t@
 herb	h@:b	h3:b
 herd	h@:d	h3:d
-cult	k6 lt	k6lt
+freeze-dry	`fr\i:z-dr\Ae	`fr\i:zdr\Ae
 dork	d@:k	do:k
-substance	`s6 bst@ns	`s6bst@ns
 controversy	`kOntr\@v@:si:	`kOntr\@v3:si:
 brought	br\@:t	br\o:t
 stern	st@:n	st3:n
 therefore	`De@f@:	`De:fo:
 passport	`p6:sp@:t	`p6:spo:t
-until	6 n`tIl	6n`tIl
 hurt	h@:t	h3:t
 hurl	h@:l	h3:l
 sweeten	`swi:tn	`swi:t@n
-currency	`k6 r\@nsi:	`k6r\@nsi:
 house-warming	`h{Os-w@:mIN	`h{Oswo:mIN
 turn	t@:n	t3:n
 dimple	`dImpl	`dImp@l
 short-tempered	S@:t-`temp@d	So:t`temp@d
 headquarters	`hedkw@:t@z	`hedkwo:t@z
 vary	`ve@r\i:	`ve:r\i:
-foodstuff	`f}:dst6 f	`f}:dst6f
-bread-and-butter	br\ed-@n-`b6 t@	br\ed@n`b6t@
+bread-and-butter	br\ed-@n-`b6t@	br\ed@n`b6t@
 hidden	`hIdn	`hId@n
 bristle	`br\Isl	`br\Is@l
-interrupt	Int@`r\6 pt	Int@`r\6pt
-hyped-up	`hAept-6 p	`hAept6p
-dumpy	`d6 mpi:	`d6mpi:
+hyped-up	`hAept-6p	`hAept6p
 fortnight	`f@:tnAet	`fo:tnAet
 borne	b@:n	bo:n
 misfortune	mIs`f@:tS@n	mIs`fo:tS@n
@@ -50,58 +40,38 @@ waddle	`wOdl	`wOd@l
 chlorine	`kl@:r\i:n	`klo:r\i:n
 PAYE	pi: {I wAe `i:	pi:{IwAe`i:
 enormous	@`n@:m@s	@`no:m@s
-rumple	`r\6 mp@l	`r\6mp@l
-flurry	`fl6 r\i:	`fl6r\i:
-scruff	skr\6 f	skr\6f
 disturbed	d@`st@:bd	d@`st3:bd
 whirlwind	`w@:lwInd	`w3:lwInd
-instruct	In`str\6 kt	In`str\6kt
 basketball	`b6:sk@tb@:l	`b6:sk@tbo:l
 service	`s@:v@s	`s3:v@s
 crawl	kr\@:l	kr\o:l
-handcuffs	`h{ndk6 fs	`h{ndk6fs
 idle	`Aedl	`Aed@l
 headland	`hedl@nd	`hedl{nd
 corny	`k@:ni:	`ko:ni:
 thaw	T@:	To:
-dozen	`d6 z@n	`d6z@n
-wholesome	`h@}ls6 m	`h@}ls@m
+wholesome	`h@}ls6m	`h@}ls@m
 person	`p@:s@n	`p3:s@n
 disjointed	dIs`dZ@:Int@d	dIs`dZoInt@d
 VCR	vi: si: `6:	vi:si:`6:
-fluster	`fl6 st@	`fl6st@
-dummy	`d6 mi:	`d6mi:
-press-up	`pr\es-6 p	`pr\es6p
-multiracial	m6 lti:`r\{IS@l	m6lti:`r\{IS@l
+press-up	`pr\es-6p	`pr\es6p
 temperamental	tempr\@`mentl	tempr\@`ment@l
 incorporate	IN`k@:p@r\{It	IN`ko:p@r\{It
 chirpy	`tS@:pi:	`tS3:pi:
-ulcer	`6 ls@	`6ls@
-underpants	`6 nd@p{nts	`6nd@p{nts
-bust	b6 st	b6st
-doublecross	d6 bl`kr\Os	d6b@l`kr\Os
+doublecross	d6bl`kr\Os	d6b@l`kr\Os
 foremost	`f@:m@}st	`fo:m@}st
 altogether	@:lt@`geD@	o:lt@`geD@
-chutney	`tS6 tni:	`tS6tni:
 boarder	`b@:d@	`bo:d@
 release	r\@`lIs	r\@`li:s
 disaster	dI`z6:st@	d@`z6:st@
 fair	fe@	fe:
 heirloom	`e@l}:m	`e:l}:m
-result	r\@`z6 lt	r\@`z6lt
 nocturnal	nOk`t@:n@l	nOk`t3:n@l
 alternative	Ol`t@:n@tIv	Ol`t3:n@tIv
 irk	@:k	3:k
 scorn	sk@:n	sko:n
 preserve	pr\@`z@:v	pr\@`z3:v
-country	`k6 ntr\i:	`k6ntr\i:
-freeze-dry	`fr\i:z-dr\Ae	`fr\i:zdr\Ae
 mortified	`m@:t@fAed	`mo:t@fAed
 hers	h@:z	h3:z
-underdone	6 nd@`d6 n	6nd@`d6n
-muck	m6 k	m6k
-much	m6 tS	m6tS
-cunt	k6 nt	k6nt
 commerce	`kOm@:s	`kOm3:s
 by-election	`bAe-@lekS@n	`bAe@lekS@n
 dissect	dI`sekt	d@`sekt
@@ -116,14 +86,12 @@ half-sister	`h6:f-sIst@	`h6:fsIst@
 typhoid	`tAef@:Id	`tAefoId
 workforce	`w@:kf@:s	`w3:kfo:s
 boiler	`b@:Il@	`boIl@
-supper	`s6 p@	`s6p@
 disguise	dIs`gAez	d@s`gAez
-watercolour	`w@:t@k6 l@	`wo:t@k6l@
+watercolour	`w@:t@k6l@	`wo:t@k6l@
 topical	`tOpIkl	`tOpIk@l
 falter	`f@:lt@	`fo:lt@
 birth	b@:T	b3:T
 pertinent	`p@:t@n@nt	`p3:t@n@nt
-summons	`s6 m@nz	`s6m@nz
 crematorium	kr\em@`t@:r\i:@m	kr\em@`to:r\i:@m
 sure	S@:	So:
 billboard	`bIlb@:d	`bIlbo:d
@@ -134,20 +102,14 @@ tertiary	`t@:S@r\i:	`t3:S@r\i:
 despair	d@`spe@	d@`spe:
 meddle	`medl	`med@l
 gauze	g@:z	go:z
-honeymoon	`h6 ni:m}:n	`h6ni:m}:n
-son	s6 n	s6n
 respectable	r\@`spekt@bl	r\@`spekt@b@l
-Governor-General	g6 v@n@-`dZenr\@l	g6v@n@`dZenr\@l
+Governor-General	g6v@n@-`dZenr\@l	g6v@n@`dZenr\@l
 call	k@:l	ko:l
 thesaurus	T@`s@:r\@s	T@`so:r\@s
 straggle	str\{gl	str\{g@l
 after-effect	`6:ft@r\-@fekt	`6:ft@r\@fekt
 tournament	`t@:n@m@nt	`to:n@m@nt
-crumble	`kr\6 mb@l	`kr\6mb@l
 floor	fl@:	flo:
-flood	fl6 d	fl6d
-republic	r\@`p6 blIk	r\@`p6blIk
-sunset	`s6 nset	`s6nset
 circumcise	`s@:k@msAez	`s3:k@msAez
 ointment	`@:Intm@nt	`oIntm@nt
 warn	w@:n	wo:n
@@ -155,37 +117,23 @@ twinkle	`twINkl	`twINk@l
 per	p@:	p3:
 convoy	`kOnv@:I	`kOnvoI
 chair	tSe@	tSe:
-splutter	`spl6 t@	`spl6t@
 jerk	dZ@:k	dZ3:k
 choice	tS@:Is	tSoIs
 mourn	m@:n	mo:n
-bustle	`b6 s@l	`b6s@l
-crustacean	kr\6 s`t{IS@n	kr\6s`t{IS@n
 settle	`setl	`set@l
-current	`k6 r\@nt	`k6r\@nt
 record-player	`r\ek@:d-pl{I@	`r\eko:dpl{I@
 wherever	we@r\`ev@	we:r\`ev@
 MP	em `pi:	em`pi:
 MS	em `es	em`es
-influx	`Infl6 ks	`Infl6ks
-love	l6 v	l6v
 prefer	pr\@`f@:	pr\@`f3:
-bloody	`bl6 di:	`bl6di:
 August	`@:g@st	`o:g@st
 afford	@`f@:d	@`fo:d
-honey	`h6 ni:	`h6ni:
 abortion	@`b@:S@n	@`bo:S@n
-pumpkin	`p6 mpk@n	`p6mpk@n
 immune	I`mj}:n	@`mj}:n
-unforgettable	6 nf@`get@b@l	6nf@`get@b@l
 STD	es ti: `di:	esti:`di:
 laundry	`l@:ndr\i:	`lo:ndr\i:
-slush	sl6 S	sl6S
-suck	s6 k	s6k
-dove	d6 v	d6v
 disagreeable	dIs@`gr\i:@bl	dIs@`gr\i:@b@l
 wheelchair	`wi:ltSe@	`wi:ltSe:
-numberplate	`n6 mb@pl{It	`n6mb@pl{It
 course	k@:s	ko:s
 tore	t@:	to:
 overhaul	`@}v@h@:l	`@}v@ho:l
@@ -196,36 +144,25 @@ in-laws	`In-l@:z	`Inlo:z
 revert	r\@`v@:t	r\@`v3:t
 quarter	`kw@:t@	`kwo:t@
 quartet	kw@:`tet	kwo:`tet
-bucktooth	b6 k`t}:T	b6k`t}:T
 ACT	{I si: `ti:	{Isi:`ti:
 trauma	`tr\@:m@	`tr\o:m@
 formula	`f@:mj@l@	`fo:mj@l@
 hairdresser	`he@dr\es@	`he:dr\es@
 initiate	I`nISi:{It	@`nISi:{It
-punt	p6 nt	p6nt
 P-plate	`pi:-pl{It	`pi:pl{It
-dunny	`d6 ni:	`d6ni:
 clause	kl@:z	klo:z
 ATM	{I ti: `em	{Iti:`em
 hair-raising	`he@r\{IzIN	`he:r\{IzIN
-one	w6 n	w6n
-chubby	`tS6 bi:	`tS6bi:
 extortion	@k`st@:S@n	@k`sto:S@n
 shawl	S@:l	So:l
 boyfriend	`b@:Ifr\end	`boIfr\end
 iceberg	`Aesb@:g	`Aesb3:g
-sumptuous	`s6 mptS}:@s	`s6mptS}:@s
-borough	`b6 r\@	`b6r\@
 destroy	d@`str\@:I	d@`str\oI
-buffer	`b6 f@	`b6f@
 discerning	dI`s@:nIN	d@`s3:nIN
-buffet	`b6 f{I	`b6f{I
 Portuguese	p@:tS@`gi:z	po:tS@`gi:z
 lawn	l@:n	lo:n
-touchy	`t6 tSi:	`t6tSi:
 average	`{v@r\IdZ	`{vr\IdZ
-constable	`k6 nst@b@l	`k6nst@b@l
-pile-up	`pAel-6 p	`pAel6p
+pile-up	`pAel-6p	`pAel6p
 surplus	`s@:pl@s	`s3:pl@s
 far-reaching	f6:-`r\i:tSIN	f6:`r\i:tSIN
 scarce	ske@s	ske:s
@@ -235,15 +172,11 @@ resource	r\@`z@:s	r\@`zo:s
 landlord	`l{ndl@:d	`l{ndlo:d
 where	we@	we:
 surgery	`s@:dZ@r\i:	`s3:dZ@r\i:
-no-one	`n@}w6 n	`n@}w6n
-mutton	`m6 tn	`m6t@n
+mutton	`m6tn	`m6t@n
 dormitory	`d@:m@tr\i:	`do:m@tr\i:
-jumper	`dZ6 mp@	`dZ6mp@
 vertical	`v@:tIk@l	`v3:tIk@l
 spare	spe@	spe:
 jaunty	`dZ@:nti:	`dZo:nti:
-circumference	s@`k6 mf@r\@ns	s@`k6mf@r\@ns
-deduction	d@`d6 kS@n	d@`d6kS@n
 mosaic	m@`z{IIk	m@}`z{IIk
 riddle	`r\Idl	`r\Id@l
 vacation	v@`k{IS@n	v{I`k{IS@n
@@ -251,26 +184,18 @@ almighty	@:l`mAeti:	o:l`mAeti:
 prototype	`pr\@}t@tAep	`pr\@}t@}tAep
 observe	@b`z@:v	@b`z3:v
 former	`f@:m@	`fo:m@
-consultant	k@n`s6 lt@nt	k@n`s6lt@nt
 girth	g@:T	g3:T
-discolour	dIs`k6 l@	dIs`k6l@
 aluminium	{lj@`mInj@m	{lj@`mIni:@m
 purse	p@:s	p3:s
-cock-up	`kOk-6 p	`kOk6p
+cock-up	`kOk-6p	`kOk6p
 workout	`w@:k{Ot	`w3:k{Ot
 advertisement	@d`v@:t@sm@nt	@d`v3:t@sm@nt
-by-product	`bAe-pr\Od6 kt	`bAepr\Od6kt
-grumpy	`gr\6 mpi:	`gr\6mpi:
-summer	`s6 m@	`s6m@
+by-product	`bAe-pr\Od6kt	`bAepr\Od6kt
 disconcert	dIsk@n`s@:t	dIsk@n`s3:t
 disperse	dI`sp@:s	d@`sp3:s
-underline	6 nd@`lAen	6nd@`lAen
 world	w@:ld	w3:ld
 dare	de@	de:
-shutter	`S6 t@	`S6t@
 claw	kl@:	klo:
-obstruct	@b`str\6 kt	@b`str\6kt
-grub	gr\6 b	gr\6b
 wattle	`wOtl	`wOt@l
 moreover	m@:r\`@}v@	mo:r\`@}v@
 there'll	De@l	De:l
@@ -279,45 +204,32 @@ pentathlon	pen`t{Tl@n	pen`t{TlOn
 refer	r\@`f@:	r\@`f3:
 averse	@`v@:s	@`v3:s
 poise	p@:Iz	poIz
-debug	di:`b6 g	di:`b6g
-rumpus	`r\6 mp@s	`r\6mp@s
-luck	l6 k	l6k
 tortuous	`t@:tS}:@s	`to:tS}:@s
 burglar	`b@:gl@	`b3:gl@
 her	h@:	h3:
 NE	n@:T`i:st	no:T`i:st
-bubble	`b6 b@l	`b6b@l
 NW	n@:T`west	no:T`west
-plucky	`pl6 ki:	`pl6ki:
-bundy	`b6 ndi:	`b6ndi:
-rush	r\6 S	r\6S
 flirt	fl@:t	fl3:t
 dirty	`d@:ti:	`d3:ti:
 reprimand	`r\epr\@m6:nd	`r\epr\@m{nd
-rust	r\6 st	r\6st
 certain	`s@:tn	`s3:t@n
 bookstall	`bUkst@:l	`bUksto:l
 Thursday	`T@:zd{I	`T3:zd{I
-follow-up	`fOl@}-6 p	`fOl@}6p
+follow-up	`fOl@}-6p	`fOl@}6p
 worn-out	w@:n-`{Ot	wo:n`{Ot
 first-class	`f@:st-kl6:s	`f3:stkl6:s
-summit	`s6 m@t	`s6m@t
 p.a.	p@:r\`{n@m	p3:r\`{n@m
 ringworm	`r\INw@:m	`r\INw3:m
-upkeep	`6 pki:p	`6pki:p
 welfare	`welfe@	`welfe:
 urbane	@:`b{In	3:`b{In
-encourage	en`k6 r\IdZ	en`k6r\IdZ
 appointment	@`p@:Intm@nt	@`poIntm@nt
 baton	`b{tn	`b{t@n
 dinosaur	`dAen@s@:	`dAen@so:
-adjust	@`dZ6 st	@`dZ6st
 small	sm@:l	smo:l
 joiner	`dZ@:In@	`dZoIn@
 burnish	`b@:nIS	`b3:nIS
 nurse	n@:s	n3:s
 overawe	@}v@r\`@:	@}v@r\`o:
-smuggle	`sm6 g@l	`sm6g@l
 shorthand	`S@:th{nd	`So:th{nd
 indoors	In`d@:z	In`do:z
 implore	Im`pl@:	Im`plo:
@@ -325,44 +237,33 @@ gorgeous	`g@:dZ@s	`go:dZ@s
 more	m@:	mo:
 drawcard	`dr\@:k6:d	`dr\o:k6:d
 door	d@:	do:
-company	`k6 mp@ni:	`k6mp@ni:
-cunning	`k6 nIN	`k6nIN
 mall	m@:l	mo:l
 learn	l@:n	l3:n
 autumn	`@:t@m	`o:t@m
 occur	@`k@:	@`k3:
 authentic	@:`TentIk	o:`TentIk
-flutter	`fl6 t@	`fl6t@
 RSL	6:r\ es `el	6:r\es`el
 resemble	r\@`zembl	r\@`zemb@l
-pucker	`p6 k@	`p6k@
 volleyball	`vOli:b@:l	`vOli:bo:l
-fundamental	f6 nd@`mentl	f6nd@`ment@l
+fundamental	f6nd@`mentl	f6nd@`ment@l
 stone-cold	st@}n-`k@}ld	st@}n`k@}ld
 sauce	s@:s	so:s
-nugget	`n6 g@t	`n6g@t
 always	`@:lw{Iz	`o:lw{Iz
 warped	w@:pt	wo:pt
 NSW	nj}: s{OT `w{Ilz	nj}:s{OT`w{Ilz
-upstairs	6 p`ste@z	6p`ste:z
+upstairs	6p`ste@z	6p`ste:z
 clockwork	`klOkw@:k	`klOkw3:k
-mark-up	`m6:k-6 p	`m6:k6p
+mark-up	`m6:k-6p	`m6:k6p
 research	r\@`s@:tS	r\@`s3:tS
-bloody-minded	bl6 di:-`mAend@d	bl6di:`mAend@d
+bloody-minded	bl6di:-`mAend@d	bl6di:`mAend@d
 murmur	`m@:m@	`m3:m@
 imagine	I`m{dZ@n	@`m{dZ@n
-stomach	`st6 m@k	`st6m@k
-bumper	`b6 mp@	`b6mp@
-clump	kl6 mp	kl6mp
 thereafter	De@r\`6:ft@	De:r\`6:ft@
-number	`n6 m@	`n6mb@
-introduction	Intr\@`d6 kS@n	Intr\@`d6kS@n
+number	`n6m@	`n6mb@
 bedridden	`bedr\Idn	`bedr\Id@n
 immediate	I`mi:di:@t	@`mi:di:@t
-consult	k@n`s6 lt	k@n`s6lt
 determiner	d@`t@:m@n@	d@`t3:m@n@
 determined	d@`t@:m@nd	d@`t3:m@nd
-untie	6 n`tAe	6n`tAe
 ex-	eks-	eks
 heterosexual	het@r\@}`sekS}:@l	het@r\@`sekS}:@l
 self-service	self-`s@:v@s	self`s3:v@s
@@ -370,15 +271,10 @@ also	`@:ls@}	`o:ls@}
 hurtle	`h@:tl	`h3:t@l
 blackboard	`bl{kb@:d	`bl{kbo:d
 yawn	j@:n	jo:n
-shake-up	`S{Ik6 p	`S{Ik6p
 model	`mOdl	`mOd@l
 oyster	`@:Ist@	`oIst@
-covet	`k6 v@t	`k6v@t
-sometimes	`s6 mtAemz	`s6mtAemz
-cover	`k6 v@	`k6v@
 exterminate	@k`st@:m@n{It	@k`st3:m@n{It
 downpour	`d{Onp@:	`d{Onpo:
-sunny	`s6 ni:	`s6ni:
 well-off	wel-`Of	wel`Of
 bird	b@:d	b3:d
 bluebottle	`bl}:bOtl	`bl}:bOt@l
@@ -395,44 +291,28 @@ instalment	In`st@:lm@nt	In`sto:lm@nt
 drink-driving	dr\INk-`dr\AevIN	dr\INk`dr\AevIN
 firm	f@:m	f3:m
 champion	`tS{mpj@n	`tS{mpi:@n
-fund	f6 nd	f6nd
 deport	d@`p@:t	d@`po:t
-budget	`b6 dZ@t	`b6dZ@t
 far-sighted	f6:-`sAet@d	f6:`sAet@d
 triple	`tr\Ipl	`tr\Ip@l
-funny	`f6 ni:	`f6ni:
 decor	`d{Ik@:	`d{Iko:
 decoy	`di:k@:I	`di:koI
 shorten	`S@:t@n	`So:t@n
-stung	st6 N	st6N
-upbringing	`6 pbr\ININ	`6pbr\ININ
 alert	@`l@:t	@`l3:t
-cucumber	`kj}:k6 mb@	`kj}:k6mb@
-fuckwit	`f6 kwIt	`f6kwIt
 make-believe	`m{Ik-b@li:v	`m{Ikb@li:v
 doily	`d@:Ili:	`doIli:
 sandal	`s{ndl	`s{nd@l
 emergency	@`m@:dZ@nsi:	@`m3:dZ@nsi:
 format	`f@:m{t	`fo:m{t
-couple	`k6 p@l	`k6p@l
-suffering	`s6 f@r\IN	`s6f@r\IN
 OK	@} `k{I	@}`k{I
 chorus	`k@:r\@s	`ko:r\@s
 disorder	dIs`@:d@	dIs`o:d@
 sorbet	`s@:b{I	`so:b{I
 mortuary	`m@:tS@r\i:	`mo:tS@r\i:
-mummy	`m6 mi:	`m6mi:
-bludge	bl6 dZ	bl6dZ
 repair	r\@`pe@	r\@`pe:
-custom	`k6 st@m	`k6st@m
-check-up	`tSek-6 p	`tSek6p
+check-up	`tSek-6p	`tSek6p
 impudent	`Impj}:d@nt	`Impj@d@nt
 elsewhere	`elswe@	`elswe:
-slump	sl6 mp	sl6mp
 GDP	dZi: di: `pi:	dZi:di:`pi:
-up	6 p	6p
-us	6 s	6s
-um	6 m	6m
 mature	m@`tS@:	m@`tSU@
 tautology	t@:`tOl@dZi:	to:`tOl@dZi:
 haunt	h@:nt	ho:nt
@@ -440,38 +320,23 @@ diverse	dAe`v@:s	dAe`v3:s
 nationalise	`n{Sn@lAez	`n{S@n@lAez
 nationalism	`n{Sn@lIzm	`n{S@n@lIzm
 nettle	`netl	`net@l
-sunken	`s6 Nk@n	`s6Nk@n
-tuft	t6 ft	t6ft
-scrub	skr\6 b	skr\6b
-scrum	skr\6 m	skr\6m
 furthest	`f@:D@st	`f3:D@st
-hello	h6 `l@}	h6`l@}
-hunger	`h6 Ng@	`h6Ng@
-young	j6 N	j6N
 moor	m@:	mo:
 garden	`g6:dn	`g6:d@n
 torture	`t@:tS@	`to:tS@
 quadruplet	kwO`dr\}:pl@t	kwOd`r\}:pl@t
-multimedia	m6 lti:`mi:di:@	m6lti:`mi:di:@
 henceforth	hens`f@:T	hens`fo:T
 wishy-washy	`wISi:-wOSi:	`wISi:wOSi:
-punch	p6 ntS	p6ntS
 second-rate	`sek@nd-r\{It	`sek@ndr\{It
 certificate	s@`tIfIk@t	s@`tIf@k@t
-rubbish	`r\6 bIS	`r\6bIS
 gherkin	`g@:k@n	`g3:k@n
-customer	`k6 st@m@	`k6st@m@
 pour	p@:	po:
 pawn	p@:n	po:n
-trumpet	`tr\6 mp@t	`tr\6mp@t
-mumps	m6 mps	m6mps
 establishment	@s`t{blISm@nt	@`st{blISm@nt
 wallpaper	`w@:lp{Ip@	`wo:lp{Ip@
 hawk	h@:k	ho:k
 autograph	`@:t@gr\{f	`o:t@gr\{f
-redundant	r\@`d6 nd@nt	r\@`d6nd@nt
 bursar	`b@:s@	`b3:s@
-understate	6 nd@`st{It	6nd@`st{It
 perfect	`p@:fekt	`p3:fIkt
 decay	di:`k{I	d@`k{I
 dispose	dI`sp@}z	d@`sp@}z
@@ -480,36 +345,26 @@ merge	m@:dZ	m3:dZ
 VIP	vi: Ae `pi:	vi:Ae`pi:
 shortage	`S@:tIdZ	`So:tIdZ
 scorch	sk@:tS	sko:tS
-bump	b6 mp	b6mp
 thirteen	T@:`ti:n	T3:`ti:n
 footwear	`fUtwe@	`fUtwe:
 borderline	`b@:d@lAen	`bo:d@lAen
 hilarious	h@`le@r\i:@s	h@`le:r\i:@s
-shut	S6 t	S6t
-unwieldy	6 n`wIldi:	6n`wI@ldi:
+unwieldy	6n`wIldi:	6n`wI@ldi:
 surely	`S@:li:	`So:li:
 sanatorium	s{n@`t@:r\i:@m	s{n@`to:r\i:@m
-shun	S6 n	S6n
 scare	ske@	ske:
 prank	pr\6:Nk	pr\{Nk
-scullery	`sk6 l@r\i:	`sk6l@r\i:
-accompany	@`k6 mp@ni:	@`k6mp@ni:
 dead-end	`de-end	`dedend
-buttocks	`b6 t@ks	`b6t@ks
 warfare	`w@:fe@	`wo:fe:
-misunderstand	mIs6 nd@`st{nd	mIs6nd@`st{nd
 gentle	`dZentl	`dZent@l
 fourteenth	f@:`ti:nT	fo:`ti:nT
-blockbuster	`blOkb6 st@	`blOkb6st@
 off-peak	`Of-pi:k	`Ofpi:k
 soar	s@:	so:
 worldwide	w@:l`dwAed	w3:ld`wAed
-plus	pl6 s	pl6s
 medal	`medl	`med@l
 fervent	`f@:v@nt	`f3:v@nt
 dissociate	dI`s@}si:{It	dIs`s@}si:{It
 manchester	`m{ntS@st@	`m{ntSest@
-rough	r\6 f	r\6f
 decade	`dk{Id	`dek{Id
 pause	p@:z	po:z
 jaw	dZ@:	dZo:
@@ -517,80 +372,45 @@ terminal	`t@:m@n@l	`t3:m@n@l
 handle	`h{ndl	`h{nd@l
 stand-by	`st{nd-bAe	`st{ndbAe
 terminus	`t@:m@n@s	`t3:m@n@s
-summon	`s6 m@n	`s6m@n
-stuff	st6 f	st6f
 heartburn	`h6:tb@:n	`h6:tb3:n
 airmail	`e@m{Il	`e:m{Il
 PS	pi: `es	pi:`es
 PA	pi: `{I	pi:`{I
-unravel	6 n`r\{v@l	6n`r\{v@l
-injustice	In`dZ6 st@s	In`dZ6st@s
 pistol	`pIstl	`pIst@l
 PO	pi: `@}	pi:`@}
-disgruntled	dIs`gr\6 ntld	dIs`gr\6nt@ld
+disgruntled	dIs`gr\6ntld	dIs`gr\6nt@ld
 courtyard	`k@:tj6:d	`ko:tj6:d
-drum	dr\6 m	dr\6m
 galore	g@`l@:	g@`lo:
 distil	dI`stIl	d@`stIl
-shudder	`S6 d@	`S6d@
 entitle	en`tAetl	en`tAet@l
-runway	`r\6 nw{I	`r\6nw{I
 maul	m@:l	mo:l
 groin	gr\@:In	gr\oIn
-stuffing	`st6 fIN	`st6fIN
-lush	l6 S	l6S
-lust	l6 st	l6st
 vs	`v@:s@s	`v3:s@z
-adultery	@`d6 lt@r\i:	@`d6lt@r\i:
 conserve	k@n`s@:v	k@n`s3:v
-yuppie	`j6 pi:	`j6pi:
 glaring	`gle@r\IN	`gle:r\IN
-covenant	`k6 v@n@nt	`k6v@n@nt
-dusk	d6 sk	d6sk
 overalls	`@}v@r\@:lz	`@}v@r\o:lz
 audit	`@:d@t	`o:d@t
-trudge	tr\6 dZ	tr\6dZ
-shotgun	`SOtg6 n	`SOtg6n
-colour	`k6 l@	`k6l@
 diversify	d@`v@:s@fAe	d@`v3:s@fAe
 audio	`@:di:@}	`o:di:@}
-gully	`g6 li:	`g6li:
-glut	gl6 t	gl6t
-glum	gl6 m	gl6m
-government	`g6 v@nm@nt	`g6v@nm@nt
-budgie	`b6 dZi:	`b6dZi:
 taunt	t@:nt	to:nt
-crux	kr\6 ks	kr\6ks
 haul	h@:l	ho:l
 premature	`pr\em@tS@	`pr\em@tSU@
-bulge	b6 ldZ	b6ldZ
-become	b@`k6 m	b@`k6m
 immortal	I`m@:t@l	I`mo:t@l
-flush	fl6 S	fl6S
 transport	`tr\{nsp@:t	`tr\{nspo:t
 avoid	@`v@:Id	@`voId
-does	d6 z	d6z
 saucepan	`s@:sp@n	`so:sp@n
 hooligan	`h}:l@g@n	`h}:li:g@n
-mudguard	`m6 dg6:d	`m6dg6:d
 imaginary	I`m{dZ@n@r\i:	@`m{dZ@nr\i:
 gallstone	`g@:lst@}n	`go:lst@}n
-lung	l6 N	l6N
 negotiable	ne`g@}Si:@bl	ne`g@}S@b@l
-subsidy	`s6 bs@di:	`s6bs@di:
-bros.	`br\6 D@z	`br\6D@z
-function	`f6 NkS@n	`f6NkS@n
-funnel	`f6 nl	`f6n@l
+funnel	`f6nl	`f6n@l
 cosmopolitan	kOzm@`pOl@tn	kOzm@`pOl@t@n
 taciturn	`t{s@t@:n	`t{s@t3:n
 spiritual	`spIr\ItS}:@l	`spIr\@tS@l
 baptism	`b{ptIzm	`b{ptIz@m
 bearing	`be@r\IN	`be:r\IN
-rubble	`r\6 b@l	`r\6b@l
 father-in-law	`f6:D@r\-In-l@:	`f6:D@r\Inlo:
-nonetheless	n6 nD@`les	n6nD@`les
 illusion	I`l}:Z@n	@`l}:Z@n
-sunshine	`s6 nSAen	`s6nSAen
 dismantle	dIs`m{ntl	dIs`m{nt@l
 in-	In-	In
 mercenary	`m@:s@nr\i:	`m3:s@nr\i:
@@ -601,27 +421,18 @@ desirable	d@`zAe@r\@bl	d@`zAer\@b@l
 nursery	`n@:s@r\i:	`n3:s@r\i:
 grandparent	`gr\{npe@r\@nt	`gr\{npe:r\@nt
 defraud	d@`fr\@:d	d@`fr\o:d
-bludgeon	`bl6 dZ@n	`bl6dZ@n
 oriental	@:r\i:`entl	o:r\i:`ent@l
 blanket	`bl6:Nk@t	`bl{Nk@t
 distort	d@`st@:t	d@`sto:t
-begrudge	b@`gr\6 dZ	b@`gr\6dZ
 waterlogged	`w@:t@lOgd	`wo:t@lOgd
-triumph	`tr\Ae6 mf	`tr\Ae6mf
 heliport	`heli:p@:t	`heli:po:t
 horn	h@:n	ho:n
 hire-purchase	hAe@-`p@:tS@s	hAe@`p3:tS@s
 moratorium	mOr\@`t@:r\i:@m	mOr\@`to:r\i:@m
-above	@`b6 v	@`b6v
 toll	t@}l	tOl
-crunch	kr\6 ntS	kr\6ntS
-dustpan	`d6 stp{n	`d6stp{n
 hairdo	`he@d}:	`he:d}:
 daughter	`d@:t@	`do:t@
-bunker	`b6 Nk@	`b6Nk@
-thrust	Tr\6 st	Tr\6st
 ploy	pl@:I	ploI
-insult	In`s6 lt	In`s6lt
 scary	`ske@r\i:	`ske:r\i:
 award	@`w@:d	@`wo:d
 aware	@`we@	@`we:
@@ -629,14 +440,11 @@ word	w@:d	w3:d
 wore	w@:	wo:
 err	@:	3:
 divorcee	d@v@:`si:	d@vo:`si:
-defuse	di:`fj}:z	d@`fj}:z
 work	w@:k	w3:k
 worm	w@:m	w3:m
 worn	w@:n	wo:n
-cuddly	`k6 dli:	`k6dli:
-cuddle	`k6 dl	`k6d@l
+cuddle	`k6dl	`k6d@l
 mortar	`m@:t@	`mo:t@
-flunk	fl6 Nk	fl6Nk
 impair	Im`pe@	Im`pe:
 morbid	`m@:b@d	`mo:b@d
 moron	`m@:r\On	`mo:r\On
@@ -646,47 +454,32 @@ law	l@:	lo:
 worst	w@:st	w3:st
 order	`@:d@	`o:d@
 mayor	me@	me:
-somewhere	`s6 mwe@	`s6mwe:
-acupuncture	`{kj@p6 NktS@	`{kj@p6NktS@
+somewhere	`s6mwe@	`s6mwe:
 carton	`k6:tn	`k6:t@n
 versus	`v@:s@s	`v3:s@z
-repulsive	r\@`p6 lsIv	r\@`p6lsIv
-puppet	`p6 p@t	`p6p@t
 hostel	`hOst@l	`hOstel
 network	`netw@:k	`netw3:k
 forty	`f@:ti:	`fo:ti:
 forte	`f@:t{I	`fo:t{I
 forth	f@:T	fo:T
 forcible	`f@:s@b@l	`fo:s@b@l
-putty	`p6 ti:	`p6ti:
 warden	`w@:d@n	`wo:d@n
-guzzle	`g6 z@l	`g6z@l
-another	@`n6 D@	@`n6D@
-agriculture	`{gr\@k6 ltS@	`{gr\@k6ltS@
 hearse	h@:s	h3:s
-fumble	`f6 mbl	`f6mb@l
+fumble	`f6mbl	`f6mb@l
 paltry	`p@:ltr\i:	`po:ltr\i:
 mercy	`m@:si:	`m3:si:
-kung-fu	k6 N-`f}:	k6N`f}:
-sunbake	`s6 nb{Ik	`s6nb{Ik
+kung-fu	k6N-`f}:	k6N`f}:
 self-confident	self-`kOnf@d@ns	self`kOnf@d@ns
 strength	str\eNT	str\eNkT
 casual	`k{Zj}:@l	`k{Z}:@l
-luxury	`l6 kS@r\i:	`l6kS@r\i:
 maiden	`m{Idn	`m{Id@n
 autopsy	`@:tOpsi:	`o:tOpsi:
 kilohertz	`kIl@h@:ts	`kIl@h3:ts
 QC	kj}: `si:	kj}:`si:
-fussy	`f6 si:	`f6si:
 mitten	`mItn	`mIt@n
-crust	kr\6 st	kr\6st
 precarious	pr\@`ke@r\i:@s	pr\@`ke:r\i:@s
-wrung	r\6 N	r\6N
-umpteen	6 mp`ti:n	6mp`ti:n
 dermatitis	d@:m@`tAet@s	d3:m@`tAet@s
 personality	p@:s@`n{l@ti:	p3:s@`n{l@ti:
-runt	r\6 nt	r\6nt
-rung	r\6 N	r\6N
 freshwater	`fr\eSw@:t@	`fr\eSwo:t@
 compere	`kOmpe@	`kOmpe:
 lemonade	lem@`n{Id	lem@n`{Id
@@ -699,7 +492,6 @@ accord	@`k@:d	@`ko:d
 termite	`t@:mAet	`t3:mAet
 convertible	k@n`v@:t@bl	k@n`v3:t@b@l
 royal	`r\@:I@l	`r\oI@l
-trunk	tr\6 Nk	tr\6Nk
 Vic.	vIk`t@:r\i:@	vIk`to:r\i:@
 scarecrow	`ske@kr\@}	`ske:kr\@}
 concerning	k@n`s@:nIN	k@n`s3:nIN
@@ -708,92 +500,61 @@ hoist	h@:Ist	hoIst
 clairvoyant	kle@`v@:I@nt	kle:`voI@nt
 air	e@	e:
 pig-headed	pIg-`hed@d	pIg`hed@d
-abrupt	@`br\6 pt	@`br\6pt
 smorgasbord	`sm@:g@zb@:d	`smo:g@sbo:d
 patent	`p{Itnt	`p{It@nt
 authorise	`@:T@r\Aez	`o:T@r\Aez
-bunny	`b6 ni:	`b6ni:
-fuss	f6 s	f6s
-humble	`h6 mb@l	`h6mb@l
 thyroid	`TAer\@:Id	`TAer\oId
 cervix	`s@:vIks	`s3:vIks
 board	b@:d	bo:d
-snug	sn6 g	sn6g
 bindi-eye	`bIndi:-Ae	`bIndi:Ae
 born	b@:n	bo:n
-pugnacious	p6 g`n{IS@s	p6g`n{IS@s
-unless	6 n`les	6n`les
 bore	b@:	bo:
 purple	`p@:p@l	`p3:p@l
 confer	k@n`f@:	k@n`f3:
-constructive	k@n`str\6 ktIv	k@n`str\6ktIv
 posy	`p@}:zi:	`p@}zi:
 herpes	`h@:pi:z	`h3:pi:z
 theirs	De@z	De:z
 tarpaulin	t6:`p@:l@n	t6:`po:l@n
 thermostat	`T@:m@st{t	`T3:m@st{t
 formidable	`f@:m@d@b@l	`fo:m@d@b@l
-stumble	`st6 mb@l	`st6mb@l
 accordingly	@`k@:dINli:	@`ko:dINli:
 war	w@:	wo:
-becoming	b@`k6 mIN	b@`k6mIN
 converse	`kOnv@:s	`kOnv3:s
-somehow	`s6 mh{O	`s6mh{O
 dying	`dAeN	`dAeIN
 disloyal	dIs`l@:I@l	dIs`loI@l
 roller-skate	`r\@}l@-sk{It	`r\@}l@sk{It
-multiple-choice	`m6 lt@pl-tS@:Is	`m6lt@p@ltSoIs
-concurrent	k@N`k6 r\@nt	k@N`k6r\@nt
+multiple-choice	`m6lt@pl-tS@:Is	`m6lt@p@ltSoIs
 chairperson	`tSe@p@:sn	`tSe:p3:s@n
 loyal	`l@:I@l	`loI@l
-impulse	`Imp6 ls	`Imp6ls
-supplement	`s6 pl@m@nt	`s6pl@m@nt
 battle	`b{tl	`b{t@l
 certainly	`s@:tnli:	`s3:t@nli:
 dissatisfied	dI`s{tIsfAed	dIs`s{t@sfAed
 terminate	`t@:m@n{It	`t3:m@n{It
 kitten	`kItn	`kIt@n
-trouble	`tr\6 bl	`tr\6b@l
-gun	g6 n	g6n
-gum	g6 m	g6m
+trouble	`tr\6bl	`tr\6b@l
 discrete	dI`skr\i:t	d@`skr\i:t
-gut	g6 t	g6t
 disqualify	dI`skwOl@fAe	dIs`kwOl@fAe
 diarrhoea	dAe@`r\i:@	dAe@`r\I@
-upper	`6 p@	`6p@
-plummet	`pl6 m@t	`pl6m@t
 hydro-electric	hAedr\@}-@`lektr\Ik	hAedr\@}@`lektr\Ik
-discover	dI`sk6 v@	d@`sk6v@
+discover	dI`sk6v@	d@`sk6v@
 free-for-all	`fr\i:-f@r\-@:l	`fr\i:f@r\o:l
 curse	k@:s	k3:s
 gawk	g@:k	go:k
 gorge	g@:dZ	go:dZ
-buck	b6 k	b6k
-incoming	`Ink6 mIN	`Ink6mIN
 pictorial	pIk`t@:r\i:@l	pIk`to:r\i:@l
-uphill	6 p`hIl	6p`hIl
 seashore	`si:S@:	`si:So:
-club	kl6 b	kl6b
 purge	p@:dZ	p3:dZ
 waterski	`w@:t@ski:	`wo:t@ski:
 abort	@`b@:t	@`bo:t
 exclude	@ks`kl}:d	@k`skl}:d
-productive	pr\@`d6 ktIv	pr\@`d6ktIv
-bankrupt	`b{Nkr\6 pt	`b{Nkr\6pt
-product	`pr\Od6 kt	`pr\Od6kt
 staircase	`ste@k{Is	`ste:k{Is
-push-up	`pUS-6 p	`pUS6p
+push-up	`pUS-6p	`pUS6p
 bawl	b@:l	bo:l
-flourish	`fl6 r\IS	`fl6r\IS
-grandson	`gr\{ns6 n	`gr\{ns6n
-crumple	`kr\6 mp@l	`kr\6mp@l
 typical	`tIpIkl	`tIpIk@l
-no.	`n6 mb@	`n6mb@
 serving	`s@:vIN	`s3:vIN
 forfeit	`f@:f@t	`fo:f@t
-haircut	`he@k6 t	`he:k6t
-suffocate	`s6 f@k{It	`s6f@k{It
-cul-de-sac	`k6 l-d@-s{k	`k6ld@s{k
+haircut	`he@k6t	`he:k6t
+cul-de-sac	`k6l-d@-s{k	`k6ld@s{k
 centenary	sen`ti:n@r\i:	sen`ten@r\i:
 nought	n@:t	no:t
 halt	h@:lt	ho:lt
@@ -801,7 +562,7 @@ hall	h@:l	ho:l
 servant	`s@:v@nt	`s3:v@nt
 furtive	`f@:tIv	`f3:tIv
 kerb	k@:b	k3:b
-mixed-up	`mIkst-6 p	`mIkst6p
+mixed-up	`mIkst-6p	`mIkst6p
 yeah	je@	je:
 thirst	T@:st	T3:st
 care	ke@	ke:
@@ -811,32 +572,26 @@ municipality	mj}:n@s@`p{l@ti:	mj}:nIs@`p{l@ti:
 yourself	j@:`self	jo:`self
 caught	k@:t	ko:t
 short	S@:t	So:t
-rugged	`r\6 g@d	`r\6g@d
 surname	`s@:n{Im	`s3:n{Im
 saute	`s@}t{I	`so:t{I
 windsurf	`wInds@:f	`wInds3:f
-recover	r\@`k6 v@	r\@`k6v@
 callgirl	`k@:lg@:l	`ko:lg3:l
 haemorrhoid	`hem@r\@:i:d	`hem@r\oId
 aerosol	`e@r\@sOl	`e:r\@sOl
 pattern	`p{tn	`p{t@n
 startle	`st6:tl	`st6:t@l
 HSC	{ItS es `si:	{ItSes`si:
-upgrade	6 p`gr\{Id	6p`gr\{Id
 stair	ste@	ste:
 title	`tAetl	`tAet@l
 proportion	pr\@`p@:S@n	pr\@`po:S@n
 amputee	{mpj}:`ti:	{mpj@`ti:
 superb	s@`p@:b	s@`p3:b
-husband	`h6 zb@nd	`h6zb@nd
 burst	b@:st	b3:st
 hypodermic	hAep@`d@:mIk	hAep@`d3:mIk
 sport	sp@:t	spo:t
 concern	k@n`s@:n	k@n`s3:n
 import	Im`p@:t	Im`po:t
-pluck	pl6 k	pl6k
-guffaw	g6 `f@:	g6`fo:
-monk	m6 Nk	m6Nk
+guffaw	g6`f@:	g6`fo:
 aura	`@:r\@	`o:r\@
 downtrodden	d{On`tr\Odn	d{On`tr\Od@n
 dispatch	dIs`p{tS	d@`sp{tS
@@ -845,57 +600,39 @@ COD	si: @} `di:	si:@}`di:
 tropical	`tr\OpIkl	`tr\OpIk@l
 down-market	d{On-`m6:k@t	d{On`m6:k@t
 external	@k`st@:n@l	@k`st3:n@l
-crumb	kr\6 m	kr\6m
 editorial	ed@`t@:r\i:@l	ed@`to:r\i:@l
-scum	sk6 m	sk6m
 GNP	dZi: en `pi:	dZi:en`pi:
 alcoholic	{lIk	{lk@hOlIk
 soil	s@:Il	soIl
-suss	s6 s	s6s
-drug	dr\6 g	dr\6g
-somebody	`s6 mbOdi:	`s6mbOdi:
-worry	`w6 r\i:	`w6r\i:
 northward	`n@:Tw@d	`no:Tw@d
-brumby	`br\6 mbi:	`br\6mbi:
 noble	`n@}bl	`n@}b@l
-puff	p6 f	p6f
-busker	`b6 sk@	`b6sk@
 coordinate	k@}`@:d@n{It	k@}`o:d@n{It
-otherwise	`6 D@wAez	`6D@wAez
 valuable	`v{lj}:b@l	`v{lj@b@l
 maternity	m@`t@:n@ti:	m@`t3:n@ti:
-touch	t6 tS	t6tS
 verse	v@:s	v3:s
-struck	str\6 k	str\6k
 spectacular	spek`t{kjUl@	spek`t{kj@l@
 early	`@:li:	`3:li:
 earnest	`@:n@st	`3:n@st
 fortune	`f@:tS@n	`fo:tS@n
-untangle	6 n`t{Ngl	6n`t{Ng@l
+untangle	6n`t{Ngl	6n`t{Ng@l
 verbal	`v@:b@l	`v3:b@l
 questionnaire	kwestS@n`e@	kwestS@n`e:
 squirm	skw@:m	skw3:m
 perverse	p@`v@:s	p@`v3:s
 conservative	k@n`s@:v@tIv	k@n`s3:v@tIv
 squirt	skw@:t	skw3:t
-hustle	`h6 s@l	`h6s@l
 tuition	tj}:`ISn	tj}:`IS@n
-uneasy	6 n`i:zi:	6n`i:zi:
 journey	`dZ@:ni:	`dZ3:ni:
-backup	`b{k6 p	`b{k6p
-resuscitate	r\@`s6 s@t{It	r\@`s6s@t{It
 your	j@:	jo:
 stare	ste@	ste:
 prepare	pr\@`pe@	pr\@`pe:
 area	`e@r\i:@	`e:r\i:@
-cold-blooded	`k@}ld-bl6 d@d	`k@}ldbl6d@d
+cold-blooded	`k@}ld-bl6d@d	`k@}ldbl6d@d
 immaculate	I`m{kj}:l@t	@`m{kj@l@t
 recoil	r\@`k@:Il	r\@`koIl
 corduroy	`k@:dZ@r\@:I	`ko:d@r\oI
 fraud	fr\@:d	fr\o:d
 circulation	s@:kj@`l{IS@n	s3:kj@`l{IS@n
-bucket	`b6 k@t	`b6k@t
-undertake	6 nd@`t{Ik	6nd@`t{Ik
 nerd	n@:d	n3:d
 storage	`st@:r\IdZ	`sto:r\IdZ
 housework	`h{Osw@:k	`h{Osw3:k
@@ -903,69 +640,39 @@ poor	p@:	po:
 assert	@`s@:t	@`s3:t
 skeleton	`skel@tn	`skel@t@n
 groundwork	`gr\{Ondw@:k	`gr\{Ondw3:k
-month	m6 nT	m6nT
-unrest	6 n`r\est	6n`r\est
 thoughtful	`T@:tfUl	`To:tfUl
-dugout	`d6 g{Ot	`d6g{Ot
 duty-free	dj}:ti:-`fr\i:	dj}:ti:`fr\i:
-eardrum	`I@dr\6 m	`I@dr\6m
 corps	k@:	ko:
-dumpling	`d6 mplIN	`d6mplIN
 verb	v@:b	v3:b
-hold-up	`h@}ld-6 p	`h@}ld6p
-maladjusted	m{l@`dZ6 st@d	m{l@`dZ6st@d
+hold-up	`h@}ld-6p	`h@}ld6p
 curdle	`k@:dl	`k3:d@l
-study	`st6 di:	`st6di:
-dunk	d6 Nk	d6Nk
 orgasm	`@:g{z@m	`o:g{z@m
-chuckle	`tS6 k@l	`tS6k@l
 penalise	`pi:n@lAez	`pen@lAez
 Latin	`l{tn	`l{t@n
 lurch	l@:tS	l3:tS
-conjunctivitis	k@ndZ6 Nkt@`vAet@s	k@ndZ6Nkt@`vAet@s
-repugnant	r\@`p6 gn@nt	r\@`p6gn@nt
-multinational	m6 lti:`n{S@n@l	m6lti:`n{S@n@l
-pub	p6 b	p6b
 vegetarian	vedZ@`te@r\i:@n	vedZ@`te:r\i:@n
 rort	r\@:t	r\o:t
-shuffle	`S6 f@l	`S6f@l
 mouth-watering	`m{OT-w@:t@r\IN	`m{OTwo:t@r\IN
-rudder	`r\6 d@	`r\6d@
-hurry	`h6 r\i:	`h6r\i:
 take-off	`t{Ik-Of	`t{IkOf
 SA	s{OT @`str\{Ilj@	s{OT@`str\{Ilj@
 self-conscious	self-`kOnS@s	self`kOnS@s
 boycott	`b@:IkOt	`boIkOt
-malnourished	`m{ln6 r\ISt	`m{ln6r\ISt
 horizontal	hOr\@`zOntl	hOr\@`zOnt@l
-compulsory	k@m`p6 ls@r\i:	k@m`p6ls@r\i:
-undergo	6 nd@`g@}	6nd@`g@}
 morphine	`m@:fi:n	`mo:fi:n
 auburn	`@:b@n	`o:b@n
 racecourse	`r\{Isk@:s	`r\{Isko:s
 ACTU	{I si: ti: `j}:	{Isi:ti:`j}:
 fairy	`fe@r\i:	`fe:r\i:
 thirteenth	T@:`ti:nT	T3:`ti:nT
-publish	`p6 blIS	`p6blIS
-pun	p6 n	p6n
 bald	b@:ld	bo:ld
 dirt	d@:t	d3:t
 BC	bi: `si:	bi:`si:
-dung	d6 N	d6N
-pup	p6 p	p6p
-pus	p6 s	p6s
 launch	l@:ntS	lo:ntS
 nutritionist	nj}:`tr\IS@ni:st	nj}:`tr\IS@n@st
 horse	h@:s	ho:s
-wonderful	`w6 nd@fUl	`w6nd@fUl
-hundred	`h6 ndr\@d	`h6ndr\@d
-plughole	`pl6 gh@}l	`pl6gh@}l
 impersonal	Im`p@:s@n@l	Im`p3:s@n@l
-uncanny	6 n`k{ni:	6n`k{ni:
 coleslaw	`k@}lsl@:	`k@}lslo:
 affirmative	@`f@:m@tIv	@`f3:m@tIv
-cumbersome	`k6 mb@s@m	`k6mb@s@m
-vulnerable	`v6 lnr\@b@l	`v6lnr\@b@l
 towards	t@`w@:dz	t@`wo:dz
 promenade	pr\Om@`n6:d	pr\Om@`n{Id
 anniversary	{n@`v@:s@r\i:	{n@`v3:s@r\i:
@@ -976,93 +683,64 @@ roadworks	`r\@}dw@:ks	`r\@}dw3:ks
 part-time	p6:t-`tAem	p6:t`tAem
 ropeable	`r\@}p@bl	`r\@}p@b@l
 wriggle	`r\Igl	`r\Ig@l
-justice	`dZ6 st@s	`dZ6st@s
 paranoia	p{r\@`n@:I@	p{r\@`noI@
 circle	`s@:k@l	`s3:k@l
 Medicare	`medi:ke@	`medi:ke:
 molten	`m@}ltn	`m@}lt@n
-fluff	fl6 f	fl6f
 immerse	I`m@:s	@`m3:s
 nightshirt	`nAetS@:t	`nAetS3:t
 perfume	`p@:fj}:m	`p3:fj}:m
 after-hours	`6:ft@r\-{O@z	`6:ft@r\{O@z
 courteous	`k@:ti:@s	`k3:ti:@s
 plausible	`pl@:z@b@l	`plo:z@b@l
-culture	`k6 ltS@	`k6ltS@
 revolution	r\ev@`l}:Sn	r\ev@`l}:S@n
-won	w6 n	w6n
 assertive	@`s@:tIv	@`s3:tIv
-unconscious	6 n`kOnS@s	6n`kOnS@s
 half-hearted	`h6:f-h6:t@d	`h6:fh6:t@d
 gaunt	g@:nt	go:nt
-buzz	b6 z	b6z
 Turkish	`t@:kIS	`t3:kIS
-mumble	`m6 mb@l	`m6mb@l
-horticulture	`h@:t@k6 ltS@	`ho:t@k6ltS@
+horticulture	`h@:t@k6ltS@	`ho:t@k6ltS@
 coarse	k@:s	ko:s
 c/o	`ke@r\Ov	`ke:r\Ov
 determination	d@t@:m@`n{IS@n	d@t3:m@`n{IS@n
 folklore	`f@}kl@:	`f@}klo:
-furrow	`f6 r\@}	`f6r\@}
 dry-clean	dr\Ae-`kli:n	dr\Ae`kli:n
 petal	`petl	`pet@l
 forebear	`f@:be@	`fo:be:
 discredit	dI`skr\ed@t	dIs`kr\ed@t
-paid-up	`p{Id-6 p	`p{Id6p
+paid-up	`p{Id-6p	`p{Id6p
 hallway	`h@:lw{I	`ho:lw{I
 used	j}:st	j}:zd
 assortment	@`s@:tm@nt	@`so:tm@nt
 chore	tS@:	tSo:
 chord	k@:d	ko:d
 morsel	`m@:s@l	`mo:s@l
-bunyip	`b6 nj@p	`b6nj@p
 password	`p6:sw@:d	`p6:sw3:d
 informal	In`f@:m@l	In`fo:m@l
 chairman	`tSe@m@n	`tSe:m@n
-oncoming	`Onk6 mIN	`Onk6mIN
-multicultural	m6 lti:`k6 ltS@r\@l	m6lti:`k6ltS@r\@l
 manifest	`m{n@f@st	`m{n@fest
 trade-in	`tr\{Id-In	`tr\{IdIn
 terminology	t@:m@`nOl@dZi:	t3:m@`nOl@dZi:
-some	s6 m	s6m
 urgent	`@:dZ@nt	`3:dZ@nt
-run	r\6 n	r\6n
-rum	r\6 m	r\6m
-rub	r\6 b	r\6b
-rug	r\6 g	r\6g
 abroad	@`br\@:d	@`br\o:d
-rut	r\6 t	r\6t
 perk	p@:k	p3:k
 caretaker	`ke@t{Ik@	`ke:t{Ik@
-nothing	`n6 TIN	`n6TIN
-rummage	`r\6 mIdZ	`r\6mIdZ
 authority	@:`TOr\@ti:	o:`TOr\@ti:
 quorum	`kw@:r\@m	`kwo:r\@m
-skull	sk6 l	sk6l
-accustomed	@`k6 st@md	@`k6st@md
-sullen	`s6 l@n	`s6l@n
 AD	{I `di:	{I`di:
 AM	{I `em	{I`em
 reservation	r\ez@`v{ISn	r\ez@`v{IS@n
 formal	`f@:m@l	`fo:m@l
-structure	`str\6 ktS@	`str\6ktS@
 everywhere	`evr\i:we@	`evr\i:we:
 virtue	`v@:tS}:	`v3:tS}:
-grunt	gr\6 nt	gr\6nt
-culinary	`k6 l@nr\i:	`k6l@nr\i:
 nausea	`n@:si:@	`no:zi:@
 excruciating	@ks`kr\}:Si:{ItIN	@k`skr\}:Si:{ItIN
-unusual	6 n`j}:Z}:@l	6n`j}:Z}:@l
 verdict	`v@:dIkt	`v3:dIkt
-sultana	s6 l`t6:n@	s6l`t6:n@
-jump	dZ6 mp	dZ6mp
 noise	n@:Iz	noIz
 pornography	p@:`nOgr\@fi:	po:`nOgr\@fi:
 deputation	depj}:`t{IS@n	depj@`t{IS@n
 colonel	`k@:n@l	`k3:n@l
 commercial	k@`m@:S@l	k@`m3:S@l
 convert	k@n`v@:t	k@n`v3:t
-uptight	6 p`tAet	6p`tAet
 foresee	f@:`si:	fo:`si:
 metaphor	`met@f@	`met@fo:
 vehicle	`vi:Ik@l	`vI@k@l
@@ -1070,85 +748,64 @@ exhaustive	@g`z@:stIv	@g`zo:stIv
 wharf	w@:f	wo:f
 red-back	`r\ed-b{k	`r\edb{k
 serviceable	`s@:v@s@b@l	`s3:v@s@b@l
-suds	s6 dz	s6dz
 sought	s@:t	so:t
-publicity	p6 b`lIs@ti:	p6b`lIs@ti:
 skirt	sk@:t	sk3:t
 waterproof	`w@:t@pr\}:f	`wo:t@pr\}:f
 lurgy	`l@:gi:	`l3:gi:
 perspire	p@`spAe@	p3:`spAe@
 fare	fe@	fe:
 by-law	`bAe-l@:	`bAelo:
-cutlery	`k6 tl@r\i:	`k6tl@r\i:
 sperm	sp@:m	sp3:m
 brittle	`br\Itl	`br\It@l
 sword	s@:d	so:d
-front	fr\6 nt	fr\6nt
 university	j}:n@`v@:s@ti:	j}:n@`v3:s@ti:
 tableware	`t{Ib@lwe@	`t{Ib@lwe:
-upward	`6 pw@d	`6pw@d
 illuminate	I`l}:m@n{It	@`l}:m@n{It
 seesaw	`si:s@:	`si:so:
 lukewarm	l}:k`w@:m	l}:k`wo:m
-unlawful	6 n`l@:fUl	6n`lo:fUl
+unlawful	6n`l@:fUl	6n`lo:fUl
 CES	si: i: `es	si:i:`es
 cause	k@:z	ko:z
-umbrella	6 m`br\el@	6m`br\el@
-undo	6 n`d}:	6n`d}:
 furore	`fj}:r\@:	`fj}:r\o:
 airconditioning	`e@k@ndIS@nIN	`e:k@ndIS@nIN
 precaution	pr\@`k@:S@n	pr\@`ko:S@n
 fertiliser	`f@:t@lAez@	`f3:t@lAez@
 ring-in	`r\IN-In	`r\INIn
-such	s6 tS	s6tS
 ice-cream	`Aes-kr\i:m	`Aeskr\i:m
 circulate	`s@:kj@l{It	`s3:kj@l{It
 post-mortem	p@}st-`m@:t@m	p@}st`mo:t@m
-punish	`p6 nIS	`p6nIS
-fuzzy	`f6 zi:	`f6zi:
 spurt	sp@:t	sp3:t
-sultry	`s6 ltr\i:	`s6ltr\i:
 daughter-in-law	`d@:t@r\-In-l@:	`do:t@r\Inlo:
 torment	`t@:ment	`to:ment
 portrait	`p@:tr\@t	`po:tr\@t
 border	`b@:d@	`bo:d@
-bloodbath	`bl6 db6:T	`bl6db6:T
 jaunt	dZ@:nt	dZo:nt
-brother-in-law	`br\6 D@r\-In-l@:	`br\6D@r\Inlo:
+brother-in-law	`br\6D@r\-In-l@:	`br\6D@r\Inlo:
 awe	@:	o:
-plumber	`pl6 m@	`pl6m@
 urn	@:n	3:n
-upset	6 p`set	6p`set
 blurt	bl@:t	bl3:t
 talk	t@:k	to:k
-unsettle	6 n`setl	6n`set@l
+unsettle	6n`setl	6n`set@l
 versatile	`v@:s@tAel	`v3:s@tAel
 joint	dZ@:Int	dZoInt
 fallout	`f@:l{Ot	`fo:l{Ot
 Italian	I`t{lj@n	@`t{lj@n
-gust	g6 st	g6st
-gush	g6 S	g6S
-conduct	k@n`d6 kt	k@n`d6kt
 orphan	`@:f@n	`o:f@n
 reinforce	r\i:In`f@:s	r\i:In`fo:s
 reinforcements	r\i:In`f@:sm@nts	r\i:In`fo:sm@nts
 nightmare	`nAetme@	`nAetme:
-hit-and-run	hIt-n-`r\6 n	hIt@n`r\6n
+hit-and-run	hIt-n-`r\6n	hIt@n`r\6n
 self-centred	self-`sent@d	self`sent@d
 p.t.o.	pi: ti: `@}	pi:ti:`@}
 simple-minded	`sImp@l-mAend@d	`sImp@lmAend@d
 foreshadow	f@:`S{d@}	fo:`S{d@}
-thumb	T6 m	T6m
 a.m.	{I `em	{I`em
 jersey	`dZ@:zi:	`dZ3:zi:
-subtitle	`s6 btAetl	`s6btAet@l
+subtitle	`s6btAetl	`s6btAet@l
 immense	I`mens	@`mens
-thump	T6 mp	T6mp
-brunch	br\6 ntS	br\6ntS
 chalk	tS@:k	tSo:k
 dinki-di	dINki:-`dAe	dINki:`dAe
 surface	`s@:f@s	`s3:f@s
-crumpet	`kr\6 mp@t	`kr\6mp@t
 generic	dg@`ner\Ik	dZ@`ner\Ik
 brick-veneer	br\Ik-v@`nI@	br\Ikv@`nI@
 joist	dZ@:Ist	dZoIst
@@ -1157,8 +814,7 @@ surfboard	`s@:fb@:d	`s3:fbo:d
 awning	`@:nIN	`o:nIN
 restore	r\@`st@:	r\@`sto:
 discord	`dIsk@:d	`dIsko:d
-Sunday	`s6 nd{I	`s6nd{I
-run-down	r\6 n-`d{On	r\6n`d{On
+run-down	r\6n-`d{On	r\6n`d{On
 morgue	m@:g	mo:g
 ought	@:t	o:t
 burden	`b@:dn	`b3:d@n
@@ -1168,9 +824,6 @@ mornay	`m@:n{I	`mo:n{I
 Polish	`p@}lIS	p@}lIS
 adversity	@d`v@:s@ti:	@d`v3:s@ti:
 glare	gle@	gle:
-scuffle	`sk6 f@l	`sk6f@l
-hush	h6 S	h6S
-husk	h6 sk	h6sk
 broad	br\@:d	br\o:d
 kettle	`ketl	`ket@l
 eyesore	`Aes@:	`Aeso:
@@ -1180,10 +833,8 @@ percolate	`p@:k@l{It	`p3:k@l{It
 across-the-board	@`kr\Os-D@-b@:d	@`kr\OsD@bo:d
 inaccurate	I`n{kjUr\@t	I`n{kj@r\@t
 journal	`dZ@:n@l	`dZ3:n@l
-tongue	t6 N	t6N
 pointless	`p@:Intl@s	`poIntl@s
 rejoice	r\@`dZ@:Is	r\@`dZoIs
-drumstick	`dr\6 mstIk	`dr\6mstIk
 north	n@:T	no:T
 recorder	r\@`k@:d@	r\@`ko:d@
 empty	`emti:	`empti:
@@ -1191,9 +842,7 @@ display	dI`spl{I	d@`spl{I
 universal	j}:n@`v@:s@l	j}:n@`v3:s@l
 MSG	em es `dZi:	emes`dZi:
 lyrebird	`lAe@b@:d	`lAe@b3:d
-crummy	`kr\6 mi:	`kr\6mi:
 meteor	`mi:ti:@	`mi:ti:o:
-stumpy	`st6 mpi:	`st6mpi:
 foil	f@:Il	foIl
 appoint	@`p@:Int	@`poInt
 portion	`p@:S@n	`po:S@n
@@ -1202,7 +851,6 @@ trodden	`tr\Odn	`tr\Od@n
 appal	@`p@:l	@`po:l
 void	v@:Id	voId
 BYO	bi: wAe `@}	bi:wAe`@}
-govern	`g6 v@n	`g6v@n
 embroider	em`br\@:Ud@	em`br\oId@
 convenience	k@n`vi:nj@ns	k@n`vi:ni:@ns
 force	f@:s	fo:s
@@ -1215,20 +863,16 @@ cardboard	`k6:db@:d	`k6:dbo:d
 interpret	In`t@:pr\@t	In`t3:pr\@t
 harass	`h{r\@s	h@`r\{s
 jamb	dZIm	dZ{m
-hunch	h6 ntS	h6ntS
 jaywalk	`dZ{Iw@:k	`dZ{Iwo:k
 head-on	hed-`On	hed`On
 wary	`we@r\i:	`we:r\i:
 warp	w@:p	wo:p
-lunge	l6 ndZ	l6ndZ
 warm	w@:m	wo:m
-adult	`{d6 lt	`{d6lt
 ward	w@:d	wo:d
 flora	`fl@:r\@	`flo:r\@
 worth	w@:T	w3:T
-bungalow	`b6 Ng@l@}	`b6Ng@l@}
 defer	d@`f@:	d@`f3:
-waterfront	`w@:t@fr\6 nt	`wo:t@fr\6nt
+waterfront	`w@:t@fr\6nt	`wo:t@fr\6nt
 shirt	S@:t	S3:t
 purchase	`p@:tS@s	`p3:tS@s
 third	T@:d	T3:d
@@ -1236,28 +880,18 @@ fortify	`f@:t@fAe	`fo:t@fAe
 keyboard	`ki:b@:d	`ki:bo:d
 before	b@`f@:	b@`fo:
 personal	`p@:s@n@l	`p3:s@n@l
-overcome	@}v@`k6 m	@}v@`k6m
-unemployed	6 n@m`pl@:Id	6n@m`ploId
-runny	`r\6 ni:	`r\6ni:
-indulge	In`d6 ldZ	In`d6ldZ
+unemployed	6n@m`pl@:Id	6n@m`ploId
 shirk	S@:k	S3:k
 taught	t@:t	to:t
 dawn	d@:n	do:n
-bellybutton	`beli:b6 t@n	`beli:b6t@n
-sluggish	`sl6 gIS	`sl6gIS
 resume	r\@`zj}:m	`r\eZ@m{I
-struggle	`str\6 g@l	`str\6g@l
-Monday	`m6 nd{I	`m6nd{I
 domesticate	d@`mestIk{It	d@`mest@k{It
 naughty	`n@:ti:	`no:ti:
-upwind	6 p`wInd	6p`wInd
 hoof	h}:f	hUf
 ECG	i: si:`dZi:	i:si:`dZi:
-concussion	k@N`k6 S@n	k@N`k6S@n
 delirious	d@`lIr\i:@s	d@`lI@r\i:@s
 escort	@s`k@:t	@s`ko:t
 peculiar	p@`kj}:li:@	p@`kj}:lj@
-upholstery	6 p`h@}lstr\i:	6p`h@}lstr\i:
 fairytale	`fe@r\i:t{Il	`fe:r\i:t{Il
 loiter	`l@:It@	`loIt@
 threadbare	`Tr\edbe@	`Tr\edbe:
@@ -1266,7 +900,6 @@ rattle	`r\{tl	`r\{t@l
 modern	`mOdn	`mOd@n
 churn	tS@:n	tS3:n
 horde	h@:d	ho:d
-divulge	d@`v6 ldZ	d@`v6ldZ
 machinery	m@`S@i:n@r\i:	m@`Si:n@r\i:
 ensure	en`S@:	en`So:
 broadcast	`br\@:dk6:st	`br\o:dk6:st
@@ -1275,64 +908,47 @@ way-out	`w{I-{Ot	`w{I{Ot
 negligible	`negl@dZ@bl	`negl@dZ@b@l
 hoard	h@:d	ho:d
 blur	bl@:	bl3:
-smug	sm6 g	sm6g
 earn	@:n	3:n
-bugbear	`b6 gbe@	`b6gbe:
+bugbear	`b6gbe@	`b6gbe:
 monumental	mOnj@`mentl	mOnj@`ment@l
 Christianity	kr\Isti:`{n@ti:	kr\IstSi:`{n@ti:
-subject	`s6 bdZekt	`s6bdZekt
-underarm	`6 nd@r\6:m	`6nd@r\6:m
 voyage	`v@:IIdZ	`voIIdZ
 disprove	dI`spr\}:v	dIs`pr\}:v
-juxtapose	dZ6 kst@`p@}z	dZ6kst@`p@}z
 orthodontist	@:T@`dOnt@st	o:T@`dOnt@st
-cousin	`k6 z@n	`k6z@n
 burble	`b@:b@l	`b3:b@l
-lullaby	`l6 l@bAe	`l6l@bAe
 initiative	I`nISi:@tIv	@`nIS@tIv
 recur	r\@`k@:	r\@`k3:
 basis	`b{Isi:z	`b{Is@s
 detrimental	detr\@`mentl	detr\@`ment@l
-lovely	`l6 vli:	`l6vli:
 idol	`Aedl	`Aed@l
-mushroom	`m6 Sr\}:m	`m6Sr\}:m
 CD	si: `di:	si:`di:
-Co	`k6 mp@ni:	`k6mp@ni:
 affirm	@`f@:m	@`f3:m
-ugly	`6 gli:	`6gli:
 Persian	`p@:Z@n	`p3:Z@n
 aeroplane	`e@r\@pl{In	`e:r\@pl{In
 warder	`w@:d@	`wo:d@
-butter	`b6 t@	`b6t@
 yours	j@:z	jo:z
 etiquette	`etIk@t	`eti:k@t
-just	dZ6 st	dZ6st
 serviette	s@:vi:`et	s3:vi:`et
-nudge	n6 dZ	n6dZ
 auspicious	@:`spIS@s	o:`spIS@s
 discreet	dI`skr\i:t	d@`skr\i:t
 hi-fi	`hAe-fAe	`hAefAe
 nude	nj}:d	n}:d
 disillusioned	dIsI`l}:Z@nd	dIs@`l}:Z@nd
-confront	k@n`fr\6 nt	k@n`fr\6nt
 notorious	n@`t@:r\i:@s	n@`to:r\i:@s
 invoice	`Inv@:Is	`InvoIs
 sprawl	spr\@:l	spr\o:l
 dressing-table	`dr\esIN-t{Ib@l	`dr\esINt{Ib@l
-uproar	`6 pr\@:	`6pr\o:
+uproar	`6pr\@:	`6pr\o:
 bamboozle	b{m`b}:zl	b{m`b}:z@l
 burl	b@:l	b3:l
 burn	b@:n	b3:n
 burp	b@:p	b3:p
 burr	b@:	b3:
-gumboot	`g6 mb}:t	`g6mb}:t
 nerve	n@:v	n3:v
 daub	d@:b	do:b
 slurp	sl@:p	sl3:p
 chime	tISAem	tSAem
-stump	st6 mp	st6mp
 initial	I`nIS@l	@`nIS@l
-subdivide	`s6 bd@vAed	`s6bd@vAed
 stalk	st@:k	sto:k
 fork	f@:k	fo:k
 undergrowth	`}:nd@gr\@}T	`6nd@gr\@}T
@@ -1342,7 +958,6 @@ fore	f@:	fo:
 ford	f@:d	fo:d
 syndicate	`sIndIk@t	`sInd@k@t
 fort	f@:t	fo:t
-musk	m6 sk	m6sk
 disciplinarian	dIs@pl@`ne@r\i:@n	dIs@pl@`ne:r\i:@n
 scrawl	skr\@:l	skr\o:l
 self-defence	self-d@`fens	selfd@`fens
@@ -1351,142 +966,100 @@ discriminate	dI`skr\Im@n{It	d@`skr\Im@n{It
 bade	b{d	b{Id
 warehouse	`we@h{Os	`we:h{Os
 handicap	`h{ndIk{p	`h{ndi:k{p
-publican	`p6 blIk@n	`p6blIk@n
 outskirts	`{Otsk@:ts	`{Otsk3:ts
 open-minded	`@}p@n-mAend@d	`@}p@nmAend@d
 smallgoods	`sm@:lgUdz	`smo:lgUdz
 AMA	{I em `{I	{Iem`{I
-customary	`k6 st@m@r\i:	`k6st@mr\i:
+customary	`k6st@m@r\i:	`k6st@mr\i:
 woodwork	`wUdw@:k	`wUdw3:k
 resourceful	r\@`z@:sfUl	r\@`zo:sfUl
-must	m6 st	m6st
-uneventful	6 n@`ventfUl	6n@`ventfUl
 biceps	`bAes@ps	`bAeseps
-currant	`k6 r\@nt	`k6r\@nt
 sordid	`s@:d@d	`so:d@d
 dwarf	dw@:f	dwo:f
 earthquake	`@:Tkw{Ik	`3:Tkw{Ik
 boy	b@:I	boI
-expulsion	@k`sp6 lS@n	@k`sp6lS@n
 fortress	`f@:tr\@s	`fo:tr\@s
 transplant	tr\{n`spl{nt	tr\{ns`pl{nt
 serpent	`s@:p@nt	`s3:p@nt
-somersault	`s6 m@sOlt	`s6m@sOlt
 pert	p@:t	p3:t
 N/A	en `{I	en`{I
-uppermost	`6 p@m@}st	`6p@m@}st
 olive	`Ol@v	`OlIv
-off-colour	Of-`k6 l@	Of`k6l@
+off-colour	Of-`k6l@	Of`k6l@
 thermos	`T@:mOs	`T3:mOs
 ripcord	`r\Ipk@:d	`r\Ipko:d
 deceased	de`sIst	d@`si:st
-fuck	f6 k	f6k
-Dutch	d6 tS	d6tS
 purr	p@:	p3:
 swore	sw@:	swo:
 sworn	sw@:n	swo:n
-pin-up	`pIn-6 p	`pIn6p
-close-up	`kl@}s-6 p	`kl@}s6p
+pin-up	`pIn-6p	`pIn6p
+close-up	`kl@}s-6p	`kl@}s6p
 tall	t@:l	to:l
-bungle	`b6 Ng@l	`b6Ng@l
 bushwalk	`bUSw@:k	`bUSwo:k
-conjunction	k@n`dZ6 NkS@n	k@n`dZ6NkS@n
 hat-trick	`h{t-tr\Ik	`h{ttr\Ik
-lunch	l6 ntS	l6ntS
 workload	`w@:kl@}d	`w3:kl@}d
 careless	`ke@l@s	`ke:l@s
 abnormal	{b`n@:m@l	{b`no:m@l
 girl	g@:l	g3:l
 morning	`m@:nIN	`mo:nIN
-blubber	`bl6 b@	`bl6b@
 assurance	@`S@:r\@ns	@`So:r\@ns
-ruddy	`r\6 di:	`r\6di:
-smudge	sm6 dZ	sm6dZ
-underwear	`6 nd@we@	`6nd@we:
+underwear	`6nd@we@	`6nd@we:
 language	`l{NwIdZ	`l{NgwIdZ
 first	f@:st	f3:st
 little	`lItl	`lIt@l
 thoughtless	`T@:tl@s	`To:tl@s
 murky	`m@:ki:	`m3:ki:
-anyone	`eni:w6 n	`eni:w6n
 daunt	d@:nt	do:nt
 mermaid	`m@:m{Id	`m3:m{Id
-bloodshed	`bl6 dSed	`bl6dSed
-butt	b6 t	b6t
-set-up	`set-6 p	`set6p
+set-up	`set-6p	`set6p
 orgy	`@:dZi:	`o:dZi:
 fertilisation	f@:t@lAe`z{IS@n	f3:t@lAe`z{IS@n
 were	w@:	w3:
-coconut	`k@}k@n6 t	`k@}k@n6t
-stubby	`st6 bi:	`st6bi:
-sulk	s6 lk	s6lk
-clung	kl6 N	kl6N
 efficient	@`fISnt	@`fIS@nt
-ultimate	`6 lt@m@t	`6lt@m@t
 pair	pe@	pe:
 especially	@s`peS@li:	@`speS@li:
-bustard	`b6 st@d	`b6st@d
 deportment	d@`p@:tm@nt	d@`po:tm@nt
 WA	west@n @`str\{Ilj@	west@n@`str\{Ilj@
 corner	`k@:n@	`ko:n@
-muffin	`m6 f@n	`m6f@n
-plump	pl6 mp	pl6mp
-summary	`s6 m@r\i:	`s6m@r\i:
 kernel	`k@:n@l	`k3:n@l
-sludge	sl6 dZ	sl6dZ
-wonder	`w6 nd@	`w6nd@
 foreword	`f@:w@:d	`fo:w3:d
 ornament	`@:n@m@nt	`o:n@m@nt
 forecast	`f@:k6:st	`fo:k6:st
 whereabouts	`we@r\@b{Ots	`we:r\@b{Ots
-enough	@`n6 f	@`n6f
-august	@:`g6 st	o:`g6st
+august	@:`g6st	o:`g6st
 parent	`pe@r\@nt	`pe:r\@nt
 bare	be@	be:
-tug	t6 g	t6g
-rugby	`r\6 gbi:	`r\6gbi:
-tuck	t6 k	t6k
-among	@`m6 N	@`m6N
 terse	t@:s	t3:s
-custody	`k6 st@di:	`k6st@di:
 mare	me@	me:
 certify	`s@:t@fAe	`s3:t@fAe
 workshop	`w@:kSOp	`w3:kSOp
-litterbug	`lIt@b6 g	`lIt@b6g
 forefinger	`f@:fINg@	`fo:fINg@
 middle	`mIdl	`mId@l
-sudden	`s6 dn	`s6d@n
+sudden	`s6dn	`s6d@n
 tour	t@:	tU@
 aerobics	e@`r\@}bIks	e:`r\@}bIks
 spring-clean	spr\IN-`kli:n	spr\IN`kli:n
 exhaust	@g`z@:st	@g`zo:st
 oil	@:Il	oIl
-munch	m6 ntS	m6ntS
-hullo	`h6 l@}	`h6l@}
 diversion	d@`v@:Z@n	d@`v3:Z@n
 walkover	`w@:k@}v@	`wo:k@}v@
 vertebra	`v@:t@br\@	`v3:t@br\@
 bottle	`bOtl	`bOt@l
 asthma	`6:sm@	`{sm@
 tourism	`t@:r\Izm	`tU@r\Iz@m
-income	`Ink6 m	`Ink6m
 forge	f@:dZ	fo:dZ
 chainsaw	`tS{Ins@:	`tS{Inso:
 audience	`@:di:@ns	`o:di:@ns
 VDU	vi: di: `j}:	vi:di:`j}:
-accomplice	@`k6 mpl@s	@`k6mpl@s
 confirm	k@n`f@:m	k@n`f3:m
 notable	`n@}t@bl	`n@}t@b@l
 finicky	`fInIki:	`fIn@ki:
-son-in-law	`s6 n-In-l@:	`s6nInlo:
+son-in-law	`s6n-In-l@:	`s6nInlo:
 roar	r\@:	r\o:
 airline	`e@lAen	`e:lAen
 point-blank	p@:Int-`bl{Nk	poInt`bl{Nk
 jigsaw	`dZIgs@:	`dZIgso:
 totalitarian	t@}t{l@`te@r\i:@n	t@}t{l@`te:r\i:@n
-hiccup	`hIk6 p	`hIk6p
 flamboyant	fl{m`b@:I@nt	fl{m`boI@nt
-grudging	`gr\6 dZIN	`gr\6dZIN
 imagination	Im{dZ@`n{IS@n	@m{dZ@`n{IS@n
 girlfriend	`g@:lfr\end	`g3:lfr\end
 casualty	`k{Zj}:@lti:	`k{Z}:@lti:
@@ -1496,55 +1069,36 @@ short-sighted	S@:t-`sAet@d	So:t`sAet@d
 prism	`pr\Izm	`pr\Iz@m
 astronaut	`{str\@n@:t	`{str\@no:t
 important	Im`p@:t@nt	Im`po:t@nt
-grudge	gr\6 dZ	gr\6dZ
-burrow	`b6 r\@}	`b6r\@}
 alright	@:l`r\Aet	o:l`r\Aet
-husky	`h6 ski:	`h6ski:
-deluxe	d@`l6 ks	d@`l6ks
-sunk	s6 Nk	s6Nk
-slung	sl6 N	sl6N
-sung	s6 N	s6N
-reluctant	r\@`l6 kt@nt	r\@`l6kt@nt
 diffuse	d@`fj}:z	d@`fj}:s
 straightforward	str\{It`f@:w@d	str\{It`fo:w@d
 knick-knack	`nIk-n{k	`nIkn{k
 portable	`p@:t@bl	`po:t@b@l
 lawyer	`l@:j@	`loI@
-plush	pl6 S	pl6S
 malaria	m@`le@r\i:@	m@`le:r\i:@
 search	s@:tS	s3:tS
-scurry	`sk6 r\i:	`sk6r\i:
 airport	`e@p@:t	`e:po:t
 establish	@s`t{blIS	@`st{blIS
 score	sk@:	sko:
-none	n6 n	n6n
 recall	`r\@k@:l	`r\@ko:l
 taut	t@:t	to:t
-stubborn	`st6 b@n	`st6b@n
 compare	k@m`pe@	k@m`pe:
 hamburger	`h{mb@:g@	`h{mb3:g@
-buttress	`b6 tr\@s	`b6tr\@s
 share	Se@	Se:
 single-minded	sINg@l-`mAend@d	sINg@l`mAend@d
 awkward	`@:kw@d	`o:kw@d
-comfort	`k6 mf@t	`k6mf@t
 stir	st@:	st3:
-uprising	`6 pr\AezIN	`6pr\AezIN
-blood	bl6 d	bl6d
 orchard	`@:tS@d	`o:tS@d
 toiletries	`t@:Il@tr\i:z	`toIl@tr\i:z
 paw	p@:	po:
 pitch-dark	`pItS-d6:k	`pItSd6:k
 displease	dI`spli:z	dIs`pli:z
-suffer	`s6 f@	`s6f@
 chirp	tS@:p	tS3:p
-grubby	`gr\6 bi:	`gr\6bi:
 paternity	p@`t@:n@ti:	p@`t3:n@ti:
-huddle	`h6 dl	`h6d@l
+huddle	`h6dl	`h6d@l
 boisterous	`b@:Istr\@s	`boIstr\@s
 exquisite	`ekskw@z@t	ek`skwIz@t
 forthright	`f@:Tr\Aet	`fo:Tr\Aet
-everyone	`evr\i:w6 n	`evr\i:w6n
 mental	`mentl	`ment@l
 foreground	`f@:gr\{Ond	`fo:gr\{Ond
 circumstance	`sek@mst{ns	`s3:k@mst{ns
@@ -1553,87 +1107,56 @@ extraordinary	@k`str\@:d@nr\i:	@k`str\o:d@nr\i:
 disposition	dIsp@`zISn	dIsp@`zIS@n
 corkscrew	`k@:kskr\}:	`ko:kskr\}:
 trickle	`tr\Ikl	`tr\Ik@l
-stepmother	`stepm6 D@	`stepm6D@
 perturb	p@`t@:b	p@`t3:b
 barbarian	b6:`be@r\i:@n	b6:`be:r\i:@n
-juncture	`dZ6 NktS@	`dZ6NktS@
-done	d6 n	d6n
 chipboard	`tSIpb@:d	`tSIpbo:d
-construct	k@n`str\6 kt	k@n`str\6kt
-beloved	b@`l6 v@d	b@`l6v@d
-catapult	`k{t@p6 lt	`k{t@p6lt
-bumble	`b6 mb@l	`b6mb@l
-lug	l6 g	l6g
-colander	`k6 l@nd@	`kOl@nd@
+colander	`k6l@nd@	`kOl@nd@
 contrary	`kOntr\@r\i:	`kOntr\e:r\i:
 gruelling	`gr\}:@lIN	`gr\}:lIN
 declare	d@`kle@	d@`kle:
 swerve	sw@:v	sw3:v
 left-handed	left-`h{nd@d	left`h{nd@d
 murder	`m@:d@	`m3:d@
-insufferable	In`s6 f@r\@b@l	In`s6f@r\@b@l
-Governor	`g6 v@n@	`g6v@n@
-fluctuate	`fl6 ktS}:{It	`fl6ktS}:{It
 humanitarian	hj}:m{n@`te@r\i:@n	hj}:m{n@`te:r\i:@n
 organism	`@:g@nIz@m	`o:g@nIz@m
 nervous	`n@:v@s	`n3:v@s
-money	`m6 ni:	`m6ni:
-dust	d6 st	d6st
 batten	`b{tn	`b{t@n
 semi-conscious	semi:-`kOnS@s	semi:`kOnS@s
-courage	`k6 r\IdZ	`k6r\IdZ
 Serbian	`s@:bi:@n	`s3:bi:@n
 Jan.	`dZ{nj}:@r\i:	`dZ{nj@r\i:
 merchandise	`m@:tS@ndAes	`m3:tS@ndAes
 target	`t{g@t	`t6:g@t
-gazump	g@`z6 mp	g@`z6mp
-scruffy	`skr\6 fi:	`skr\6fi:
 cynical	`sInIkl	`sInIk@l
-forthcoming	f@:T`k6 mIN	fo:T`k6mIN
+forthcoming	f@:T`k6mIN	fo:T`k6mIN
 expert	`eksp@:t	`eksp3:t
 distraught	dI`str\@:t	d@`str\o:t
 aircraft	`e@kr\6:ft	`e:kr\6:ft
-scuttle	`sk6 tl	`sk6t@l
+scuttle	`sk6tl	`sk6t@l
 full-time	fUl-`tAem	fUl`tAem
 point	p@:Int	poInt
 dwindle	`dwIndl	`dwInd@l
-smother	`sm6 D@	`sm6D@
 toddle	`tOdl	`tOd@l
 Khmer	k@`me@	k@`me:
-understand	6 nd@`st{nd	6nd@`st{nd
 tape-recorder	`t{Ip-r\@k@:d@	`t{Ipr\@ko:d@
 horseshoe	`h@:sS}:	`ho:sS}:
-cluster	`kl6 st@	`kl6st@
 hang-glider	`h{N-glAed@	`h{NglAed@
-fun	f6 n	f6n
-lull	l6 l	l6l
 down-to-earth	d{On-t}:-`@:T	d{Ont}:`3:T
 foul-mouthed	`f{Ol-m{ODd	`f{Olm{ODd
-suntan	`s6 nt{n	`s6nt{n
 discourse	`dIsk@:s	`dIsko:s
 corridor	`kOr\@d@:	`kOr\@do:
 purpose	`p@:p@s	`p3:p@s
 withdraw	wID`dr\@:	wID`dr\o:
 malformation	m{lf@:`m{IS@n	m{lfo:`m{IS@n
-cut	k6 t	k6t
-cup	k6 p	k6p
 alternate	Ol`t@:n@t	Ol`t3:n@t
 source	s@:s	so:s
-cub	k6 b	k6b
 displace	dI`spl{Is	dIs`pl{Is
 disrepair	dIsr\@`pe@	dIsr\@`pe:
-slovenly	`sl6 v@nli:	`sl6v@nli:
-glove	gl6 v	gl6v
 scald	sk@:ld	sko:ld
-culprit	`k6 lpr\It	`k6lpr\@t
-rumble	`r\6 mb@l	`r\6mb@l
-truck	tr\6 k	tr\6k
-bluster	`bl6 st@	`bl6st@
+culprit	`k6lpr\It	`k6lpr\@t
 drip-dry	`dr\Ip-dr\Ae	`dr\Ipdr\Ae
 forward	`f@:w@d	`fo:w@d
 switchboard	`swItSb@:d	`swItSbo:d
 aversion	@`v@:Z@n	@`v3:Z@n
-jumbo	`dZ6 mb@}	`dZ6mb@}
 autonomous	@:`tOn@m@s	o:`tOn@m@s
 sort	s@:t	so:t
 curt	k@:t	k3:t
@@ -1642,7 +1165,7 @@ metal	`metl	`met@l
 curb	k@:b	k3:b
 curl	k@:l	k3:l
 excrete	@ks`kr\i:t	@k`skr\i:t
-mix-up	`mIks-6 p	`mIks6p
+mix-up	`mIks-6p	`mIks6p
 reserve	r\@`z@:v	r\@`z3:v
 drive-in	`dr\Aev-In	`dr\AevIn
 cortisone	`k@:t@z@}n	`ko:t@z@}n
@@ -1651,12 +1174,10 @@ surgeon	`s@:dZ@n	`s3:dZ@n
 moderate	`mOdr\@t	`mOd@r\@t
 mottled	`mOtld	`mOt@ld
 insubordinate	Ins@`b@:d@n@t	Ins@`bo:d@n@t
-subtle	`s6 tl	`s6t@l
-bloodshot	`bl6 dSOt	`bl6dSOt
+subtle	`s6tl	`s6t@l
 pittance	`pItns	`pIt@ns
 paddle	`p{dl	`p{d@l
 access	`6:kses	`{kses
-sprung	spr\6 N	spr\6N
 nimble	`ni:mbl	`nImb@l
 dissuade	dI`sw{Id	dIs`sw{Id
 respiration	r\esp@`r\{ISn	r\esp@`r\{IS@n
@@ -1665,9 +1186,6 @@ decrease	d@`kr\Is	d@`kr\i:s
 scandal	`sk{ndl	`sk{nd@l
 sermon	`s@:m@n	`s3:m@n
 account	@`k6:}:nt	@`k6{Ont
-tunnel	`t6 n@l	`t6n@l
-gruff	gr\6 f	gr\6f
-unreal	6 n`r\i:l	6n`r\i:l
 reserved	r\@`z@:vd	r\@`z3:vd
 e.g.	i: `dZi:	i:`dZi:
 waltz	w@:ls	wo:lts
@@ -1676,65 +1194,43 @@ furnace	`f@:n@s	`f3:n@s
 ABC	{I bi: `si:	{Ibi:`si:
 sir	s@:	s3:
 spin-dry	spIn-`dr\Ae	spIn`dr\Ae
-bluff	bl6 f	bl6f
 furnish	`f@:nIS	`f3:nIS
 fertile	`f@:tAel	`f3:tAel
-bunch	b6 ntS	b6ntS
 silkworm	`sIlkw@:m	`sIlkw3:m
 decorum	d@`k@:r\@m	d@`ko:r\@m
-jumbuck	`dZ6 mb6 k	`dZ6mb6k
 kindergarten	`kInd@g6:tn	`kInd@g6:t@n
-publication	p6 bl@`k{IS@n	p6bl@`k{IS@n
-junction	`dZ6 NkS@n	`dZ6NkS@n
-muddle	`m6 dl	`m6d@l
+muddle	`m6dl	`m6d@l
 LPG	el pi: `dZi:	elpi:`dZi:
 deplore	d@`pl@:	d@`plo:
 flair	fle@	fle:
 thwart	Tw@:t	Two:t
 baulk	b@:k	bo:k
-junkie	`dZ6 Nki:	`dZ6Nki:
 maternal	m@`t@:n@l	m@`t3:n@l
-stub	st6 b	st6b
-stun	st6 n	st6n
 thereupon	De@r\@`pOn	De:r\@`pOn
 fourteen	`f@:ti:n	`fo:ti:n
 perjure	`p@:dZ@	`p3:dZ@
 mortal	`m@:tl	`mo:t@l
 NB	en `bi:	en`bi:
-suffix	`s6 fIks	`s6fIks
 hurdle	`h@:dl	`h3:d@l
-monkey	`m6 Nki:	`m6Nki:
-vulgar	`v6 lg@	`v6lg@
-unscrupulous	6 n`skr\}:pjUl@s	6n`skr\}:pj@l@s
+unscrupulous	6n`skr\}:pjUl@s	6n`skr\}:pj@l@s
 absent-minded	{bs@nt-`mAend@d	{bs@nt`mAend@d
 NT	n@:D@n `ter\@tr\i:	no:D@n`ter\@tr\i:
 free-range	`fr\i:-r\{IndZ	`fr\i:r\{IndZ
-comfortable	`k6 mft@b@l	`k6mft@b@l
 mooring	`m@:r\IN	`mo:r\IN
-gullet	`g6 l@t	`g6l@t
 absurd	@b`s@:d	@b`s3:d
 portfolio	p@:t`f@}li:@}	po:t`f@}li:@}
-floodlight	`fl6 dlAet	`fl6dlAet
 wear	we@	we:
-mug	m6 g	m6g
 pitfall	`pItf@:l	`pItfo:l
 bear	be@	be:
 organ	`@:g@n	`o:g@n
 national	`n{Sn@l	`n{S@n@l
-roughage	`r\6 fIdZ	`r\6fIdZ
 reform	r\@`f@:m	r\@`fo:m
-brunt	br\6 nt	br\6nt
-grumble	`gr\6 mb@l	`gr\6mb@l
 exclaim	@ks`kl{Im	@k`skl{Im
-pulp	p6 lp	p6lp
 assure	@`S@:	@`So:
 glorious	`gl@:r\i:@s	`glo:r\i:@s
 aquarium	@`kwe@r\i:@m	@`kwe:r\i:@m
-rump	r\6 mp	r\6mp
 curtain	`k@:t@n	`k3:t@n
 curtail	k@:`t{Il	k3:`t{Il
-bulk	b6 lk	b6lk
-bulb	b6 lb	b6lb
 almost	`@:lm@}st	`o:lm@}st
 dissent	dI`sent	d@`sent
 impersonate	Im`p@:s@n{It	Im`p3:s@n{It
@@ -1746,16 +1242,11 @@ whirr	w@:	w3:
 garish	`ge@r\IS	`ge:r\IS
 toil	t@:Il	toIl
 sauna	`s@:n@	`so:n@
-sunburn	`s6 nb@:n	`s6nb3:n
-judgment	`dZ6 dZm@nt	`dZ6dZm@nt
+sunburn	`s6nb@:n	`s6nb3:n
 insure	In`S@:	In`So:
 thought	T@:t	To:t
-muscle	`m6 s@l	`m6s@l
-humdrum	`h6 mdr\6 m	`h6mdr\6m
 sister-in-law	`sIst@r\-In-l@:	`sIst@r\Inlo:
 storey	`st@:r\i:	`sto:r\i:
-tough	t6 f	t6f
-punctual	`p6 NktS}:@l	`p6NktS}:@l
 royalty	`r\@:I@lti:	`r\oI@lti:
 insert	In`s@:t	In`s3:t
 porous	`p@:r\@s	`po:r\@s
@@ -1763,46 +1254,27 @@ journalist	`dZ@:n@l@st	`dZ3:n@l@st
 audible	`@:d@b@l	`o:d@b@l
 hair	he@	he:
 supportive	s@`p@:tIv	s@`po:tIv
-stuffy	`st6 fi:	`st6fi:
-shrug	Sr\6 g	Sr\6g
-shrub	Sr\6 b	Sr\6b
 corpse	k@:ps	ko:ps
-hurricane	`h6 r\@k@n	`h6r\@k{In
+hurricane	`h6r\@k@n	`h6r\@k{In
 discretion	dI`skr\eS@n	d@`skr\eS@n
-snuggle	`sn6 g@l	`sn6g@l
 conference	kOnf@r\@ns	kOnfr\@ns
 although	@:l`D@}	o:l`D@}
 worthy	`w@:Di:	`w3:Di:
-bloodstream	`bl6 dstr\i:m	`bl6dstr\i:m
-functional	`f6 NkS@n@l	`f6NkS@n@l
 esteem	@s`ti:m	@`sti:m
 earthenware	`@:D@nwe@	`3:D@nwe:
-custard	`k6 st@d	`k6st@d
-submarine	`s6 bm@r\i:n	`s6bm@r\i:n
 November	n@`vemb@	n@}`vemb@
-chunk	tS6 Nk	tS6Nk
-bus	b6 s	b6s
-but	b6 t	b6t
-bun	b6 n	b6n
-bum	b6 m	b6m
-bug	b6 g	b6g
-bud	b6 d	b6d
 genitals	`dZen@tlz	`dZen@t@lz
 glory	`gl@:r\i:	`glo:r\i:
 circus	`s@:k@s	`s3:k@s
 corporation	k@:p@`r\{IS@n	ko:p@`r\{IS@n
 oar	@:	o:
 hydrofoil	`hAedr\@f@:Il	`hAedr\@foIl
-bundle	`b6 ndl	`b6nd@l
+bundle	`b6ndl	`b6nd@l
 intransitive	In`tr\{ns@tIv	In`tr\{nz@tIv
 resolution	r\ez@`l}:Sn	r\ez@`l}:S@n
-muzzle	`m6 z@l	`m6z@l
-under	`6 nd@	`6nd@
 GP	dZi: `pi:	dZi:`pi:
 dispense	dI`spens	d@`spens
 lurk	l@:k	l3:k
-upstream	6 p`str\i:m	6p`str\i:m
-humpy	`h6 mpi:	`h6mpi:
 enjoy	en`dZ@:I	en`dZoI
 poison	`p@:Iz@n	`poIz@n
 endorse	en`d@:s	en`do:s
@@ -1811,29 +1283,18 @@ jaundice	`dZ@:nd@s	`dZo:nd@s
 wart	w@:t	wo:t
 voice	v@:Is	voIs
 forum	`f@:r\@m	`fo:r\@m
-luggage	`l6 gIdZ	`l6gIdZ
-culminate	`k6 lm@n{It	`k6lm@n{It
 blowtorch	`bl@}t@:tS	`bl@}to:tS
 old-fashioned	@}ld-`f{S@nd	@}ld`f{S@nd
 hospital	`hOsp@tl	`hOsp@t@l
 asset	`{s@t	`{set
-mush	m6 S	m6S
 adjourn	@`dZ@:n	@`dZ3:n
-hutch	h6 tS	h6tS
 join	dZ@:In	dZoIn
 white-ant	`wAet {nt	`wAet{nt
 watertight	`w@:t@tAet	`wo:t@tAet
-jumble	`dZ6 mb@l	`dZ6mb@l
-bung	b6 N	b6N
-bunk	b6 Nk	b6Nk
-underhand	`6 nd@h{nd	`6nd@h{nd
 burly	`b@:li:	`b3:li:
 daredevil	`de@dev@l	`de:dev@l
-jungle	`dZ6 Ng@l	`dZ6Ng@l
 salesperson	`s{Ilzp@:sn	`s{Ilzp3:s@n
-punctuation	p6 NktS}:`{IS@n	p6NktS}:`{IS@n
 deform	d@`f@:m	d@`fo:m
-oven	`6 v@n	`6v@n
 strangle	`str\{Ngl	`str\{Ng@l
 bottleneck	`bOtlnek	`bOt@lnek
 fairway	`fe@w{I	`fe:w{I
@@ -1841,10 +1302,7 @@ Judaism	`dZ}:d{Iz@m	`dZ}:d{IIz@m
 tourist	`t@:r\Ist	`tU@r\@st
 monarch	`mOn@k	`mOn6:k
 disreputable	dIs`r\epj@t@bl	dIs`r\epj@t@b@l
-chuck	tS6 k	tS6k
 victory	`vIkt@r\i:	`vIktr\i:
-unscrew	6 n`skr\}:	6n`skr\}:
-funnel-web	`f6 n@lweb	`f6n@lweb
 fraught	fr\@:t	fr\o:t
 eternal	@`t@:n@l	@`t3:n@l
 formation	f@:`m{IS@n	fo:`m{IS@n
@@ -1855,7 +1313,6 @@ primary	`pr\Aem@r\i:	`pr\Aemr\i:
 mercury	`m@:kj@r\i:	`m3:kj@r\i:
 toy	t@:I	toI
 their	De@	De:
-ton	t6 n	t6n
 paediatrician	pi:di:@`tr\ISn	pi:di:@`tr\IS@n
 urban	`@:b@n	`3:b@n
 serve	s@:v	s3:v
@@ -1867,64 +1324,39 @@ handkerchief	`h{Nk@tS@f	`h{Nk@tSi:f
 raw	r\@:	r\o:
 further	`f@:D@	`f3:D@
 disorganised	dIs`@:g@nAezd	dIs`o:g@nAezd
-thoroughly	`T6 r\@li:	`T6r\@li:
-thorough	`T6 r\@	`T6r\@
 audition	@:`dIS@n	o:`dIS@n
 coil	k@:Il	koIl
 coin	k@:In	koIn
 freeway	`fr\Iw{I	`fr\i:w{I
 earth	@:T	3:T
 peddle	`pedl	`ped@l
-knuckle	`n6 k@l	`n6k@l
-disgust	d@s`g6 st	d@s`g6st
 blue-collar	`bl}:-kOl@	`bl}:kOl@
-sunglasses	`s6 ngl6:s@z	`s6ngl6:s@z
 baffle	`b{fl	`b{f@l
 report	r\@`p@:t	r\@`po:t
 overbearing	@}v@`be@r\IN	@}v@`be:r\IN
 spokesperson	`sp@}ksp@:s@n	`sp@}ksp3:s@n
-public	`p6 blIk	`p6blIk
-erupt	@`r\6 pt	@`r\6pt
 automatic	@:t@`m{tIk	o:t@`m{tIk
-nut	n6 t	n6t
-nun	n6 n	n6n
-corrupt	k@`r\6 pt	k@`r\6pt
 byword	`bAew@:d	`bAew3:d
-mull	m6 l	m6l
 paternal	p@`t@:n@l	p@`t3:n@l
-grandmother	`gr\{nm6 D@	`gr\{nm6D@
-mud	m6 d	m6d
-mum	m6 m	m6m
-toothbrush	`t}:Tbr\6 S	`t}:Tbr\6S
 gaudy	`g@:di:	`go:di:
-trust	tr\6 st	tr\6st
 break-in	`br\{Ik-In	`br\{IkIn
-cumquat	`k6 mkwOt	`k6mkwOt
 tolerable	`tOlr\@bl	`tOl@r\@b@l
 dashboard	`d{Sb@:d	`d{Sbo:d
 precede	pr\i:`si:d	pr\@`si:d
 turquoise	`t@:kw@:Iz	`t3:kwoIz
 drawback	`dr\@:b{k	`dr\o:b{k
-suburb	`s6 b@:b	`s6b3:b
+suburb	`s6b@:b	`s6b3:b
 shortly	`S@:tli:	`So:tli:
 forceful	`f@:sfUl	`fo:sfUl
-mother	`m6 D@	`m6D@
-bugger	`b6 g@	`b6g@
 IOU	Ae @} `j}:	Ae@}`j}:
-half-brother	`h6:f-br\6 D@	`h6:fbr\6D@
+half-brother	`h6:f-br\6D@	`h6:fbr\6D@
 aubergine	`@}b@dZi:n	`@}b@Zi:n
 teetotal	`ti:t@}tl	`ti:t@}t@l
-upturn	`6 pt@:n	`6pt3:n
-judge	dZ6 dZ	dZ6dZ
-hunt	h6 nt	h6nt
-mongrel	`m6 Ngr\@l	`m6Ngr\@l
-hung	h6 N	h6N
+upturn	`6pt@:n	`6pt3:n
 RSVP	6:r\ es vi: `pi:	6:r\esvi:`pi:
 superlative	s}:`p@:l@tIv	s@`p3:l@tIv
-sponge	sp6 ndZ	sp6ndZ
 scrabble	`skr\{bl	`skr\{b@l
 escape	@s`k{Ip	@`sk{Ip
-clucky	`kl6 ki:	`kl6ki:
 cord	k@:d	ko:d
 core	k@:	ko:
 split-level	`splIt-lev@l	`splItlev@l
@@ -1932,43 +1364,29 @@ brawl	br\@:l	br\o:l
 corn	k@:n	ko:n
 cork	k@:k	ko:k
 menopause	`men@p@:z	`men@po:z
-plug	pl6 g	pl6g
-sunstroke	`s6 nstr\@}k	`s6nstr\@}k
-trustworthy	`tr\6 stw@:Di:	`tr\6stw3:Di:
-curry	`k6 r\i:	`k6r\i:
-budgerigar	`b6 dZ@r\i:g6:	`b6dZ@r\i:g6:
+trustworthy	`tr\6stw@:Di:	`tr\6stw3:Di:
 entrepreneur	Ontr\@pr\@`n@:	Ontr\@pr\@`n3:
 pearl	p@:l	p3:l
 transform	tr\{ns`f@:m	tr\{ns`fo:m
-sunlight	`s6 nlAet	`s6nlAet
-bloodthirsty	`bl6 dT@:sti:	`bl6dT3:sti:
+bloodthirsty	`bl6dT@:sti:	`bl6dT3:sti:
 virgin	`v@:dZ@n	`v3:dZ@n
 lay-by	`l{I-bAe	`l{IbAe
 fought	f@:t	fo:t
 floorboard	`fl@:b@:d	`flo:bo:d
-luxuriant	l6 g`Z}:r\i:@nt	l6g`Z}:r\i:@nt
-muster	`m6 st@	`m6st@
 adore	@`d@:	@`do:
 forearm	`f@:r\6:m	`fo:r\6:m
-sometime	`s6 mtAem	`s6mtAem
-upheaval	6 p`hi:v@l	6p`hi:v@l
 whereas	we@r\`{z	we:r\`{z
-junta	`dZ6 nt@	`dZ6nt@
-luscious	`l6 S@s	`l6S@s
 football	`fUtb@:l	`fUtbo:l
 ESL	i: es `el	i:es`el
 affair	@`fe@	@`fe:
-youngster	`j6 Nst@	`j6Nst@
 discern	dI`s@:n	d@`s3:n
-puddle	`p6 dl	`p6d@l
+puddle	`p6dl	`p6d@l
 wilful	`wIlf@:l	`wIlfUl
 netball	`netb@:l	`netbo:l
 airlift	`e@lIft	`e:lIft
-brother	`br\6 D@	`br\6D@
 pork	p@:k	po:k
 pore	p@:	po:
-substitute	`s6 bst@tS}:t	`s6bst@tS}:t
-up-market	`6 p-m6:k@t	`6pm6:k@t
+up-market	`6p-m6:k@t	`6pm6:k@t
 Nov.	n@`vemb@	n@}`vemb@
 brawn	br\@:n	br\o:n
 clergy	`kl@:dZi:	`kl3:dZi:
@@ -1976,12 +1394,9 @@ water	`w@:t@	`wo:t@
 baseball	`b{Isb@:l	`b{Isbo:l
 lawnmower	`l@:nm@}@	`lo:nm@}@
 hoarse	h@:s	ho:s
-shove	S6 v	S6v
 emerge	@`m@:dZ	@`m3:dZ
-fudge	f6 dZ	f6dZ
-Hungarian	h6 N`ge@r\i:@n	h6N`ge:r\i:@n
+Hungarian	h6N`ge@r\i:@n	h6N`ge:r\i:@n
 memory	`mem@r\i:	`memr\i:
-lump	l6 mp	l6mp
 first-hand	`f@:sth{nd	`f3:sth{nd
 in-patient	`In-p{IS@nt	`Inp{IS@nt
 German	`dZ@:m@n	`dZ3:m@n
@@ -1990,12 +1405,10 @@ fauna	`f@:n@	`fo:n@
 downfall	`d{Onf@:l	`d{Onfo:l
 cornflakes	`k@:nfl{Iks	`ko:nfl{Iks
 fourth	f@:T	fo:T
-spud	sp6 d	sp6d
 granddaughter	`gr\{nd@:t@	`gr\{ndo:t@
 birthday	`b@:Td{I	`b3:Td{I
 classroom	`kl6:sr\Um	`kl6:sr\}:m
 inform	In`f@:m	In`fo:m
-refund	`r\i:f6 nd	`r\i:f6nd
 exclusive	@ks`kl}:sIv	@k`skl}:sIv
 blare	ble@	ble:
 mantlepiece	`m{ntlpi:s	`m{nt@lpi:s
@@ -2003,82 +1416,47 @@ worship	`w@:SIp	`w3:SIp
 organisation	@:g@nAe`z{IS@n	o:g@nAe`z{IS@n
 platform	`pl{tf@:m	`pl{tfo:m
 swindle	`swIndl	`swInd@l
-puzzle	`p6 z@l	`p6z@l
-underneath	6 nd@`ni:T	6nd@`ni:T
-clutch	kl6 tS	kl6tS
 torch	t@:tS	to:tS
 farewell	fe@`wel	fe:`wel
-begun	b@`g6 n	b@`g6n
-sunrise	`s6 nr\Aez	`s6nr\Aez
 concur	k@N`k@:	k@N`k3:
 intercourse	`Int@k@:s	`Int@ko:s
-hull	h6 l	h6l
-hulk	h6 lk	h6lk
 flare	fle@	fle:
-gusto	`g6 st@}	`g6st@}
-yuk	j6 k	j6k
-clumsy	`kl6 mzi:	`kl6mzi:
 talkback	`t@:kb{k	`to:kb{k
 persecute	`p@:s@kj}:t	`p3:s@kj}:t
-hug	h6 g	h6g
-hub	h6 b	h6b
-hum	h6 m	h6m
 hurtful	`h@:tfUl	`h3:tfUl
-hut	h6 t	h6t
 tawdry	`t@:dr\i:	`to:dr\i:
-outcome	`{Otk6 m	`{Otk6m
 dispensable	dI`spens@bl	d@`spens@b@l
 nonflammable	nOn`fl{m@bl	nOn`fl{m@b@l
-blunt	bl6 nt	bl6nt
 surf	s@:f	s3:f
 urge	@:dZ	3:dZ
-sundry	`s6 ndr\i:	`s6ndr\i:
-multiple	`m6 lt@p@l	`m6lt@p@l
-multiply	`m6 lt@plAe	`m6lt@plAe
 saunter	`s@:nt@	`so:nt@
 aerodrome	`e@r\@dr\@}m	`e:r\@dr\@}m
-glutton	`gl6 t@n	`gl6t@n
-uncle	`6 Nk@l	`6Nk@l
 perch	p@:tS	p3:tS
 diverge	dAe`v@:dZ	dAe`v3:dZ
-gulf	g6 lf	g6lf
-gulp	g6 lp	g6lp
 dawdle	`d@:d@l	`do:d@l
 mortgage	`m@:gIdZ	`mo:gIdZ
-subsequent	`s6 bs@kw@nt	`s6bs@kw@nt
 caucus	`k@:k@s	`ko:k@s
-come	k6 m	k6m
 armchair	`6:mtSe@	`6:mtSe:
-swum	sw6 m	sw6m
 poll	p@}	pOl
 helicopter	`hel@kOpt@	`heli:kOpt@
-umpire	`6 mpAe@	`6mpAe@
 reimburse	r\i:Im`b@:s	r\i:Im`b3:s
 tiger	`tAeg@	tAeg@
 hernia	`h@:ni:@	`h3:ni:@
 careful	`ke@f@l	`ke:f@l
 dorm	d@:m	do:m
 discrepancy	dI`skr\ep@nsi:	d@`skr\ep@nsi:
-someone	`s6 mw6 n	`s6mw6n
-clutter	`kl6 t@	`kl6t@
 author	`@:T@	`o:T@
 hermit	`h@:m@t	`h3:m@t
 devoid	d@`v@:Id	d@`voId
-muffler	`m6 fl@	`m6fl@
 foyer	`f@:I@	`foI@
 reward	r\@`w@:d	r\@`wo:d
-justify	`dZ6 st@fAe	`dZ6st@fAe
 conform	k@n`f@:m	k@n`fo:m
 polish	`pOlIS	pOlIS
 satin	`s{tn	`s{t@n
-disrupt	dIs`r\6 pt	dIs`r\6pt
 furniture	`f@:nItS@	`f3:nItS@
 snore	sn@:	sno:
 snort	sn@:t	sno:t
-deduct	d@`d6 kt	d@`d6kt
-shortcoming	`S@:tk6 mIN	`So:tk6mIN
-doz.	`d6 z@n	`d6z@n
-compulsion	k@m`p6 lS@n	k@m`p6lS@n
+shortcoming	`S@:tk6mIN	`So:tk6mIN
 porter	`p@:t@	`po:t@
 slaughter	`sl@:t@	`slo:t@
 prattle	`pr\{tl	`pr\{t@l
@@ -2088,57 +1466,39 @@ hoarding	`h@:dIN	`ho:dIN
 there	De@	De:
 disposed	dI`sp@}zd	d@`sp@}zd
 thereabouts	De@r\@`b{Ots	De:r\@`b{Ots
-jug	dZ6 g	dZ6g
-jut	dZ6 t	dZ6t
 show-off	`S@}-Of	`S@}Of
 dressing-gown	`dr\esIN-g{On	`dr\esINg{On
 toilet	`t@:Il@t	`toIl@t
-ruffian	`r\6 fi:@n	`r\6fi:@n
-juggle	`dZ6 g@l	`dZ6g@l
 surly	`s@:li:	`s3:li:
 deserve	d@`z@:v	d@`z3:v
-rubber	`r\6 b@	`r\6b@
 applause	@`pl@:z	@`plo:z
 curve	k@:v	k3:v
-unscathed	6 n`sk{IDd	6n`sk{IDd
 all	@:l	o:l
 fully-fledged	`fUli:-fledZd	`fUli:fledZd
 write-off	`r\Aet-@f	`r\AetOf
 dairy	`de@r\i:	`de:r\i:
+defuse	di:`fj}:z	d@`fj}:z
 worse	w@:s	w3:s
 awful	`@:f@l	`o:f@l
-bubbler	`b6 bl@	`b6bl@
 BMX	bi: em `eks	bi:em`eks
 sentimental	sent@`mentl	sent@`ment@l
 manslaughter	`m{nsl@:t@	`m{nslo:t@
-runner-up	r\6 n@r\-`6 p	r\6n@r\`6p
-sun	s6 n	s6n
-sum	s6 m	s6m
-crush	kr\6 S	kr\6S
+runner-up	r\6n@r\-`6p	r\6n@r\`6p
 version	`v@:Z@n	`v3:Z@n
-multitude	`m6 lt@tS}:d	`m6lt@tS}:d
-snub	sn6 b	sn6b
 theatrical	Ti:`{tr\@k@l	Ti:`{tr\Ik@l
 T-shirt	`ti:-S@:t	`ti:S3:t
-unthinkable	6 n`TINk@b@l	6n`TINk@b@l
 flaw	fl@:	flo:
-stutter	`st6 t@	`st6t@
 berth	b@:T	b3:T
 forbearance	f@:`be@r\@ns	fo:`be:r\@ns
 v	`v@:s@s	`v3:s@z
 excursion	@k`sk@:S@n	@k`sk3:S@n
 gnaw	n@:	no:
-sunscreen	`s6 nskr\i:n	`s6nskr\i:n
 coerce	k@}`@:s	k@}`3:s
 metamorphosis	met@`m@:f@s@s	met@`mo:f@s@s
-cultivate	`k6 lt@v{It	`k6lt@v{It
-swung	sw6 N	sw6N
-mother-of-pearl	m6 D@r\-@v-`p@:l	m6D@r\@v`p3:l
+mother-of-pearl	m6D@r\-@v-`p@:l	m6D@r\@v`p3:l
 court	k@:t	ko:t
 bawdy	`b@:di:	`bo:di:
-fungus	`f6 Ng@s	`f6Ng@s
 disable	dIs`{Ibl	dIs`{Ib@l
-numb	n6 m	n6m
 meticulous	me`tIkj@l@s	m@`tIkj@l@s
 shore	S@:	So:
 shorn	S@:n	So:n
@@ -2150,11 +1510,8 @@ sit-in	`sIt-In	`sItIn
 belittle	b@`lItl	b@`lIt@l
 formulate	`f@:mj@l{It	`fo:mj@l{It
 causeway	`k@:zw{I	`ko:zw{I
-chunder	`tS6 nd@	`tS6nd@
 scot-free	skOt-`fr\i:	skOt`fr\i:
-musty	`m6 sti:	`m6sti:
 absorb	@b`s@:b	@b`so:b
-blunder	`bl6 nd@	`bl6nd@
 side-effects	`sAed-@fekts	`sAed@fekts
 butcherbird	`bUtS@b@:d	`bUtS@b3:d
 hardware	`h6:dwe@	`h6:dwe:
@@ -2170,95 +1527,67 @@ storm	st@:m	sto:m
 second-class	`sek@nd-kl6:s	`sek@ndkl6:s
 store	st@:	sto:
 imperfect	i:m`p@:fekt	Im`p3:fekt
-pump	p6 mp	p6mp
 off-putting	`Of-pUtIN	`OfpUtIN
 throttle	`Tr\Otl	`Tr\Ot@l
-double	`d6 bl	`d6b@l
-instruction	In`str\6 kS@n	In`str\6kS@n
+double	`d6bl	`d6b@l
 stall	st@:l	sto:l
-cuff	k6 f	k6f
 outdoors	{Ot`d@:z	{Ot`do:z
 exert	@g`z@:t	@g`z3:t
 smallpox	`sm@:lpOks	`smo:lpOks
-uproarious	6 p`r\@:r\i:@s	6p`r\o:r\i:@s
-currawong	`k6 r\@wON	`k6r\@wON
+uproarious	6p`r\@:r\i:@s	6p`r\o:r\i:@s
 port	p@:t	po:t
 moist	m@:Ist	moIst
-buff	b6 f	b6f
 foreman	`f@:m@n	`fo:m@n
-rucksack	`r\6 ks{k	`r\6ks{k
 shareholder	`Se@h@}ld@	`Se:h@}ld@
 washed-out	`wOSt-{Ot	`wOSt{Ot
 JP	dZ{I `pi:	dZ{I`pi:
-upwards	`6 pw@dz	`6pw@dz
 babble	`b{bl	`b{b@l
-hang-up	`h{N-6 p	`h{N6p
-bottlebrush	`bOtlbr\6 S	`bOt@lbr\6S
-dump	d6 mp	d6mp
-dumb	d6 m	d6m
+hang-up	`h{N-6p	`h{N6p
+bottlebrush	`bOtlbr\6S	`bOt@lbr\6S
 merry-go-round	`mer\i:-g@}-r\{Ond	`mer\i:g@}r\{Ond
-stuck	st6 k	st6k
 forlorn	f@`l@:n	f@`lo:n
 various	`ve@r\i:@s	`ve:r\i:@s
 downturn	`d{Ont@:n	`d{Ont3:n
 berserk	b@`z@:k	b@`z3:k
 blurb	bl@:b	bl3:b
-dub	d6 b	d6b
-dug	d6 g	d6g
-make-up	`m{Ik-6 p	`m{Ik6p
+make-up	`m{Ik-6p	`m{Ik6p
 thirty	`T@:ti:	`T3:ti:
 homework	`h@}mw@:k	`h@}mw3:k
 negotiate	n@`g@}Si:eit	n@`g@}Si:{It
-robust	`r\@}b6 st	`r\@}b6st
 abnormality	{bn@:`m{l@ti:	{bno:`m{l@ti:
 hectare	`hekte@	`hekte:
 internal	In`t@:n@l	In`t3:n@l
-buddy	`b6 di:	`b6di:
 flabbergasted	`fl{b@g6:st@d	`fl{b@g{st@d
 incidental	Ins@`dentl	Ins@`dent@l
 ignore	Ig`n@:	Ig`no:
-distrust	d@`str\6 st	dIs`tr\6st
+distrust	d@`str\6st	dIs`tr\6st
 nipple	`nIpl	`nIp@l
-kookaburra	`kUk@b6 r\@	`kUk@b6r\@
 hallmark	`h@:lm6:k	`ho:lm6:k
 saucer	`s@:s@	`so:s@
 inoculate	I`nOkj}:l{It	I`nOkj@l{It
-jumpy	`dZ6 mpi:	`dZ6mpi:
 dormant	`d@:m@nt	`do:m@nt
 cautious	`k@:S@s	`ko:S@s
 ordeal	@:`di:l	o:`di:l
 modal	`m@}dl	`m@}d@l
-mulga	`m6 lg@	`m6lg@
 credible	`kr\ed@bl	`kr\ed@b@l
 curtsy	`k@:tsi:	`k3:tsi:
-tumble	`t6 mbl	`t6mb@l
+tumble	`t6mbl	`t6mb@l
 perform	p@`f@:m	p@`fo:m
-mundane	m6 n`d{In	m6n`d{In
-plunge	pl6 ndZ	pl6ndZ
 audacious	@:`d{IS@s	o:`d{IS@s
-nonplussed	nOn`pl6 st	nOn`pl6st
 etc.	et `setr\@	et`setr\@
 x-ray	`eks-r\{I	`eksr\{I
 worthwhile	w@:T`wAel	w3:T`wAel
 warning	`w@:nIN	`wo:nIN
 organise	`@:g@nAez	`o:g@nAez
-mustard	`m6 st@d	`m6st@d
-puncture	`p6 NktS@	`p6NktS@
 narrative	`n{r\@tv	`n{r\@tIv
-once	w6 ns	w6ns
 pervert	`p@:v@:t	`p3:v3:t
 dispel	dI`spel	d@`spel
-adjustment	@`dZ6 stm@nt	@`dZ6stm@nt
-uphold	6 p`h@}ld	6p`h@}ld
 disposal	dI`sp@}z@l	d@`sp@}z@l
 fur	f@:	f3:
-gullible	`g6 l@b@l	`g6l@b@l
 slur	sl@:	sl3:
 capital	`k{p@tl	`k{p@t@l
 explore	@k`spl@:	@k`splo:
-up-to-date	6 p-t@-`d{It	6pt@`d{It
-shovel	`S6 v@l	`S6v@l
-duck	d6 k	d6k
+up-to-date	6p-t@-`d{It	6pt@`d{It
 doodle	`d}:dl	`d}:d@l
 cauterise	`k@:t@r\Aez	`ko:t@r\Aez
 normal	`n@:m@l	`no:m@l
@@ -2271,44 +1600,27 @@ saddle	`s{dl	`s{d@l
 anywhere	`eni:we@	`eni:we:
 executor	@g`sekj}:t@	@g`zekj@t@
 ALP	{I el `pi:	{Iel`pi:
-something	`s6 mTIN	`s6mTIN
 counterfeit	`k{Ont@f@t	`k{Ont@fIt
 autobiography	@:t@bAe`Ogr\@fi:	o:t@bAe`Ogr\@fi:
-scuff	sk6 f	sk6f
 buoyant	`b@:I@nt	`boI@nt
 fortunate	`f@:tS@n@t	`fo:tS@n@t
-crutch	kr\6 tS	kr\6tS
-cupboard	`k6 b@d	`k6b@d
-discomfort	dIs`k6 mf@t	dIs`k6mf@t
 bursary	`b@:s@r\i:	`b3:s@r\i:
-budge	b6 dZ	b6dZ
 Tas.	t{z`m{Inj@	t{z`m{Ini:@
 flautist	`fl@:t@st	`flo:t@st
 permanent	`p@:m@n@nt	`p3:m@n@nt
 orthodox	`@:T@dOks	`o:T@dOks
 bookworm	`bUkw@:m	`bUkw3:m
-fuzz	f6 z	f6z
 fiddle	`fIdl	`fId@l
 tabloid	`t{bl@:Id	`t{bloId
-frontier	fr\6 n`tI@	fr\6n`tI@
 plural	`plU@r\@l	`pl}:r\@l
 organic	@:`g{nIk	o:`g{nIk
 filial	`fi:li:@l	`fIli:@l
-unknown	6 n`n@}n	6n`n@}n
 chemotherapy	kem@}`Ter\@pi:	ki:m@}`Ter\@pi:
 boil	b@:Il	boIl
-muggy	`m6 gi:	`m6gi:
-update	6 p`d{It	6p`d{It
-uninterested	6 n`Intr\@st@d	6n`Intr\@st@d
 KO	k{I `@}	k{I`@}
-sculpture	`sk6 lptS@	`sk6lptS@
 encore	`Onk@:	`ONko:
 hairstyle	`he@stAel	`he:stAel
-discourage	dI`sk6 r\IdZ	dIs`k6r\IdZ
-upright	`6 pr\Aet	`6pr\Aet
-utter	`6 t@	`6t@
-dandruff	`d{ndr\6 f	`d{ndr\6f
-spun	sp6 n	sp6n
+discourage	dI`sk6r\IdZ	dIs`k6r\IdZ
 GPO	dZi: pi: `@}	dZi:pi:`@}
 topple	`tOpl	`tOp@l
 spur	sp@:	sp3:
@@ -2321,16 +1633,11 @@ deter	d@`t@:	d@`t3:
 wall	w@:l	wo:l
 walk	w@:k	wo:k
 packaging	`p{kIdZIN	`p{k@dZIN
-defunct	d@`f6 Nkt	d@`f6Nkt
 workplace	`w@:kpl{Is	`w3:kpl{Is
 overturn	@}v@`t@:n	@}v@`t3:n
 reverse	r\@`v@:s	r\@`v3:s
-stunning	`st6 nIN	`st6nIN
 hobbyhorse	`hObi:h@:s	`hObi:ho:s
 barely	`be@li:	`be:li:
-thus	D6 s	D6s
-thug	T6 g	T6g
-thud	T6 d	T6d
 whore	h@:	ho:
 forceps	`f@:s@ps	`fo:s@ps
 adverse	`{dv@:s	`{dv3:s
@@ -2339,47 +1646,30 @@ residential	r\ez@`denSl	r\ez@`denS@l
 premiere	pr\emi:`e@	pr\emi:`e:
 student	`stj}:dnt	`stj}:d@nt
 pedal	`pedl	`ped@l
-gutter	`g6 t@	`g6t@
-undertaker	`6 nd@t{Ik@	`6nd@t{Ik@
 overwork	@}v@`w@:k	@}v@`w3:k
 perpetrate	`p@:p@tr\{It	`p3:p@tr\{It
 distend	dI`stend	d@`stend
 disturbance	d@`st@:b@ns	d@`st3:b@ns
-drunk	dr\6 Nk	dr\6Nk
-other	`6 D@	`6D@
 tawny	`t@:ni:	`to:ni:
 term	t@:m	t3:m
 single-handed	sINg@l-`h{nd@d	sINg@l`h{nd@d
 nor	n@:	no:
-mother-in-law	`m6 D@r\-@n-l@:	`m6D@r\Inlo:
-cutlet	`k6 tl@t	`k6tl@t
-bunion	`b6 nj@n	`b6nj@n
+mother-in-law	`m6D@r\-@n-l@:	`m6D@r\Inlo:
 scared	ske@d	ske:d
 export	@k`sp@:t	ek`spo:t
 detergent	d@`t@:dZ@nt	d@`t3:dZ@nt
 locate	l@`k{It	l@}`k{It
-thoroughfare	`T6 r\@fe@	`T6r\@fe:
-slut	sl6 t	sl6t
-slum	sl6 m	sl6m
-slug	sl6 g	sl6g
+thoroughfare	`T6r\@fe@	`T6r\@fe:
 rare	r\e@	r\e:
 universe	`j}:n@v@:s	`j}:n@v3:s
 surge	s@:dZ	s3:dZ
-blush	bl6 S	bl6S
 swear	swe@	swe:
-brush	br\6 S	br\6S
 lawful	`l@:f@l	`lo:f@l
 gurgle	`g@:g@l	`g3:g@l
 transfer	tr\{ns`f@:	tr\{ns`f3:
-nourish	`n6 r\IS	`n6r\IS
-mutter	`m6 t@	`m6t@
 record	r\@`k@:d	r\@`ko:d
-stuck-up	`st6 k-6 p	`st6k6p
+stuck-up	`st6k-6p	`st6k6p
 boor	b@:	bo:
 disproportion	dIspr\@`p@:Sn	dIspr\@`po:S@n
-junk	dZ6 Nk	dZ6Nk
-mulch	m6 ltS	m6ltS
-frustrate	fr\6 s`tr\{It	fr\6s`tr\{It
-supple	`s6 p@l	`s6p@l
 dissension	dI`senS@n	d@`senS@n
 laundromat	`l@:ndr\@m{t	`lo:ndr\@m{t
