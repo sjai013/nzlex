@@ -45,7 +45,6 @@ alex	1
 alexandra	1
 alice	2
 allowed	2
-alps	2
 altitudes	1
 amateurs	2
 amazed	2
@@ -81,7 +80,6 @@ appoints	1
 approached	2
 appropriately	2
 apricot	2
-april	3
 aprons	1
 archbishop	1
 areas	1
@@ -225,7 +223,6 @@ bushes	3
 bustled	1
 buszard's	1
 buttered	2
-butterfly	2
 buttons	5
 cabarets	1
 cabmen	2
@@ -265,7 +262,6 @@ characteristics	1
 charades	1
 charged	1
 charges	2
-charles	2
 charlotte	1
 chateau	4
 cheaper	3
@@ -279,7 +275,6 @@ chewed	2
 chickens	2
 childhood	1
 chimed	1
-chinese	1
 chinny	1
 chirped	2
 chock	1
@@ -288,7 +283,6 @@ cholmondeley	1
 chris	4
 christchurch	4
 christian	4
-christianity	1
 churchman	1
 cigarettes	1
 cinemas	2
@@ -327,7 +321,6 @@ commercials	2
 commitments	1
 committed	1
 committees	2
-commonwealth	1
 communion	1
 commuted	1
 como	1
@@ -497,7 +490,6 @@ dumps	2
 dunedin	2
 dunes	2
 dustbin	2
-dutch	1
 eagerly	2
 earl	1
 earlier	4
@@ -505,7 +497,6 @@ earnings	3
 ears	6
 easier	4
 easily	3
-easter	1
 eaten	5
 ecstatically	2
 edinburgh	2
@@ -539,7 +530,6 @@ endless	1
 ends	2
 energetic	4
 england	13
-english	16
 englishwoman	2
 enigmatically	2
 enjoyed	7
@@ -610,7 +600,6 @@ faults	1
 fears	1
 featherstone	10
 features	1
-february	1
 feelings	1
 feels	2
 feltex	2
@@ -676,7 +665,6 @@ frau	10
 fraulein	6
 frederick	2
 freer	1
-french	1
 frequently	3
 freshly	1
 freshness	1
@@ -830,7 +818,6 @@ hugged	2
 huh	1
 humiliation	2
 hundreds	5
-hungarian	2
 husband's	6
 huskies	1
 huts	1
@@ -881,7 +868,6 @@ informed	5
 infra	1
 infuse	1
 initially	2
-ins	2
 insides	2
 inspiration	1
 inspirational	3
@@ -926,7 +912,6 @@ jerseys	2
 jing-a-jingling	1
 joce	1
 jogged	1
-john	10
 johnny	2
 johnson	1
 joined	3
@@ -940,9 +925,7 @@ jostled	2
 joyful	2
 juicy	1
 jujitsu	1
-july	2
 jumped	2
-june	2
 justifiably	1
 kate	3
 katherine	2
@@ -1009,7 +992,6 @@ liked	7
 lilac	2
 lilies	3
 limbs	1
-limited	5
 linda	4
 lines	5
 lines:	1
@@ -1047,7 +1029,6 @@ maintained	2
 majestic	2
 makes	4
 makeshift	4
-malcolm	2
 mamma	5
 man's	1
 managed	4
@@ -1108,8 +1089,6 @@ mouths	2
 mower	6
 mowers	1
 mps	1
-mr	10
-mrs	16
 muffled	2
 muhammad	1
 muldoon	1
@@ -1164,7 +1143,6 @@ nowhere	1
 numbers	2
 nuts	2
 nzbf	1
-o'clock	5
 objection	1
 objects	1
 obsolescence	1
@@ -1178,7 +1156,6 @@ off-office	2
 offered	4
 officialdom	1
 offshore	1
-ok	2
 omo	1
 one's	3
 ones	2
@@ -1245,7 +1222,6 @@ permanently	1
 permitted	1
 pernicious	2
 perry	1
-persian	2
 personalities	1
 personally	4
 persons	2
@@ -1487,13 +1463,11 @@ sand-hills	1
 sappho	2
 sardines	1
 satisfaction	2
-saturday	6
 sauerkraut	2
 sauntered	2
 saved	1
 savings	2
 scandals	2
-scandinavian	1
 scanner	1
 scarred	1
 scattered	1
@@ -1501,7 +1475,6 @@ schafer	1
 schemes	2
 scientists	3
 scott	2
-scottish	1
 scratched	2
 scripts	1
 scrubbed	2
@@ -1521,7 +1494,6 @@ selwyn	4
 semi-political	1
 sends	2
 sensibly	1
-september	2
 serge	2
 seriously	2
 servants	8
@@ -1589,7 +1561,6 @@ slightest	5
 slightly	2
 slops	1
 smiled	7
-smith	2
 smith's	1
 smoothed	2
 snapper	4
@@ -1608,10 +1579,8 @@ sounded	8
 soundly	2
 sounds	2
 southerly	1
-southern	1
 southerners	1
 spain	1
-spanish	2
 sparred	1
 sparrows	4
 spasms	2
@@ -1620,13 +1589,11 @@ speaks	1
 spiders	1
 spills	1
 spinach	2
-spirits	2
 spoilt	1
 spots	2
 sprawled	2
 squat	2
 squeezed	2
-st	6
 stages	1
 stands	3
 stanley	8
@@ -1687,7 +1654,6 @@ suggestion	4
 suits	2
 sullivan	2
 summer-house	2
-sunday	7
 superbly	2
 superfluous	1
 supplies	3
@@ -1753,7 +1719,6 @@ threaded	1
 thrilled	1
 thumped	1
 thundered	1
-thursday	4
 thy	4
 tied	2
 ties	2
@@ -1796,7 +1761,6 @@ troublesome	1
 truly	1
 tuppence	14
 turned	17
-tv	2
 twenty-five	4
 twenty-four	1
 twigs	1
@@ -1895,7 +1859,6 @@ we've	15
 wealthiest	2
 wears	1
 weddell	1
-wednesday	1
 weeks	9
 weirdest	1
 wellington	15
@@ -1925,7 +1888,6 @@ wings	4
 winked	1
 wintertime	1
 wiped	1
-wisdom	2
 wiser	3
 wisers	1
 wished	1

@@ -184,3 +184,18 @@ for word in sorted(all_new_words_temp):
     outfile.write("(\"" + word + "\"\tnil\t" + all_new_words[word].strip() + '\n')
 
 outfile.close()
+
+#####################################################################################################
+################# Get list of 5000 most common words, and contrast with NZ lex ######################
+#####################################################################################################
+
+f = open("5000_most_common.txt")
+most_common_words_temp = f.readlines();
+f.close()
+
+
+most_common_words = dict()
+for line in most_common_words_temp:
+    word = line.split()[1]
+    most_common_words[word] = ""
+
