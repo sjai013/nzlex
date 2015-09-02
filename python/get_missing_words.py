@@ -41,14 +41,14 @@ for word in unique_words_temp:
 del f, unique_words_temp
 # Compare unique words and NZ dictionary, and get all unique words NOT in the NZ or MAUS dictionary
 nz_maus_words = list(set(all_modified_words) | set(alveo))
-missing_corpus_words = list(set(unique_words) - set(nz_maus_words))
+missing_corpus_words_temp = list(set(unique_words) - set(nz_maus_words))
+missing_corpus_words = dict()
 
-f = open("nz_dict/compiled/missing_corpus_words.txt", "w")
-for word in sorted(missing_corpus_words):
-    f.write(word + '\t' + unique_words[word] + '\n')
+for word in missing_corpus_words_temp:
+    words = word.split("-")
+    for word in words:
+        missing_corpus_words[word] = ""
 
-f.close()
-del f
 
 # Get all words in the NZ/MAUS lexicon, that aren't in the 5000 most common word list
 f = open("nz_dict/5000_most_common.txt")
@@ -71,9 +71,24 @@ for item in missing_common_words_temp:
         if (word not in missing_common_words) | (word not in nz_maus_words):
             missing_common_words[word] = ""
 
+
+
+
 f = open("nz_dict/compiled/words_to_add.txt", "w")
 for word in sorted(missing_common_words):
         f.write(word + '\n')
 
 f.close()
 
+
+# Recreate list of missing corpus words by removing all common words, and breaking hyphenated words into separate words
+missing_corpus_words = list(set(missing_corpus_words) - set(missing_common_words))
+
+
+# Print all words that are in the corpus, but are not included in the missing_common_words list
+f = open("nz_dict/compiled/missing_corpus_words.txt", "w")
+for word in sorted(missing_corpus_words):
+    f.write(word + '\n')
+
+f.close()
+del f

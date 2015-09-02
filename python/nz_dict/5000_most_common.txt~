@@ -597,7 +597,7 @@
 597	source	n	66862	0.94
 598	red	j	66217	0.94
 599	nearly	r	64860	0.96
-600	organization	n	67278	0.93
+600	organisation	n	67278	0.93
 601	choose	v	64348	0.97
 602	cause	v	64531	0.97
 603	hair	n	69564	0.89
@@ -618,7 +618,7 @@
 618	course	n	64012	0.94
 619	summer	n	62503	0.96
 620	less	d	62154	0.96
-621	realize	v	61732	0.97
+621	realise	v	61732	0.97
 622	hundred	m	61266	0.97
 623	available	j	63187	0.94
 624	plant	n	63476	0.93
@@ -671,7 +671,7 @@
 671	officer	n	57617	0.96
 672	private	j	57248	0.96
 673	rest	n	56714	0.97
-674	behavior	n	62625	0.88
+674	behaviour	n	62625	0.88
 675	deal	v	57462	0.96
 676	performance	n	59909	0.92
 677	fight	v	56886	0.96
@@ -782,7 +782,7 @@
 782	amount	n	49944	0.95
 783	ability	n	51476	0.93
 784	staff	n	50177	0.95
-785	recognize	v	50042	0.95
+785	recognise	v	50042	0.95
 786	indicate	v	53215	0.89
 787	character	n	49530	0.96
 788	growth	n	50904	0.93
@@ -1656,7 +1656,7 @@
 1656	novel	n	22392	0.94
 1657	code	n	22015	0.95
 1658	somehow	r	22267	0.94
-1659	organize	v	22389	0.94
+1659	organise	v	22389	0.94
 1660	jury	n	24072	0.87
 1661	breast	n	22362	0.94
 1662	Iraqi	j	25446	0.82
@@ -2000,7 +2000,7 @@
 2000	waste	n	19069	0.89
 2001	merely	r	18094	0.94
 2002	mass	n	18107	0.94
-2003	emphasize	v	18933	0.9
+2003	emphasise	v	18933	0.9
 2004	experiment	n	18440	0.92
 2005	definitely	r	18214	0.93
 2006	bomb	n	18284	0.93
@@ -2333,7 +2333,7 @@
 2333	previously	r	15092	0.92
 2334	whenever	r	14484	0.96
 2335	transfer	v	14686	0.95
-2336	analyze	v	15587	0.89
+2336	analyse	v	15587	0.89
 2337	another	p	14441	0.96
 2338	attach	v	14552	0.95
 2339	for	c	14594	0.95
@@ -2581,7 +2581,7 @@
 2581	disability	n	14197	0.86
 2582	shell	n	12957	0.94
 2583	general	r	13256	0.92
-2584	criticize	v	12906	0.94
+2584	criticise	v	12906	0.94
 2585	fast	j	12738	0.96
 2586	professional	n	13402	0.91
 2587	effectively	r	13277	0.92
@@ -3786,7 +3786,7 @@
 3786	unity	n	7810	0.9
 3787	compromise	n	7469	0.94
 3788	horrible	j	7538	0.93
-3789	behavioral	j	8320	0.85
+3789	behavioural	j	8320	0.85
 3790	exclusive	j	7402	0.95
 3791	scatter	v	7461	0.94
 3792	commonly	r	7861	0.89
@@ -4998,4 +4998,3 @@
 4998	middle-class	j	5025	0.93
 4999	apology	n	4972	0.94
 5000	till	i	5079	0.92
-

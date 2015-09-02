@@ -100,8 +100,8 @@ aluminum
 ambitious
 amendment
 amid
+analyse
 analyst
-analyze
 and/or
 announcement
 annually
@@ -138,8 +138,8 @@ banker
 bankruptcy
 basically
 battery
-behavior
-behavioral
+behaviour
+behavioural
 biological
 biology
 briefly
@@ -235,8 +235,8 @@ creativity
 credibility
 criminal
 criteria
+criticise
 criticism
-criticize
 crowded
 cultural
 curiosity
@@ -303,7 +303,7 @@ embarrassed
 emission
 emotional
 emotionally
-emphasize
+emphasise
 employee
 employer
 employment
@@ -562,9 +562,7 @@ opposition
 opt
 optimistic
 orbit
-organization
 organizational
-organize
 organized
 orientation
 originally
@@ -678,12 +676,10 @@ reaction
 reader
 readily
 realistic
-realize
 realm
 rebuild
 recently
 recognition
-recognize
 recommendation
 recovery
 reduction

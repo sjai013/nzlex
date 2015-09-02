@@ -1,1908 +1,1759 @@
-2	a-goos-a-goos-a-ga	@ ' g }: z
-3	abandoned	@ - b @ n - ' d @} n d
-1	abolished	@ - b @ - ' l I S t
-10	absolutely	@ - ' b s O - l }: - t l i:
-5	academic	' { - k @ - d I - m I k
-1	acceptance	@ - ' k s e p - t @ n s
-3	accepted	@ - ' k s e p - t @ d
-4	accommodation	@ - ' k O - m @ - d {I S n
-2	accused	@ - ' k j }: s d
-1	achievement	' { - tS i: - v @ - m @ n t
-1	acknowledged	' { k - n @} - l e dZ d
-1	acquisitive	' { k - k w I - z @ - t I v
-3	activities	' { k - t I - v I - t i: z
-2	actors	' { k - t @ z
-1	adapted	@ - ' d { p - t @ d
-1	added	@ - d @ d
-1	adept	@ - ' d e p t
-4	admiration	@ - d m @ - ' r\ {I S n
-4	admitted	@ - ' d m I - t @ d
-4	admittedly	@ - ' d m I - t @ - d l i:
-2	adopted	@ - ' d O p - t @ d
-1	adventures	@ - ' d v e n - tS @ z
-1	adventurous	@ - ' d v e n - tS 3: - r\ @ s
-1	advert	@ - ' d v 3: t
-1	affairs	@ - ' f I@ z
-1	affects	@ - ' f e k t s
-3	afflicted	@ - ' f l I k - t @ d
-1	affluence	@ - ' f l }: - @ n s
-6	africa	' { f - r\ I - k @
-1	agents	@ - dZ @ n t s
-3	ages	@ - dZ @ z
-1	agitation	' { - dZ @ - t {I S n
-2	agreed	' { g - r\ i: d
-1	agrees	' { g - r\ i: z
-7	ah	@
-1	aircraft's	' I@ - k r\ 6: f t s
-2	aircrafts	' I@ - k r\ 6: f t s
-1	airports	' I@ - p o: t s
-2	airy	' I@ - r\ i:
-1	alehouse	@ l - ' h {O s
-1	alex	@ l k s
-1	alexandra	@ - ' l e g - z { n - d r\ @
-2	alice	' { - l Ae s
-2	allowed	' { - l {O d
-1	altitudes	' { l - t I - tS }: d z
-2	amateurs	' { - m {I - t j }: z
-2	amazed	' { - m @ z d
-1	amended	@ - ' m e n - d @ d
-3	america	@ - m @ - ' r\ I - k @
-3	amundsen	' { - m 6 n d s n
-1	amy	' { - m i:
-1	anc	' { n k
-1	ancestors	' { n - s e s - t @ z
-9	andreas	' { n - d r\ i: z
-2	andrews	' { n - d r\ }: z
-1	animals	' { - n @ m l z
-1	anna	' { - n @
-2	announced	' { - n {O n s t
-2	announcer	' { - n {O n - s @
-2	annoyed	' { - n oI d
-2	anoint	' { - n oI - I n t
-1	answers	' { n - s @ z
-19	antarctic	' { n - t 6: - k t I k
-1	anticipation	' { n - t I - s @ - p {I S n
-2	anton	' { n - t @ n
-1	ants	' { n t s
-2	anybody's	' { - n i: - b @ - d i: z
-2	apologetically	@ - ' p O - l @ - g @ - t I k - l i:
-1	appealed	@ - ' p i: l d
-10	appeared	@ - ' p I@ d
-1	appears	@ - ' p I@ z
-2	application	@ - p l @ - ' k {I S n
-4	applies	@ - ' p l i: z
-1	appointed	@ - ' p oI n - t @ d
-1	appointee	@ - ' p oI n - t i:
-1	appoints	@ - ' p oI n t s
-2	approached	@ - ' p r\ @} tS t
-2	appropriately	@ - ' p r\ @} - p r\ i: - {I - t l i:
-2	apricot	' { p - r\ I - k O t
-1	aprons	' { p - r\ @ n z
-1	archbishop	' 6: - tS b I - S O p
-1	areas	' I@ - i: z
-1	arguments	' 6: - g j }: - m @ n t s
-2	aristocratic	' 6: - I s - t @ - k r\ {I - t I k
-4	arm-chair	' 6: m
-1	armfuls	' tS I@
-11	arms	' 6: m - f U l z
-2	arranged	' 6: m z
-8	arrived	' 6: - {I n dZ d
-1	arrogance	' 6: - Ae v d
-2	arts	' 6: - @ - g @ n s
-2	arum	' 6: t s
-1	ashbury	' 6: - @ m
-2	aspects	' { S - b 3: - r\ i:
-2	aspirations	' { s - p e k t s
-1	assessed	' { s - p @ - r\ {I S n z
-1	assessment	@ - ' s e s t d
-4	assistance	@ - ' s e s - m @ n t
-4	associated	@ - ' s I s - t @ n s
-2	associations	@ - ' s @} - S i: - {I - t @ d
-2	assumed	@ - ' s @} - S i: - {I S n z
-1	assumption	@ - ' S j }: m d
-1	astonished	@ - ' S 6 m p S n
-1	athletically	' { s - t @ - n I S t
-1	attacks	@ - T l @ - ' t I k - l i:
-1	attempted	@ - ' t { k s
-1	attempts	@ - ' t e m - p t @ d
-2	attitudes	@ - ' t e m p t s
-1	attractions	@ - ' t I - tS }: d z
-2	attrition	@ - ' t r\ { k S n z
-34	auckland	@ - ' t r\ I S n
-2	auctioneer	' o: - k l { n d
-1	auntie	' o: - k S n I@ - @
-2	australians	' o: n - t i:
-2	austria	' o: s - t r\ @ - l i: - @ n z
-2	avalon	' o: s - t r\ i: - @
-2	aviator	@ - ' v { - l @ n
-3	awfully	' { - v i: - {I - t @
-1	hillary	' h I - l @ - r\ i:
-4	babies	' b { - b i: z
-1	baby's	' b { - b i: z
-2	backyards	' b { k - j 6: d z
-2	baking-powder	' b { - k I N ' p {O - d @
-4	ball	' b { l
-2	balloon	' b { - l }: n
-1	banisters	' b { - n I s - t @ z
-2	baobab	' b { - @} - b { b
-2	barbara	' b 6: - b @ - r\ @
-1	barbeque	' b 6: - b e k w
-1	barnard	' b 6: - n 6: d
-4	baron	b @ - r\ @ n
-3	baroness	b @ - ' r\ @} - n @ s
-1	barrel-organ	' b { r\ l ' o: - g @ n
-1	barter	' b 6: - t @
-2	based	' b {I s d
-1	bases	' b {I - s @ z
-2	basilica	' b { - z I - l @ - k @
-1	bavarian	' b { - v @ - r\ i: - @ n
-1	bays	' b {I z
-1	bbc	b b k
-2	beams	' b i: m z
-1	beasts	' b i: s t s
-3	beautifully	' b i: - { - t I f - l i:
-4	beebey	' b i: - b i:
-1	bees	' b i: z
-2	beforehand	' b I - f o: - h { n d
-1	begged	' b I g d
-1	beginnings	' b I - dZ I - n I N z
-1	beheaded	' b I - h e - d @ d
-3	believed	' b I - l i: v d
-1	believes	' b I - l i: v z
-2	bell's	' b { l z
-2	bells	' b { l z
-2	benches	' b e n - tS @ z
-1	benefited	' b e n - f Ae - t @ d
-2	benefits	' b e n - f I t s
-1	berger	' b 3: - dZ @
-2	berlin	' b 3: - l I n
-6	bernard	' b 3: - n 6: d
-2	bertha	' b 3: T
-1	beryl	' b 3: - r\ i: l
-1	best-known	' b I s t ' n @} n
-1	betters	' b I - t @ z
-1	biased	' b i: - @ z d
-2	biddy	' b I - d i:
-2	bigger	' b I - g @
-1	biggest	' b I g - dZ e s t
-2	bird's	' b 3: d z
-4	biscuits	' b I s - k }: t s
-1	blankets	' b l { N - k @ t s
-1	blazed	' b l {I z d
-1	bleached	' b l i: tS t
-1	blessed	b l @ s t d
-1	blinds	' b l Ae n d z
-6	blokes	' b l @} k s
-2	blown	' b l {O n
-2	blurred	' b l 6 r\ d
-1	blushed	' b l U S t
-1	boa	' b @}
-5	boats	' b @} t s
-2	bombarded	' b O m - b 6: - d @ d
-1	bonn	' b O n
-5	books	' b U k s
-1	bottles	' b O t l z
-2	boughs	b z
-4	bourne	' b o: n
-1	boxes	' b @} - k s @ z
-4	boys	' b oI z
-1	braces	' b r\ {I - s @ z
-4	brains	' b r\ {I n z
-1	branches	b r\ @ n - tS @ z
-2	brass-and-turquoise	b r\ @ s ' { n d ' t 3: r\ - k w oI z
-2	breakfast-room	' b r\ {I - k f 6: s t ' r\ }: m
-1	breakwater	' b r\ {I - k w o: - t @
-2	breathed	' b r\ i: D
-2	breathless	' b r\ i: - T l @ s
-1	bred	b r\ d
-3	brian	' b r\ i: - @ n
-1	bridles	' b r\ I d l z
-1	brighter	' b r\ Ae - t @
-3	brightly	' b r\ Ae - t l i:
-2	brill	' b r\ I l
-1	brims	' b r\ I m z
-2	britain	' b r\ Ae - t {I n
-1	britain's	' b r\ Ae - t {I n z
-5	british	' b r\ I - t I S
-2	broadcaster	' b r\ @} - d k 6: s - t @
-2	broadened	' b r\ @} d n d
-2	brothers	' b r\ @} - D @ z
-1	bruce	' b r\ j }: s
-2	brushed	' b r\ 6 S t
-3	buchan	' b 6 tS n
-2	buddha	' b 6 d h
-1	budgets	' b 6 - g @ t s
-2	buds	' b 6 d z
-6	built	' b }: - I l t
-1	burdened	' b 3: d n d
-1	bureaucratic	' b j }: - r\ i: - k r\ {I - t I k
-3	bushes	' b U - S @ z
-1	bustled	' b 6 s l d
-1	buszard's	' b 6 s - z 6: d z
-2	buttered	' b 6 - t @ d
-5	buttons	' b 6 - t @ n z
-1	cabarets	' k { - b I@ - r\ @ t s
-2	cabmen	' k { b - m @ n
-1	cabs	' k { b z
-1	cages	' k {I - dZ @ z
-1	calico	' k { - l I - k @}
-16	called	' k { l d
-2	cam	' k { m
-2	cameraman	' k {I - m @ - r\ @ - m @ n
-2	cameras	' k {I - m @ - r\ @ z
-1	camps	' k { m p s
-1	canada	' k { - n @ - d @
-1	canadian	' k { - n { - d i: - @ n
-2	candidates	' k { n - d I - d {I t s
-1	canterbury	' k { n - t @ - b 3: - r\ i:
-4	cards	' k 6: d z
-2	cared	' k I@ d
-4	carefully	' k I@ r\ - f l i:
-1	carinade	' k { - r\ @ - n {I d
-1	carpenters	' k 6: - p e n - t @ z
-7	carried	' k { - r\ i: d
-1	cars	' k 6: z
-2	cases	' k {I - s @ z
-1	casimir	' k { - z I - m 3:
-1	castinets	' k 6: s - t i: - n @ t s
-2	castors	' k 6: s - t @ z
-2	categories	' k {I - t g @ - r\ i: z
-2	ceased	' s i: z d
-1	celestial	' s { - l @ s S l
-1	centres	' s e n t r\ z
-3	cents	' s e n t s
-2	chairs	' tS I@ z
-1	challenges	' tS o: - l e n - dZ @ z
-11	changed	' tS {I n dZ d
-2	changes	' tS {I n - dZ @ z
-1	characteristics	' tS 6: - r\ { k - t @ - r\ I s - t I k s
-1	charades	' tS 6: - r\ @ d z
-1	charged	' tS 6: dZ d
-2	charges	' tS 6: - dZ @ z
-1	charlotte	' tS 6: - l O t
-4	chateau	' tS {I - t i:
-3	cheaper	tS p @
-2	checked	' tS e k t
-1	cheeks	' tS i: k s
-4	cherokee	' tS 3: - r\ @} - k i:
-1	cherries	' tS 3: - r\ i: z
-3	cherry	' tS 3: - r\ r\ i:
-3	chestnut	' tS e s - t n 6 t
-2	chewed	' tS }: d
-2	chickens	' tS I - k e n z
-1	childhood	' tS Ae l - d h U d
-1	chimed	' tS Ae m d
-1	chinny	' tS I - n i:
-2	chirped	' tS 3: p t
-1	chock	' tS O k
-2	choked	' tS @} k t
-1	cholmondeley	' tS O l - m @ n - d l i:
-4	chris	' k r\ I s
-4	christchurch	' k r\ I s tS tS
-4	christian	' k r\ I s - S i: - @ n
-1	churchman	' tS 3: - tS m @ n
-1	cigarettes	s @ - ' g I@ - r\ e t s
-2	cinemas	' s Ae - n @ - m @ z
-2	circumstances	' s 3: - k 6 m s - t @ n - s @ z
-1	cited	' s Ae - t @ d
-3	cities	' s I - t i: z
-1	clad	' k l { d
-3	claims	' k l {I m z
-2	clapped	' k l { p t
-4	clasped	' k l 6: s p t
-2	class-rooms	' k l 6: s ' r\ }: m z
-1	classes	' k l 6: - s @ z
-1	cleaner	' k l i: - n @
-1	clearly	' k l I@ - l i:
-3	climbed	' k l I m b d
-2	climber	' k l I m - b @
-5	climbers	' k l I m - b @ z
-1	climbs	' k l I m b z
-6	closed	' k l @} z d
-1	closer	' k l @} - z @
-1	closest	' k l @} - s e s t
-1	clunig	' k l }: - n I g
-2	coats	' k @} t s
-1	cobbler's	' k O b - l @ z
-2	cole's	' k O l z
-1	collapsible	k @ - l @ - p z @ b l
-2	collars	k @ - l @ z
-2	coloured	' k 6 - l @ - @ d
-6	comes	' k O m z
-2	comforted	k @ m - f @ - t @ d
-1	comics	k @ - ' m I k s
-2	commanded	k @ - m @ n - d @ d
-1	commemorates	k @ - ' m e - m @ - r\ {I t s
-2	commentaries	k @ - m @ n - ' t I@ - r\ i: z
-2	commercials	k @ - m @ S l z
-1	commitments	k @ - ' m I t - m @ n t s
-1	committed	k @ - ' m I - t @ d
-2	committees	k @ - ' m I - t i: z
-1	communion	k @ - ' m j }: - n @ n
-1	commuted	k @ - ' m j }: - t @ d
-1	como	' k 6 - m @}
-1	comp	k @ m p
-9	compared	k @ m - ' p I@ d
-1	compasses	k @ m - p @ - s @ z
-2	compensation	k @ m - ' p e n - s {I S n
-4	competitor	k @ m - p @ - t @ - t @
-2	competitors	k @ m - p @ - t @ - t @ z
-8	completely	k @ m - ' p l e t - l i:
-2	comradeship	k @ - ' m r\ {I - d I - S I p
-16	concerned	k @ n - s @ n d
-2	concerns	k @ n - s @ n z
-2	conclusion	k @ n - ' k l }: Z n
-5	conditions	k @ n - ' d I S n z
-4	conductor	k @ n - ' d 6 k - t @
-1	configuration	k @ n - ' f I - g }: - r\ {I S n
-3	confined	k @ n - ' f I n d
-2	confirmation	k @ n - ' f 3: - m @ S n
-2	confirmed	k @ n - ' f 3: m d
-1	confounded	k @ n - ' f {O n - d @ d
-3	connection	k @ - ' n e k S n
-2	consensus	k @ n - ' s e n - s @ s
-2	consequently	k @ n - s @ - ' k w e n - t l i:
-1	considerations	k @ n - ' s Ae - d @ - r\ {I S n z
-4	constantly	k @ n s - ' t { n - t l i:
-1	consumption	k @ n - ' s 6 m p S n
-1	contemptuous	k @ n - ' t e m - p t U s
-5	continued	k @ n - ' t I - n }: d
-2	continuity	k @ n - ' t I - n }: - @ - t i:
-3	contractor	k @ n - ' t r\ { k - t @
-1	contribution	k @ n - ' t r\ I b - j }: S n
-1	contributions	k @ n - ' t r\ I b - j }: S n z
-1	convinced	k @ n - ' v I n s t
-1	convolvulus	k @ n - ' v O l - v O - l @ s
-2	cooker	' k U - k @
-1	cooperation	' k }: - p @ - r\ {I S n
-1	cooperative	' k }: - p @ - r\ {I - t I v
-2	corners	' k o: - n @ z
-2	coronet	' k o: - r\ @} - n @ t
-2	corridors	k @ - ' r\ I - d @ z
-11	costs	' k O s t s
-1	counted	' k {O n - t @ d
-1	counteracted	' k {O n - t @ - r\ { k - t @ d
-2	counterpane	' k {O n - t @ - p {I n
-3	countries	' k {O n - t r\ i: z
-2	couples	' k }: p l z
-1	courses	' k o: - s @ z
-1	courtesan	' k o: - t @ - s @ n
-9	covered	' k 6 - v @ d
-1	covers	' k 6 - v @ z
-2	created	' k r\ i: - t @ d
-1	creates	' k r\ i: t s
-1	crept	' k r\ e p t
-1	crevassed	k r\ @ - v @ s t d
-1	cribs	' k r\ I b z
-8	cried	' k r\ i: d
-1	criticise	' k r\ I - t I - s Ae z
-1	criticism	' k r\ I - t I - s I z m
-1	crosses	' k r\ O - s @ z
-1	crumpled	' k r\ 6 m p l d
-1	crushed	' k r\ 6 S t
-1	cuffs	' k 6 f s
-1	cupid	' k j }: - p I d
-4	cups	' k 6 p s
-1	curate	' k }: - r\ {I t
-2	curls	' k 3: l z
-2	currants	' k 6 - r\ @ n t s
-2	curtains	' k 3: - t {I n z
-4	cynny	' s Ae - n i:
-1	cynthia	' s I n - T i: - @
-2	da	' d {
-1	daddy	' d { - d i:
-2	daisy	' d {I - s i:
-1	dangerous	' d { n - dZ @ - r\ @ s
-2	dangers	' d { n - dZ @ z
-1	darkened	' d 6: - k @ n d
-2	darkness	' d 6: - n @ s
-1	dates	' d {I t s
-2	daughters	' d o: - t @ z
-1	davids	' d { - v I d z
-1	dawned	' d o: n d
-35	days	' d {I z
-4	dearer	' d e - r\ @
-1	dearie	' d e - r\ i:
-2	deathlike	' d e T - l Ae k
-2	debutante	' d i: - b j U\ - t @ n t
-2	decides	' d I - s Ae d z
-2	deeply	' d i: - p l i:
-1	deficiencies	' d I - f I - s i: - @ n - s i: z
-3	definitely	' d I - f I - n Ae - t l i:
-1	definition	' d I - f I - n I S n
-1	degenerated	' d I - dZ @ - n @ - r\ {I - t @ d
-1	delegates	' d { - l @ - g {I t s
-1	deliberately	' d I - l Ae - b @ - r\ {I - t l i:
-2	delighted	' d I - l Ae - t @ d
-1	delightfully	' d I - l Ae - t f l i:
-1	delivered	' d I - l I - v @ d
-1	democratic	' d i: - m @ - k r\ {I - t I k
-3	dennis	' d e - n I s
-3	dependency	' d I - p e n - d I n - s i:
-2	depends	' d I - p e n d z
-4	derek	' d I r\ k
-1	described	' d I s - k r\ Ae b d
-4	designed	' d I - z Ae n d
-2	destroyed	' d I s - t r\ oI d
-3	developed	' d I - v { - l @} p t
-2	diana	' d Ae - @ - n @
-2	died	' d i: d
-3	differences	' d I - f @ - r\ @ n - s @ z
-2	differs	' d I - f @ z
-1	difficulties	' d I - f I - k O l - t i: z
-2	difficulty	' d I - f I - k O l - t i:
-1	dining-room	' d I - n I N ' r\ }: m
-2	dipped	' d I p t
-1	direction	' d Ae - r\ e k S n
-2	directors	' d Ae - r\ e k - t @ z
-1	disadvantages	' d I - s @ - d v @ n - t dZ @ z
-2	disagreed	' d I - s @ - g r\ i: d
-1	disagreement	' d I - s @ - g r\ i: - m @ n t
-3	disappointed	' d I - s @ - p oI n - t @ d
-4	disappointments	' d I - s @ - p oI n - t m @ n t s
-1	disciplined	' d I - s I p - l Ae n d
-5	discovered	' d I s - k 6 - v @ d
-2	discreetly	' d I s - k r\ i: - t l i:
-1	discussed	' d I s - k 6 s t d
-6	discussion	' d I s - k 6 s n
-1	diseases	' d I - s i: - s @ z
-4	dishes	' d I - S @ z
-1	disks	' d I s k s
-1	disliked	' d I s - l Ae k t
-1	disorderly	' d I - s o: - d @ - l i:
-1	dissipated	' d I - s I - p {I - t @ d
-1	distances	' d I s - t @ n - s @ z
-1	distributed	' d I s - t r\ I b - j }: - t @ d
-2	divisional	' d I - v Ae - Z n @ l
-1	do-gooders	' d @} ' g U - d @ z
-1	doctor's	' d O k - t @ z
-14	dogs	' d O g z
-2	dollars	' d O - l @ z
-1	dominant	' d @} - m @ - n @ n t
-1	door-knob	' d o: ' n O b
-2	doors	' d o: z
-1	doubled	' d 6 b l d
-2	doubtless	' d 6 b - t l @ s
-1	doubts	' d 6 b t s
-1	douglas	' d }: - g l @ z
-2	downstairs	' d {O n s - t I@ z
-2	dragged	' d r\ { g d
-2	drapery	' d r\ {I - p @ - r\ i:
-1	drawers	' d r\ o: - @ z
-1	drawled	' d r\ o: l d
-2	dreadfully	' d r\ e d - f l i:
-2	dreamily	' d r\ i: - m @ - l i:
-2	dreams	' d r\ i: m z
-1	drearily	' d r\ I@ - r\ @ - l i:
-1	dregs	' d r\ e g z
-3	dressed	' d r\ e s t d
-1	dressing-room	' d r\ e - s I N ' r\ }: m
-2	drifted	' d r\ I f - t @ d
-2	driver	' d r\ Ae - v @
-2	dropped	d r\ @ p t
-1	drops	' d r\ O p s
-2	duke	' d j }: k
-2	dumps	' d 6 m p s
-2	dunedin	' d j }: - n i: - d I n
-2	dunes	' d j }: n z
-2	dustbin	' d 6 s - t b I n
-2	eagerly	' i: - dZ @ - l i:
-1	earl	' i: l
-4	earlier	' i: - l i: - @
-3	earnings	' i: - n I N z
-6	ears	' i: z
-4	easier	' i: - z i: - @
-3	easily	' i: - z @ - l i:
-5	eaten	' i: t n
-2	ecstatically	' e k - s t {I - t I k - l i:
-2	edinburgh	' e - d I n - b 3: g
-2	edinburgh's	' e - d I n - b 3: g z
-4	educated	' e d - j }: - k {I - t @ d
-1	educational	' e d - j }: - k {I - S n @ l
-2	effectively	' e - f e k - t I v - l i:
-2	effectiveness	' e - f e k - t I v - n @ s
-1	efforts	' e - f @ t s
-2	eggs	' e g z
-2	eh	' e h
-2	eightpence	' e t - p @ n s
-1	eighty-four	' e - t i: ' f o:
-1	eighty-pound	' e - t i: ' p {O n d
-1	elbows	' { l - b @} z
-1	elected	' I - l e k - t @ d
-3	electors	' I - l e k - t @ z
-3	electric	' I - l e k - t r\ I k
-2	electrical	' I - l e k - t r\ I k l
-2	elevenpence	' I - l @ - v @ n - p e n s
-1	elizabeth	' I - l Ae - z {I b T
-2	elsa	' { l - s @
-1	emerged	' e - m @ dZ d
-1	emotional	' I - m @} - S n @ l
-1	emptied	' e m - p t i: d
-2	en	@ n
-2	enclosure	@ n - ' k l O - s @
-3	encyclopaedia	@ n - ' s Ae - k l O - p { - @ - d i: - @
-1	ended	' e n - d @ d
-1	endless	' e n - d l @ s
-2	ends	' e n d z
-4	energetic	' e - n @ - g e - t I k
-13	england	@ N - ' g l { n d
-2	englishwoman	@ N - ' g l I S - w U - m @ n
-2	enigmatically	' e - n I g - m @ - t I k - l i:
-7	enjoyed	@ n - ' dZ oI d
-2	enjoyment	@ n - ' dZ oI - m @ n t
-1	enlarged	@ - n l @ dZ d
-1	entails	@ n - ' t {I l z
-2	entered	@ n - t @ d
-1	enters	@ n - t @ z
-2	entertainment	@ n - t @ - ' t {I - n m @ n t
-1	entertains	@ n - t @ - ' t {I n z
-2	enthusiast	@ n - ' T j }: - z 6: s t
-1	enthusiastic	@ n - ' T j }: - z 6: s - t I k
-1	enthusiastically	@ n - ' T j }: - z 6: s - t I k - l i:
-7	entirely	@ n - ' t Ae - r\ @ - l i:
-4	entitled	@ n - ' t I t l d
-7	equally	' I k - w o: - l i:
-1	equipped	' I k - w I p t
-9	eric	' e - r\ I k
-1	eric's	' e - r\ I k s
-1	eroded	' I - r\ @} - d @ d
-1	eros	' I - r\ @} z
-1	escalated	' e s - k { - l {I - t @ d
-2	escaped	' e s - k {I p t
-2	established	' e s - t @ - b l I S t
-6	ethel	' e - T { l
-1	ethical	' e - T I k l
-7	everest	' I - v @ - r\ @ s t
-2	everybody's	' I - v @ - r\ i: - b @ - d i: z
-2	ewe	' j }:
-2	ex	@ k s
-1	exaggerated	@ - ' g z { - g @ - r\ {I - t @ d
-2	exceedingly	@ - ' k s s i: - d I N - l i:
-1	exceptions	@ - ' k s s e p S n z
-1	excitement	@ - ' k s s Ae - t e - m @ n t
-1	excitements	@ - ' k s s Ae - t e - m @ n t s
-1	excused	@ - ' k s k j }: s d
-2	exercised	' e k - s @ - s Ae z d
-2	exercises	' e k - s @ - s Ae - z @ z
-2	exhibitions	@ - k s @ - ' b I S n z
-2	existence	' e k - s I s - t @ n s
-1	expectations	@ - ' k s p e k - t {I S n z
-2	expeditions	@ - ' k s p i: - d I S n z
-2	expendage	@ - ' k s p e n - d I dZ
-4	expenses	@ - ' k s p e n - s @ z
-1	experienced	@ - ' k s p 3: - r\ i: - @ n s t
-1	explanation	@ - k s p l @ - ' n {I S n
-1	explorer	@ - ' k s p l o: - r\ @
-1	expostulatory	@ - ' k s p @} s - t j @ - l {I - t @ - r\ i:
-2	expresses	@ - ' k s p r\ e - s @ z
-2	extended	@ - ' k s t e n - d @ d
-1	extraction	@ - ' k s t r\ { k S n
-2	extravagance	@ - k s t r\ @ - v @ - g @ n s
-3	extremely	@ - ' k s t r\ m l i:
-2	eyebrows	' e - Ae - b r\ @} z
-17	eyes	' e - Ae z
-4	f7	f ' s e v n
-2	factors	' f { k - t @ z
-2	facts	' f { k t s
-11	failed	' f {I l d
-1	fairfield	' f I@ - f i: l d
-2	fallen	' f { l n
-2	families	' f { - m I - l i: z
-2	far-away	' f 6: @ - ' w {I
-2	fashionable	' f { - S @ - n @ b l
-2	fastened	' f 6: s t n d
-2	fastidiously	' f 6: s - t I - d i: - @ - s l i:
-1	faults	' f o: l t s
-1	fears	' f I@ z
-10	featherstone	' f i: - D @ s - t @} n
-1	features	' f i: - tS @ z
-1	feelings	' f i: - l I N z
-2	feels	' f i: l z
-2	feltex	' f { l t k s
-1	fences	' f e n - s @ z
-1	fermented	' f 3: - m @ n - t @ d
-2	ferny	' f 3: - n i:
-2	fewer	' f j }: - @
-1	fidgeted	' f I - dZ @ - t @ d
-5	fields	' f i: l d z
-2	fifties	' f I f - t i: z
-2	fifty-first	' f I f - t i: ' f 3: s t
-1	fifty-two	' f I f - t i: ' t w O
-11	figures	' f I g - j }: - @ z
-3	filled	' f I l d
-2	fillets	' f I - l @ t s
-2	finances	' f Ae - n @ n - s @ z
-1	finest	' f Ae - n @ s t
-3	fingers	' f I - N @ z
-1	fingertips	' f I - N @ - t I p s
-5	finished	' f I - n I S t
-1	fir	' f 3:
-5	firestone	' f Ae - @ s - t @} n
-3	firmly	' f 3: - m l i:
-1	firstly	' f 3: - s l i:
-3	fischer	' f I - s @
-2	fisher	' f I - S @
-4	fishermen	' f I - S @ - m @ n
-2	fitted	' f I - t @ d
-8	fivepence	' f Ae v - p @ n s
-1	fixed	' f Ae - k s @ d
-2	fleck	' f l e k
-1	flicked	' f l I k t
-1	flights	' f l Ae t s
-1	flipped	' f l I p t
-1	floated	' f l @} - t @ d
-1	flocks	' f l O k s
-1	floors	' f l o: z
-2	flower-bed	' f l {O - @ ' b e d
-2	flower-shop	' f l {O - @ ' S O p
-2	flowers	' f l {O - @ z
-2	flows	' f l @} z
-2	flung	' f l 6 N
-1	flushed	' f l U S t
-5	followed	' f O - l {O d
-1	forced	' f o: s t
-2	forces	' f o: - s @ z
-1	forcibly	' f o: - s @ - b l i:
-1	forebears	' f o: - b I@ z
-1	foregod	' f o: - g O d
-1	foresight	' f o: - z Ae t
-2	forget-me-not	' f o: - g @ t ' m e ' n O t
-2	forgotten	' f o: - g O t n
-1	forked	' f o: k t
-1	forks	' f o: k s
-2	forms	' f o: m z
-5	forrester	' f O - r\ @ s - t @
-2	forsook	' f o: - s U k
-3	fortunately	' f o: - t j }: - n {I - t l i:
-6	fourpence	' f o: - p @ n s
-1	franker	' f r\ { N - k @
-2	frankly	' f r\ { N - k l i:
-10	frau	' f r\ o:
-6	fraulein	' f r\ o: - l I n
-2	frederick	' f r\ e - d @ - r\ I k
-1	freer	' f r\ I@ - @
-3	frequently	' f r\ e k - w e n - t l i:
-1	freshly	' f r\ e S - l i:
-1	freshness	' f r\ e S - n @ s
-1	friendships	' f r\ i: - e n - d S I p s
-3	frightened	' f r\ Ae t n d
-1	frightfully	' f r\ Ae - t f l i:
-2	fritz	' f r\ I t z
-1	fro	' f @}
-2	fuchs	' f 6 tS z
-1	fuchsia	' f 6 tS - z @
-3	fully	' f l i:
-2	functions	' f 6 N k S n z
-1	funds	' f 6 n d z
-1	gained	' g {I n d
-2	garb	' g 6: b
-2	gatepost	' g {I - t p @} s t
-2	gates	' g {I t s
-2	gateway	' g {I - t w {I
-4	gathered	' g { - D @ d
-4	gavin	' g { - v I n
-5	generally	' dZ e - n @ - r\ @ - l i:
-2	generosity	' dZ e - n @ - r\ @ - s @ - t i:
-2	generously	' dZ e - n @ - r\ @ - s l i:
-2	genially	' dZ e - n i: - @ - l i:
-4	gentlemen	' dZ e n - t l m @ n
-1	gently	' dZ e n - t l i:
-1	geographical	' dZ i: - @ - g r\ @ - f I k l
-6	george	' dZ e - o: dZ
-1	geranium	' dZ 3: - r\ @ - n i: - @ m
-6	germany	' dZ 3: - m @ - n i:
-2	gestures	' dZ e s - tS @ z
-1	gimcrack	' g I - m @ - k r\ { k
-1	gin	' g I n
-10	girls	' g 3: l z
-1	giveaway	' g Ae - v i: - w {I
-2	gives	' g Ae v z
-2	glaciers	' g l {I - s i: - @ z
-2	glanced	g l @ n s t
-1	glasses	' g l 6: - s @ z
-3	gleamed	' g l i: m d
-2	glittered	' g l I - t @ d
-2	godber's	' g O d - b @ z
-9	goes	' g @} z
-2	goings	' g oI - I N z
-2	golden-eyed	' g O l d n ' e - Ae d
-1	golly	' g O - l i:
-2	good-bye	' g U d ' b Ae
-2	gorged	' g o: dZ d
-1	government's	' g 6 - v @ - n m @ n t s
-2	governments	' g 6 - v @ - n m @ n t s
-1	gracefully	' g r\ {I - s f l i:
-4	graciously	' g r\ {I - S @ - s l i:
-1	gradually	' g r\ { - dZ U - o: - l i:
-2	graduates	' g r\ { - dZ U\ - {I t s
-12	grandma	' g r\ { n - d m @
-1	grandmothers	' g r\ { n - d m @} - D @ z
-1	grandpa	' g r\ { n - d p @
-3	grandparents	' g r\ { n - d p I@ - r\ @ n t s
-2	granted	g r\ @ n - t @ d
-1	grapes	' g r\ {I p s
-1	grasped	' g r\ 6: s p t
-1	gravely	' g r\ {I - v l i:
-5	greater	' g r\ i: - t @
-5	greatest	' g r\ i: - t @ s t
-1	green-and-gold	' g r\ i: n ' { n d ' g O l d
-1	greenish	' g r\ i: - n I S
-2	greeted	' g r\ i: - t @ d
-3	greetings	' g r\ i: - t I N z
-1	greybeard	' g r\ i: - b I@ d
-1	grillo	' g r\ I - l @}
-2	grimaced	' g r\ Ae - m {I s t
-1	grimly	' g r\ I m - l i:
-2	grips	' g r\ I p s
-2	grouped	' g r\ }: p t
-1	groups	' g r\ }: p s
-1	growers	' g r\ {O - @ z
-1	grown-up	' g r\ {O n ' 6 p
-1	grown-ups	' g r\ {O n ' 6 p ' 6 p s
-1	guesthouse	' g e s - T {O s
-1	guests	' g e s t s
-1	gull	' g U l
-2	guns	' g 6 n z
-7	guts	' g 6 t s
-2	gutters	' g 6 - t @ z
-3	gwen	g w n
-1	gwendolyn	' g w e n - d O - l i: n
-8	ha'penny	' h {I - p @ - n i:
-2	habits	' h { - b I t s
-2	half-choking	' h 6: f ' tS @} - k I N
-2	half-hour	' h 6: f ' h o:
-4	half-smile	' h 6: f ' s m Ae l
-2	half-way	' h 6: f ' w O
-2	hallo	' h { - l @}
-1	handed	' h { n - d @ d
-1	handled	' h { n d l d
-4	handles	' h { n d l z
-11	hands	' h { n d z
-2	hans	' h { n z
-2	happened	' h { - p @ n d
-3	happens	' h { - p e n z
-2	happier	' h { - p i: - @
-1	happiest	' h { - p i: s t
-2	harcourt	' h 6: - k @ t
-1	harder	' h 6: - d @
-1	hardest	' h 6: - d @ s t
-5	harold	h @ - ' r\ O l d
-10	harry	' h { r\ - r\ i:
-3	harry's	' h { r\ - r\ i: z
-2	hartmann	' h 6: - t m @ n
-1	hated	' h {I - t @ d
-5	hawk's	' h o: k s
-1	haymarket	' h {I - m 6: - k @ t
-3	heads	' h e d z
-11	heard	' h I@ d
-1	hears	' h I@ z
-1	heartily	' h I@ - 6: - t @ - l i:
-2	heathenishly	' h i: - D n I S - l i:
-1	heavenly	' h i: - v n l i:
-1	heavier	' h i: - v i: - @
-1	heavily	' h i: - v @ - l i:
-1	heck	' h e k
-1	heels	' h i: l z
-1	heirs	' h e z
-3	helped	' h { l p t
-1	helpful	' h { l - p f U l
-4	henry	' h e n - r\ i:
-1	herbert	' h 3: - b @ t
-2	here's	' h e - @ z
-2	heroes	' h r\ @} z
-1	heroically	' h r\ oI - k l i:
-7	herr	' h e
-1	hides	' h Ae d z
-2	high-born	' h Ae ' b o: n
-1	high-powered	' h Ae ' p {O - @ d
-1	higher	' h Ae - @
-3	himalayas	' h Ae - m l {I - @ z
-1	hives	' h Ae v z
-3	hobbies	' h O - b i: z
-2	hobday	' h O b - d {I
-2	hoffmann	' h O f - m @ n
-5	homes	' h @} m z
-1	honestly	' h @} - n @ - s l i:
-1	hooked	' h U k t
-1	hoped	' h @} p t
-1	hopes	' h @} p s
-2	horrid	' h O - r\ I d
-2	horrified	' h O - r\ @ - f Ae d
-1	hoteliers	' h @} - t l i: - @ z
-4	hours	' h o: z
-2	hugged	' h 6 g d
-1	huh	' h 6
-2	humiliation	' h j }: - m I - l i: - {I S n
-5	hundreds	' h 6 n - d e d z
-6	husband's	' h 6 s - b { n d z
-1	huskies	' h 6 s - k i: z
-1	huts	' h 6 t s
-2	hydro	' h Ae - d @}
-2	icy	' Ae - s i:
-1	ideals	' Ae - d i: l z
-8	ideas	' Ae - d i: z
-2	ignominious	' I - n O - m I - n i: - @ s
-2	ignorance	' I - n @ - r\ @ n s
-4	ignored	' I - n o: d
-1	imaginative	' I - m { - dZ @ - n {I - t I v
-2	imbibe	' I m - b Ae b
-1	imbued	' I m - b }: d
-1	immeasurably	' I - m i: - Z }: - r\ @ - b l i:
-10	immediately	' I - m i: - d i: - {I - t l i:
-1	immensely	' I - m e n - s l i:
-1	immersed	' I - m @ s d
-1	implications	' I m - p l @ - k {I S n z
-2	importance	' I m - p o: - t @ n s
-1	importer	' I m - p o: - t @
-1	imposed	' I m - p @} z d
-1	impressed	' I m - p r\ e s t d
-1	imprisoned	' I m - p r\ I s n d
-4	improved	' I m - p r\ }: v d
-1	improvement	' I m - p r\ }: - v m @ n t
-1	incapable	' I n - k @ - p @ b l
-1	incarnation	' I n - k 6: - n {I S n
-3	inches	' I n - tS @ z
-6	incidentally	' I n - s Ae - d e n - t l i:
-3	incidents	' I n - s Ae - d e n t s
-1	included	' I n - k l }: - d @ d
-1	includes	' I n - k l }: d z
-2	incredibly	' I n - k e - d @ - b l i:
-2	incurred	' I N - k 6 r\ d
-1	indefinitely	' I n - d I - f I - n Ae - t l i:
-2	independence	' I n - d I - p e n - d I n s
-2	indescribably	' I n - d I s - k r\ Ae - b @ - b l i:
-2	indicted	' I n - d I k - t @ d
-4	individuals	' I n - d I - v I - dZ U l z
-1	induced	' I n - d j }: s t
-1	inferiority	' I n - f @ - r\ i: - @ - r\ @ - t i:
-1	infinitely	' I n - f I - n Ae - t l i:
-4	influenced	' I n - f l }: - @ n s t
-2	influential	' I n - f l }: - e n S l
-5	informed	' I n - f o: m d
-1	infra	' I n - f r\ @
-1	infuse	' I n - f j }: z
-2	initially	' I - n I S - l i:
-2	insides	' I n - s Ae d z
-1	inspiration	' I n s - p @ - r\ {I S n
-3	inspirational	' I n s - p @ - r\ {I - S n @ l
-2	instructor	' I n s - t r\ 6 k - t @
-1	insurance	' I n - s }: - r\ @ n s
-2	intellectual	' I n - t l e k - tS U l
-5	intended	' I n - t e n - d @ d
-6	interested	' I n - t @ - r\ @ s - t @ d
-1	interpreted	' I n - t @ - p r\ I - t @ d
-2	interrupted	' I n - t @ - r\ 6 p - t @ d
-2	intolerable	' I n - t O - l @ - r\ @ b l
-1	intra-urban	' I n - t r\ @ ' 3: r\ - b @ n
-3	introduced	' I n - t r\ @ - d j }: s t
-2	introducer	' I n - t r\ @ - d j }: - s @
-2	invariably	' I n - v @ - r\ Ae - @ - b l i:
-2	invasion	' I n - v {I Z n
-2	invasions	' I n - v {I Z n z
-2	investment	' I n - v e s - t m @ n t
-1	ireland	' Ae - r\ @ - l { n d
-1	ironer	' 3: - r\ @} - n @
-1	ironically	' 3: - r\ @ - n I k - l i:
-1	irritated	' I - r\ I - t {I - t @ d
-2	is	' I s
-1	isabel	' I - z {I b l
-9	isabel's	' I - z {I b l z
-1	island's	' I s - l { n d z
-1	islanders	' I s - l { n - d @ z
-1	islands	' I s - l { n d z
-1	issues	' I - S }: z
-6	it'd	' I t @ d
-1	it'll	' I t @ l
-2	jackets	' dZ { - k @ t s
-2	james	' dZ {I m z
-6	janey	' dZ {I - n i:
-1	jangled	' dZ { N g l d
-2	jaws	' dZ o: z
-2	jay	' dZ {I
-1	jean	' dZ i: n
-2	jerked	' dZ 3: k t
-1	jerseys	' dZ 3: - s i: z
-2	jing-a-jingling	' dZ I N @ ' dZ I N - g l I N
-1	joce	' dZ @} s
-1	jogged	' dZ O g d
-1	johnny	' dZ O - n i:
-2	johnson	' dZ O n s n
-1	joined	' dZ oI - I n d
-3	jonathan	' dZ O - n { T n
-2	jones	' dZ @} n z
-1	jose	' dZ @} z
-3	joseph	' dZ @} s f
-1	josephine	' dZ @} s f n
-6	josephs	' dZ @} s f s
-1	jostled	' dZ O s l d
-2	joyful	' dZ oI - f U l
-2	juicy	' dZ }: - Ae - s i:
-1	jujitsu	' dZ j }: - dZ I t - s }:
-1	jumped	' dZ 6 m p t
-2	justifiably	' dZ 6 s - t @ - f Ae - @ - b l i:
-1	kate	' k {I t
-3	katherine	' k { - D @ - r\ i: n
-2	kelvin	' k { l - v I n
-4	kemple	' k e m p l
-1	ken	' k e n
-4	kent	' k e n t
-2	kerridge	' k e - r\ I dZ
-2	kids	' k t I d z
-4	kilometres	' k I - l O - m e t r\ z
-2	kindness	' k I n - d n @ s
-1	knees	' n i: z
-2	knows	' n @} z
-2	knuckles	' n 6 k l z
-1	laborious	' l {I - b @ - r\ i: - @ s
-1	labour's	' l {I - b @ z
-2	laden	' l {I d n
-2	ladies	' l {I - d i: z
-7	lamented	' l {I - m @ n - t @ d
-1	lamp	' l { m p
-1	lamps	' l { m p s
-2	landings	' l { n - d I N z
-1	lands	' l { n d z
-1	languish	' l { N - g I S
-2	lapel	' l {I p l
-1	largely	' l 6: - dZ l i:
-3	larger	' l 6: - dZ @
-5	largesse	' l 6: - dZ e s
-1	largest	' l 6: - dZ e s t
-2	lashes	' l { - S @ z
-2	lass	' l { s
-2	laughed	' l o:
-2	laughter	' l o: - t @
-3	laura	' l o: - r\ @
-4	lawns	' l o: n z
-1	laws	' l o: z
-1	lawyers	' l o: - i: - @ z
-4	layers	' l {I - @ z
-1	laziest	' l { - z i: - @ s t
-1	leadership	' l e - d @ - S I p
-1	leaned	' l i: n d
-3	learned	' l I@ n d
-2	learnt	' l I@ n t
-5	leaves	' l i: v z
-6	leavings	' l i: - v I N z
-2	ledges	' l e - dZ @ z
-1	legitimately	' l e - dZ I - t @ - m {I - t l i:
-1	legs	' l e g z
-2	leila	' l {I - l @
-5	lessons	' l e s n z
-4	lets	' l e t s
-1	letters	' l e - t @ z
-2	levels	' l e v l z
-1	levers	' l e - v @ z
-1	lewis	' l j w I s
-3	lies	' l i: z
-4	life	' l Ae f
-1	lifestyle	' l Ae - f e s - t Ae l
-2	lightly	' l Ae - t l i:
-1	lightness	' l Ae - t n @ s
-1	lights	' l Ae t s
-3	likeable	' l Ae - k @ b l
-1	liked	' l Ae k t
-7	lilac	' l Ae - l @ k
-2	lilies	' l I - l i: z
-3	limbs	' l I m b z
-1	linda	' l I n - d @
-4	lines	' l Ae n z
-5	lines:	' l Ae n z
-1	lips	' l I p s
-7	listened	' l I s t n d
-3	listener	' l I s - t n @
-1	listeners	' l I s - t n @ z
-1	literally	' l Ae - t @ - r\ @ - l i:
-2	lives	' l I v z
-6	loaded	' l @} - d @ d
-3	loads	' l @} d z
-2	loathsome	' l @} T s m
-2	loftily	' l O f - t @ - l i:
-1	logistics	' l @} - dZ I s - t I k s
-2	loin	' l oI - I n
-2	london	' l O n d n
-4	loner	' l @} - n @
-1	longer	' l O n - dZ @
-6	looked	' l U k t
-29	looks	' l U k s
-1	lots	' l O t s
-4	lottie	' l O - t i:
-3	loved	' l 6 v d
-1	lowe	' l {O
-5	loyalty	' l oI - @ l - t i:
-1	luck's	' l 6 k s
-3	lux	' l 6 k s
-1	lucky	' l 6 - k i:
-3	lungs	' l 6 N z
-1	ma	' m {
-6	mackintosh	' m { - k I n - t @} S
-1	magazines	' m { - g @ - z i: n z
-1	maid	' m {I d
-1	maintained	' m {I n - t {I n d
-2	majestic	' m {I - dZ @ s - t I k
-2	makes	' m {I k s
-4	makeshift	' m {I - k @ - S I f t
-4	mamma	' m { - m @
-5	man's	' m { n z
-1	managed	' m { n dZ d
-4	mansfield	' m { n - s f i: l d
-2	marched	' m 6: tS t
-2	mariner	' m { - r\ i: - n @
-1	mars	' m 6: z
-1	martello	' m 6: - t { - l @}
-6	marvellous	' m 6: - v { - l @ s
-9	mary	' m 6: - r\ i:
-2	masculinity	' m { s - k j @ - l I - n @ - t i:
-2	masse	' m { s
-2	massport	' m { s - p o: t
-4	materials	' m {I - t @ - r\ i: - @ l z
-1	matriculation	' m { t - r\ I k - j @ - l {I S n
-1	matters	' m { - t @ z
-3	matthew	' m { t - T }:
-1	maureen	' m o: - r\ i: n
-1	maybury	' m {I - b 3: - r\ i:
-7	meant	' m i: - { n t
-8	measured	' m i: - Z @ d
-2	meetings	' m i: - t I N z
-1	meg	' m e g
-4	megan	' m e - g @ n
-3	members	' m e m - b @ z
-17	memories	' m e - m @ - r\ i: z
-1	mentally	' m e n - t l i:
-1	mentioned	' m e n S n d
-5	merits	' m e - r\ I t s
-1	mersey	' m 3: - s i:
-1	met	' m e t
-4	methods	' m e - T O d z
-1	michael	' m I k l
-1	michelangelo	' m I - k { - l { n - dZ { - l @}
-1	miles	' m Ae l z
-9	millions	' m I l - j @ n z
-3	minded	' m I n - d @ d
-1	minds	' m I n d z
-1	minerals	' m Ae - n @ - r\ @ l z
-1	mingled	' m I N g l d
-1	ministers	' m I - n I s - t @ z
-2	ministry	' m I - n I s - t r\ i:
-2	minutes	' m I n - j }: t s
-6	mocked	' m O k t
-1	moira	' m oI - r\ @
-2	molecular	' m O - l e k - j @ - l @
-1	moments	' m @} - m @ n t s
-3	months	' m O n T s
-11	moods	' m U d z
-1	morrison	' m O - r\ I s n
-3	mother's	' m O - D @ z
-2	motivated	' m @} - t @ - v {I - t @ d
-4	motivational	' m @} - t @ - v {I - S n @ l
-1	mountains	' m {O n - t {I n z
-3	mournfully	' m o: n - f l i:
-2	mouthful	' m {O - T f U l
-2	mouths	' m {O T s
-2	mower	' m {O - @
-6	mowers	' m {O - @ z
-1	mps	m p z
-1	muffled	' m 6 f l d
-2	muhammad	' m j }: - h { - m { d
-1	muldoon	' m O l - d }: n
-1	mules	m j @ l z
-1	muller	' m U - l @
-2	munchen	' m 6 n tS n
-3	munich	' m j }: - n I tS
-1	murmured	' m 3: - m j }: - @ d
-5	music's	' m j }: - z I k s
-1	musicians	' m j }: - z I - S @ n z
-2	nac	' n { k
-4	nails	' n {I l z
-2	named	' n {I m d
-3	names	' n {I m z
-3	napier	' n { - p i: - @
-5	nash	' n { S
-1	nasturtiums	' n 6: s - tS 3: - t i: - @ m z
-1	naturally	' n { - tS @ - r\ @ - l i:
-5	nauseated	' n o: - s i: - t @ d
-1	nearest	' n I@ - r\ @ s t
-4	neave	' n i: v
-2	necessarily	' n e - s e - s @ - r\ @ - l i:
-2	needed	' n i: - d @ d
-1	needful	' n i: - d f U l
-1	negotiation	' n e - g @} - S i: - {I S n
-1	nepal	' n e p l
-1	nestles	' n e s l z
-4	neveranygood	' n e - v @ - r\ @ - n i: - g U d
-1	newcastle	' n j }: - k 6: s l
-1	newly-engaged	' n j }: - l i: @ N g dZ d
-2	nicely	' n Ae - s l i:
-1	nightclubs	' n Ae - t k l 6 b z
-1	nights	' n Ae t s
-7	nighttime	' n Ae - t Ae m
-2	ninepence	' n Ae n - p @ n s
-2	no-hoper	' n @} ' h @} - p @
-1	nobler	' n O b - l @
-1	nogood	' n @} - g U d
-1	noises	' n oI - z @ z
-1	noisy	' n oI - s i:
-1	nominee	' n O - m I - n i:
-1	norman	' n o: - m @ n
-1	northern	' n o: - T @ n
-3	nostalgic	' n O s - t l dZ I k
-3	noted	' n @} - t @ d
-1	notes	' n @} t s
-1	noticed	' n O - t Ae s t
-1	nougat	' n }: - g {I t
-2	nourishment	' n o: - r\ I S - m @ n t
-2	nowadays	' n @} - O - d {I z
-6	nowhere	' n @} - @ - @
-1	numbers	' n 6 m - b @ z
-2	nuts	' n 6 t s
-2	nzbf	n z b f
-1	objection	@ - ' b dZ e k S n
-1	objects	@ - ' b dZ e k t s
-1	obsolescence	@ - ' b s O - l e s n s
-1	obstreperous	@ - b s t r\ p @ - r\ @ s
-1	obviously	@ - ' b v i: - @ - s l i:
-12	occasionally	' O - k {I - Z n @ - l i:
-1	occasions	' O - k {I Z n z
-5	oceans	' @} - s i: n z
-1	odes	' @} d z
-2	off-office	' O f ' O - f Ae s
-2	offered	' O - f @ d
-4	officialdom	' O - f I S l - d O m
-1	offshore	' O f - S o:
-1	omo	' @} - m @}
-1	one's	' @} n z
-3	ones	' @} n z
-2	ooo	' }: - }:
-3	opened	' @} - p @ n d
-7	operates	' @} - p @ - r\ {I t s
-1	opportunities	' O - p o: - t j }: - n I - t i: z
-1	opposed	' O - p @ z d
-1	opposition	' O - p @ - z I S n
-4	optimistic	' O p - t I - m I s - t I k
-1	orange-trees	' O - {I n dZ ' t r\ i: z
-1	ordered	' o: - d @ d
-1	ordination	' o: - d I - n {I S n
-1	organiser	' o: - g @ - n Ae - z @
-1	orientated	' o: - i: - @ n - t {I - t @ d
-2	originally	' o: - I - dZ @ - n l i:
-2	originated	' o: - I - dZ @ - n {I - t @ d
-3	ostrich	' O s - t r\ I tS
-1	otago	' @} - t @ - g @}
-2	others	' O - T @ z
-11	outsider	' {O - t s Ae - d @
-1	outstandingly	' {O - t s t { n - d I N - l i:
-1	over-exacting	' @} - v @ @ - ' g z { k - t I N
-1	oysters	' oI s - t @ z
-1	pacific	' p { - s @ - f I k
-6	packets	' p { - k @ t s
-13	painstakingly	' p {I n s - t {I - k I N - l i:
-1	painted	' p {I n - t @ d
-1	pairs	' p I@ z
-2	palings	' p { - l I N z
-3	papers	' p {I - p @ z
-2	parasols	' p { - r\ { - s O l z
-2	parched	' p 6: tS t
-2	parents	' p I@ - r\ @ n t s
-7	parker	' p 6: - k @
-6	parliamentary	' p 6: - l i: - @ - m @ n - t @ - r\ i:
-2	parted	' p 6: - t @ d
-2	particularly	' p 6: - t I k - j @ - l @ - l i:
-22	parties	' p 6: - t i: z
-4	partly	' p 6: - t l i:
-1	partners	' p 6: - t n @ z
-2	parts	' p 6: t s
-4	passed	' p { s t d
-5	passengers	' p { s n - dZ @ z
-1	passes	' p { - s @ z
-1	passion-vine	' p { s n ' v Ae n
-1	pastured	' p 6: s - tS @ d
-1	patience	' p { - t i: - @ n s
-3	patterson	' p { - t @ s n
-1	paused	' p o: z d
-2	peaceful	' p i: - s f U l
-2	pearls	' p I@ l z
-1	pebbles	' p e b l z
-3	peculiarly	' p e k - j @ - l i: - 6: - l i:
-4	penalties	' p e n l - t i: z
-1	pendulum	' p e n - d O - l @ m
-1	peoples	' p i: - @ p l z
-2	percent	p @ - ' s e n t
-1	perfectly	p @ - ' f e k - t l i:
-4	performance	p @ - ' f o: - m @ n s
-1	perilous	' p e - r\ I - l @ s
-2	permanently	p @ - ' m {I - n @ n - t l i:
-1	permitted	p @ - ' m I - t @ d
-1	pernicious	p @ - ' n I - S @ s
-2	perry	' p e r\ - r\ i:
-1	personalities	' p 3: - s n @ - l @ - t i: z
-1	personally	' p 3: - s n @ - l i:
-4	persons	' p 3: s n z
-2	peter's	' p e - t @ z
-1	peters	' p e - t @ z
-1	petrie	' p e t - r\ i:
-1	petrified	' p e t - r\ @ - f Ae d
-1	philosophical	' f I - l O - s @ - f I k l
-1	photographer	' f @} - t @ - g r\ @ - f @
-1	photographs	' f @} - t @ - g r\ @ f s
-2	physically	' f I - z I k - l i:
-8	picks	' p I k s
-1	pictures	' p I k - tS @ z
-1	pigs	' p I g z
-1	piles	' p Ae l z
-2	pimples	' p I m p l z
-2	pineapple	' p Ae - n i: p l
-1	pink-and-white	' p I N k ' { n d ' w Ae t
-1	pirouette	' p 3: - r\ }: - e t
-2	pitcher	' p I - tS @
-2	placebo	' p l {I s - b @}
-1	placed	' p l {I s t
-4	places	' p l {I - s @ z
-1	planned	' p l { n d
-2	plans	' p l { n z
-3	played	' p l {I d
-8	plays	' p l {I z
-6	pleased	' p l i: z d
-4	pleasures	' p l i: - Z @ z
-2	plebeian	' p l e - b i: - @ n
-2	pledged	' p l e dZ d
-1	pledges	' p l e - dZ @ z
-10	plexus	' p l e k - s @ s
-1	plunder	' p l 6 n - d @
-1	poet	' p @} - @ t
-2	pointon	' p oI n - t @ n
-1	points	' p oI n t s
-3	poked	' p @} k t
-1	polished	' p O - l I S t
-1	political	' p O - l I - t I k l
-6	ponies	' p @} - n i: z
-1	population	' p O p - j @ - l {I S n
-1	porters	' p o: - t @ z
-1	portions	' p o: S n z
-2	poses	' p @} - s @ z
-1	positions	' p @} - z I S n z
-2	possibly	' p @} - s @ - b l i:
-11	potatoes	' p @} - t {I - t @} z
-2	pound	' p {O n d
-2	pounds	' p {O n d z
-22	poured	' p o: - @ d
-2	poverty-stricken	' p 6 - v 3: - t i: s - ' t r\ I k n
-1	powers	' p {O - @ z
-2	preamble	' p r\ i: m b l
-3	preferred	' p r\ I - f @ r\ d
-1	prefers	' p r\ I - f @ z
-1	premeditated	' p r\ I - m i: - d @ - t {I - t @ d
-3	prepared	' p r\ i: - p I@ d
-4	presbyterian	' p r\ e s - b Ae - t @ - r\ i: - @ n
-2	presence	' p r\ I z N s
-1	presented	' p r\ I - z e n - t @ d
-1	presents	' p r\ I - z e n t s
-1	preserved	' p r\ I - z 3: v d
-1	pressed	' p r\ e s t d
-5	presumably	' p r\ e s - j }: - m @ - b l i:
-2	prevailed	' p r\ i: - v {I l d
-1	prices	' p r\ Ae - s @ z
-23	pricked	' p r\ I k t
-2	principles	' p r\ I n - s I p l z
-1	pristine	' p r\ I s - t i: n
-1	privileges	' p r\ I - v Ae l - dZ @ z
-1	prizes	' p r\ Ae - z @ z
-2	probably	' p r\ @} - b @ - b l i:
-10	problems	' p r\ @} - b l @ m z
-16	procedures	p r\ @ - ' s j }: - @ z
-1	procrastination	' p r\ @} - k r\ 6: s - t @ - n {I S n
-1	produced	p r\ @ - ' d j }: s t
-4	producer	p r\ @ - ' d j }: - s @
-8	producers	p r\ @ - ' d j }: - s @ z
-12	production	p r\ @ - ' d 6 k S n
-3	products	p r\ @ - ' d 6 k t s
-4	professional	p r\ @ - ' f e s - n @ l
-12	professions	p r\ @ - ' f e s n z
-2	profits	' p r\ O - f I t s
-2	programmes	' p r\ @} - g r\ { m z
-2	programs	' p r\ @} - g r\ { m z
-31	projects	p r\ @ - ' dZ e k t s
-2	promised	p r\ @ - ' m Ae z d
-2	propensity	p r\ @ - ' p e n - s @ - t i:
-1	properly	p r\ @ - p @ - ' l i:
-3	proposition	p r\ @ - p @ - ' z I S n
-1	proprietess	' p r\ @} - p r\ Ae - @ - t e s
-1	prosperity	p r\ @ s - p @ - r\ @ - ' t i:
-14	proved	' p r\ }: v d
-1	provided	p r\ @ - ' v Ae - d @ d
-4	psychologically	' s Ae - k O - l @ - dZ I k - l i:
-2	puckered	' p 6 - k @ d
-1	puddles	' p 6 d l z
-1	puffed	' p 6 f t
-1	pukka	' p 6 k - k @
-1	pulled	' p U l d
-2	pumped	' p 6 m p t
-1	puritan	' p j }: - r\ Ae - t @ n
-1	purposes	' p 3: - p @} - s @ z
-1	push-ups	' p U S ' 6 p s
-1	pussy	' p 6 - s i:
-2	puts	' p 6 t s
-2	puzzled	' p 6 z l d
-1	puzzlers	' p 6 z - l @ z
-2	puzzles	' p 6 z l z
-3	pye	' p Ae
-6	pyramids	' p Ae - r\ { - m I d z
-1	qualifies	' k w O - l @ - f Ae z
-1	qualities	' k w O - l @ - t i: z
-2	quality's	' k w O - l @ - t i: z
-1	quarters	' k w O - 6: - t @ z
-2	quell	' k w { l
-1	question:	' k w e s S n
-1	questionably	' k w e s - S n @ - b l i:
-1	questions	' k w e s S n z
-9	quieter	' k w Ae - @ - t @
-1	quietly	' k w Ae - @ - t l i:
-1	quivered	' k w Ae - v @ d
-1	quizmaster	' k w I z - m 6: s - t @
-2	quo	' k w @}
-1	radically	' r\ {I - d I k - l i:
-1	radio's	' r\ {I - d i: - @} z
-1	rafts	' r\ { f t s
-2	rags	' r\ { g z
-3	raised	' r\ {I z d
-5	ranges	' r\ { n - dZ @ z
-1	rarely	' r\ I@ - r\ @ - l i:
-2	ratings	' r\ { - t I N z
-1	raynor	' r\ {I - n @
-2	reached	' r\ i: tS t
-4	reaction	' r\ i: - { k S n
-1	reader	' r\ i: - d @
-2	readily	' r\ i: - d @ - l i:
-1	realised	' r\ i: - @ - l Ae z d
-3	realms	' r\ i: - @ m z
-1	reasonably	' r\ i: - s n @ - b l i:
-5	reasons	' r\ i: s n z
-4	received	' r\ i: - s i: - Ae v d
-6	recently	' r\ i: - s e n - t l i:
-4	recognised	' r\ i: - k @ - g n Ae z d
-2	recognition	' r\ i: - k @ - g n I S n
-1	reconsider	' r\ i: - k @ n - s Ae - d @
-2	recorded	' r\ i: - k o: - d @ d
-1	red-bearded	' r\ i: d ' b I@ - d @ d
-1	red-haired	' r\ i: d ' h I@ - @ d
-2	reddish	' r\ i: - d I S
-2	redeemed	' r\ i: - d i: m d
-2	reduced	' r\ I d - j }: s t
-2	reflective	' r\ i: - f l e k - t I v
-2	refusal	' r\ i: - f j }: s l
-2	refusals	' r\ i: - f j }: s l z
-1	regarded	' r\ i: - g 6: - d @ d
-9	reggie	' r\ i: - g i:
-1	reginald	' r\ i: - dZ @ n l d
-2	registered	' r\ i: - dZ I s - t @ d
-2	regretted	' r\ i: - g r\ e - t @ d
-1	regularly	' r\ I g - j @ - l @ - l i:
-1	relationships	' r\ i: - l {I - S n S I p s
-1	relaxed	' r\ i: - l {I - k s @ d
-1	relied	' r\ I - l i: d
-4	religious	' r\ I - l I - dZ i: - @ s
-5	remained	' r\ i: - m {I n d
-1	remains	' r\ i: - m {I n z
-2	remembered	' r\ i: - m @ m - b @ d
-2	remembrance	' r\ i: - m @ m - b r\ @ n s
-2	reminds	' r\ i: - m Ae n d z
-2	remotely	' r\ i: - m @} - t l i:
-1	remoteness	' r\ i: - m @} - t n @ s
-1	repertory	' r\ i: - p @ - t @ - r\ i:
-4	replied	' r\ i: - p l i: d
-1	reported	' r\ i: - p o: - t @ d
-1	representation	' r\ i: - p r\ I - z e n - t {I S n
-1	representatives	' r\ i: - p r\ I - z e n - t {I - t I v z
-7	repressed	' r\ i: - p r\ e s t d
-1	required	' r\ I k - w Ae - @ d
-1	requires	' r\ I k - w Ae - r\ @ z
-3	resented	' r\ I - z e n - t @ d
-1	resentment	' r\ I - z e n - t m @ n t
-1	reservations	' r\ I - z 3: - v {I S n z
-1	resigned	' r\ I - z Ae n d
-1	resources	' r\ I - s @ - s @ z
-3	respects	' r\ I s - p e k t s
-1	responded	' r\ I s - p O n - d @ d
-1	responsibilities	' r\ I s - p O n - s @ - b I - l I - t i: z
-2	responsibility	' r\ I s - p O n - s @ - b I - l @ - t i:
-2	rested	' r\ e s - t @ d
-2	restriction	' r\ e s - t r\ I k S n
-2	rests	' r\ e s t s
-1	resulted	' r\ I - s O l - t @ d
-1	retained	' r\ i: - t {I n d
-2	retention	' r\ i: - t e n S n
-2	retired	' r\ i: - t Ae - @ d
-7	returned	' r\ I - tS 3: n d
-1	reverential	' r\ I - v @ - r\ @ n S l
-2	rhythmically	' r\ Ae - T m I k - l i:
-1	ribs	' r\ I b z
-2	ridderford	' r\ I - d @ - f @ d
-1	rider	' r\ Ae - d @
-1	rightly	' r\ Ae - t l i:
-1	rights	' r\ Ae t s
-2	rippled	' r\ I p l d
-2	risen	' r\ Ae z n
-2	ritual	' r\ I - tS U l
-1	rivers	' r\ Ae - v @ z
-2	rocked	' r\ O k t
-1	rocks	' r\ O k s
-3	rocky	' r\ O - k i:
-2	romantic	' r\ @} - m @ n - t I k
-1	ronald	' r\ O - n @ l d
-1	rosa	' r\ @} - s @
-2	rosemary	' r\ @} - z m @ - r\ i:
-1	ross	' r\ O s
-2	rotisserie	' r\ @} - t I - s @ - r\ i:
-1	roto	' r\ @} - t @}
-1	rotorcut	' r\ @} - t o: - k 6 t
-2	roughened	' r\ e n d
-2	rougher	r\ @
-1	roughly	' r\ l i:
-1	rulebook	r\ j @ l - ' b U k
-2	rules	r\ j @ l z
-1	runs	' r\ 6 n z
-2	rushed	' r\ 6 S t
-2	russian	' r\ 6 - s @ n
-1	sabina	' s { - b @ - n @
-2	saddles	' s { d l z
-1	sadie	' s {I - d i:
-4	sadly	' s { d - l i:
-1	safely	' s {I - f l i:
-4	safety	' s {I f - t i:
-1	sailed	' s {I l d
-2	salient	' s { - l i: - @ n t
-2	samples	' s { m p l z
-1	sand-hills	' s { n d ' h I l z
-1	sappho	' s { p - f @}
-2	sardines	' s 6: - d i: n z
-1	satisfaction	' s { - t I s - f { k S n
-2	sauerkraut	' s o: - @ - k r\ o: t
-2	sauntered	' s o: n - t @ d
-2	saved	' s {I v d
-1	savings	' s { - v I N z
-2	scandals	s - ' k { n d l z
-2	scanner	s - ' k { - n @
-1	scarred	s - ' k { r\ d
-1	scattered	s - ' k { - t @ d
-1	schafer	' s {I - f @
-1	schemes	' s e m z
-2	scientists	' s i: - @ n - t I s t s
-3	scott	s - ' k O t
-2	scratched	s - ' k r\ { tS t
-2	scripts	s - ' k r\ I p t s
-1	scrubbed	s - ' k r\ 6 b d
-2	sea-captain	' s i: ' k { p - t {I n
-2	seats	' s i: t s
-3	seaweed	' s i: - i: d
-1	secondly	' s e - k @ n - d l i:
-1	secretarial	' s e k - r\ @ - t I@ - r\ i: - @ l
-1	secretaries	' s e k - r\ @ - t I@ - r\ i: z
-1	seemed	' s i: m d
-18	sees	' s i: z
-1	seized	' s {I - Ae z d
-2	selected	' s { - l e k - t @ d
-1	selection	' s { - l e k S n
-1	selwin	' s { l - w I n
-1	selwyn	' s { l - w i: n
-4	semi-political	' s e - m i: ' p O - l I - t I k l
-1	sends	' s e n d z
-2	sensibly	' s e n - s @ - b l i:
-1	serge	' s 3: dZ
-2	seriously	' s e - r\ i: - @ - s l i:
-2	servants	' s 3: - v @ n t s
-8	served	' s 3: v d
-3	services	' s 3: - v Ae - s @ z
-1	serviettes	' s 3: - v Ae - e t s
-2	settled	' s e t l d
-1	settlers	' s e t - l @ z
-1	sevenpence	' s e - v @ n - p e n s
-4	shackleton	' S { k - l t @ n
-4	shadowy	' S { - d @} - i:
-2	shaft	' S { f t
-2	shakespeare	' S {I - k @ s - p I@
-1	sharply	' S 6: - p l i:
-2	shaver	' S {I - v @
-3	sheds	S t z
-1	sheep-dog	' S i: p ' d O g
-3	shelley	' S { - l i:
-4	shepherd	' S { - f @ - e d
-4	shepherd-child	' S { - f @ - e d ' tS Ae l d
-1	sheraton	' S 3: - r\ {I - t @ n
-1	sheridan	' S 3: - r\ @ - d @ n
-5	sherpa	' S 3: - p @
-1	sherpas	' S 3: - p @ s
-7	shillings	' S I - l I N z
-2	shipton	' S I p - t @ n
-4	shipton's	' S I p - t @ n z
-1	shirt-sleeves	' S 3: t ' s l i: v z
-2	shod	' S O d
-1	shoes	' S @} z
-2	shoestring	' S @} - e s - t r\ I N
-2	shots	' S @} t s
-4	shouldered	' S O l - d @ d
-2	shoulders	' S O l - d @ z
-4	shouted	' S {O - t @ d
-4	showed	' S {O d
-5	shown	' S {O n
-3	shows	' S @} z
-8	shrieked	' S r\ i: k t
-1	shrugged	' S r\ 6 g d
-1	shyly	' S Ae - l i:
-2	sideboard	' s Ae - d b o: d
-1	sideline	' s Ae - d l Ae n
-1	sidelines	' s Ae - d l Ae n z
-1	sidell	' s Ae - d { l
-2	sighed	' s Ae
-5	significantly	' s I g - n @ - f I - k @ n - t l i:
-2	silent	' s Ae - l @ n t
-6	silverside	' s I l - v @ - s Ae d
-2	silvery	' s I l - v @ - r\ i:
-2	singularly	' s I N - g j @ - l @ - l i:
-2	sipped	' s I p t
-2	sirloin	' s 3: - l oI - I n
-2	sisters	' s I s - t @ z
-1	situations	' s I - tS U\ - {I S n z
-1	sixpence	' s I k - s p @ n s
-12	sixties	' s I k - s t i: z
-3	sixty-five	' s I k - s t i: ' f Ae v
-1	skills	s - ' k I l z
-3	skins	s - ' k I n z
-1	skis	s - ' k I s
-4	skylarking	s - ' k Ae - l 6: - k I N
-2	sledges	' s l e - dZ @ z
-1	slightest	' s l Ae - t e s t
-5	slightly	' s l Ae - t l i:
-2	slops	' s l O p s
-1	smiled	' s m Ae l d
-7	smith's	' s m I T s
-1	smoothed	' s m }: D
-2	snapper	' s n { - p @
-4	snarled	' s n 6: l d
-2	socks	' s O k s
-2	softly	' s O f - t l i:
-2	solicitors	' s O - l I - s @ - t @ z
-2	solitude	' s O - l I - tS }: d
-2	somebody's	s m - b @ - ' d i: z
-2	somewhat	' s m }: h t
-2	sonia	' s @} - n i: - @
-10	sonorously	' s O - n @ - r\ @ - s l i:
-1	sooner	' s }: - n @
-2	sorts	' s o: t s
-6	sounded	' s {O n - d @ d
-8	soundly	' s {O n - d l i:
-2	sounds	' s {O n d z
-2	southerly	' s {O - T @ - l i:
-1	southerners	' s {O - T @ - n @ z
-1	spain	s - ' p {I n
-1	sparred	s - ' p { r\ d
-1	sparrows	s - ' p { - r\ @} z
-4	spasms	s - ' p { z m z
-2	speakers	s - ' p i: - k @ z
-3	speaks	s - ' p i: k s
-1	spiders	s - ' p Ae - d @ z
-1	spills	s - ' p I l z
-1	spinach	s - ' p I - n { tS
-2	spoilt	s - ' p oI l t
-1	spots	s - ' p O t s
-2	sprawled	s - ' p r\ o: l d
-2	squat	s - ' k w {I t
-2	squeezed	s - ' k w i: z d
-2	stages	s - t dZ @ z
-1	stands	s - ' t { n d z
-3	stanley	s - t @ - ' n l i:
-8	stared	s - ' t I@ d
-1	stars	s - ' t 6: z
-5	started	s - ' t 6: - t @ d
-12	startled	s - ' t 6: t l d
-1	starts	s - ' t 6: t s
-1	starved	s - ' t 6: v d
-1	starves	s - ' t 6: v z
-2	states	s - ' t {I t s
-2	stations	s - ' t {I S n z
-1	stature	s - ' t { - tS @
-2	stayed	s - ' t {I d
-3	stead	s - ' t e d
-1	steak	s - ' t i: k
-2	steaks	s - ' t i: k s
-2	steamships	s - ' t i: m - S I p s
-1	steps	s - ' t e p s
-2	stewardess	s - t w @ - ' d e s
-1	stewart	s - ' t w o: t
-22	stirred	s - ' t I r\ d
-2	stomachs	s - t @ - ' m { k z
-1	stony	s - t @ - ' n i:
-1	stops	s - ' t O p s
-1	stores	s - ' t o: r\ z
-1	stories	s - ' t o: - r\ i: z
-4	stormy	s - ' t o: - m i:
-1	straightway	s - ' t r\ {I - t w {I
-1	stratas	s - ' t r\ {I - t @ z
-1	strawberries	s - ' t r\ o: - b @ - r\ i: z
-1	streamed	s - ' t r\ i: m d
-1	streets	s - ' t r\ i: t s
-1	strings	s - ' t r\ I N z
-2	stripped	s - ' t r\ I p t
-1	strips	s - ' t r\ I p s
-2	stroked	s - ' t r\ @} k t
-2	stronger	s - ' t r\ O n - dZ @
-4	strongly	s - ' t r\ O N - g l i:
-4	struggled	s - ' t r\ 6 g l d
-2	stubbs	s - ' t 6 b z
-3	students	s - ' t }: - d e n t s
-1	studied	s - ' t j }: - d i: d
-2	studios	s - ' t j }: - d i: - @} z
-4	stuffed	s - ' t 6 f t
-2	stunned	s - ' t 6 n d
-2	stupidity	s - ' t j }: - p I - d @ - t i:
-1	suave	' s w {I v
-2	subjects	' s 6 b - dZ e k t s
-1	subordinated	' s j }: - b o: - d I - n {I - t @ d
-1	successful	s @ - ' k s e s - f U l
-1	succession	s @ - ' k s e s n
-1	suddenly	s @ - ' d n l i:
-14	suffered	s @ - f @ d
-3	sufficiently	s @ - ' f I - s i: - @ n - t l i:
-2	suggested	s @ - ' g e s - t @ d
-5	suggestion	s @ - ' g e s S n
-4	suits	' s }: t s
-2	sullivan	' s U - l @ - v @ n
-2	summer-house	' s 6 - m @ ' h {O s
-2	superbly	' s }: - p @ - b l i:
-2	superfluous	' s }: - p @ - f l U s
-1	supplies	s @ - ' p l i: z
-3	surprised	' s 3: - p r\ Ae z d
-5	susceptible	s @ - ' s e p - t @ b l
-1	swallowed	' s w o: - l {O d
-1	swan	' s w O n
-2	swayed	' s w {I d
-1	swelled	' s w { l d
-1	swilled	' s w I l d
-1	swine	' s w i: n
-1	swish	' s w I S
-2	swiss	' s w I s
-1	symbolical	' s I m - b @ - l @ k l
-2	sympathetic	' s I m - p @ D - t I k
-5	sympathised	' s I m - p @ - T Ae z d
-2	syphoned	' s I - f @} n d
-2	tablemat	' t { b - l m @ t
-1	takes	' t {I k s
-3	talks	' t { k s
-1	tasman	' t { z - m @ n
-1	tasmanian	' t { z - m @ - n i: - @ n
-1	taxation	' t { g - z {I S n
-5	taxations	' t { g - z {I S n z
-2	taxes	' t {I - k s @ z
-3	taxpayers	' t { k - s p {I - @ z
-2	teachers	' t i: - tS @ z
-4	teams	' t i: m z
-6	teaspoonful	' t i: s - p }: n - f U l
-2	techniques	' t e k - n I k z
-1	ted	' t e d
-1	teddie	' t e - d i:
-1	teenage	' t i: - n I dZ
-2	television's	' t { - l @ - v Ae Z n z
-2	tenpence	' t e n - p e n s
-4	tenure	' t e n - j }: - @
-2	terrified	' t e - r\ @ - f Ae d
-2	terry	' t e r\ - r\ i:
-2	thankful	' T { N - k f U l
-3	thanks	' T { N k s
-3	theatres	' T i: t r\ z
-1	theatricals	' T i: - t r\ I k l z
-2	thee	' T i: - i:
-1	there'd	' T 3: - @ d
-2	there's	' T 3: - @ z
-46	theresa	' T 3: - r\ @ - s @
-1	thespians	' T i: s - p i: - @ n z
-2	thickens	' T I - k e n z
-1	things	' T I N z
-50	thinks	' T I N k s
-2	thomas	' T O - m @ z
-1	thorpe	' T o: p
-1	thoughts	T t s
-1	thousands	' T {O - s @ n d z
-1	threaded	' T r\ e - d @ d
-1	thrilled	' T r\ I l d
-1	thumped	' T 6 m p t
-1	thundered	' T 6 n - d @ d
-1	thy	' T i:
-4	tied	' t i: d
-2	ties	' t i: z
-2	tigress	' t I g - r\ e s
-1	tiles	' t Ae l z
-4	tilted	' t I l - t @ d
-2	times	' t Ae m z
-8	tiptoe	' t I p - t @}
-2	tires	' t Ae - r\ @ z
-1	tires	' t Ae - r\ @ z
-1	tiles	' t Ae l z
-2	to-day	' t @} ' d {I
-1	to-morrow	' t @} ' m O - r\ @}
-2	tons	' t O n z
-1	tossed	' t O s t d
-5	touched	t tS t
-3	towns	' t {O n z
-2	township	' t {O n - S I p
-2	toyshop	' t oI - S O p
-2	tragically	' t r\ { - dZ I k - l i:
-1	trained	' t r\ {I n d
-1	trans	' t r\ { n z
-2	trans-antarctic	' t r\ { n z ' { n - t 6: - k t I k
-3	transistor	' t r\ { n - s I s - t @
-2	travail	t r\ @ - ' v {I l
-1	travelled	' t r\ {I - v { l d
-5	traveller	' t r\ {I - v { - l @
-3	treads	' t r\ e d z
-1	treasury	' t r\ i: - Z 3: - r\ i:
-2	treated	' t r\ i: - t @ d
-1	treatment	' t r\ i: - t m @ n t
-1	trees	' t r\ i: z
-4	tremendously	' t r\ m e n - d @ - s l i:
-4	tries	' t r\ i: z
-3	triggs	' t r\ I g z
-2	trips	' t r\ I p s
-3	triumphant	' t r\ i: - @ m - f @ - 6: n t
-2	trombone	' t r\ O m - b @} n
-2	troubles	' t r\ 6 b l z
-2	troublesome	' t r\ 6 b l s m
-1	truly	' t r\ O - l i:
-1	tuppence	' t 6 - p @ n s
-14	turned	' t 3: n d
-1	twigs	' t w I g z
-1	twisted	' t w I s - t @ d
-2	twists	' t w I s t s
-2	twobig	' t w O - b I g
-1	twogood	' t w O - g U d
-9	types	' t Ae p s
-2	tyres	' t Ae r\ z
-3	ulster	' O l s - t @
-1	ultra	' O l - t r\ @
-1	umbrellas	' 6 m - b r\ @ - l @ z
-2	un	' 6 n
-1	unattractive	' 6 - n { t - r\ { k - t I v
-2	unbelievably	' 6 n - b l i: - v @ - b l i:
-1	unborn	' 6 n - b o: n
-2	unbuttoned	' 6 n - b 6 - t @} n d
-2	uncertain	' 6 n - s @ - t {I n
-3	unclasped	' 6 n - k l 6: s p t
-2	uncomfortable	' 6 n - k O m - f @ - t @ b l
-1	uncontradicted	' 6 n - k @ n - t r\ @ - d I k - t @ d
-2	undercurrent	' 6 n - d @ - k 6 - r\ @ n t
-2	understood	' 6 n - d @ s - t U d
-2	undoubtedly	' 6 n - d 6 b - t e d - l i:
-3	undue	' 6 n - d }:
-1	unemployment	' 6 - n e m - p l oI - m @ n t
-1	unfair	' 6 n - f I@
-1	unfortunate	' 6 n - f @ - t j }: - n {I t
-5	unhappy	' 6 n - h { - p i:
-2	unhooked	' 6 n - h U k t
-2	united	' j }: - n Ae - t @ d
-4	unmusical	' 6 n - m j }: - z I k l
-2	unpleasant	' 6 n - p l i: - s @ n t
-2	unpopular	' 6 n - p O p - j @ - l @
-2	unquestionably	' 6 N - k e s - S n @ - b l i:
-1	unreasonable	' 6 n - r\ i: - s n @ b l
-1	unsuccessful	' 6 n - s @ - k s e s - f U l
-1	untrustworthy	' 6 n - t r\ 6 s - t w 3: - T i:
-2	unwashed	' 6 n - w O S t
-2	unwise	' 6 n - w Ae z
-1	uppercut	' 6 - p @ - k 6 t
-1	urbanisation	' 3: r\ - b @ - n Ae - z {I S n
-1	urged	' 3: r\ dZ d
-2	urgently	' 3: r\ - dZ e n - t l i:
-1	useful	' 6 s - f U l
-3	useless	' 6 s - l @ s
-3	usually	' j }: - s U - o: - l i:
-1	utterly	' 6 - t @ - l i:
-2	valleys	' v { - l i: z
-1	values	' v { - l }: z
-1	vanished	' v { - n I S t
-1	variations	' v { - r\ i: - {I S n z
-1	vegetables	' v e - g @ - t @ b l z
-5	vehicles	' v e - h I k l z
-5	ventured	' v e n - tS @ d
-2	verses	' v 3: - s @ z
-3	victor	' v I k - t @
-1	viewpoint	' v i: - }: - p oI n t
-4	viewpoints	' v i: - }: - p oI n t s
-2	views	' v i: - }: z
-5	villages	' v I l - dZ @ z
-1	vindicated	' v I n - d I - k {I - t @ d
-1	violence	' v Ae - O - l @ n s
-1	virtually	' v 3: - tS U - o: - l i:
-4	vivian	' v I - v i: - @ n
-1	voices	' v oI - s @ z
-6	volunteered	' v O - l 6 n - t I@ d
-4	voluptuous	' v O - l 6 p - t U s
-1	voted	' v @} - t @ d
-2	voter	' v @} - t @
-1	vouch	v tS
-2	waistcoat	' w {I s - t k @} t
-2	wales	' w o: l z
-1	walked	' w o: k t
-6	walker	' w o: - k @
-1	walls	' w o: l z
-1	wanganui	' w O N - g { - n }: - i:
-1	wants	' w O n t s
-1	warmest	' w o: - m @ s t
-1	warmth	' w o: m T
-3	warren	' w o: r\ n
-2	wash-hand	' w O S ' h { n d
-1	washed	' w O S t
-2	washhouse	' w O S - h {O s
-1	washington	' w O - S I N - t @ n
-1	washstand	' w O S s - t { n d
-5	wasn't	' w O s n t
-26	wasted	' w O s - t @ d
-1	watch-chain	' w O tS ' tS { n
-2	watering-can	' w o: - t @ - r\ I N ' k { n
-2	waved	' w o: v d
-3	waves	' w o: v z
-1	waxen	' w o: - k s @ n
-1	ways	' w O z
-14	we've	' w e v
-15	wealthiest	' w i: - { l - T i: - @ s t
-2	wears	' w I@ z
-1	weddell	' w e - d { l
-1	weeks	' w i: k s
-9	weirdest	' w e - d @ s t
-1	wellington	' w { - l I N - t @ n
-15	wells	' w { l z
-1	welterweight	' w { l - t @ - w {I t
-1	whanged	' w {I n dZ d
-1	wheeled	' w i: l d
-2	wheels	' w i: l z
-1	whipped	' w I p t
-2	whiskey	' w I s - k i:
-1	whistled	' w I s l d
-1	whoops	w - ' h U p s
-1	widened	' w Ae d n d
-2	wild-goose	' w I l d ' g }: s
-1	wiles	' w Ae l z
-2	william	' w I - l i: - @ m
-8	william's	' w I - l i: - @ m z
-2	willis	' w I - l I s
-1	willow	' w I - l @}
-2	wills	' w I l z
-1	winced	' w I n s t
-2	window-ledge	' w I n - d @} ' l e dZ
-2	windproof	' w I n - d p r\ }: f
-1	winds	' w I n d z
-1	winged	' w I N dZ d
-2	wings	' w I N z
-4	winked	' w I N k t
-1	wintertime	' w I n - t @ - t Ae m
-1	wiped	' w Ae p t
-1	wiser	' w Ae - z @
-3	wisers	' w Ae - z @ z
-1	wished	' w I S t
-1	wisps	' w I s p s
-2	witticisms	' w I - t I - s I z m z
-1	women	' w U - m @ n
-7	wondered	' w O n - d @ d
-3	wonders	' w O n - d @ z
-1	woodshed	' w U d S t
-1	words	' w 3: d z
-5	worked	' w 3: k t
-4	workmen	' w 3: - k m @ n
-2	works	' w 3: k s
-1	worms	' w 3: m z
-1	worried	' w 3: - r\ i: d
-2	wouldn't	' w O l d n t
-7	wrapped	' r\ { p t
-2	wreathed	' r\ i: D
-1	wreaths	' r\ i: T s
-3	wrenched	r\ @ n tS t
-1	writes	' r\ Ae t s
-1	written	' r\ I t n
-2	wrongly	' r\ O N - g l i:
-1	ye	' j e
-1	yearly	' j I@ - l i:
-1	yearn	' j I@ n
-2	years	' j I@ z
-45	yorkshire	' j o: - k S Ae - @
-1	younger	' j {O n - dZ @
-2	youngest	' j {O n - dZ e s t
-2	yourselves	' j o: s l v z
-3	zealand	' z i: - l @ n d
-56	zealander	' z i: - l @ n - d @
-7	zealanders	' z i: - l @ n - d @ z
+
+1zb
+2zb
+a
+abandoned
+abolished
+accepted
+accommodation
+accused
+acknowledged
+acquisitive
+activities
+actors
+adapted
+adept
+admiration
+admitted
+admittedly
+adopted
+adventures
+adventurous
+advert
+affairs
+affects
+afflicted
+affluence
+africa
+agents
+ages
+agitation
+agreed
+agrees
+aircraft's
+aircrafts
+airports
+airy
+alehouse
+alex
+alexandra
+alice
+allowed
+altitudes
+amateurs
+amazed
+amended
+america
+amundsen
+amy
+anc
+ancestors
+and
+andreas
+andrews
+animals
+anna
+announced
+announcer
+annoyed
+anoint
+answers
+antarctic
+anticipation
+anton
+ants
+anybody's
+apologetically
+appealed
+appeared
+appears
+applies
+appointed
+appointee
+appoints
+approached
+appropriately
+apricot
+aprons
+archbishop
+areas
+arguments
+aristocratic
+arm
+armfuls
+arms
+arranged
+arrived
+arrogance
+arts
+arum
+ashbury
+aspects
+aspirations
+assessed
+associations
+assumed
+astonished
+athletically
+attacks
+attempted
+attempts
+attitudes
+attractions
+attrition
+auckland
+auctioneer
+auntie
+australians
+austria
+avalon
+aviator
+away
+awfully
+a……hillary
+babies
+baby's
+backyards
+baking
+banisters
+baobab
+barbara
+barbeque
+barnard
+baron
+baroness
+barrel
+barter
+based
+bases
+basilica
+bavarian
+bays
+bbc
+beams
+bearded
+beasts
+beautifully
+bed
+beebey
+bees
+beforehand
+begged
+beginnings
+beheaded
+believed
+believes
+bell's
+bells
+benches
+benefited
+benefits
+berger
+berlin
+bernard
+bertha
+beryl
+best
+betters
+biased
+biddy
+bigger
+biggest
+bird's
+biscuits
+blankets
+blazed
+bleached
+blessed
+blinds
+blokes
+blown
+blurred
+blushed
+boa
+boats
+bombarded
+bonn
+books
+born
+bottles
+boughs
+bourne
+boxes
+boys
+braces
+brains
+branches
+brass
+breakfast
+breakwater
+breathed
+breathless
+bred
+brian
+bridles
+brighter
+brightly
+brill
+brims
+britain
+britain's
+british
+broadcaster
+broadened
+brothers
+bruce
+brushed
+buchan
+buddha
+budgets
+buds
+built
+burdened
+bureaucratic
+bushes
+bustled
+buszard's
+buttered
+buttons
+bye
+cabarets
+cabmen
+cabs
+cages
+calico
+cam
+cameraman
+cameras
+camps
+can
+canada
+canadian
+candidates
+canterbury
+captain
+cards
+cared
+carinade
+carpenters
+carried
+cars
+cases
+casimir
+castinets
+castors
+categories
+ceased
+celestial
+centres
+cents
+chain
+chair
+chairs
+challenges
+changed
+changes
+characteristics
+charades
+charged
+charges
+charlotte
+chateau
+cheaper
+checked
+cheeks
+cherokee
+cherries
+cherry
+chestnut
+chewed
+chickens
+child
+chimed
+chinny
+chirped
+chock
+choked
+choking
+cholmondeley
+chris
+christchurch
+christian
+churchman
+cigarettes
+cinemas
+circumstances
+cited
+cities
+clad
+claims
+clapped
+clasped
+classes
+cleaner
+climbed
+climber
+climbers
+climbs
+clunig
+coats
+cobbler's
+cole's
+collapsible
+collars
+coloured
+comes
+comforted
+comics
+commanded
+commemorates
+commentaries
+commercials
+commitments
+committed
+committees
+communion
+commuted
+como
+comp
+compared
+compasses
+competitors
+comradeship
+concerns
+conditions
+conductor
+configuration
+confined
+confirmation
+confirmed
+confounded
+considerations
+contemptuous
+continuity
+contributions
+convolvulus
+cooker
+corners
+coronet
+corridors
+costs
+counted
+counteracted
+counterpane
+countries
+couples
+courses
+courtesan
+covered
+covers
+created
+creates
+crept
+crevassed
+cribs
+cried
+crosses
+crumpled
+crushed
+cuffs
+cupid
+cups
+curate
+curls
+currants
+curtains
+cynny
+cynthia
+d
+da
+daddy
+daisy
+dangers
+darkened
+dates
+daughters
+davids
+dawned
+day
+days
+dearer
+dearie
+deathlike
+debutante
+decides
+deficiencies
+degenerated
+delegates
+delighted
+delightfully
+delivered
+dennis
+dependency
+depends
+derek
+described
+designed
+destroyed
+developed
+diana
+died
+differences
+differs
+difficulties
+dining
+dipped
+direction;
+directors
+disadvantages
+disagreed
+disagreement
+disappointments
+disciplined
+discovered
+discreetly
+discussed
+diseases
+dishes
+disks
+disliked
+disorderly
+dissipated
+distances
+distributed
+divisional
+do
+doctor's
+dog
+dogs
+dollars
+door
+doors
+doubled
+doubtless
+doubts
+douglas
+downstairs
+dragged
+drapery
+drawers
+drawled
+dreadfully
+dreamily
+dreams
+drearily
+dregs
+dressed
+dressing
+drifted
+dropped
+drops
+duke
+dumps
+dunedin
+dunes
+dustbin
+e
+eagerly
+earl
+earlier
+ears
+easier
+eaten
+ecstatically
+edinburgh
+edinburgh's
+educated
+efforts
+eggs
+eh
+eightpence
+eighty
+elbows
+elected
+electors
+elevenpence
+elizabeth
+elsa
+emerged
+emptied
+en
+enclosure
+encyclopaedia
+ended
+ends
+energetic
+engaged
+england
+englishwoman
+enigmatically
+enjoyed
+enjoyment
+enlarged
+entails
+entered
+enters
+entertains
+enthusiast
+enthusiastic
+enthusiastically
+entitled
+equipped
+eric
+eric's
+eroded
+eros
+escalated
+escaped
+established
+ethel
+everest
+everybody's
+ewe
+ex
+exacting
+exaggerated
+exceedingly
+exceptions
+excitements
+excused
+exercised
+exercises
+exhibitions
+expectations
+expeditions
+expendage
+expenses
+explorer
+expostulatory
+expresses
+extraction
+extravagance
+eyebrows
+eyed
+eyes
+f7
+factors
+facts
+failed
+fairfield
+fallen
+families
+far
+fashionable
+fastened
+fastidiously
+faults
+fears
+featherstone
+features
+feelings
+feels
+feltex
+fences
+fermented
+ferny
+fidgeted
+fields
+fifties
+fifty
+figures
+filled
+fillets
+finances
+finest
+fingers
+fingertips
+finished
+fir
+firestone
+first
+firstly
+fischer
+fisher
+fishermen
+fitted
+five
+fivepence
+fleck
+flicked
+flights
+flipped
+floated
+flocks
+floors
+flower
+flowers
+flows
+flung
+flushed
+followed
+forced
+forces
+forcibly
+forebears
+foregod
+foresight
+forget
+forgotten
+forked
+forks
+forms
+forrester
+forsook
+four
+fourpence
+franker
+frau
+fraulein
+frederick
+freer
+freshly
+freshness
+friendships
+frightened
+frightfully
+fritz
+fro
+fuchs
+fuchsia
+functions
+funds
+ga
+gained
+garb
+gatepost
+gates
+gateway
+gathered
+gavin
+generosity
+generously
+genially
+gentlemen
+geographical
+george
+geranium
+germany
+gestures
+gimcrack
+gin
+girls
+giveaway
+gives
+glaciers
+glanced
+glasses
+gleamed
+glittered
+godber's
+goes
+goings
+gold
+golden
+golly
+good
+gooders
+goos
+goose
+gorged
+government's
+governments
+gracefully
+graciously
+graduates
+grandma
+grandmothers
+grandpa
+grandparents
+granted
+grapes
+grasped
+gravely
+greater
+green
+greenish
+greeted
+greetings
+greybeard
+grillo
+grimaced
+grimly
+grips
+grouped
+groups
+growers
+grown
+guesthouse
+guests
+gull
+guns
+guts
+gutters
+gwen
+gwendolyn
+ha'penny
+habits
+haired
+half
+hallo
+hand
+handed
+handled
+handles
+hands
+hans
+happened
+happens
+happier
+happiest
+harcourt
+harder
+hardest
+harold
+harry
+harry's
+hartmann
+hated
+hawk's
+haymarket
+heads
+heard
+hears
+heartily
+heathenishly
+heavenly
+heavier
+heck
+heels
+heirs
+helped
+henry
+herbert
+here's
+heroes
+heroically
+herr
+hides
+higher
+hills
+himalayas
+hives
+hobbies
+hobday
+hoffmann
+homes
+hooked
+hoped
+hoper
+hopes
+horrid
+horrified
+hoteliers
+hour
+hours
+house
+hugged
+humiliation
+hundreds
+husband's
+huskies
+huts
+hydro
+i
+i'd've
+ian
+icy
+ideals
+ideas
+ignominious
+ignorance
+ignored
+imaginative
+imbibe
+imbued
+immeasurably
+immensely
+immersed
+implications
+importer
+imposed
+impressed
+imprisoned
+incapable
+incarnation
+inches
+incidentally
+incidents
+included
+includes
+incurred
+indefinitely
+indescribably
+indicted
+individuals
+induced
+inferiority
+infinitely
+influenced
+informed
+infra
+infuse
+insides
+inspirational
+intended
+interpreted
+interrupted
+intolerable
+intra
+introduced
+introducer
+invariably
+invasions
+ireland
+ironer
+irritated
+is:
+is;
+isabel
+isabel's
+island's
+islanders
+islands
+issues
+it'd
+it'll
+jackets
+james
+janey
+jangled
+jaws
+jay
+jean
+jerked
+jerseys
+jing
+jingling
+joce
+jogged
+johnny
+johnson
+joined
+jonathan
+jones
+jose
+joseph
+josephine
+josephs
+jostled
+joyful
+juicy
+jujitsu
+jumped
+justifiably
+kate
+katherine
+kelvin
+kemple
+ken
+kent
+kerridge
+kids
+kilometres
+kindness
+knees
+knob
+knows
+knuckles
+l
+laborious
+labour's
+laden
+ladies
+lamented
+lamps
+landings
+lands
+languish
+lapel
+larger
+largesse
+largest
+lashes
+lass
+laughed
+laura
+lawns
+laws
+lawyers
+layers
+laziest
+leaned
+learned
+learnt
+leaves
+leavings
+ledge
+ledges
+legitimately
+legs
+leila
+lessons
+lets
+letters
+levels
+levers
+lewis
+lies
+life;
+lightness
+lights
+likeable
+liked
+lilac
+lilies
+limbs
+linda
+lines
+lines:
+lips
+listened
+listeners
+lives
+loaded
+loads
+loathsome
+loftily
+logistics
+loin
+london
+loner
+longer
+looked
+looks
+lottie
+loved
+lowe
+luck's
+luck's/lux
+lungs
+ma
+mackintosh
+magazines
+maid
+maintained
+majestic
+makes
+makeshift
+mamma
+man's
+managed
+mansfield
+marched
+mariner
+mars
+martello
+marvellous
+mary
+masculinity
+masse
+massport
+materials
+matriculation
+matters
+matthew
+maureen
+maybury
+me
+meant
+measured
+meetings
+meg
+megan
+members
+memories
+mentioned
+merits
+mersey
+met
+methods
+michael
+michelangelo
+miles
+millions
+minded
+minds
+minerals
+mingled
+ministers
+minutes
+mocked
+moira
+molecular
+moments
+months
+moods
+morrison
+morrow
+mother's
+motivated
+motivational
+mountains
+mournfully
+mouthful
+mouths
+mower
+mowers
+mps
+muffled
+muhammad
+muldoon
+mules
+muller
+munchen
+munich
+murmured
+music's
+musicians
+nac
+nails
+named
+names
+napier
+nash
+nasturtiums
+nauseated
+nearest
+neave
+needed
+needful
+nepal
+nestles
+neveranygood
+newcastle
+nicely
+nightclubs
+nights
+nighttime
+nine
+ninepence
+no
+nobler
+nogood
+noises
+noisy
+norman
+nostalgic
+not
+noted
+notes
+noticed
+nougat
+nourishment
+nowadays
+numbers
+nuts
+nzbf
+o
+objects
+obsolescence
+obstreperous
+occasions
+oceans
+odes
+off
+offered
+office
+officialdom
+offshore
+omo
+one's
+ones
+ooo
+opened
+operates
+opportunities
+orange
+ordered
+ordination
+organ
+organiser
+orientated
+originated
+ostrich
+otago
+outstandingly
+over
+oysters
+p
+pacific
+packets
+painstakingly
+painted
+pairs
+palings
+papers
+parasols
+parched
+parents
+parker
+parliamentary
+parted
+parties
+partners
+parts
+passed
+passengers
+passes
+passion
+pastured
+patterson
+paused
+pearls
+pebbles
+peculiarly
+penalties
+pendulum
+peoples
+percent
+perilous
+permanently
+permitted
+pernicious
+perry
+personalities
+persons
+peter's
+peters
+petrie
+petrified
+photographs
+picks
+pictures
+pigs
+piles
+pimples
+pineapple
+pink
+pirouette
+placebo
+placed
+places
+planned
+plans
+played
+plays
+pleasures
+plebeian
+pledged
+pledges
+plexus
+plunder
+pointon
+points
+poked
+polished
+ponies
+porters
+portions
+poses
+positions
+potatoes
+pound
+pound;
+pounds
+poured
+poverty
+powder
+powered
+powers
+preamble
+preferred
+prefers
+premeditated
+prepared
+presbyterian
+presented
+presents
+preserved
+pressed
+prevailed
+prices
+pricked
+principles
+pristine
+privileges
+prizes
+problems
+procedures
+procrastination
+produced
+producers
+products
+professions
+profits
+programmes
+programs
+projects
+promised
+propensity
+proposition
+proprietess
+prosperity
+proved
+psychologically
+puckered
+puddles
+puffed
+pukka
+pulled
+pumped
+puritan
+purposes
+push
+pussy
+puts
+puzzled
+puzzlers
+puzzles
+pye
+pyramids
+qualifies
+qualities
+quality's
+quarters
+quell
+question:
+questionably
+questions
+quieter
+quivered
+quizmaster
+quo
+radically
+radio's
+rafts
+rags
+raised
+ranges
+ratings
+raynor
+reached
+realised
+realms
+reasonably
+reasons
+received
+recognised
+reconsider
+recorded
+red
+reddish
+redeemed
+reduced
+reflective
+refusal
+refusals
+regarded
+reggie
+reginald
+registered
+regretted
+relationships
+relaxed
+relied
+remained
+remains
+remembered
+remembrance
+reminds
+remotely
+remoteness
+repertory
+replied
+reported
+representatives
+repressed
+requires
+resented
+resentment
+reservations
+resigned
+resources
+respects
+responded
+responsibilities
+rested
+rests
+resulted
+retained
+retention
+returned
+reverential
+rhythmically
+ribs
+ridderford
+rightly
+rights
+rippled
+risen
+rivers
+rocked
+rocks
+rocky
+ronald
+room
+rooms
+rosa
+rosemary
+ross
+rotisserie
+roto
+rotorcut
+roughened
+rougher
+rulebook
+rules
+runs
+rushed
+russian
+sabina
+saddles
+sadie
+sadly
+sailed
+salient
+samples
+sand
+sappho
+sardines
+sauerkraut
+sauntered
+saved
+savings
+scandals
+scanner
+scarred
+scattered
+schafer
+schemes
+scientists
+scott
+scratched
+scripts
+scrubbed
+sea
+seats
+seaweed
+secondly
+secretarial
+secretaries
+seemed
+sees
+seized
+selwin
+selwyn
+semi
+sends
+sensibly
+serge
+servants
+served
+services
+serviettes
+settled
+settlers
+sevenpence
+shackleton
+shadowy
+shaft
+shakespeare
+shaver
+sheds
+sheep
+shelley
+shepherd
+sheraton
+sheridan
+sherpa
+sherpas
+shillings
+shipton
+shipton's
+shod
+shoes
+shoestring
+shop
+shots
+shouldered
+shoulders
+shouted
+showed
+shown
+shows
+shrieked
+shrugged
+shyly
+sideboard
+sideline
+sidelines
+sidell
+sighed
+silverside
+silvery
+singularly
+sipped
+sirloin
+sisters
+situations
+sixpence
+sixties
+sixty
+skills
+skins
+skis
+skylarking
+sledges
+sleeves
+slightest
+slops
+smile
+smiled
+smith's
+smoothed
+snapper
+snarled
+socks
+solicitors
+solitude
+somebody's
+sonia
+sonorously
+sooner
+sorts
+sounded
+soundly
+sounds
+southerly
+southerners
+spain
+sparred
+sparrows
+spasms
+speakers
+speaks
+spiders
+spills
+spinach
+spoilt
+spots
+sprawled
+squat
+squeezed
+stages
+stands
+stanley
+stared
+stars
+started
+startled
+starts
+starved
+starves
+states
+stations
+stature
+stayed
+stead
+steak;
+steaks
+steamships
+steps
+stewardess
+stewart
+stirred
+stomachs
+stony
+stops
+stores
+stories
+stormy
+straightway
+stratas
+strawberries
+streamed
+streets
+stricken
+strings
+stripped
+strips
+stroked
+stronger
+struggled
+stubbs
+students
+studied
+studios
+stuffed
+stunned
+stupidity
+suave
+subjects
+subordinated
+succession
+suffered
+sufficiently
+suggested
+suits
+sullivan
+summer
+superbly
+superfluous
+supplies
+susceptible
+swallowed
+swan
+swayed
+swelled
+swilled
+swine
+swish
+swiss
+symbolical
+sympathetic
+sympathised
+syphoned
+tablemat
+takes
+talks
+tasman
+tasmanian
+taxation
+taxations
+taxes
+taxpayers
+teachers
+teams
+teaspoonful
+techniques
+ted
+teddie
+television's
+tenpence
+tenure
+terrified
+terry
+thankful
+theatres
+theatricals
+thee
+there'd
+there's
+theresa
+thespians
+thickens
+things
+thinks
+thirty
+this:
+thomas
+thorpe
+thoughts
+thousands
+threaded
+three
+thrilled
+thumped
+thundered
+thy
+tied
+ties
+tigress
+tiles
+tilted
+times
+tiptoe
+tires
+tires/tiles
+to
+tons
+tossed
+touched
+towns
+township
+toyshop
+tragically
+trained
+trans
+transistor
+travail
+travelled
+traveller
+treads
+treasury
+treated
+trees
+tremendously
+tries
+triggs
+trips
+triumphant
+trombone
+troubles
+troublesome
+tuppence
+turned
+turquoise
+twenty
+twigs
+twisted
+twists
+twobig
+twogood
+types
+tyres
+ulster
+ultra
+umbrellas
+un
+unattractive
+unbelievably
+unborn
+unbuttoned
+unclasped
+uncontradicted
+undercurrent
+understood
+undoubtedly
+undue
+unfortunate
+unhooked
+united
+unmusical
+unpleasant
+unpopular
+unquestionably
+unreasonable
+unsuccessful
+untrustworthy
+unwashed
+unwise
+up
+uppercut
+ups
+urban
+urbanisation
+urged
+urgently
+useless
+utterly
+valleys
+values
+vanished
+variations
+vegetables
+vehicles
+ventured
+verses
+victor
+viewpoint
+viewpoints
+views
+villages
+vindicated
+vine
+vivian
+voices
+volunteered
+voluptuous
+voted
+vouch
+waistcoat
+wales
+walked
+walker
+walls
+wanganui
+wants
+warmest
+warren
+wash
+washed
+washhouse
+washington
+washstand
+wasn't
+wasted
+watch
+watering
+waved
+waves
+waxen
+way
+ways
+we've
+wealthiest
+wears
+weddell
+weeks
+weirdest
+wellington
+wells
+welterweight
+whanged
+wheeled
+wheels
+whipped
+whiskey
+whistled
+white
+whoops
+widened
+wild
+wiles
+william
+william's
+willis
+willow
+wills
+winced
+window
+windproof
+winds
+winged
+wings
+winked
+wintertime
+wiped
+wiser
+wisers
+wished
+wisps
+witticisms
+women
+wondered
+wonders
+woodshed
+words
+worked
+workmen
+worms
+wouldn't
+wrapped
+wreathed
+wreaths
+wrenched
+writes
+wrongly
+y
+ye
+yearly
+yearn
+years
+yorkshire
+younger
+youngest
+yourselves
+zealand
+zealander
+zealanders
