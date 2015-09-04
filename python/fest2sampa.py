@@ -70,7 +70,6 @@ writeFile = sys.argv[2]
 if not os.path.exists(readFile):
     sys.exit("Input file not readable")
 
-
 f = open(readFile).readlines()
 words = dict()
 
@@ -96,8 +95,6 @@ for word in words:
 
     word_pronunciation = word_pronunciation[3:] # Remove first instance of " - "
     sampa_words[word] = word_pronunciation
-
-
 
 
 for word in sampa_words:
